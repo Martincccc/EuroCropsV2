@@ -1,0 +1,674 @@
+hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
+3310000000,arable_crops,0,No specified use,=,ARA,Arable land
+3310000000,arable_crops,2,Industry/for processing,=,ARA,Arable land
+3310000000,arable_crops,3,Fodder/Forage,=,FOP,Forage plants
+3310000000,arable_crops,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310100000,cereal,0,No specified use,=,C0000,Cereals for the production of grain (including seed)
+3310100000,cereal,3,Fodder/Forage,>,G9100,Other cereals harvested green (excluding green maize)
+3310100000,cereal,5,Harvested Green,>,G9100,Other cereals harvested green (excluding green maize)
+3310100000,cereal,6,Harvested as Grains,=,C0000,Cereals for the production of grain (including seed)
+3310100000,cereal,8,Oil,=,C0000,Cereals for the production of grain (including seed)
+3310100000,cereal,9,Seed/Propagation,=,C0000,Cereals for the production of grain (including seed)
+3310101000,common_soft_wheat,0,No specified use,<,C1110,Common wheat and spelt
+3310101000,common_soft_wheat,3,Fodder/Forage,<,G9100,Other cereals harvested green (excluding green maize)
+3310101001,winter_common_soft_wheat,0,No specified use,<,C1111,Common winter wheat and spelt
+3310101001,winter_common_soft_wheat,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310101001,winter_common_soft_wheat,9,Seed/Propagation,<,C1111,Common winter wheat and spelt
+3310101002,spring_common_soft_wheat,0,No specified use,<,C1112,Common spring wheat and spelt
+3310101002,spring_common_soft_wheat,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310101002,spring_common_soft_wheat,6,Harvested as Grains,<,C1112,Common spring wheat and spelt
+3310102000,durum_hard_wheat,0,No specified use,=,C1120,Durum wheat
+3310102001,winter_durum_hard_wheat,0,No specified use,=,C1121,Winter durum wheat
+3310102002,spring_durum_hard_wheat,0,No specified use,=,C1122,Spring durum wheat
+3310102008,unspecified_season_durum_hard_wheat,0,No specified use,=,C1200,Rye and winter cereal mixtures (maslin)
+3310103000,rye,0,No specified use,=,C1210,Rye
+3310103000,rye,3,Fodder/Forage,<,G9100,Other cereals harvested green (excluding green maize)
+3310103000,rye,4,Energy,=,C1210,Rye
+3310103000,rye,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310103000,rye,9,Seed/Propagation,=,C1210,Rye
+3310103001,winter_rye,0,No specified use,=,C1211,Winter rye
+3310103001,winter_rye,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310103002,spring_rye,0,No specified use,=,C1212,Spring rye
+3310103002,spring_rye,5,Harvested Green,=,G9100,Other cereals harvested green (excluding green maize)
+3310104000,barley,0,No specified use,=,C1300,Barley
+3310104000,barley,2,Industry/for processing,=,C1320M,Malting barley
+3310104000,barley,3,Fodder/Forage,<,G9100,Other cereals harvested green (excluding green maize)
+3310104001,winter_barley,0,No specified use,=,C1310,Winter barley
+3310104001,winter_barley,3,Fodder/Forage,<,G9100,Other cereals harvested green (excluding green maize)
+3310104001,winter_barley,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310104001,winter_barley,6,Harvested as Grains,=,C1310,Winter barley
+3310104002,spring_barley,0,No specified use,=,C1320,Spring barley
+3310104002,spring_barley,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310104008,unspecified_season_barley,0,No specified use,=,C1300,Barley
+3310105000,oats,0,No specified use,=,C1410,Oats
+3310105000,oats,3,Fodder/Forage,<,G9100,Other cereals harvested green (excluding green maize)
+3310105001,winter_oats,0,No specified use,<,C1410,Oats
+3310105001,winter_oats,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310105002,spring_oats,0,No specified use,=,C1420,Spring cereal mixtures (mixed grain other than maslin)
+3310105002,spring_oats,3,Fodder/Forage,<,G9100,Other cereals harvested green (excluding green maize)
+3310105002,spring_oats,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310105008,unspecified_season_oats,0,No specified use,=,C1410,Oats
+3310106000,maize_corn_popcorn,0,No specified use,=,C1500,Grain maize and corn-cob-mix
+3310106000,maize_corn_popcorn,3,Fodder/Forage,=,G3000,Green maize
+3310106000,maize_corn_popcorn,4,Energy,=,C1500,Grain maize and corn-cob-mix
+3310106000,maize_corn_popcorn,5,Harvested Green,=,G3000,Green maize
+3310106000,maize_corn_popcorn,6,Harvested as Grains,=,C1500,Grain maize and corn-cob-mix
+3310106000,maize_corn_popcorn,9,Seed/Propagation,=,C1500,Grain maize and corn-cob-mix
+3310107000,rice,0,No specified use,=,C2000,Rice
+3310108000,triticale,0,No specified use,=,C1600,Triticale
+3310108000,triticale,6,Harvested as Grains,=,C1600,Triticale
+3310108001,winter_triticale,0,No specified use,=,C1610,Winter triticale
+3310108001,winter_triticale,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310108001,winter_triticale,6,Harvested as Grains,=,C1610,Winter triticale
+3310108002,spring_triticale,0,No specified use,<,G9100,Other cereals harvested green (excluding green maize)
+3310108002,spring_triticale,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310109000,millet,0,No specified use,<,C1990,"Other cereals n.e.c. (millet, canary seed, etc.)"
+3310110000,spelt,0,No specified use,<,C1110,Common wheat and spelt
+3310110001,winter_spelt,0,No specified use,<,C1111,Common winter wheat and spelt
+3310110002,spring_spelt,0,No specified use,<,C1112,Common spring wheat and spelt
+3310111000,mixed_grains,0,No specified use,=,C1220,Winter cereal mixtures (maslin)
+3310111001,winter_mixed_grains,0,No specified use,<,C1220,Winter cereal mixtures (maslin)
+3310111001,winter_mixed_grains,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310111001,winter_mixed_grains,6,Harvested as Grains,<,C1220,Winter cereal mixtures (maslin)
+3310111002,spring_mixed_grains,0,No specified use,<,C1420,Spring cereal mixtures (mixed grain other than maslin)
+3310111002,spring_mixed_grains,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310111002,spring_mixed_grains,6,Harvested as Grains,<,C1420,Spring cereal mixtures (mixed grain other than maslin)
+3310112000,emmer,0,No specified use,<,C1110,Common wheat and spelt
+3310112001,winter_emmer,0,No specified use,<,C1111,Common winter wheat and spelt
+3310112001,winter_emmer,6,Harvested as Grains,<,C1111,Common winter wheat and spelt
+3310112002,spring_emmer,0,No specified use,<,C1112,Common spring wheat and spelt
+3310112002,spring_emmer,6,Harvested as Grains,<,C1112,Common spring wheat and spelt
+3310112008,unspecified_season_emmer,0,No specified use,<,C1110,Common wheat and spelt
+3310113000,einkorn,0,No specified use,<,C1110,Common wheat and spelt
+3310113008,unspecified_season_einkorn,0,No specified use,<,C1110,Common wheat and spelt
+3310115000,teff,0,No specified use,<,C1900,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)"
+3310116000,sorghum,0,No specified use,=,C1700,Sorghum
+3310116000,sorghum,6,Harvested as Grains,=,C1700,Sorghum
+3310198002,spring_unspecified_cereals,8,Oil,<,I1110,Rape and turnip rape seeds
+3310199000,other_cereals,0,No specified use,<,C1900,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)"
+3310199001,winter_other_cereals,0,No specified use,<,C1000,Cereals (excluding rice) for the production of grain (including seed)
+3310199002,spring_other_cereals,0,No specified use,<,C1000,Cereals (excluding rice) for the production of grain (including seed)
+3310200000,legumes,0,No specified use,=,P0000+G2000,Leguminous plants harvested green
+3310200000,legumes,1,Consumption/Fresh,>,P0000,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)
+3310200000,legumes,3,Fodder/Forage,>,G2000,Leguminous plants harvested green
+3310200000,legumes,5,Harvested Green,=,G2000,Leguminous plants harvested green
+3310200000,legumes,6,Harvested as Grains,=,P0000,Leguminous plants harvested green
+3310200000,legumes,8,Oil,<,I1100,Oilseeds
+3310200000,legumes,9,Seed/Propagation,>,P0000,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)
+3310200000,legumes,11,Nitrogen fixing ,<,Q0000,Fallow land
+3310201000,beans,0,No specified use,=,P1200,Broad and field beans
+3310201000,beans,1,Consumption/Fresh,=,V5200,Fresh beans
+3310201000,beans,2,Industry/for processing,=,V5200,Fresh beans
+3310201000,beans,3,Fodder/Forage,<,G2000,Leguminous plants harvested green
+3310201000,beans,5,Harvested Green,<,G2000,Leguminous plants harvested green
+3310201000,beans,6,Harvested as Grains,=,P1200,Broad and field beans
+3310201000,beans,9,Seed/Propagation,=,P1200,Broad and field beans
+3310202000,peanuts,0,No specified use,<,I1190T,Other oilseeds and oleaginous fruits - outdoor
+3310203000,soy_soybeans,0,No specified use,=,I1130,Soya
+3310204000,chickpeas,0,No specified use,=,P9200,Chickpeas
+3310214000,fenugreek,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310205000,lentils,0,No specified use,=,P9100,Lentils
+3310205000,lentils,3,Fodder/Forage,<,G2000,Leguminous plants harvested green
+3310206000,peas,0,No specified use,=,P1100,Field peas
+3310206000,peas,1,Consumption/Fresh,=,V5100,Fresh peas
+3310206000,peas,2,Industry/for processing,=,V5100,Fresh peas
+3310206000,peas,3,Fodder/Forage,<,G2000,Leguminous plants harvested green
+3310206000,peas,5,Harvested Green,<,G2000,Leguminous plants harvested green
+3310206000,peas,6,Harvested as Grains,=,P1100,Field peas
+3310207000,lupins,0,No specified use,=,P1300,Sweet lupins
+3310208000,alfalfa_lucerne,0,No specified use,=,G2100,Lucerne
+3310208000,alfalfa_lucerne,3,Fodder/Forage,=,G2100,Lucerne
+3310208000,alfalfa_lucerne,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310209000,serradella,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310210000,clover,0,No specified use,<,G2910,Clover and mixtures
+3310210000,clover,5,Harvested Green,<,G2910,Clover and mixtures
+3310210000,clover,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310210000,clover,11,Nitrogen fixing ,<,Q0000,Fallow land
+3310211000,melilot,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310212000,vetches,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310701000,strawberries,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310212000,vetches,3,Fodder/Forage,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310212000,vetches,6,Harvested as Grains,<,P9000,"Other dry pulses and protein crops n.e.c. (lentils, chickpeas, vetches, etc.)"
+3310213000,onobrychis_sainfoins,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310215000,galega,0,No specified use,<,G9900,Other plants harvested green from arable land n.e.c.
+3310215000,galega,3,Fodder/Forage,<,G9900,Other plants harvested green from arable land n.e.c.
+3310216000,birdsfoot_treifoil,0,No specified use,<,G2000,Leguminous plants harvested green
+3310299000,other_legumes,0,No specified use,=,P0000+G2000,Leguminous plants harvested green
+3310720000,potatoes,0,No specified use,<,R1000,Potatoes (including seed potatoes)
+3310720000,potatoes,1,Consumption/Fresh,<,R1000,Potatoes (including seed potatoes)
+3310720000,potatoes,2,Industry/for processing,<,R1000,Potatoes (including seed potatoes)
+3310720000,potatoes,3,Fodder/Forage,<,R1000,Potatoes (including seed potatoes)
+3310720000,potatoes,9,Seed/Propagation,<,R1000,Potatoes (including seed potatoes)
+3310721000,sweet_potatoes,0,No specified use,<,R1000,Potatoes (including seed potatoes)
+3310600000,industrial_nonfood_crops,0,No specified use,=,I0000,Industrial crops
+3310600000,industrial_nonfood_crops,2,Industry/for processing,=,I0000,Industrial crops
+3310600000,industrial_nonfood_crops,8,Oil,=,I0000,Industrial crops
+3310601000,tobacco,0,No specified use,=,I3000,Tobacco
+3310602000,hops,0,No specified use,=,I4000,Hops
+3310602000,hops,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310603000,cotton,0,No specified use,>,I2300,Cotton fibre
+3310604000,oilseed_crops,0,No specified use,=,I1100,Oilseeds
+3310604000,oilseed_crops,8,Oil,=,I1100,Oilseeds
+3310604010,rapeseed_rape,0,No specified use,=,I1110,Rape and turnip rape seeds
+3310604010,rapeseed_rape,3,Fodder/Forage,<,G9900,Other plants harvested green from arable land n.e.c.
+3310604010,rapeseed_rape,8,Oil,=,I1110,Rape and turnip rape seeds
+3310604011,winter_rapeseed_rape,0,No specified use,=,I1111,Winter rape and turnip rape seeds
+3310604011,winter_rapeseed_rape,3,Fodder/Forage,<,G9900,Other plants harvested green from arable land n.e.c.
+3310604011,winter_rapeseed_rape,8,Oil,=,I1111,Winter rape and turnip rape seeds
+3310604012,spring_rapeseed_rape,0,No specified use,=,I1112,Spring rape and turnip rape seeds
+3310604012,spring_rapeseed_rape,3,Fodder/Forage,<,G9900,Other plants harvested green from arable land n.e.c.
+3310604012,spring_rapeseed_rape,8,Oil,=,I1112,Spring rape and turnip rape seeds
+3310604013,summer_rapeseed_rape,0,No specified use,=,I1112,Spring rape and turnip rape seeds
+3310604013,summer_rapeseed_rape,8,Oil,=,I1112,Spring rape and turnip rape seeds
+3310604020,sunflower,0,No specified use,=,I1120,Sunflower seed
+3310604020,sunflower,8,Oil,=,I1120,Sunflower seed
+3310604020,sunflower,9,Seed/Propagation,=,I1120,Sunflower seed
+3310604030,guizotia_abyssinica_nyger,0,No specified use,<,I1190,Other oilseed crops n.e.c.
+3310604990,other_oilseed_crops,0,No specified use,<,I1190,Other oilseed crops n.e.c.
+3310606000,poppy,0,No specified use,<,I1920AM,Poppy (seeds)
+3310606000,poppy,8,Oil,<,I1920AM,Poppy (seeds)
+3310606000,poppy,9,Seed/Propagation,<,I1920AM,Poppy (seeds)
+3310606001,winter_poppy,0,No specified use,<,I1920AM,Poppy (seeds)
+3310606002,summer_poppy,0,No specified use,<,I1920AM,Poppy (seeds)
+3310607000,flax_linseed,0,No specified use,<,I1140,Linseed (oil flax)
+3310607000,flax_linseed,7,Fiber,<,I2100,Fibre flax
+3310607000,flax_linseed,8,Oil,<,I1140,Linseed (oil flax)
+3310607000,flax_linseed,9,Seed/Propagation,<,I1140,Linseed (oil flax)
+3310610000,hemp_cannabis,0,No specified use,=,I2200,Hemp
+3310610000,hemp_cannabis,1,Consumption/Fresh,=,I2200,Hemp
+3310610000,hemp_cannabis,2,Industry/for processing,=,I2200,Hemp
+3310610000,hemp_cannabis,7,Fiber,=,I2200,Hemp
+3310610000,hemp_cannabis,8,Oil,=,I2200,Hemp
+3310610000,hemp_cannabis,9,Seed/Propagation,=,I2200,Hemp
+3310610010,finola,0,No specified use,<,I1190,Other oilseed crops n.e.c.
+3310611000,fibre_crops,0,No specified use,=,I2000,Fibre crops
+3310611000,fibre_crops,7,Fiber,=,I2000,Fibre crops
+3310611000,fibre_crops,8,Oil,=,I2000,Fibre crops
+3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612000,aromatic_medicinal_culinary_plants_spices_herbs,1,Consumption/Fresh,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612000,aromatic_medicinal_culinary_plants_spices_herbs,2,Industry/for processing,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612000,aromatic_medicinal_culinary_plants_spices_herbs,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310612010,actaea_baneberry_christopher_herbs,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612020,alchemilla_ladys_mantle,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612030,anethum_dill,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612030,anethum_dill,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310612040,angelica,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612040,angelica,1,Consumption/Fresh,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612040,angelica,2,Industry/for processing,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612040,angelica,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310612050,anise_aniseed,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612060,artemisia,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612070,basil,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612070,basil,1,Consumption/Fresh,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612070,basil,2,Industry/for processing,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612080,black_cumin,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612090,borage,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612100,calendula_marigold,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612110,caraway,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612110,caraway,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310612120,catnip,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612130,chamomile,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612140,chervil,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612140,chervil,1,Consumption/Fresh,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612140,chervil,2,Industry/for processing,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612140,chervil,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310612150,coriander,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612170,galium_bedstraw,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612180,hibiscus,0,No specified use,<,I2000,Fibre crops
+3310612190,lavender_lavandula,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612200,lemon_balm_melissa,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612210,lovage_maggiplant,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612210,lovage_maggiplant,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310612220,mints_peppermint,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612230,moldavian_dragonhead,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612240,nasturtiums,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612250,nettles,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612260,oregano,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612270,parsley,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612270,parsley,1,Consumption/Fresh,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612270,parsley,2,Industry/for processing,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612270,parsley,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310612290,polygonum,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612300,rosemary,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612320,saffron_crocus_sativus,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612340,st_johns_wort,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612360,tarragon,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612370,thyme,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612380,valerian,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612380,valerian,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310612390,yarrow,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612400,marian_thistles,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310613000,rubia_tinctorum_common_madder,0,No specified use,<,I9000,Other industrial crops n.e.c.
+3310614000,isatis_tinctoria_woad,0,No specified use,<,I9000,Other industrial crops n.e.c.
+3310615000,camelina,0,No specified use,<,I1100,Oilseeds
+3310617000,energy_crops,4,Energy,=,I6000,Energy crops n.e.c.
+3310617010,igniscum_candy,0,No specified use,<,I6000,Energy crops n.e.c.
+3310617020,sida_virginia_mallow,0,No specified use,<,I6000,Energy crops n.e.c.
+3310617030,miscanthus_silvergrass,0,No specified use,<,I6000,Energy crops n.e.c.
+3310617990,other_energy_crops,4,Energy,<,I6000,Energy crops n.e.c.
+3310699000,other_industrial_crops,0,No specified use,<,I9000,Other industrial crops n.e.c.
+3310700000,fresh_vegetables,0,No specified use,=,V0000,Fresh vegetables (including melons)
+3310700000,fresh_vegetables,1,Consumption/Fresh,=,V0000,Fresh vegetables (including melons)
+3310700000,fresh_vegetables,2,Industry/for processing,=,V0000,Fresh vegetables (including melons)
+3310700000,fresh_vegetables,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310701000,strawberries,0,No specified use,=,S0000,Strawberries
+3310702000,cucurbits,0,No specified use,<,V3000,Vegetables cultivated for fruit (including melons)
+3310702010,cucumber_pickle,0,No specified use,=,V3200,Cucumbers
+3310702010,cucumber_pickle,1,Consumption/Fresh,=,V3200,Cucumbers
+3310702010,cucumber_pickle,2,Industry/for processing,=,V3300,Gherkins
+3310702010,cucumber_pickle,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310702030,melon,0,No specified use,=,V3510,Muskmelons
+3310702030,melon,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310702040,pumpkin_squash_gourd,0,No specified use,=,V3430,Gourds and pumpkins
+3310702040,pumpkin_squash_gourd,1,Consumption/Fresh,=,V3430,Gourds and pumpkins
+3310702040,pumpkin_squash_gourd,2,Industry/for processing,=,V3430,Gourds and pumpkins
+3310702040,pumpkin_squash_gourd,8,Oil,<,I1190,Other oilseed crops n.e.c.
+3310702040,pumpkin_squash_gourd,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310702050,watermelon,0,No specified use,=,V3520,Watermelons
+3310702060,zucchini_courgette,0,No specified use,<,V3420,Courgettes and marrows
+3310702060,zucchini_courgette,1,Consumption/Fresh,<,V3420,Courgettes and marrows
+3310702060,zucchini_courgette,2,Industry/for processing,<,V3420,Courgettes and marrows
+3310702060,zucchini_courgette,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310702990,other_cucurbits,0,No specified use,<,V3900,Other vegetables cultivated for fruit n.e.c.
+3310703010,amaranth,0,No specified use,<,C1900T,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.) - outdoor"
+3310703020,buckwheat,0,No specified use,<,C1900T,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.) - outdoor"
+3310703030,quinoa,0,No specified use,<,C1900T,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.) - outdoor"
+3310703040,sage_chia,0,No specified use,<,C1900T,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.) - outdoor"
+3310704000,fennel,0,No specified use,<,V4920,Fennel
+3310704000,fennel,1,Consumption/Fresh,<,V4920,Fennel
+3310704000,fennel,2,Industry/for processing,<,V4920,Fennel
+3310704000,fennel,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310705000,topinambur_jerusalem_artichoke,0,No specified use,<,R9000,Other root crops n.e.c.
+3310706000,asparagus,0,No specified use,=,V2600,Asparagus
+3310706000,asparagus,1,Consumption/Fresh,=,V2600,Asparagus
+3310706000,asparagus,2,Industry/for processing,=,V2600,Asparagus
+3310706000,asparagus,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707000,brassicaceae_cruciferae,0,No specified use,=,V1000,Brassicas
+3310707000,brassicaceae_cruciferae,1,Consumption/Fresh,=,V1000,Brassicas
+3310707000,brassicaceae_cruciferae,2,Industry/for processing,=,V1000,Brassicas
+3310707000,brassicaceae_cruciferae,3,Fodder/Forage,=,V1000,Brassicas
+3310707000,brassicaceae_cruciferae,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707010,mustard,0,No specified use,<,I1190,Other oilseed crops n.e.c.
+3310707020,bok_choy_pak_choi,0,No specified use,<,V1900,Other brassicas n.e.c
+3310707020,bok_choy_pak_choi,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707030,broccoli,0,No specified use,=,V1120,Broccoli
+3310707030,broccoli,1,Consumption/Fresh,=,V1120,Broccoli
+3310707030,broccoli,2,Industry/for processing,=,V1120,Broccoli
+3310707030,broccoli,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707040,brussels_sprouts,0,No specified use,=,V1200,Brussels sprouts
+3310707040,brussels_sprouts,1,Consumption/Fresh,=,V1200,Brussels sprouts
+3310707040,brussels_sprouts,2,Industry/for processing,=,V1200,Brussels sprouts
+3310707040,brussels_sprouts,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707050,cauliflower,0,No specified use,=,V1110,Cauliflower
+3310707050,cauliflower,1,Consumption/Fresh,=,V1110,Cauliflower
+3310707050,cauliflower,2,Industry/for processing,=,V1110,Cauliflower
+3310707050,cauliflower,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707060,chinese_cabbage,0,No specified use,=,V1920,Chinese cabbage
+3310707060,chinese_cabbage,1,Consumption/Fresh,=,V1920,Chinese cabbage
+3310707060,chinese_cabbage,2,Industry/for processing,=,V1920,Chinese cabbage
+3310707060,chinese_cabbage,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707070,collard_greens,0,No specified use,<,V1900,Other brassicas n.e.c
+3310707080,gai_lan,0,No specified use,<,V1900,Other brassicas n.e.c
+3310707090,kale,0,No specified use,<,V1900,Other brassicas n.e.c
+3310707090,kale,1,Consumption/Fresh,<,V1900,Other brassicas n.e.c
+3310707090,kale,2,Industry/for processing,<,V1900,Other brassicas n.e.c
+3310707090,kale,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707100,kohlrabi,0,No specified use,=,V1910,Kohlrabi
+3310707100,kohlrabi,1,Consumption/Fresh,=,V1910,Kohlrabi
+3310707100,kohlrabi,2,Industry/for processing,=,V1910,Kohlrabi
+3310707100,kohlrabi,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707110,red_cabbage,0,No specified use,=,V1320,Red cabbage
+3310707110,red_cabbage,1,Consumption/Fresh,=,V1320,Red cabbage
+3310707110,red_cabbage,2,Industry/for processing,=,V1320,Red cabbage
+3310707110,red_cabbage,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707120,savoy_cabbage,0,No specified use,=,V1330,Savoy cabbage
+3310707120,savoy_cabbage,1,Consumption/Fresh,=,V1330,Savoy cabbage
+3310707120,savoy_cabbage,2,Industry/for processing,=,V1330,Savoy cabbage
+3310707120,savoy_cabbage,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707130,white_cabbage,0,No specified use,=,V1310,White cabbage
+3310707130,white_cabbage,1,Consumption/Fresh,=,V1310,White cabbage
+3310707130,white_cabbage,2,Industry/for processing,=,V1310,White cabbage
+3310707130,white_cabbage,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310707990,other_brassicaceae_cruciferae,0,No specified use,<,V1000,Brassicas
+3310707990,other_brassicaceae_cruciferae,3,Fodder/Forage,<,V1000,Brassicas
+3310707990,other_brassicaceae_cruciferae,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310708000,alliums,0,No specified use,<,V4000,"Root, tuber and bulb vegetables"
+3310708010,chives,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
+3310708010,chives,1,Consumption/Fresh,<,I5000,"Aromatic, medicinal and culinary plants"
+3310708010,chives,2,Industry/for processing,<,I5000,"Aromatic, medicinal and culinary plants"
+3310708010,chives,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310708020,garlic,0,No specified use,=,V4600,Garlic
+3310708030,leek,0,No specified use,=,V2100,Leeks
+3310708030,leek,1,Consumption/Fresh,=,V2100,Leeks
+3310708030,leek,2,Industry/for processing,=,V2100,Leeks
+3310708030,leek,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310708040,onions,0,No specified use,=,V4210,Onions
+3310708040,onions,1,Consumption/Fresh,=,V4210,Onions
+3310708040,onions,2,Industry/for processing,=,V4210,Onions
+3310708040,onions,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310708050,scallion,0,No specified use,<,V4210,Onions
+3310708060,shallot,0,No specified use,=,V4220,Shallots
+3310708060,shallot,1,Consumption/Fresh,=,V4220,Shallots
+3310708060,shallot,2,Industry/for processing,=,V4220,Shallots
+3310709000,rhubarb,0,No specified use,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310709000,rhubarb,1,Consumption/Fresh,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310709000,rhubarb,2,Industry/for processing,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310709000,rhubarb,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310710000,purslane,0,No specified use,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310711000,celery,0,No specified use,=,V2200,Celery
+3310711000,celery,1,Consumption/Fresh,=,V2200,Celery
+3310711000,celery,2,Industry/for processing,=,V2200,Celery
+3310711010,celeriac,0,No specified use,=,V4400,Celeriac
+3310711010,celeriac,1,Consumption/Fresh,=,V4400,Celeriac
+3310711010,celeriac,2,Industry/for processing,=,V4400,Celeriac
+3310711010,celeriac,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310711020,leaf_celery,0,No specified use,=,V2200,Celery
+3310711020,leaf_celery,1,Consumption/Fresh,=,V2200,Celery
+3310711020,leaf_celery,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310712000,aubergine_eggplant,0,No specified use,=,V3410,Eggplants
+3310712000,aubergine_eggplant,1,Consumption/Fresh,=,V3410,Eggplants
+3310713000,artichoke,0,No specified use,=,V2800,Artichokes
+3310713000,artichoke,1,Consumption/Fresh,=,V2800,Artichokes
+3310714000,tomato,0,No specified use,=,V3100,Tomatoes
+3310714000,tomato,1,Consumption/Fresh,=,V3100,Tomatoes
+3310714000,tomato,2,Industry/for processing,=,V3100,Tomatoes
+3310715000,root_vegetables,0,No specified use,=,V4000,"Root, tuber and bulb vegetables"
+3310715000,root_vegetables,3,Fodder/Forage,=,V4000,"Root, tuber and bulb vegetables"
+3310715010,arctium_burdock,0,No specified use,<,V4900,"Other root, tuber and bulb vegetables n.e.c."
+3310715020,carrots_daucus,0,No specified use,=,V4100,Carrots
+3310715020,carrots_daucus,1,Consumption/Fresh,=,V4100,Carrots
+3310715020,carrots_daucus,2,Industry/for processing,=,V4100,Carrots
+3310715020,carrots_daucus,3,Fodder/Forage,=,V4100,Carrots
+3310715020,carrots_daucus,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310715030,parsnips,0,No specified use,<,V4900,"Other root, tuber and bulb vegetables n.e.c."
+3310715030,parsnips,1,Consumption/Fresh,<,V4900,"Other root, tuber and bulb vegetables n.e.c."
+3310715030,parsnips,2,Industry/for processing,<,V4900,"Other root, tuber and bulb vegetables n.e.c."
+3310715030,parsnips,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310715040,radish,0,No specified use,=,V4500,Radishes
+3310715040,radish,1,Consumption/Fresh,=,V4500,Radishes
+3310715040,radish,2,Industry/for processing,=,V4500,Radishes
+3310715040,radish,3,Fodder/Forage,=,V4500,Radishes
+3310715040,radish,8,Oil,<,I1190,Other oilseed crops n.e.c.
+3310715040,radish,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310715050,turnips,0,No specified use,=,V4910,Turnips
+3310715050,turnips,1,Consumption/Fresh,=,V4910,Turnips
+3310715050,turnips,2,Industry/for processing,=,V4910,Turnips
+3310715050,turnips,3,Fodder/Forage,=,V4910,Turnips
+3310715050,turnips,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310715060,horseradish,0,No specified use,<,V4900,"Other root, tuber and bulb vegetables n.e.c."
+3310715070,swede_rutabaga,0,No specified use,<,V4900,"Other root, tuber and bulb vegetables n.e.c."
+3310715070,swede_rutabaga,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310715080,stachys_hedgenettle_chinese_artichoke,0,No specified use,<,V4900,"Other root, tuber and bulb vegetables n.e.c."
+3310715090,salsify,0,No specified use,<,V4930,Salsifies and scorzonera
+3310715090,salsify,1,Consumption/Fresh,<,V4930,Salsifies and scorzonera
+3310715090,salsify,2,Industry/for processing,<,V4930,Salsifies and scorzonera
+3310715090,salsify,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310715990,other_root_vegetables,0,No specified use,<,V4000,"Root, tuber and bulb vegetables"
+3310716000,capsicum,0,No specified use,=,V3600,Peppers (capsicum)
+3310716010,bell_pepper_paprika,0,No specified use,=,V3610,Red peppers (capsicum)
+3310716010,bell_pepper_paprika,1,Consumption/Fresh,=,V3610,Red peppers (capsicum)
+3310716010,bell_pepper_paprika,2,Industry/for processing,=,V3610,Red peppers (capsicum)
+3310716020,chili_pepper,0,No specified use,<,V3600,Peppers (capsicum)
+3310717000,salads_lettuce_leaf_vegetables,0,No specified use,=,V2300,Lettuces
+3310717000,salads_lettuce_leaf_vegetables,1,Consumption/Fresh,=,V2300,Lettuces
+3310717000,salads_lettuce_leaf_vegetables,2,Industry/for processing,=,V2300,Lettuces
+3310717000,salads_lettuce_leaf_vegetables,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310717010,chicory_chicories,0,No specified use,=,V2700,Chicory
+3310717010,chicory_chicories,1,Consumption/Fresh,=,V2700,Chicory
+3310717010,chicory_chicories,2,Industry/for processing,=,V2700,Chicory
+3310717010,chicory_chicories,3,Fodder/Forage,=,V2700,Chicory
+3310717010,chicory_chicories,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310717020,endive,0,No specified use,=,V2400,Endives
+3310717020,endive,1,Consumption/Fresh,=,V2400,Endives
+3310717020,endive,2,Industry/for processing,=,V2400,Endives
+3310717020,endive,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310717030,iceberg,0,No specified use,=,V2310,Iceberg lettuce
+3310717030,iceberg,1,Consumption/Fresh,=,V2310,Iceberg lettuce
+3310717030,iceberg,2,Industry/for processing,=,V2310,Iceberg lettuce
+3310717030,iceberg,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310717040,lambs_lettuce_rapunzel,0,No specified use,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310717040,lambs_lettuce_rapunzel,1,Consumption/Fresh,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310717040,lambs_lettuce_rapunzel,2,Industry/for processing,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310717050,rocket_arugula,0,No specified use,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310717050,rocket_arugula,1,Consumption/Fresh,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310717050,rocket_arugula,2,Industry/for processing,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310717050,rocket_arugula,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310717060,sorrel,0,No specified use,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310717060,sorrel,3,Fodder/Forage,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310717070,spinach,0,No specified use,=,V2500,Spinach
+3310717070,spinach,1,Consumption/Fresh,=,V2500,Spinach
+3310717070,spinach,2,Industry/for processing,=,V2500,Spinach
+3310717070,spinach,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310717990,other_salads_lettuce_leaf_vegetables,0,No specified use,<,V2000,Leafy and stalked vegetables (excluding brassicas)
+3310717990,other_salads_lettuce_leaf_vegetables,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310718000,cress,0,No specified use,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310718000,cress,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310719000,beta_vulgaris,0,No specified use,=,V4300,Beetroot
+3310719000,beta_vulgaris,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310719010,sugar_beet,0,No specified use,=,R2000,Sugar beet (excluding seed)
+3310719010,sugar_beet,2,Industry/for processing,=,R2000,Sugar beet (excluding seed)
+3310719010,sugar_beet,4,Energy,=,R2000,Sugar beet (excluding seed)
+3310719020,mangelwurzel_beets,0,No specified use,<,V4300,Beetroot
+3310719020,mangelwurzel_beets,1,Consumption/Fresh,<,V4300,Beetroot
+3310719020,mangelwurzel_beets,2,Industry/for processing,<,V4300,Beetroot
+3310719020,mangelwurzel_beets,3,Fodder/Forage,<,R9100,Fodder root crops (including forage beet)
+3310719020,mangelwurzel_beets,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310719030,other_beta_vulgaris,0,No specified use,<,V2900,Other leafy or stalked vegetables n.e.c.
+3310799000,other_fresh_vegetables,0,No specified use,<,V0000,Fresh vegetables (including melons)
+3310800000,flowers_ornamental_plants,0,No specified use,=,N0000,Flowers and ornamental plants (excluding nurseries)
+3310800000,flowers_ornamental_plants,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310800000,flowers_ornamental_plants,10,Eco-schemes for environment protection,=,N0000,Flowers and ornamental plants (excluding nurseries)
+3310801000,adonis,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310802000,anemones_windflowers,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310803000,asters,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310804000,begonias,0,No specified use,>,N1008P,Begonia - potted
+3310805000,bluebells,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310806000,bulrush,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310807000,burnet,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310808000,carnation,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310809000,chrysanthemum,0,No specified use,=,N1012,Chrysanthemums
+3310809000,chrysanthemum,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310810000,cornflowers,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310811000,corsican_hellebore,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310812000,dahlia,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310813000,daisy_daisies,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310814000,dandelions,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310815000,echinacea,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310815000,echinacea,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310816000,edelweiss,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310818000,fuchsias,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310820000,gentians,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310821000,gladiolus_gladioli,0,No specified use,=,N1013,Gladioli
+3310822000,goldenrod,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310823000,iris,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310825000,lilies,0,No specified use,=,N1016,Lilium
+3310827000,lunaria_honesty_silver,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310828000,malva,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310829000,milk_star,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310833000,narcissus_daffodil,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310834000,peony_peonies,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310834000,peony_peonies,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310835000,primrose,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310837000,roses,0,No specified use,=,N1009,Roses
+3310837000,roses,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310838000,rudbeckia,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310839000,safflower,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310841000,sanvitalia_procumbens,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310843000,silene_catchfly,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310844000,silphium_rosinweeds,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310845000,snapdragons,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310846000,stonecrop,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310847000,tagetes,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310848000,thimbles,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310849000,tulips,0,No specified use,=,N1014,Tulips
+3310850000,viola,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310852000,zinnias,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310853000,ericaceae_heather,0,No specified use,<,N1001P,Azaleas - potted
+3310899000,other_flowers_ornamental_plants,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3311000000,seed_seedlings,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3311100000,fallow_land_not_crop,0,No specified use,=,Q0000,Fallow land
+3311100000,fallow_land_not_crop,3,Fodder/Forage,=,Q0000,Fallow land
+3311100000,fallow_land_not_crop,5,Harvested Green,=,Q0000,Fallow land
+3311100000,fallow_land_not_crop,10,Eco-schemes for environment protection,=,Q0000,Fallow land
+3311200000,kitchen_gardens,0,No specified use,=,K0000,Kitchen gardens
+3311300000,phacelia,0,No specified use,<,G9900,Other plants harvested green from arable land n.e.c.
+3311300000,phacelia,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3319900000,other_arable_land_crops,0,No specified use,<,ARA,Arable land
+3319900000,other_arable_land_crops,3,Fodder/Forage,<,ARA,Arable land
+3320000000,grassland_grass,0,No specified use,<,J0000+G1100,Permanent grassland+Temporary grasses        
+3320000000,grassland_grass,3,Fodder/Forage,<,J0000+G1100,Permanent grassland+Temporary grasses        
+3320000000,grassland_grass,4,Energy,<,J0000+G1100,Permanent grassland+Temporary grasses        
+3320000000,grassland_grass,5,Harvested Green,<,J0000+G1100,Permanent grassland+Temporary grasses        
+3320000000,grassland_grass,10,Eco-schemes for environment protection,<,J0000+G1100,Permanent grassland+Temporary grasses        
+3320100000,permanent_grassland,0,No specified use,=,J0000,Permanent grassland
+3320100000,permanent_grassland,3,Fodder/Forage,=,J0000,Permanent grassland
+3320100000,permanent_grassland,5,Harvested Green,=,J0000,Permanent grassland
+3320100000,permanent_grassland,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3320100000,permanent_grassland,10,Eco-schemes for environment protection,=,J0000,Permanent grassland
+3320200000,temporary_grassland,0,No specified use,=,G1100,Temporary grasses
+3320200000,temporary_grassland,3,Fodder/Forage,=,G1100,Temporary grasses
+3320200000,temporary_grassland,5,Harvested Green,=,G1100,Temporary grasses
+3320200000,temporary_grassland,10,Eco-schemes for environment protection,=,G1100,Temporary grasses
+3320201000,poaceae_grasses,0,No specified use,<,G1100,Temporary grasses
+3320201000,poaceae_grasses,3,Fodder/Forage,<,G1100,Temporary grasses
+3320201000,poaceae_grasses,4,Energy,<,G1100,Temporary grasses
+3320201000,poaceae_grasses,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3320201000,poaceae_grasses,10,Eco-schemes for environment protection,<,G1100,Temporary grasses
+3320201010,elymus,0,No specified use,<,G1100,Temporary grasses
+3320201010,elymus,3,Fodder/Forage,<,G1100,Temporary grasses
+3320201010,elymus,4,Energy,<,I6000,Energy crops n.e.c.
+3320201010,elymus,5,Harvested Green,<,G1100,Temporary grasses
+3320201010,elymus,9,Seed/Propagation,<,G1100,Temporary grasses
+3320201020,festuca_fescue,0,No specified use,<,G1100,Temporary grasses
+3320201020,festuca_fescue,2,Industry/for processing,<,G1100,Temporary grasses
+3320201020,festuca_fescue,5,Harvested Green,<,G1100,Temporary grasses
+3320201020,festuca_fescue,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3320201030,cocksfoot_catgrass,0,No specified use,<,G1100,Temporary grasses
+3320201030,cocksfoot_catgrass,9,Seed/Propagation,<,G1100,Temporary grasses
+3320201040,festulolium,0,No specified use,<,G1100,Temporary grasses
+3320201040,festulolium,5,Harvested Green,<,G1100,Temporary grasses
+3320201040,festulolium,9,Seed/Propagation,<,G1100,Temporary grasses
+3320201050,lolium_ryegrass,0,No specified use,<,G1000,Temporary grasses and grazings
+3320201050,lolium_ryegrass,5,Harvested Green,<,G1000,Temporary grasses and grazings
+3320201050,lolium_ryegrass,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3320201060,setaria,0,No specified use,<,G1100,Temporary grasses
+3320201070,sod_turf,0,No specified use,<,I9000,Other industrial crops n.e.c.
+3320201070,sod_turf,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3320201080,switchgrass,0,No specified use,<,G1100,Temporary grasses
+3320201090,timothy,0,No specified use,<,G1000,Temporary grasses and grazings
+3320201090,timothy,5,Harvested Green,<,G1000,Temporary grasses and grazings
+3320201090,timothy,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3320201100,canary_seed_canaryseed,0,No specified use,<,C1900,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)"
+3320201100,canary_seed_canaryseed,9,Seed/Propagation,<,C1900,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)"
+3320209900,other_poaceae_grasses,0,No specified use,<,G1100,Temporary grasses
+3320209900,other_poaceae_grasses,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3330000000,permanent_crops_perennial,0,No specified use,=,PECR,Permanent crops
+3330100000,orchards_fruits,0,No specified use,=,F0000,"Fruits, berries and nuts (excluding citrus fruits, grapes and strawberries)"
+3330100000,orchards_fruits,1,Consumption/Fresh,=,F0000,"Fruits, berries and nuts (excluding citrus fruits, grapes and strawberries)"
+3330100000,orchards_fruits,9,Seed/Propagation,<,L0000,Nurseries
+3330101000,amelanchier_serviceberry,0,No specified use,<,F1190,Other pome fruits n.e.c.
+3330102000,apples,0,No specified use,=,F1110,Apples
+3330103000,apricots,0,No specified use,=,F1230,Apricots
+3330104000,cherry_cherries,0,No specified use,=,F1240,Cherries
+3330104000,cherry_cherries,2,Industry/for processing,=,F1240,Cherries
+3330105000,feijoa,0,No specified use,<,F2900,Other fruits from subtropical and tropical climate zones n.e.c.
+3330106000,fig,0,No specified use,=,F2100,Figs
+3330107000,kiwi,0,No specified use,=,F2200,Kiwis
+3330108000,medlar_loquat,0,No specified use,<,F1100,Pome fruits
+3330109000,nectarine,0,No specified use,=,F1220,Nectarines
+3330110000,pawpaw,0,No specified use,<,F0000,"Fruits, berries and nuts (excluding citrus fruits, grapes and strawberries)"
+3330111000,peach,0,No specified use,=,F1210,Peaches
+3330111000,peach,2,Industry/for processing,=,F1210,Peaches
+3330112000,pears,0,No specified use,=,F1120,Pears
+3330112000,pears,2,Industry/for processing,=,F1120,Pears
+3330113000,plums,0,No specified use,=,F1250,Plums
+3330113000,plums,2,Industry/for processing,=,F1250,Plums
+3330114000,pomegranate,0,No specified use,<,F2900,Other fruits from subtropical and tropical climate zones n.e.c.
+3330115000,quinces,0,No specified use,=,F1191,Quinces
+3330116000,avocado,0,No specified use,=,F2300,Avocados
+3330199000,other_orchards_fruits,0,No specified use,<,F0000,"Fruits, berries and nuts (excluding citrus fruits, grapes and strawberries)"
+3330200000,berries_berry_species,0,No specified use,=,F3000,Berries (excluding strawberries)
+3330200000,berries_berry_species,9,Seed/Propagation,<,L0000,Nurseries
+3330201000,aronia_chokeberries,0,No specified use,<,F3000,Berries (excluding strawberries)
+3330202000,rubus_brambles,0,No specified use,<,F3000,Berries (excluding strawberries)
+3330202010,blackberry,0,No specified use,<,F3900,Other berries n.e.c.
+3330202010,blackberry,2,Industry/for processing,<,F3900,Other berries n.e.c.
+3330202020,raspberry_raspberries,0,No specified use,=,F3200,Raspberries
+3330202020,raspberry_raspberries,9,Seed/Propagation,<,L0000,Nurseries
+3330202030,tayberry,0,No specified use,<,F3900,Other berries n.e.c.
+3330202990,other_rubus_brambles,0,No specified use,<,F3000,Berries (excluding strawberries)
+3330204000,vaccinium,0,No specified use,<,F3300,Blueberries
+3330204010,blueberry,0,No specified use,=,F3300,Blueberries
+3330204020,cranberry,0,No specified use,<,F3900,Other berries n.e.c.
+3330206000,ribes,0,No specified use,=,F3100,Currants
+3330206000,ribes,9,Seed/Propagation,<,L0000,Nurseries
+3330206010,blackcurrant_cassis,0,No specified use,=,F3110,Blackcurrants
+3330206010,blackcurrant_cassis,9,Seed/Propagation,<,L0000,Nurseries
+3330206020,redcurrant,0,No specified use,=,F3120,Red currants
+3330206030,gooseberry_gooseberries,0,No specified use,=,F3910,Gooseberries
+3330206030,gooseberry_gooseberries,9,Seed/Propagation,<,L0000,Nurseries
+3330206990,other_ribes,0,No specified use,<,F3100,Currants
+3330208000,hippophae_sea_buckthorns_seaberry,0,No specified use,<,F3900,Other berries n.e.c.
+3330213000,rowan_rowanberries,0,No specified use,<,F3900,Other berries n.e.c.
+3330299000,other_berries_berry_species,0,No specified use,<,F3000,Berries (excluding strawberries)
+3330300000,nuts,0,No specified use,=,F4000,Nuts
+3330301000,almond,0,No specified use,=,F4300,Almonds
+3330302000,hazelnuts_hazel,0,No specified use,=,F4200,Hazelnuts
+3330303000,pecan,0,No specified use,<,F4900,Other nuts n.e.c.
+3330304000,pistachio,0,No specified use,=,F4910,Pistachios
+3330305000,sweet_chestnuts,0,No specified use,=,F4400,Chestnuts
+3330306000,walnuts,0,No specified use,=,F4100,Walnuts
+3330399000,other_nuts,0,No specified use,<,F4000,Nuts
+3330400000,citrus,0,No specified use,=,T0000,Citrus fruits
+3330401000,clementine,0,No specified use,=,T2200,Clementines
+3330402000,orange,0,No specified use,=,T1000,Oranges
+3330403000,mandarin,0,No specified use,=,T2910,Mandarins
+3330404000,lemons,0,No specified use,=,T3000,Lemons and acid limes
+3330499000,other_citrus,0,No specified use,=,T9000,Other citrus fruits n.e.c.
+3330500000,olive,0,No specified use,=,O1000,Olives
+3330500000,olive,2,Industry/for processing,=,O1000,Olives
+3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use,=,W0000,"Grapes, must and wines"
+3330600000,vineyards_wine_vine_rebland_grapes,1,Consumption/Fresh,=,W1200,Grapes for table use
+3330600000,vineyards_wine_vine_rebland_grapes,2,Industry/for processing,=,W1100+W1300,Grapes for wines+Grapes for raisins
+3330600000,vineyards_wine_vine_rebland_grapes,9,Seed/Propagation,<,L0000,Nurseries
+3330700000,nurseries_nursery,0,No specified use,=,L0000,Nurseries
+3330800000,shrubberries_shrubs,0,No specified use,<,F3000,Berries (excluding strawberries)
+3330801000,azaleas,0,No specified use,>,N1001P,Azaleas - potted
+3330802000,chaenomeles_cathayensis,0,No specified use,<,F3000,Berries (excluding strawberries)
+3330803000,crataegus_hawthorn,0,No specified use,<,F3000,Berries (excluding strawberries)
+3330804000,elder_elderberry,0,No specified use,<,F3000,Berries (excluding strawberries)
+3330805000,honeysuckle,0,No specified use,<,F3000,Berries (excluding strawberries)
+3330806000,ricinus_castor,0,No specified use,<,I1190,Other oilseed crops n.e.c.
+3330806000,ricinus_castor,8,Oil,<,I1190,Other oilseed crops n.e.c.
+3330807000,wire_bush,0,No specified use,<,FA9,Other areas on the farms
+3330899000,other_shrubs,0,No specified use,<,FA9,Other areas on the farms
+3330901000,carob,0,No specified use,=,H9100,Carobs
+3340100000,truffle,0,No specified use,<,H9000,Other permanent crops for human consumption n.e.c.
+3340000000,mushrooms,0,No specified use,=,U1000,Cultivated mushrooms
+3349900000,other_mushrooms,0,No specified use,=,U1000,Cultivated mushrooms
+3350000000,greenhouse_foil_film,0,No specified use,=,UAAS,Utilised agricultural area - under glass or high accessible cover
+3360000000,tree_wood_forest,0,No specified use,=,WA,Wooded areas
+3360000000,tree_wood_forest,3,Fodder/Forage,=,WA,Wooded areas
+3360000000,tree_wood_forest,4,Energy,=,WA,Wooded areas
+3360000000,tree_wood_forest,9,Seed/Propagation,<,L0000,Nurseries
+3360000000,tree_wood_forest,10,Eco-schemes for environment protection,=,WA,Wooded areas
+3360100000,afforestation_reforestation,0,No specified use,<,WA,Wooded areas
+3360100000,afforestation_reforestation,10,Eco-schemes for environment protection,<,WA,Wooded areas
+3360200000,aspen,0,No specified use,<,WA,Wooded areas
+3360300000,birch,0,No specified use,<,WA,Wooded areas
+3360400000,dogwood_cornus,0,No specified use,<,WA,Wooded areas
+3360500000,eucalyptus,0,No specified use,<,SRCAA,Short rotation coppice areas
+3360600000,oak,0,No specified use,<,WA,Wooded areas
+3360700000,populus,0,No specified use,<,SRCAA,Short rotation coppice areas
+3360700000,populus,10,Eco-schemes for environment protection,<,SRCAA,Short rotation coppice areas
+3360800000,willows_osiers,0,No specified use,<,PECR9,Other permanent crops
+3360800000,willows_osiers,10,Eco-schemes for environment protection,<,PECR9,Other permanent crops
+3360900000,conifers,0,No specified use,<,WA,Wooded areas
+3361000000,gingko,0,No specified use,<,WA,Wooded areas
+3369900000,other_tree_wood_forest,0,No specified use,<,WA,Wooded areas
+3370000000,unmaintained,0,No specified use,<,NUAA,Unutilised agricultural area
+3370000000,unmaintained,10,Eco-schemes for environment protection,<,NUAA,Unutilised agricultural area
+3390000000,not_known_and_other,0,No specified use,<,FA9,Other areas on the farms
+3390000000,not_known_and_other,3,Fodder/Forage,<,FA9,Other areas on the farms
+3390000000,not_known_and_other,10,Eco-schemes for environment protection,<,FA9,Other areas on the farms
