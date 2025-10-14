@@ -205,7 +205,6 @@ hcat4_code,hcat4_name,hrl_code,hrl_name
 3310717070,spinach,1210,Fresh Vegetables
 3310717990,other_salads_lettuce_leaf_vegetables,1210,Fresh Vegetables
 3310718000,cress,1210,Fresh Vegetables
-3310719000,beta_vulgaris,1320,Sugar Beet
 3310719010,sugar_beet,1320,Sugar Beet
 3310719020,mangelwurzel_beets,1210,Fresh Vegetables
 3310719030,other_beta_vulgaris,1210,Fresh Vegetables
@@ -257,7 +256,6 @@ hcat4_code,hcat4_name,hrl_code,hrl_name
 3311200000,kitchen_gardens,1210,Fresh Vegetables
 3311300000,phacelia,1210,Fresh Vegetables
 3319900000,other_arable_land_crops,3100,Unclassified arable crop
-3320000000,grassland_grass,4100,Grassland
 3330000000,permanent_crops_perennial,3200,Unclassified permanent crop
 3330100000,orchards_fruits,2310,Fruits
 3330101000,amelanchier_serviceberry,2310,Fruits
@@ -311,20 +309,19 @@ hcat4_code,hcat4_name,hrl_code,hrl_name
 3330499000,other_citrus,3200,Unclassified permanent crop
 3330500000,olive,2200,Olives
 3311100000,fallow_land_not_crop,3100,Unclassified arable crop
-3320100000,permanent_grassland,4100,Permanent Grassland
-3320200000,temporary_grassland,4100,Temporary Grassland
-3320201000,poaceae_grasses,1210,Temporary Grassland
-3320201010,elymus,1210,Temporary Grassland
-3320201030,cocksfoot_catgrass,1210,Temporary Grassland
-3320201040,festulolium,1210,Temporary Grassland
-3320201050,lolium_ryegrass,1210,Temporary Grassland
-3320201060,setaria,1210,Temporary Grassland
-3320201070,sod_turf,1210,Temporary Grassland
-3320201080,switchgrass,1210,Temporary Grassland
-3320201090,timothy,1210,Temporary Grassland
-3320201100,canary_seed_canaryseed,1150,Temporary Grassland
-3320209900,other_poaceae_grasses,4100,Temporary Grassland
 3330600000,vineyards_wine_vine_rebland_grapes,2100,Grapes
+3320200000,temporary_grassland,4700,Temporary Grassland
+3320000000,grassland_grass,4800,Grassland
+3320201010,elymus,4700,Temporary Grassland
+3320201020,festuca_fescue,4700,Temporary Grassland
+3320201040,festulolium,4700,Temporary Grassland
+3320201050,lolium_ryegrass,4700,Temporary Grassland
+3320201060,setaria,4700,Temporary Grassland
+3320201070,sod_turf,4700,Temporary Grassland
+3320201080,switchgrass,4700,Temporary Grassland
+3320201090,timothy,4700,Temporary Grassland
+3320209900,other_poaceae_grasses,4700,Temporary Grassland
+3320100000,permanent_grassland,4600,Permanent Grassland
 3330700000,nurseries_nursery,3200,Unclassified permanent crop
 3330800000,shrubberries_shrubs,2310,Fruits
 3330801000,azaleas,2310,Fruits
@@ -352,7 +349,10 @@ hcat4_code,hcat4_name,hrl_code,hrl_name
 3361000000,gingko,3200,Unclassified permanent crop
 3369900000,other_tree_wood_forest,3200,Unclassified permanent crop
 3311000000,seed_seedlings,3100,Unclassified arable crop
-3370000000,unmaintained,9100,Other
-3390000000,not_known_and_other,9100,Other
+3370000000,unmaintained,0,Other
+3390000000,not_known_and_other,0,Other
 3360100000,afforestation_reforestation,3200,Unclassified permanent crop
-3320201020,festuca_fescue,1210,Temporary Grassland
+3310719000,beta_vulgaris,1210,Fresh Vegetables
+3320201000,poaceae_grasses,4700,Temporary Grassland
+3320201030,cocksfoot_catgrass,4700,Temporary Grassland
+3320201100,canary_seed_canaryseed,4700,Temporary Grassland
