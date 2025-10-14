@@ -20,7 +20,7 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3310102000,durum_hard_wheat,0,No specified use,=,C1120,Durum wheat
 3310102001,winter_durum_hard_wheat,0,No specified use,=,C1121,Winter durum wheat
 3310102002,spring_durum_hard_wheat,0,No specified use,=,C1122,Spring durum wheat
-3310102008,unspecified_season_durum_hard_wheat,0,No specified use,=,C1200,Rye and winter cereal mixtures (maslin)
+3310102008,unspecified_season_durum_hard_wheat,0,No specified use,=,C1120,Durum wheat
 3310103000,rye,0,No specified use,=,C1210,Rye
 3310103000,rye,3,Fodder/Forage,<,G9100,Other cereals harvested green (excluding green maize)
 3310103000,rye,4,Energy,=,C1210,Rye
@@ -44,7 +44,7 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3310105000,oats,3,Fodder/Forage,<,G9100,Other cereals harvested green (excluding green maize)
 3310105001,winter_oats,0,No specified use,<,C1410,Oats
 3310105001,winter_oats,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
-3310105002,spring_oats,0,No specified use,=,C1420,Spring cereal mixtures (mixed grain other than maslin)
+3310105002,spring_oats,0,No specified use,<,C1410,Oats
 3310105002,spring_oats,3,Fodder/Forage,<,G9100,Other cereals harvested green (excluding green maize)
 3310105002,spring_oats,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
 3310105008,unspecified_season_oats,0,No specified use,=,C1410,Oats
@@ -60,7 +60,7 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3310108001,winter_triticale,0,No specified use,=,C1610,Winter triticale
 3310108001,winter_triticale,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
 3310108001,winter_triticale,6,Harvested as Grains,=,C1610,Winter triticale
-3310108002,spring_triticale,0,No specified use,<,G9100,Other cereals harvested green (excluding green maize)
+3310108002,spring_triticale,0,No specified use,<,C1600,triticale
 3310108002,spring_triticale,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
 3310109000,millet,0,No specified use,<,C1990,"Other cereals n.e.c. (millet, canary seed, etc.)"
 3310110000,spelt,0,No specified use,<,C1110,Common wheat and spelt
