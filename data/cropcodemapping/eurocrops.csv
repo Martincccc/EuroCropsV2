@@ -245,7 +245,7 @@ at,964,ERSTAUFFORSTUNG ALT,FIRST REFORESTATION OLD,3360100000,afforestation_refo
 at,965,FORST GENETISCHE RESSOURCEN,FORESTRY GENETIC RESOURCES,3360000000,tree_wood_forest,0,No specified use
 at,990,ALMFUTTERFLÄCHE,ALM FORAGE AREA,3320100000,permanent_grassland,3,Fodder/Forage
 at,992,ALMWEIDEFLÄCHE,mountain pastures,3320100000,permanent_grassland,3,Fodder/Forage
-at,,,,3390000000,not_known_and_other,,
+at,,,,3390000000,not_known_and_other,0,No specified use
 be2,1,Hoofdgebouwen,Main buildings.,3390000000,not_known_and_other,0,No specified use
 be2,10,Bomenrijen,Rows of trees,3360000000,tree_wood_forest,0,No specified use
 be2,100,Niet ingezaaid akkerland,Unplanted arable land,3319900000,other_arable_land_crops,0,No specified use
@@ -608,7 +608,7 @@ be2,9831,Bloemenmengsel,Flower mixture,3310800000,flowers_ornamental_plants,0,No
 be2,9832,Bloemenmengsel voor EAG Braak,Flower mixture for EAG Braak,3310800000,flowers_ornamental_plants,0,No specified use
 be2,99,Teelt niet vast te stellen,Not easily determined,3390000000,not_known_and_other,0,No specified use
 be2,999,Niet nader omschreven gewas - kleine landbouwer,Unspecified crop - small farmer,3310000000,arable_crops,0,No specified use
-be2,,,,3390000000,not_known_and_other,,
+be2,,,,3390000000,not_known_and_other,0,No specified use
 be3,19,Culture hydroponique ou aquaponique ,Hydroponic or aquaponic cultivation,3390000000,not_known_and_other,0,No specified use
 be3,2,Autres bâtiments,Other buildings,3390000000,not_known_and_other,0,No specified use
 be3,201,Maïs ensilage,Silage Maize,3310106000,maize_corn_popcorn,0,No specified use
@@ -818,7 +818,7 @@ be3,993,"Utilisation non agricole (stockage de grume, ..) ou terrain vague","Non
 be3,994,"Mare, étang, lac, plan d'eau","Pond, lake, body of water",3390000000,not_known_and_other,0,No specified use
 be3,9942,"Brousailles, ronces, ligneux bas, buissons sur parcelle non paturée","Undergrowth, brambles, low shrubs, bushes on ungrazed land",3311100000,fallow_land_not_crop,0,No specified use
 be3,9943,Parcelle boisée présentant un couvert forestier,wooded parcel with forest cover,3360000000,tree_wood_forest,0,No specified use
-be3,,,,3390000000,not_known_and_other,,
+be3,,,,3390000000,not_known_and_other,0,No specified use
 bg,10001,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
 bg,10002,Басми,tobacco,3310601000,tobacco,0,No specified use
 bg,10003,Бърлей,tobacco,3310601000,tobacco,0,No specified use
@@ -1091,7 +1091,7 @@ bg,10269,ябълки,Apples,3330102000,apples,0,No specified use
 bg,10270,ягоди,strawberries,3310701000,strawberries,0,No specified use
 bg,10271,ягоди-неотопляеми оранжерии,strawberries-unheated greenhouses,3310701000,strawberries,0,No specified use
 bg,10272,ягоди-отопляеми оранжерии,strawberries-heated greenhouses,3310701000,strawberries,0,No specified use
-bg,,,,3390000000,not_known_and_other,,
+bg,,,,3390000000,not_known_and_other,0,No specified use
 cz,10,Ředkev olejná,Radishes,3310715040,radish,0,No specified use
 cz,100,Oves nahý jarní,Naked spring oats,3310105002,spring_oats,0,No specified use
 cz,101,Oves pluchatý jarní,Fluffy spring oats,3310105002,spring_oats,0,No specified use
@@ -1507,7 +1507,7 @@ cz,95,Čirok zrnový,Grain sorghum,3310116000,sorghum,6,Harvested as Grains
 cz,96,Ječmen jarní,Spring barley,3310104002,spring_barley,0,No specified use
 cz,97,Ječmen ozimý dvouřadý,Two-row winter barley,3310104001,winter_barley,0,No specified use
 cz,98,Ječmen ozimý víceřadý,Multi-row winter barley,3310104001,winter_barley,0,No specified use
-cz,,,,3390000000,not_known_and_other,,
+cz,,,,3390000000,not_known_and_other,0,No specified use
 de4,1,Hecken oder Knicks (> 20m) CC,Hedges or curtsies (> 20m) CC,3390000000,not_known_and_other,0,No specified use
 de4,10,Einjährige Blühstreifen AUKM,Annual flower strips AUKM,3310800000,flowers_ornamental_plants,10,Eco-schemes for environment protection
 de4,10001,Genehmigungspflichtige Baumaßnahmen,Approval-required construction measures,3390000000,not_known_and_other,0,No specified use
@@ -1807,7 +1807,7 @@ de4,994,"Unbefestigte Mieten-, Stroh-, Futter u. Dunglagerpl. auf DGL",Temporary
 de4,995,Forstfläche (Waldbodenfläche),Forest area (forest floor area),3360000000,tree_wood_forest,0,No specified use
 de4,996,"Unbefestigte Mieten-, Stroh-, Futter u. Dunglagerpl. auf AL",Unsecured Rent/unfixed rents AL,3390000000,not_known_and_other,0,No specified use
 de4,999,"Ackerkultur einer Gattung/Art, die in der akt. Liste fehlt",Arable crops of a genus / species not included in the current list/Genus / species (not in list),3310000000,arable_crops,0,No specified use
-de4,,,,3390000000,not_known_and_other,,
+de4,,,,3390000000,not_known_and_other,0,No specified use
 dea,10222,Dicke Bohne,Broad bean,3310201010,beans,0,No specified use
 dea,112,Winterdurum (Hartweizen),Winter hard wheat / durum,3310102001,winter_durum_hard_wheat,0,No specified use
 dea,113,Sommerdurum (Hartweizen),Summer durum wheat / durum,3310102002,spring_durum_hard_wheat,0,No specified use
@@ -2096,7 +2096,7 @@ dea,994,Unbefestigte Mieten DGL,Unfixed rents permanent grass land,3320100000,pe
 dea,995,Forstflächen,Forest areas,3360000000,tree_wood_forest,0,No specified use
 dea,996,Unbefestigte Mieten AL,unfixed rents AL,3390000000,not_known_and_other,0,No specified use
 dea,999,Gattung/Art (nicht in Liste),Genus / species (not in list),3310000000,arable_crops,0,No specified use
-dea,,,,3390000000,not_known_and_other,,
+dea,,,,3390000000,not_known_and_other,0,No specified use
 dk,1,Vårbyg,Spring barley,3310104002,spring_barley,0,No specified use
 dk,10,Vinterbyg,Winter barley,3310104001,winter_barley,0,No specified use
 dk,10001,0,unknown,3390000000,not_known_and_other,0,No specified use
@@ -2605,7 +2605,7 @@ dk,995,Slettet mark,Cleared field,3310000000,arable_crops,0,No specified use
 dk,997,Ikke kontrolleret afgrøde (kontrollørkode),Uncontrolled crop (control code),3390000000,not_known_and_other,0,No specified use
 dk,998,Ukendt afgrøde,Unknown crop,3390000000,not_known_and_other,0,No specified use
 dk,999,Ugyldig afgr|dekode,Invalid crop code,3390000000,not_known_and_other,0,No specified use
-dk,,,,3390000000,not_known_and_other,,
+dk,,,,3390000000,not_known_and_other,0,No specified use
 ee,10001,Karjatamine väljaspool põllumaj. maad,Rough grazings,3320100000,permanent_grassland,3,Fodder/Forage
 ee,10002,"N siduv heint. ja N siduv põllumaj. kult. segu (N siduvaid kult. üle 50%, segus valdavalt heint.)",Mix of nitrogen-binding grasses and nitrogen-binding crops(over 50% nitrogen-binding crops mix contains mainly grasses),3310200000,legumes,11,Nitrogen fixing 
 ee,10003,"N siduv heint. ja kõrreliste segu (N siduvaid heintaimi üle 50%, kõrrelisi heintaimi alla 50%)",Mix of nitrogen-binding grasses and graminoids (over 50% nitrogen-binding grasses less than 50% graminoid grasses),3310200000,legumes,11,Nitrogen fixing 
@@ -2919,7 +2919,7 @@ ee,10310,õlilina,Linseed (oil flax),3310607000,flax_linseed,8,Oil
 ee,10311,õlirõigas,Oil radish,3310715040,radish,8,Oil
 ee,10312,õunapuu,apple tree,3330102000,apples,0,No specified use
 ee,10313,üheaastane raihein jm üheaastased heintaimed,Annual ryegrass and other annual grasses,3320201050,lolium_ryegrass,0,No specified use
-ee,,,,3390000000,not_known_and_other,,
+ee,,,,3390000000,not_known_and_other,0,No specified use
 es,1,TRIGO BLANDO,SOFT WHEAT,3310101000,common_soft_wheat,0,No specified use
 es,10,MIJO,Millet,3310109000,millet,0,No specified use
 es,10001,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
@@ -3328,7 +3328,7 @@ es,97,SETAS,MUSHROOMS,3340300000,mushrooms,0,No specified use
 es,98,PIMIENTO PARA PIMENTÓN,PAPRIKA BELL PEPPER,3310716010,bell_pepper_paprika,0,No specified use
 es,99,PATATA,POTATO,3310300000,potatoes,0,No specified use
 es,999,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
-es,,,,3390000000,not_known_and_other,,
+es,,,,3390000000,not_known_and_other,0,No specified use
 fi,1110,Syysvehnä,Winter wheat,3310101001,winter_common_soft_wheat,0,No specified use
 fi,1120,Kevätvehnä,Spring wheat,3310101002,spring_common_soft_wheat,0,No specified use
 fi,1130,Durumvehnä,Durum wheat,3310102008,unspecified_season_durum_hard_wheat,0,No specified use
@@ -3572,7 +3572,7 @@ fi,9814,"Ympäristösopimusala, kosteikko","Environmental contract area, wetland
 fi,9820,Suojakaista,Protective strip,3390000000,not_known_and_other,0,No specified use
 fi,9830,Maisemapiirre,Landscape feature,3390000000,not_known_and_other,0,No specified use
 fi,9999,Tuen peruminen,Withdrawal of support,3390000000,not_known_and_other,0,No specified use
-fi,,,,3390000000,not_known_and_other,,
+fi,,,,3390000000,not_known_and_other,0,No specified use
 fr,AAR,Plantes aromatiques herbacées non pérennes (< 5 ans) autres que persil,Non-perennial herbaceous aromatic plants (< 5 years) other than parsley,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 fr,ACA,Autre culture non précisée dans la liste (admissible),Other,3390000000,not_known_and_other,0,No specified use
 fr,ACP,Autre culture pérenne,Other perennial,3330000000,permanent_crops_perennial,0,No specified use
@@ -3915,7 +3915,7 @@ fr,VRN,Vigne: raisins de cuve non en production,Vine: wine grapes not in product
 fr,VRT,Vigne : raisins de table,Vine: table grapes,3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use
 fr,XFE,X-Felium de 5 ans ou moins,X-Felium 5 years or younger type of forage,3319900000,other_arable_land_crops,0,No specified use
 fr,ZZZ,Culture inconnue,Other,3390000000,not_known_and_other,0,No specified use
-fr,,,,3390000000,not_known_and_other,,
+fr,,,,3390000000,not_known_and_other,0,No specified use
 ie,10001,100% Destocked Area,100% Destocked Area,3370000000,unmaintained,0,No specified use
 ie,10002,Access Road / Roadways,Access Road / Roadways,3390000000,not_known_and_other,0,No specified use
 ie,10003,Agroforestry (<400 trees per hectare),Agroforestry (<400 trees per hectare),3360000000,tree_wood_forest,0,No specified use
@@ -4130,7 +4130,7 @@ ie,10211,Wild Bird Cover,Wild Bird Cover,3390000000,not_known_and_other,0,No spe
 ie,10212,Willow,Willow,3360800000,willows_osiers,0,No specified use
 ie,10213,Winter Bird Food Plot,Winter Bird Food Plot,3390000000,not_known_and_other,0,No specified use
 ie,10214,Woodland,Woodland,3360000000,tree_wood_forest,0,No specified use
-ie,,,,3390000000,not_known_and_other,,
+ie,,,,3390000000,not_known_and_other,0,No specified use
 iti1,1001,Avena,Oats,3310105000,oats,0,No specified use
 iti1,1002,Frumento duro,Durum wheat,3310102000,durum_hard_wheat,0,No specified use
 iti1,1003,Frumento tenero,Common soft wheat,3310101000,common_soft_wheat,0,No specified use
@@ -4499,7 +4499,7 @@ iti1,971,ALCHECHENGI,Hozuki (similar to groundcherry but purely ornamental),3310
 iti1,972,BRASSICA CARINATA  (CAVOLO ABISSINO),BRASSICA CARINATA (Ethiopian Rape),3310707990,other_brassicaceae_cruciferae,0,No specified use
 iti1,99,MARGHERITA,DAISY,3310813000,daisy_daisies,0,No specified use
 iti1,998,CAMELINA o DORELLA  COLTIVATA,CAMELINA,3310615000,camelina,0,No specified use
-iti1,,,,3390000000,not_known_and_other,,
+iti1,,,,3390000000,not_known_and_other,0,No specified use
 nl,1000,"Iris, bloembollen en -knollen","Iris, flower bulbs and tubers",3310823000,iris,0,No specified use
 nl,1001,"Krokus, bloembollen en - knollen",Crocus flower bulbs and tubers,3310612320,saffron_crocus_sativus,0,No specified use
 nl,1002,"Lelie, bloembollen en -knollen",Lily flower bulbs and tubers,3310825000,lilies,0,No specified use
@@ -4992,7 +4992,7 @@ nl,995,"Amaryllis, droogbloemen","Amaryllis, dried flowers",3310899000,other_flo
 nl,997,"Dahlia, bloembollen en - knollen",Dahlia,3310812000,dahlia,0,No specified use
 nl,998,"Gladiool, bloembollen en - knollen",Gladiolus flower bulbs and tubers,3310821000,gladiolus_gladioli,0,No specified use
 nl,999,"Hyacint, bloembollen en - knollen",Hyacinth flower bulbs and tubers,3310899000,other_flowers_ornamental_plants,0,No specified use
-nl,,,,3390000000,not_known_and_other,,
+nl,,,,3390000000,not_known_and_other,0,No specified use
 pt,1,TRIGO,WHEAT,3310101000,common_soft_wheat,0,No specified use
 pt,10002,ABOBORAS_E_ABOBORINHAS,PUMPKINS AND COURGETTES,3310702040,pumpkin_squash_gourd,0,No specified use
 pt,10005,ACEIRO_FLORESTAL,FOREST FIREBREAKS,3360000000,tree_wood_forest,0,No specified use
@@ -5305,7 +5305,7 @@ pt,986,ELP CHARCAS E LAGOAS - ÁREA ÚTIL,ELP (Linear and Landscape Element) pon
 pt,987,ELP MURO DE PEDRA POSTA - ÁREA ÚTIL,ELP (Linear and Landscape Element) dry stone wall - usable area,3390000000,not_known_and_other,0,No specified use
 pt,988,ELP PATRIMÓNIO CULTURAL - ÁREA ÚTIL,ELP (Linear and Landscape Element) cultural heritage - usable area,3390000000,not_known_and_other,0,No specified use
 pt,989,ELP VALA DE REGA OU DRENAGEM - ÁREA ÚTIL,ELP (Linear and Landscape Element) irrigation or drainage ditch - usable area,3390000000,not_known_and_other,0,No specified use
-pt,,,,3390000000,not_known_and_other,,
+pt,,,,3390000000,not_known_and_other,0,No specified use
 si,1,pšenica (jara),wheat (spring),3310101002,spring_common_soft_wheat,0,No specified use
 si,10,proso,Proso millet,3310109000,millet,0,No specified use
 si,100,vinska trta,Common grape vine,3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use
@@ -5487,7 +5487,7 @@ si,835,pšenica horasan (ozimna),wheat Khorasan (winter),3310199001,winter_other
 si,9,ječmen (jari),barley (spring),3310104002,spring_barley,0,No specified use
 si,900,hmelj,Common hop,3310602000,hops,0,No specified use
 si,901,krajinska značilnost,landscape feature,3390000000,not_known_and_other,0,No specified use
-si,,,,3390000000,not_known_and_other,,
+si,,,,3390000000,not_known_and_other,0,No specified use
 sk,10001,Baklažán,Eggplant,3310712000,aubergine_eggplant,0,No specified use
 sk,10002,Baza čierna,Elderberry,3330804000,elder_elderberry,0,No specified use
 sk,10003,Bazalka pravá,Basil,3310612070,basil,0,No specified use
@@ -5770,4 +5770,4 @@ sk,10279,Špargľa,Asparagus,3310706000,asparagus,0,No specified use
 sk,10280,Špenát,Spinach,3310717070,spinach,0,No specified use
 sk,10281,Špenát siaty,Spinach seeds,3310717070,spinach,9,Seed/Propagation
 sk,10282,Štiavec,Sorrel,3310717060,sorrel,0,No specified use
-sk,,,,3390000000,not_known_and_other,,
+sk,,,,3390000000,not_known_and_other,0,No specified use
