@@ -1,0 +1,358 @@
+hcat4_code,hcat4_name,hrl_code,hrl_name
+3310000000,arable_crops,3100,Unclassified arable crop
+3310100000,cereal,1150,Other Cereals
+3310101000,common_soft_wheat,1110,Wheat
+3310101001,winter_common_soft_wheat,1110,Wheat
+3310101002,spring_common_soft_wheat,1110,Wheat
+3310102000,durum_hard_wheat,1110,Wheat
+3310102001,winter_durum_hard_wheat,1110,Wheat
+3310102002,spring_durum_hard_wheat,1110,Wheat
+3310102008,unspecified_season_durum_hard_wheat,1110,Wheat
+3310103000,rye,1150,Other Cereals
+3310103001,winter_rye,1150,Other Cereals
+3310103002,spring_rye,1150,Other Cereals
+3310104000,barley,1120,Barley
+3310104001,winter_barley,1120,Barley
+3310104002,spring_barley,1120,Barley
+3310104008,unspecified_season_barley,1120,Barley
+3310105000,oats,1150,Other Cereals
+3310105001,winter_oats,1150,Other Cereals
+3310105002,spring_oats,1150,Other Cereals
+3310105008,unspecified_season_oats,1150,Other Cereals
+3310106000,maize_corn_popcorn,1130,Maize
+3310107000,rice,1140,Rice
+3310108000,triticale,1150,Other Cereals
+3310108001,winter_triticale,1150,Other Cereals
+3310108002,spring_triticale,1150,Other Cereals
+3310109000,millet,1150,Other Cereals
+3310110000,spelt,1150,Other Cereals
+3310110001,winter_spelt,1150,Other Cereals
+3310110002,spring_spelt,1150,Other Cereals
+3310111000,meslin,1150,Other Cereals
+3310111001,winter_meslin,1150,Other Cereals
+3310111002,spring_meslin,1150,Other Cereals
+3310112000,emmer,1150,Other Cereals
+3310112001,winter_emmer,1150,Other Cereals
+3310112002,spring_emmer,1150,Other Cereals
+3310112008,unspecified_season_emmer,1150,Other Cereals
+3310113000,einkorn,1150,Other Cereals
+3310113008,unspecified_season_einkorn,1150,Other Cereals
+3310115000,teff,1150,Other Cereals
+3310116000,sorghum,1150,Other Cereals
+3310198000,unspecified_cereals,1150,Other Cereals
+3310198001,winter_unspecified_cereals,1150,Other Cereals
+3310198002,spring_unspecified_cereals,1150,Other Cereals
+3310199000,other_cereals,1150,Other Cereals
+3310199001,winter_other_cereals,1150,Other Cereals
+3310199002,spring_other_cereals,1150,Other Cereals
+3310200000,legumes,1220,Dry Pulses
+3310201000,legumes_dried_pulses_protein_crops,1220,Dry Pulses
+3310201010,beans,1220,Dry Pulses
+3310201020,peanuts,1220,Dry Pulses
+3310201030,soy_soybeans,1420,Soybeans
+3310201040,chickpeas,1220,Dry Pulses
+3310201050,esparsette_onobrychis,1220,Dry Pulses
+3310201060,fenugreek,1220,Dry Pulses
+3310201070,lentils,1220,Dry Pulses
+3310201080,peas,1220,Dry Pulses
+3310201090,lupins,1220,Dry Pulses
+3310201990,other_dry_pulses,1220,Dry Pulses
+3310202000,legumes_harvested_green,1210,Fresh Vegetables
+3310202010,alfalfa_lucerne,1210,Fresh Vegetables
+3310202020,serradella,1210,Fresh Vegetables
+3310202030,clover,1210,Fresh Vegetables
+3310202040,melilot,1210,Fresh Vegetables
+3310202050,vetches,1210,Fresh Vegetables
+3310202060,onobrychis_sainfoins,1210,Fresh Vegetables
+3310202070,galega,1210,Fresh Vegetables
+3310202990,other_legumes_harvested_green,1210,Fresh Vegetables
+3310299000,other_legumes,1210,Fresh Vegetables
+3310300000,potatoes,1310,Potatoes
+3310400000,sweet_potatoes,1310,Potatoes
+3310600000,industrial_nonfood_crops,3100,Unclassified arable crop
+3310601000,tobacco,3100,Unclassified arable crop
+3310602000,hops,3200,Unclassified permanent crop
+3310603000,cotton,1440,"Flax, cotton and hemp"
+3310604000,oilseed_crops,3100,Unclassified arable crop
+3310604010,rapeseed_rape,1430,Rapeseed
+3310604011,winter_rapeseed_rape,1430,Rapeseed
+3310604012,spring_rapeseed_rape,1430,Rapeseed
+3310604013,summer_rapeseed_rape,1430,Rapeseed
+3310604020,sunflower,1410,Sunflower
+3310604030,guizotia_abyssinica_nyger,3100,Unclassified arable crop
+3310604990,other_oilseed_crops,3100,Unclassified arable crop
+3310606000,poppy,3100,Unclassified arable crop
+3310606001,winter_poppy,3100,Unclassified arable crop
+3310606002,summer_poppy,3100,Unclassified arable crop
+3310607000,flax_linseed,1440,"Flax, cotton and hemp"
+3310610000,hemp_cannabis,1440,"Flax, cotton and hemp"
+3310610010,finola,1440,"Flax, cotton and hemp"
+3310611000,fibre_crops,1440,"Flax, cotton and hemp"
+3310612000,aromatic_medicinal_culinary_plants_spices_herbs,1210,Fresh Vegetables
+3310612010,actaea_baneberry_christopher_herbs,1210,Fresh Vegetables
+3310612020,alchemilla_ladys_mantle,1210,Fresh Vegetables
+3310612030,anethum_dill,1210,Fresh Vegetables
+3310612040,angelica,1210,Fresh Vegetables
+3310612050,anise_aniseed,1210,Fresh Vegetables
+3310612060,artemisia,1210,Fresh Vegetables
+3310612070,basil,1210,Fresh Vegetables
+3310612080,black_cumin,1210,Fresh Vegetables
+3310612090,borage,1210,Fresh Vegetables
+3310612100,calendula_marigold,1210,Fresh Vegetables
+3310612110,caraway,1210,Fresh Vegetables
+3310612120,catnip,1210,Fresh Vegetables
+3310612130,chamomile,1210,Fresh Vegetables
+3310612140,chervil,1210,Fresh Vegetables
+3310612150,coriander,1210,Fresh Vegetables
+3310612170,galium_bedstraw,1210,Fresh Vegetables
+3310612180,hibiscus,1210,Fresh Vegetables
+3310612190,lavender_lavandula,1210,Fresh Vegetables
+3310803000,asters,1210,Fresh Vegetables
+3310612200,lemon_balm_melissa,1210,Fresh Vegetables
+3310612210,lovage_maggiplant,1210,Fresh Vegetables
+3310612220,mints_peppermint,1210,Fresh Vegetables
+3310612230,moldavian_dragonhead,1210,Fresh Vegetables
+3310612240,nasturtiums,1210,Fresh Vegetables
+3310612250,nettles,1210,Fresh Vegetables
+3310612260,oregano,1210,Fresh Vegetables
+3310612270,parsley,1210,Fresh Vegetables
+3310612290,polygonum,1210,Fresh Vegetables
+3310612300,rosemary,1210,Fresh Vegetables
+3310612320,saffron_crocus_sativus,1210,Fresh Vegetables
+3310612340,st_johns_wort,1210,Fresh Vegetables
+3310612360,tarragon,1210,Fresh Vegetables
+3310612370,thyme,1210,Fresh Vegetables
+3310612380,valerian,1210,Fresh Vegetables
+3310612390,yarrow,1210,Fresh Vegetables
+3310612400,marian_thistles,1210,Fresh Vegetables
+3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,1210,Fresh Vegetables
+3310613000,rubia_tinctorum_common_madder,1210,Fresh Vegetables
+3310614000,isatis_tinctoria_woad,1210,Fresh Vegetables
+3310615000,camelina,1210,Fresh Vegetables
+3310617000,energy_crops,3100,Unclassified arable crop
+3310617010,igniscum_candy,1210,Fresh Vegetables
+3310617020,sida_virginia_mallow,1210,Fresh Vegetables
+3310617030,miscanthus_silvergrass,1210,Fresh Vegetables
+3310617990,other_energy_crops,3100,Unclassified arable crop
+3310699000,other_industrial_crops,3100,Unclassified arable crop
+3310700000,fresh_vegetables,1210,Fresh Vegetables
+3310701000,strawberries,1210,Fresh Vegetables
+3310702000,cucurbits,1210,Fresh Vegetables
+3310702010,cucumber_pickle,1210,Fresh Vegetables
+3310702030,melon,1210,Fresh Vegetables
+3310702040,pumpkin_squash_gourd,1210,Fresh Vegetables
+3310702050,watermelon,1210,Fresh Vegetables
+3310702060,zucchini_courgette,1210,Fresh Vegetables
+3310702990,other_cucurbits,1210,Fresh Vegetables
+3310703010,amaranth,1150,Other Cereals
+3310703020,buckwheat,1150,Other Cereals
+3310703030,quinoa,1150,Other Cereals
+3310703040,sage_chia,1210,Fresh Vegetables
+3310704000,fennel,1210,Fresh Vegetables
+3310705000,topinambur_jerusalem_artichoke,1210,Fresh Vegetables
+3310706000,asparagus,1210,Fresh Vegetables
+3310707000,brassicaceae_cruciferae,1210,Fresh Vegetables
+3310707010,mustard,1210,Fresh Vegetables
+3310707020,bok_choy_pak_choi,1210,Fresh Vegetables
+3310707030,broccoli,1210,Fresh Vegetables
+3310707040,brussels_sprouts,1210,Fresh Vegetables
+3310707050,cauliflower,1210,Fresh Vegetables
+3310707060,chinese_cabbage,1210,Fresh Vegetables
+3310707070,collard_greens,1210,Fresh Vegetables
+3310707080,gai_lan,1210,Fresh Vegetables
+3310707090,kale,1210,Fresh Vegetables
+3310707100,kohlrabi,1210,Fresh Vegetables
+3310707110,red_cabbage,1210,Fresh Vegetables
+3310707120,savoy_cabbage,1210,Fresh Vegetables
+3310707130,white_cabbage,1210,Fresh Vegetables
+3310707990,other_brassicaceae_cruciferae,1210,Fresh Vegetables
+3310708000,alliums,1210,Fresh Vegetables
+3310708010,chives,1210,Fresh Vegetables
+3310708020,garlic,1210,Fresh Vegetables
+3310708030,leek,1210,Fresh Vegetables
+3310708040,onions,1210,Fresh Vegetables
+3310708050,scallion,1210,Fresh Vegetables
+3310708060,shallot,1210,Fresh Vegetables
+3310709000,rhubarb,1210,Fresh Vegetables
+3310710000,purslane,1210,Fresh Vegetables
+3310711000,celery,1210,Fresh Vegetables
+3310711010,celeriac,1210,Fresh Vegetables
+3310711020,leaf_celery,1210,Fresh Vegetables
+3310712000,aubergine_eggplant,1210,Fresh Vegetables
+3310713000,artichoke,1210,Fresh Vegetables
+3310714000,tomato,1210,Fresh Vegetables
+3310715000,root_vegetables,1210,Fresh Vegetables
+3310715010,arctium_burdock,1210,Fresh Vegetables
+3310715020,carrots_daucus,1210,Fresh Vegetables
+3310715030,parsnips,1210,Fresh Vegetables
+3310715040,radish,1210,Fresh Vegetables
+3310715050,turnips,1210,Fresh Vegetables
+3310715060,horseradish,1210,Fresh Vegetables
+3310715070,swede_rutabaga,1210,Fresh Vegetables
+3310715080,stachys_hedgenettle_chinese_artichoke,1210,Fresh Vegetables
+3310715090,salsify,1210,Fresh Vegetables
+3310715990,other_root_vegetables,1210,Fresh Vegetables
+3310716000,capsicum,1210,Fresh Vegetables
+3310716010,bell_pepper_paprika,1210,Fresh Vegetables
+3310716020,chili_pepper,1210,Fresh Vegetables
+3310717000,salads_lettuce_leaf_vegetables,1210,Fresh Vegetables
+3310717010,chicory_chicories,1210,Fresh Vegetables
+3310717020,endive,1210,Fresh Vegetables
+3310717030,iceberg,1210,Fresh Vegetables
+3310717040,lambs_lettuce_rapunzel,1210,Fresh Vegetables
+3310717050,rocket_arugula,1210,Fresh Vegetables
+3310717060,sorrel,1210,Fresh Vegetables
+3310717070,spinach,1210,Fresh Vegetables
+3310717990,other_salads_lettuce_leaf_vegetables,1210,Fresh Vegetables
+3310718000,cress,1210,Fresh Vegetables
+3310719000,beta_vulgaris,1320,Sugar Beet
+3310719010,sugar_beet,1320,Sugar Beet
+3310719020,mangelwurzel_beets,1210,Fresh Vegetables
+3310719030,other_beta_vulgaris,1210,Fresh Vegetables
+3310799000,other_fresh_vegetables,1210,Fresh Vegetables
+3310800000,flowers_ornamental_plants,1210,Fresh Vegetables
+3310801000,adonis,1210,Fresh Vegetables
+3310802000,anemones_windflowers,1210,Fresh Vegetables
+3310804000,begonias,1210,Fresh Vegetables
+3310805000,bluebells,1210,Fresh Vegetables
+3310806000,bulrush,1210,Fresh Vegetables
+3310807000,burnet,1210,Fresh Vegetables
+3310808000,carnation,1210,Fresh Vegetables
+3310809000,chrysanthemum,1210,Fresh Vegetables
+3310810000,cornflowers,1210,Fresh Vegetables
+3310811000,corsican_hellebore,1210,Fresh Vegetables
+3310812000,dahlia,1210,Fresh Vegetables
+3310813000,daisy_daisies,1210,Fresh Vegetables
+3310814000,dandelions,1210,Fresh Vegetables
+3310815000,echinacea,1210,Fresh Vegetables
+3310816000,edelweiss,1210,Fresh Vegetables
+3310818000,fuchsias,1210,Fresh Vegetables
+3310820000,gentians,1210,Fresh Vegetables
+3310821000,gladiolus_gladioli,1210,Fresh Vegetables
+3310822000,goldenrod,1210,Fresh Vegetables
+3310823000,iris,1210,Fresh Vegetables
+3310825000,lilies,1210,Fresh Vegetables
+3310827000,lunaria_honesty_silver,1210,Fresh Vegetables
+3310828000,malva,1210,Fresh Vegetables
+3310829000,milk_star,1210,Fresh Vegetables
+3310833000,narcissus_daffodil,1210,Fresh Vegetables
+3310834000,peony_peonies,1210,Fresh Vegetables
+3310835000,primrose,1210,Fresh Vegetables
+3310837000,roses,1210,Fresh Vegetables
+3310838000,rudbeckia,1210,Fresh Vegetables
+3310839000,safflower,1210,Fresh Vegetables
+3310841000,sanvitalia_procumbens,1210,Fresh Vegetables
+3310843000,silene_catchfly,1210,Fresh Vegetables
+3310844000,silphium_rosinweeds,1210,Fresh Vegetables
+3310845000,snapdragons,1210,Fresh Vegetables
+3310846000,stonecrop,1210,Fresh Vegetables
+3310847000,tagetes,1210,Fresh Vegetables
+3310848000,thimbles,1210,Fresh Vegetables
+3310849000,tulips,1210,Fresh Vegetables
+3310850000,viola,1210,Fresh Vegetables
+3310851000,violets_pansies,1210,Fresh Vegetables
+3310852000,zinnias,1210,Fresh Vegetables
+3310853000,ericaceae_heather,1210,Fresh Vegetables
+3310899000,other_flowers_ornamental_plants,1210,Fresh Vegetables
+3311200000,kitchen_gardens,1210,Fresh Vegetables
+3311300000,phacelia,1210,Fresh Vegetables
+3319900000,other_arable_land_crops,3100,Unclassified arable crop
+3320000000,grassland_grass,4100,Grassland
+3330000000,permanent_crops_perennial,3200,Unclassified permanent crop
+3330100000,orchards_fruits,2310,Fruits
+3330101000,amelanchier_serviceberry,2310,Fruits
+3330102000,apples,2310,Fruits
+3330103000,apricots,2310,Fruits
+3330104000,cherry_cherries,2310,Fruits
+3330105000,feijoa,2310,Fruits
+3330106000,fig,2310,Fruits
+3330107000,kiwi,2310,Fruits
+3330108000,medlar_loquat,2310,Fruits
+3330109000,nectarine,2310,Fruits
+3330110000,pawpaw,2310,Fruits
+3330111000,peach,2310,Fruits
+3330112000,pears,2310,Fruits
+3330113000,plums,2310,Fruits
+3330114000,pomegranate,2310,Fruits
+3330115000,quinces,2310,Fruits
+3330116000,avocado,2310,Fruits
+3330199000,other_orchards_fruits,3200,Unclassified permanent crop
+3330200000,berries_berry_species,2310,Fruits
+3330201000,aronia_chokeberries,2310,Fruits
+3330202000,rubus_brambles,2310,Fruits
+3330202010,blackberry,2310,Fruits
+3330202020,raspberry_raspberries,2310,Fruits
+3330202030,tayberry,2310,Fruits
+3330202990,other_rubus_brambles,2310,Fruits
+3330204000,vaccinium,2310,Fruits
+3330204010,blueberry,2310,Fruits
+3330204020,cranberry,2310,Fruits
+3330206000,ribes,2310,Fruits
+3330206010,blackcurrant_cassis,2310,Fruits
+3330206020,redcurrant,2310,Fruits
+3330206030,gooseberry_gooseberries,2310,Fruits
+3330206990,other_ribes,2310,Fruits
+3330208000,hippophae_sea_buckthorns_seaberry,2310,Fruits
+3330213000,rowan_rowanberries,2310,Fruits
+3330299000,other_berries_berry_species,2310,Fruits
+3330300000,nuts,2320,Nuts
+3330301000,almond,2320,Nuts
+3330302000,hazelnuts_hazel,2320,Nuts
+3330303000,pecan,2320,Nuts
+3330304000,pistachio,2320,Nuts
+3330305000,sweet_chestnuts,2320,Nuts
+3330306000,walnuts,2320,Nuts
+3330399000,other_nuts,2320,Nuts
+3330400000,citrus,3200,Unclassified permanent crop
+3330401000,clementine,3200,Unclassified permanent crop
+3330402000,orange,3200,Unclassified permanent crop
+3330403000,mandarin,3200,Unclassified permanent crop
+3330404000,lemons,3200,Unclassified permanent crop
+3330499000,other_citrus,3200,Unclassified permanent crop
+3330500000,olive,2200,Olives
+3311100000,fallow_land_not_crop,3100,Unclassified arable crop
+3320100000,permanent_grassland,4100,Permanent Grassland
+3320200000,temporary_grassland,4100,Temporary Grassland
+3320201000,poaceae_grasses,1210,Temporary Grassland
+3320201010,elymus,1210,Temporary Grassland
+3320201030,cocksfoot_catgrass,1210,Temporary Grassland
+3320201040,festulolium,1210,Temporary Grassland
+3320201050,lolium_ryegrass,1210,Temporary Grassland
+3320201060,setaria,1210,Temporary Grassland
+3320201070,sod_turf,1210,Temporary Grassland
+3320201080,switchgrass,1210,Temporary Grassland
+3320201090,timothy,1210,Temporary Grassland
+3320201100,canary_seed_canaryseed,1150,Temporary Grassland
+3320209900,other_poaceae_grasses,4100,Temporary Grassland
+3330600000,vineyards_wine_vine_rebland_grapes,2100,Grapes
+3330700000,nurseries_nursery,3200,Unclassified permanent crop
+3330800000,shrubberries_shrubs,2310,Fruits
+3330801000,azaleas,2310,Fruits
+3330802000,chaenomeles_cathayensis,2310,Fruits
+3330803000,crataegus_hawthorn,2310,Fruits
+3330804000,elder_elderberry,2310,Fruits
+3330805000,honeysuckle,2310,Fruits
+3330806000,ricinus_castor,2310,Fruits
+3330807000,wire_bush,2310,Fruits
+3330899000,other_shrubs,2310,Fruits
+3330901000,carob,2310,Fruits
+3340200000,truffle,3200,Unclassified permanent crop
+3340300000,mushrooms,3100,Unclassified arable crop
+3349900000,other_mushrooms_crops_genetically_modified_crops,3100,Unclassified arable crop
+3350000000,greenhouse_foil_film,3200,Unclassified permanent crop
+3360000000,tree_wood_forest,3200,Unclassified permanent crop
+3360200000,aspen,3200,Unclassified permanent crop
+3360300000,birch,3200,Unclassified permanent crop
+3360400000,dogwood_cornus,3200,Unclassified permanent crop
+3360500000,eucalyptus,3200,Unclassified permanent crop
+3360600000,oak,3200,Unclassified permanent crop
+3360700000,populus,3200,Unclassified permanent crop
+3360800000,willows_osiers,3200,Unclassified permanent crop
+3360900000,conifers,3200,Unclassified permanent crop
+3361000000,gingko,3200,Unclassified permanent crop
+3369900000,other_tree_wood_forest,3200,Unclassified permanent crop
+3311000000,seed_seedlings,3100,Unclassified arable crop
+3370000000,unmaintained,9100,Other
+3390000000,not_known_and_other,9100,Other
+3360100000,afforestation_reforestation,3200,Unclassified permanent crop
+3320201020,festuca_fescue,1210,Temporary Grassland
