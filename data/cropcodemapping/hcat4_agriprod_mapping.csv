@@ -88,11 +88,11 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3310199000,other_cereals,0,No specified use,<,C1900,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)"
 3310199001,winter_other_cereals,0,No specified use,<,C1000,Cereals (excluding rice) for the production of grain (including seed)
 3310199002,spring_other_cereals,0,No specified use,<,C1000,Cereals (excluding rice) for the production of grain (including seed)
-3310200000,legumes,0,No specified use,=,P0000+G2000,Leguminous plants harvested green
+3310200000,legumes,0,No specified use,=,P0000+G2000,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)+Leguminous plants harvested green
 3310200000,legumes,1,Consumption/Fresh,>,P0000,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)
 3310200000,legumes,3,Fodder/Forage,>,G2000,Leguminous plants harvested green
 3310200000,legumes,5,Harvested Green,=,G2000,Leguminous plants harvested green
-3310200000,legumes,6,Harvested as Grains,=,P0000,Leguminous plants harvested green
+3310200000,legumes,6,Harvested as Grains,=,P0000,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)
 3310200000,legumes,8,Oil,<,I1100,Oilseeds
 3310200000,legumes,9,Seed/Propagation,>,P0000,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)
 3310200000,legumes,11,Nitrogen fixing ,<,Q0000,Fallow land
@@ -133,7 +133,7 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3310215000,galega,0,No specified use,<,G9900,Other plants harvested green from arable land n.e.c.
 3310215000,galega,3,Fodder/Forage,<,G9900,Other plants harvested green from arable land n.e.c.
 3310216000,birdsfoot_treifoil,0,No specified use,<,G2000,Leguminous plants harvested green
-3310299000,other_legumes,0,No specified use,=,P0000+G2000,Leguminous plants harvested green
+3310299000,other_legumes,0,No specified use,=,P0000+G2000,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)+Leguminous plants harvested green
 3310720000,potatoes,0,No specified use,<,R1000,Potatoes (including seed potatoes)
 3310720000,potatoes,1,Consumption/Fresh,<,R1000,Potatoes (including seed potatoes)
 3310720000,potatoes,2,Industry/for processing,<,R1000,Potatoes (including seed potatoes)
