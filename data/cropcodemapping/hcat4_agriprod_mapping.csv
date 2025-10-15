@@ -516,11 +516,11 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3311300000,phacelia,9,Seed/Propagation,<,E0000,Seeds and seedlings
 3319900000,other_arable_land_crops,0,No specified use,<,ARA,Arable land
 3319900000,other_arable_land_crops,3,Fodder/Forage,<,ARA,Arable land
-3320000000,grassland_grass,0,No specified use,<,J0000+G1100,Permanent grassland+Temporary grasses        
-3320000000,grassland_grass,3,Fodder/Forage,<,J0000+G1100,Permanent grassland+Temporary grasses        
-3320000000,grassland_grass,4,Energy,<,J0000+G1100,Permanent grassland+Temporary grasses        
-3320000000,grassland_grass,5,Harvested Green,<,J0000+G1100,Permanent grassland+Temporary grasses        
-3320000000,grassland_grass,10,Eco-schemes for environment protection,<,J0000+G1100,Permanent grassland+Temporary grasses        
+3320000000,grassland_grass,0,No specified use,<,J0000+G1100,Permanent grassland+Temporary grasses
+3320000000,grassland_grass,3,Fodder/Forage,<,J0000+G1100,Permanent grassland+Temporary grasses
+3320000000,grassland_grass,4,Energy,<,J0000+G1100,Permanent grassland+Temporary grasses
+3320000000,grassland_grass,5,Harvested Green,<,J0000+G1100,Permanent grassland+Temporary grasses
+3320000000,grassland_grass,10,Eco-schemes for environment protection,<,J0000+G1100,Permanent grassland+Temporary grasses
 3320100000,permanent_grassland,0,No specified use,=,J0000,Permanent grassland
 3320100000,permanent_grassland,3,Fodder/Forage,=,J0000,Permanent grassland
 3320100000,permanent_grassland,5,Harvested Green,=,J0000,Permanent grassland
