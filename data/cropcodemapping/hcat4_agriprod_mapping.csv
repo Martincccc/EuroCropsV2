@@ -549,15 +549,15 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3320201040,festulolium,0,No specified use,<,G1100,Temporary grasses
 3320201040,festulolium,5,Harvested Green,<,G1100,Temporary grasses
 3320201040,festulolium,9,Seed/Propagation,<,G1100,Temporary grasses
-3320201050,lolium_ryegrass,0,No specified use,<,G1000,Temporary grasses and grazings
-3320201050,lolium_ryegrass,5,Harvested Green,<,G1000,Temporary grasses and grazings
+3320201050,lolium_ryegrass,0,No specified use,<,G1100,Temporary grasses
+3320201050,lolium_ryegrass,5,Harvested Green,<,G1100,Temporary grasses
 3320201050,lolium_ryegrass,9,Seed/Propagation,<,E0000,Seeds and seedlings
 3320201060,setaria,0,No specified use,<,G1100,Temporary grasses
 3320201070,sod_turf,0,No specified use,<,I9000,Other industrial crops n.e.c.
 3320201070,sod_turf,9,Seed/Propagation,<,E0000,Seeds and seedlings
 3320201080,switchgrass,0,No specified use,<,G1100,Temporary grasses
-3320201090,timothy,0,No specified use,<,G1000,Temporary grasses and grazings
-3320201090,timothy,5,Harvested Green,<,G1000,Temporary grasses and grazings
+3320201090,timothy,0,No specified use,<,G1100,Temporary grasses
+3320201090,timothy,5,Harvested Green,<,G1100,Temporary grasses
 3320201090,timothy,9,Seed/Propagation,<,E0000,Seeds and seedlings
 3320201100,canary_seed_canaryseed,0,No specified use,<,C1900,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)"
 3320201100,canary_seed_canaryseed,9,Seed/Propagation,<,C1900,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)"
