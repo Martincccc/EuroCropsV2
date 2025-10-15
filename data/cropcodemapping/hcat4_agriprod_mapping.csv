@@ -60,7 +60,7 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3310108001,winter_triticale,0,No specified use,=,C1610,Winter triticale
 3310108001,winter_triticale,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
 3310108001,winter_triticale,6,Harvested as Grains,=,C1610,Winter triticale
-3310108002,spring_triticale,0,No specified use,<,C1600,triticale
+3310108002,spring_triticale,0,No specified use,<,C1600,Triticale
 3310108002,spring_triticale,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
 3310109000,millet,0,No specified use,<,C1990,"Other cereals n.e.c. (millet, canary seed, etc.)"
 3310110000,spelt,0,No specified use,<,C1110,Common wheat and spelt
