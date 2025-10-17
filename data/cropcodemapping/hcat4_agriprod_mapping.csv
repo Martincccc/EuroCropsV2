@@ -516,52 +516,52 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3311300000,phacelia,9,Seed/Propagation,<,E0000,Seeds and seedlings
 3319900000,other_arable_land_crops,0,No specified use,<,ARA,Arable land
 3319900000,other_arable_land_crops,3,Fodder/Forage,<,ARA,Arable land
-3320000000,grassland_grass,0,No specified use,<,J0000+G1100,Permanent grassland+Temporary grasses
-3320000000,grassland_grass,3,Fodder/Forage,<,J0000+G1100,Permanent grassland+Temporary grasses
-3320000000,grassland_grass,4,Energy,<,J0000+G1100,Permanent grassland+Temporary grasses
-3320000000,grassland_grass,5,Harvested Green,<,J0000+G1100,Permanent grassland+Temporary grasses
-3320000000,grassland_grass,10,Eco-schemes for environment protection,<,J0000+G1100,Permanent grassland+Temporary grasses
+3320000000,grassland_grass,0,No specified use,<,J0000+G1000,Permanent grassland+Temporary grasses and grazings
+3320000000,grassland_grass,3,Fodder/Forage,<,J0000+G1000,Permanent grassland+Temporary grasses and grazings
+3320000000,grassland_grass,4,Energy,<,J0000+G1000,Permanent grassland+Temporary grasses and grazings
+3320000000,grassland_grass,5,Harvested Green,<,J0000+G1000,Permanent grassland+Temporary grasses and grazings
+3320000000,grassland_grass,10,Eco-schemes for environment protection,<,J0000+G1000,Permanent grassland+Temporary grasses and grazings
 3320100000,permanent_grassland,0,No specified use,=,J0000,Permanent grassland
 3320100000,permanent_grassland,3,Fodder/Forage,=,J0000,Permanent grassland
 3320100000,permanent_grassland,5,Harvested Green,=,J0000,Permanent grassland
 3320100000,permanent_grassland,9,Seed/Propagation,<,E0000,Seeds and seedlings
 3320100000,permanent_grassland,10,Eco-schemes for environment protection,=,J0000,Permanent grassland
-3320200000,temporary_grassland,0,No specified use,=,G1100,Temporary grasses
-3320200000,temporary_grassland,3,Fodder/Forage,=,G1100,Temporary grasses
-3320200000,temporary_grassland,5,Harvested Green,=,G1100,Temporary grasses
-3320200000,temporary_grassland,10,Eco-schemes for environment protection,=,G1100,Temporary grasses
-3320201000,poaceae_grasses,0,No specified use,<,G1100,Temporary grasses
-3320201000,poaceae_grasses,3,Fodder/Forage,<,G1100,Temporary grasses
-3320201000,poaceae_grasses,4,Energy,<,G1100,Temporary grasses
+3320200000,temporary_grassland,0,No specified use,=,G1000,Temporary grasses and grazings
+3320200000,temporary_grassland,3,Fodder/Forage,=,G1000,Temporary grasses and grazings
+3320200000,temporary_grassland,5,Harvested Green,=,G1000,Temporary grasses and grazings
+3320200000,temporary_grassland,10,Eco-schemes for environment protection,=,G1000,Temporary grasses and grazings
+3320201000,poaceae_grasses,0,No specified use,<,G1000,Temporary grasses and grazings
+3320201000,poaceae_grasses,3,Fodder/Forage,<,G1000,Temporary grasses and grazings
+3320201000,poaceae_grasses,4,Energy,<,G1000,Temporary grasses and grazings
 3320201000,poaceae_grasses,9,Seed/Propagation,<,E0000,Seeds and seedlings
-3320201000,poaceae_grasses,10,Eco-schemes for environment protection,<,G1100,Temporary grasses
-3320201010,elymus,0,No specified use,<,G1100,Temporary grasses
-3320201010,elymus,3,Fodder/Forage,<,G1100,Temporary grasses
+3320201000,poaceae_grasses,10,Eco-schemes for environment protection,<,G1000,Temporary grasses and grazings
+3320201010,elymus,0,No specified use,<,G1000,Temporary grasses and grazings
+3320201010,elymus,3,Fodder/Forage,<,G1000,Temporary grasses and grazings
 3320201010,elymus,4,Energy,<,I6000,Energy crops n.e.c.
-3320201010,elymus,5,Harvested Green,<,G1100,Temporary grasses
-3320201010,elymus,9,Seed/Propagation,<,G1100,Temporary grasses
-3320201020,festuca_fescue,0,No specified use,<,G1100,Temporary grasses
-3320201020,festuca_fescue,2,Industry/for processing,<,G1100,Temporary grasses
-3320201020,festuca_fescue,5,Harvested Green,<,G1100,Temporary grasses
+3320201010,elymus,5,Harvested Green,<,G1000,Temporary grasses and grazings
+3320201010,elymus,9,Seed/Propagation,<,G1000,Temporary grasses and grazings
+3320201020,festuca_fescue,0,No specified use,<,G1000,Temporary grasses and grazings
+3320201020,festuca_fescue,2,Industry/for processing,<,G1000,Temporary grasses and grazings
+3320201020,festuca_fescue,5,Harvested Green,<,G1000,Temporary grasses and grazings
 3320201020,festuca_fescue,9,Seed/Propagation,<,E0000,Seeds and seedlings
-3320201030,cocksfoot_catgrass,0,No specified use,<,G1100,Temporary grasses
-3320201030,cocksfoot_catgrass,9,Seed/Propagation,<,G1100,Temporary grasses
-3320201040,festulolium,0,No specified use,<,G1100,Temporary grasses
-3320201040,festulolium,5,Harvested Green,<,G1100,Temporary grasses
-3320201040,festulolium,9,Seed/Propagation,<,G1100,Temporary grasses
-3320201050,lolium_ryegrass,0,No specified use,<,G1100,Temporary grasses
-3320201050,lolium_ryegrass,5,Harvested Green,<,G1100,Temporary grasses
+3320201030,cocksfoot_catgrass,0,No specified use,<,G1000,Temporary grasses and grazings
+3320201030,cocksfoot_catgrass,9,Seed/Propagation,<,G1000,Temporary grasses and grazings
+3320201040,festulolium,0,No specified use,<,G1000,Temporary grasses and grazings
+3320201040,festulolium,5,Harvested Green,<,G1000,Temporary grasses and grazings
+3320201040,festulolium,9,Seed/Propagation,<,G1000,Temporary grasses and grazings
+3320201050,lolium_ryegrass,0,No specified use,<,G1000,Temporary grasses and grazings
+3320201050,lolium_ryegrass,5,Harvested Green,<,G1000,Temporary grasses and grazings
 3320201050,lolium_ryegrass,9,Seed/Propagation,<,E0000,Seeds and seedlings
-3320201060,setaria,0,No specified use,<,G1100,Temporary grasses
+3320201060,setaria,0,No specified use,<,G1000,Temporary grasses and grazings
 3320201070,sod_turf,0,No specified use,<,I9000,Other industrial crops n.e.c.
 3320201070,sod_turf,9,Seed/Propagation,<,E0000,Seeds and seedlings
-3320201080,switchgrass,0,No specified use,<,G1100,Temporary grasses
-3320201090,timothy,0,No specified use,<,G1100,Temporary grasses
-3320201090,timothy,5,Harvested Green,<,G1100,Temporary grasses
+3320201080,switchgrass,0,No specified use,<,G1000,Temporary grasses and grazings
+3320201090,timothy,0,No specified use,<,G1000,Temporary grasses and grazings
+3320201090,timothy,5,Harvested Green,<,G1000,Temporary grasses and grazings
 3320201090,timothy,9,Seed/Propagation,<,E0000,Seeds and seedlings
 3320201100,canary_seed_canaryseed,0,No specified use,<,C1900,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)"
 3320201100,canary_seed_canaryseed,9,Seed/Propagation,<,C1900,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)"
-3320209900,other_poaceae_grasses,0,No specified use,<,G1100,Temporary grasses
+3320209900,other_poaceae_grasses,0,No specified use,<,G1000,Temporary grasses and grazings
 3320209900,other_poaceae_grasses,9,Seed/Propagation,<,E0000,Seeds and seedlings
 3330000000,permanent_crops_perennial,0,No specified use,=,PECR,Permanent crops
 3330100000,orchards_fruits,0,No specified use,=,F0000,"Fruits, berries and nuts (excluding citrus fruits, grapes and strawberries)"
