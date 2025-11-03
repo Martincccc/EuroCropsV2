@@ -628,7 +628,7 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3330499000,other_citrus,0,No specified use,=,T9000,Other citrus fruits n.e.c.
 3330500000,olive,0,No specified use,=,O1000,Olives
 3330500000,olive,2,Industry/for processing,=,O1000,Olives
-3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use,=,W0000,"Grapes, must and wines"
+3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use,=,W1100,"Grapes, must and wines"
 3330600000,vineyards_wine_vine_rebland_grapes,1,Consumption/Fresh,=,W1200,Grapes for table use
 3330600000,vineyards_wine_vine_rebland_grapes,2,Industry/for processing,=,W1100+W1300,Grapes for wines+Grapes for raisins
 3330600000,vineyards_wine_vine_rebland_grapes,9,Seed/Propagation,<,L0000,Nurseries
