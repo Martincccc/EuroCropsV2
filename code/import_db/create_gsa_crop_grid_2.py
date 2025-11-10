@@ -8,15 +8,8 @@ from glob import glob
 import shutil
 import psycopg2
 
-postgis_host     = "139.191.240.190"
-postgis_port     = '54324'
-postgis_dbname   = "refocus_db"
-postgis_user     = "refocus"   # ""
-postgis_password = "Ju78Ftu9374hGt"          # ""
-
 from sqlalchemy import create_engine
 
-HostIP='jeodb01.cidsn.jrc.it'
 from osgeo import gdal, ogr, osr
 
 
@@ -27,43 +20,17 @@ import matplotlib.pyplot as plt
 from sqlalchemy import create_engine
 import subprocess
 
- 
-def RunSysCommand(Commande):
-    if type(Commande) is list:
-        Commande = ' '.join(Commande)
-    p = subprocess.Popen(Commande, stdout=subprocess.PIPE, shell=True)
-    (output, err) = p.communicate()
-    return output
+from sqlalchemy import create_engine
+
+from ..processing.tools import *
+
+from glob import glob
 
 
-def GetSQL(sql):
-    df = pd.read_sql(sql,postgis_engine)
-    return df
+ScheMa = postgis_cfg['schema']
 
 
-def LaunchPG(Commande,Commit=True):
-    (conn,cur)=InitPG()
-    cur.execute(Commande)
-    cur.close()
-    if Commit:
-        conn.commit()
-    conn.close()
-
-# def LaunchPG(Commande,Commit=True):
-#     print(Commande.replace(';',';\n'))
-
-def PgId():
-    return u'"'+"dbname='"+postgis_dbname+"' port='"+str(postgis_port)+"' user='"+postgis_user+"' host='"+postgis_host+"' password='"+postgis_password+"'"+'"'
-
-def InitPG():
-    conn = psycopg2.connect(PgId())
-    cur = conn.cursor()
-    return conn,cur
-
-def FinishPG(conn,cur):
-    cur.close()
-    conn.commit()
-    conn.close()
+DirInScr = config_dict['path']['fastio_dir']
 
 
 # Connect to PostGIS
