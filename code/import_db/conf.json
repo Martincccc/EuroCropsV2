@@ -1,0 +1,14 @@
+{
+    "duckdbpath": "/scratch/iordamo/euc_gsa/euc_gsa_tst.duckdb",
+    "duckdbextpath": "/home/iordamo/.duckdb/extensions",
+    "pg_host": "jeodpp-db1.jrc.ec.europa.eu",
+    "pg_port": "54331",
+    "pg_user": "refocus_eucropmap_user",
+    "pg_password": "8gsmuTJUj2xKrHbf",
+    "pg_dbname": "refocus_eucropmap_db",
+    "pg_schema": "euc_gsa",
+    "gpqt_output_path": "/scratch/iordamo/euc_gsa/data/ftp_downloads/",
+    "ftp_download_url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/DRLL/EuroCropsV2/gpqt/",
+    "download_all": false,
+    "dwnld_region_list": ["bg_2014", "bg_2015"]
+}
