@@ -3,18 +3,21 @@
 
 # import json
 
-RunDownload  = True
-RunImportDuckDB = False
-RunImportPGDB = True
+RunDownload  = False
+RunImportDuckDB = True
+RunImportPGDB = False
 
 
 # 
 
-
+import os
 from code.utils.tools import global_config
 
 # import pdb;set_trace()
 
+os.makedirs(os.path.dirname(os.path.abspath(global_config.paths['duckdbpath'])), exist_ok=True)
+
+# dd
 def main(global_config):
     if RunDownload:
         print("Downloading files from FTP")
@@ -23,7 +26,7 @@ def main(global_config):
     if RunImportDuckDB:
         print("Importing files to DuckDB")
         from code.import_db.a02_import_to_duckdb import upload as import_to_duckdb
-        import_to_duckdb.upload(global_config)
+        import_to_duckdb(global_config)
     if RunImportPGDB:
         print("Importing files to PostgreSQL/PostGIS")
         from code.import_db.a03_import_to_pgdb import upload as import_to_pgdb

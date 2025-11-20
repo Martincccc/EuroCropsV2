@@ -39,6 +39,7 @@ def upload_to_postgis(cur, conn, engine, datadir, region_list, year_list, postgi
 
     for i in range(0, len(files_to_upload)):
         print(files_to_upload[i])
+        cur.execute(f"DROP TABLE IF EXISTS {tablenames[i]};")
 
         #open parquet file with pyarrow
         parquet_file = pq.ParquetFile(files_to_upload[i])
@@ -64,15 +65,16 @@ def upload_to_postgis(cur, conn, engine, datadir, region_list, year_list, postgi
                 if_exists="append" if ii > 0 else "replace",
                 index=False
             )
+            cur.execute(f"ALTER TABLE {tablenames[i]} RENAME COLUMN geometry TO geom;")
 
             print("Upload complete")
 
-        cur.execute(f"""CREATE INDEX IF NOT EXISTS {tablenames[i]}_geometry_idx ON {postgis_schema}.{tablenames[i]} USING GIST (geometry);""")
+        cur.execute(f"""CREATE INDEX IF NOT EXISTS {tablenames[i]}_geom_idx ON {postgis_schema}.{tablenames[i]} USING GIST (geom);""")
         cur.execute(f"""CREATE INDEX IF NOT EXISTS {tablenames[i]}_cropfield_idx ON {postgis_schema}.{tablenames[i]} (cropfield);""")
         cur.execute(f"""CREATE INDEX IF NOT EXISTS {tablenames[i]}_original_code_idx ON {postgis_schema}.{tablenames[i]} (original_code);""")
         cur.execute(f"""CREATE INDEX IF NOT EXISTS {tablenames[i]}_area_ha_idx ON {postgis_schema}.{tablenames[i]} (area_ha);""")
 
-    conn.commit()
+        conn.commit()
 
 
 def upload(conf):
@@ -91,6 +93,7 @@ def upload(conf):
         host=conf.postgis['pg_host'],
         port=conf.postgis['pg_port']
     )
+
 
     region_list =conf.region_list
     year_list   =conf.year_list
