@@ -9,14 +9,29 @@ import geopandas as gpd
 from sqlalchemy import create_engine
 from shapely import wkb 
 
-def upload_to_postgis(cur, conn, engine, datadir, postgis_schema):
+def upload_to_postgis(cur, conn, engine, datadir, region_list, year_list, postgis_schema):
     # Create schema if it doesn't exist
     cur.execute(f"CREATE SCHEMA IF NOT EXISTS {postgis_schema};")
     conn.commit()
 
     files_to_upload = []
     for filename in glob.iglob(datadir + '**.parquet'):
-        files_to_upload.append(filename)
+
+        if region_list==['all']:
+            nutsok = True
+        elif filename.split('/')[-1].split('.')[0].split('_')[0] in region_list:
+            nutsok = True
+        else:
+            nutsok = False
+        if year_list==['all']:
+            yearok = True
+        elif filename.split('/')[-1].split('.')[0].split('_')[1] in [str(y) for y in year_list]:
+            yearok = True
+        else:
+            yearok = False
+
+        if nutsok and yearok:
+            files_to_upload.append(filename)
     #print(files_to_upload)
 
     tablenames = [x.split('/')[-1].split('.')[0] for x in files_to_upload]
@@ -61,19 +76,29 @@ def upload_to_postgis(cur, conn, engine, datadir, postgis_schema):
 
 
 def upload(conf):
-    engine = create_engine("postgresql+psycopg2://"+conf['pg_user']+":"+conf['pg_password']+"@"+conf['pg_host']+":"+conf['pg_port']+"/"+conf['pg_dbname'])
+
+    local_dir   =conf.paths['fastio_dir']
+    region_list =conf.region_list
+    year_list   =conf.year_list
+
+
+    engine = create_engine("postgresql+psycopg2://"+conf.postgis['pg_user']+":"+conf.postgis['pg_password']+"@"+conf.postgis['pg_host']+":"+conf.postgis['pg_port']+"/"+conf.postgis['pg_dbname'])
 
     conn = psycopg2.connect(
-        dbname=conf['pg_dbname'],
-        user=conf['pg_user'],
-        password=conf['pg_password'],
-        host=conf['pg_host'],
-        port=conf['pg_port']
+        dbname=conf.postgis['pg_dbname'],
+        user=conf.postgis['pg_user'],
+        password=conf.postgis['pg_password'],
+        host=conf.postgis['pg_host'],
+        port=conf.postgis['pg_port']
     )
+
+    region_list =conf.region_list
+    year_list   =conf.year_list
+
 
     try:
         cur = conn.cursor()
-        upload_to_postgis(cur, conn, engine, conf['gpqt_output_path'], conf['pg_schema'])
+        upload_to_postgis(cur, conn, engine, local_dir,region_list,year_list,conf.postgis['pg_gsa_schema'])
     except Exception as e:
         conn.rollback()
         raise

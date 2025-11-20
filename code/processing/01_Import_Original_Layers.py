@@ -10,7 +10,7 @@ from glob import glob
 from joblib import Parallel, delayed
 
 
-ScheMa = postgis_cfg['schema']
+ScheMa = postgis_cfg['pg_gsa_schema']
 
 FileList = '../../EuroCropsV2/data/processing/import_list_original_datasets.csv'
 df = pd.read_csv(FileList)

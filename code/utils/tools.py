@@ -5,9 +5,9 @@ import datetime as dt
 import pandas as pd
 import warnings
 import subprocess
-import rasterio
 import configparser  # For reading configuration file
 from io import StringIO
+from typing import Optional
 
 
 # ===============================
@@ -45,6 +45,8 @@ def RunSysCommand(Commande):
 
 
 def OpenWithRasterio(FileIn):
+    import rasterio
+
     """
     Open a raster file safely with rasterio and return the first band as a NumPy array.
     """
@@ -59,17 +61,50 @@ def OpenWithRasterio(FileIn):
 # Configuration
 # ===============================
 
-# Read config.ini dynamically
-config = configparser.ConfigParser()
+import configparser
+import os
+
+class Config:
+    def __init__(self, config_path):
+        self._parser = configparser.ConfigParser()
+        self._parser.read(config_path)
+        self._parse_sections()
+
+    def _parse_sections(self):
+        self.postgis = dict(self._parser.items('postgis'))
+        self.parameters = dict(self._parser.items('parameters'))
+        self.paths = dict(self._parser.items('paths'))
+        self.url = dict(self._parser.items('url'))
+        # Type conversions as attributes
+        self.year_list = [int(y) for y in self.parameters['year_list'].split(',')]
+        self.region_list = self.parameters['region_list'].split(',')
+
+    # Convenience properties
+    @property
+    def pg_user(self):
+        return self.postgis['pg_user']
+    @property
+    def pg_password(self):
+        return self.postgis['pg_password']
+    @property
+    def pg_host(self):
+        return self.postgis['pg_host']
+    @property
+    def pg_port(self):
+        return self.postgis['pg_port']
+    @property
+    def pg_dbname(self):
+        return self.postgis['pg_dbname']
+    @property
+    def ftp_download_url(self):
+        return self.url.get('ftp_download_url')
+    @property
+    def gpqt_output_path(self):
+        return self.paths.get('gpqt_output_path')
+
+# Usage:
 config_path = os.path.join(os.path.dirname(__file__), '../../data/config.ini')
-config.read(config_path)
-
-# Convert all sections into a nested dictionary
-config_dict = {section: dict(config.items(section)) for section in config.sections()}
-
-# Convenience alias for the PostGIS section
-postgis_cfg = config_dict.get('postgis', {})
-
+global_config = Config(config_path)
 
 # ===============================
 # Database Functions
@@ -80,8 +115,8 @@ def GetSQL(sql):
     Execute an SQL query and return the result as a pandas DataFrame.
     """
     engine = create_engine(
-        f"postgresql://{postgis_cfg['user']}:{postgis_cfg['password']}@"
-        f"{postgis_cfg['host']}:{postgis_cfg['port']}/{postgis_cfg['dbname']}"
+        f"postgresql://{global_config.pg_user}:{global_config.pg_password}@"
+        f"{global_config.pg_host}:{global_config.pg_port}/{global_config.pg_dbname}"
     )
     df = pd.read_sql(sql, engine)
     return df
@@ -101,9 +136,9 @@ def PgId():
     Return a PostgreSQL connection string for use with GDAL or other tools.
     """
     return (
-        f"\"dbname='{postgis_cfg['dbname']}' port='{postgis_cfg['port']}' "
-        f"user='{postgis_cfg['user']}' host='{postgis_cfg['host']}' "
-        f"password='{postgis_cfg['password']}'\""
+        f"\"dbname='{global_config.pg_dbname}' port='{global_config.pg_port}' "
+        f"user='{global_config.pg_user}' host='{global_config.pg_host}' "
+        f"password='{global_config.pg_password}'\""
     )
 
 
@@ -112,11 +147,11 @@ def InitPG():
     Initialize a psycopg2 connection and return (connection, cursor).
     """
     conn = psycopg2.connect(
-        dbname=postgis_cfg['dbname'],
-        port=postgis_cfg['port'],
-        user=postgis_cfg['user'],
-        host=postgis_cfg['host'],
-        password=postgis_cfg['password']
+        dbname=global_config.pg_dbname,
+        port=global_config.pg_port,
+        user=global_config.pg_user,
+        host=global_config.pg_host,
+        password=global_config.pg_password
     )
     cur = conn.cursor()
     return conn, cur
@@ -131,74 +166,6 @@ def FinishPG(conn, cur):
     conn.close()
 
 
-# def PushDF(df, table_name):
-#     """
-#     Push a pandas DataFrame to a PostgreSQL/PostGIS table using SQLAlchemy.
-#     Automatically converts column names to lowercase.
-#     """
-#     df.set_axis([x.lower() if isinstance(x, str) else x for x in df.columns], axis=1)
-    
-#     # Split schema and table if provided as schema.table
-#     if '.' in table_name:
-#         Schema, table_name = table_name.split('.')
-#     else:
-#         Schema = None
-
-#     engine = create_engine(
-#         f"postgresql://{postgis_cfg['user']}:{postgis_cfg['password']}@"
-#         f"{postgis_cfg['host']}:{postgis_cfg['port']}/{postgis_cfg['dbname']}"
-#     )
-
-#     df.to_sql(table_name, engine, schema=Schema, if_exists='replace', index=False)
-
-# def copy_from_stringio(conn, df, table):
-#     """
-#     Here we are going save the dataframe in memory 
-#     and use copy_from() to copy it to the table
-#     """
-#     # save dataframe to an in memory buffer
-#     buffer = StringIO()
-#     df.to_csv(buffer, index_label='id', header=False)
-#     buffer.seek(0)
-    
-#     cursor = conn.cursor()
-#     try:
-#         cursor.copy_from(buffer, table, sep=",")
-#         conn.commit()
-#     except (Exception, psycopg2.DatabaseError) as error:   
-#         print("Error: %s" % error)
-#         conn.rollback()
-#         cursor.close()
-#         return 1
-#     cursor.close()
-
-# def PushDF3(df,table_name,Init=True,Index=[]):
-#     TN1 = table_name.lower()
-#     TN2 = TN1.replace('.','_')
-#     if Init :
-#         LaunchPG('drop table if exists '+TN1)
-#         LaunchPG('drop table if exists '+TN2)
-#         LaunchPG('drop table if exists '+TN1.split('.')[0]+'.'+TN2)
-#         PushDF(df.head(1),TN2) # initialisation / include columns names / very slow if all table
-#         df = df.iloc[1:]
-
-#     conn = connect(postgis_cfg) # connect to the database
-#     copy_from_stringio(conn, df,TN2) # copy the dataframe to SQL / much faster
-#     conn.close() # close the connection
-#     LaunchPG('ALTER TABLE public.'+TN2+' SET SCHEMA '+TN1.split('.')[0]+';')
-#     # print('ALTER TABLE '+TN1.split('.')[0]+'.'+TN2+' RENAME TO '+TN1.split('.')[1]+';')
-#     LaunchPG('ALTER TABLE '+TN1.split('.')[0]+'.'+TN2+' RENAME TO '+TN1.split('.')[1]+';')
-#     for ind in Index:
-#         LaunchPG('CREATE INDEX ON ' +TN1+' ('+ind+');')
-
-
-# def connect(params_dic):
-#     """ Connect to the PostgreSQL database server """
-#     conn = psycopg2.connect(**postgis_cfg)
-#     return conn
-
-
-
 import pandas as pd
 import psycopg2
 from io import StringIO
@@ -209,25 +176,25 @@ from sqlalchemy import create_engine, text
 def create_pg_engine(cfg):
     """Create a SQLAlchemy engine from a config dictionary."""
     return create_engine(
-        f"postgresql://{cfg['user']}:{cfg['password']}@"
-        f"{cfg['host']}:{cfg['port']}/{cfg['dbname']}"
+        f"postgresql://{cfg['pg_user']}:{cfg['pg_password']}@"
+        f"{cfg['pg_host']}:{cfg['pg_port']}/{cfg['pg_dbname']}"
     )
 
 def connect_pg(cfg):
     """Create a psycopg2 connection from a config dictionary."""
     return psycopg2.connect(
-        dbname=cfg['dbname'],
-        user=cfg['user'],
-        password=cfg['password'],
-        host=cfg['host'],
-        port=cfg['port']
+        dbname=cfg['pg_dbname'],
+        user=cfg['pg_user'],
+        password=cfg['pg_password'],
+        host=cfg['pg_host'],
+        port=cfg['pg_port']
     )
 
 
 
 from sqlalchemy import create_engine, text
 
-engine = create_pg_engine(postgis_cfg)
+engine = create_pg_engine(global_config.postgis)
 
 def to_sql_with_indexes(df, table_name, engine=engine, if_exists="replace", index_cols=None):
     """
@@ -315,7 +282,7 @@ def copy_from_stringio(conn, df: pd.DataFrame, full_table_name: str):
             conn.rollback()
             raise RuntimeError(f"Error copying data to {full_table_name}: {e}")
 
-def push_df(df: pd.DataFrame, table_name: str, cfg=postgis_cfg, init: bool = True, indexes: list[str] = None):
+def push_df(df: pd.DataFrame, table_name: str, cfg=None, init: bool = True, indexes: Optional[list[str]] = None):
     """
     Push a pandas DataFrame to PostgreSQL efficiently.
     
@@ -326,6 +293,8 @@ def push_df(df: pd.DataFrame, table_name: str, cfg=postgis_cfg, init: bool = Tru
     4. Moves the table to target schema and renames it back.
     5. Optionally creates indexes.
     """
+    if cfg is None:
+        cfg = global_config.postgis
     if indexes is None:
         indexes = []
 

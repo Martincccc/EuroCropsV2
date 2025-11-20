@@ -1,11 +1,11 @@
 import pandas as pd
-from ..processing.tools import *
+from processing.tools import *
 
 
-df = pd.read_csv('./data/cropcodemapping/eurocrops.csv')
+df = pd.read_csv('../data/cropcodemapping/eurocrops.csv')
 to_sql_with_indexes(df,'cropmapping.eurocrops',index_cols='all')
 
-df = pd.read_csv('./data/cropcodemapping/hcat4_agriprod_mapping.csv')
+df = pd.read_csv('../data/cropcodemapping/hcat4_agriprod_mapping.csv')
 to_sql_with_indexes(df,'cropmapping.hcat4_agriprod_mapping',index_cols='all')
 
 
