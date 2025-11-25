@@ -88,9 +88,9 @@ at,212,SOMMERACKERBOHNEN,summer broad beans,3310201010,beans,0,No specified use
 at,213,WINTERKÖRNERERBSEN,winter peas,3310201080,peas,0,No specified use
 at,214,SOMMERKÖRNERERBSEN,summer peas,3310201080,peas,0,No specified use
 at,301,WINTERRAPS,WINTER RAPE,3310604011,winter_rapeseed_rape,0,No specified use
-at,302,SOMMERRAPS,SUMMER RAPES,3310604013,summer_rapeseed_rape,0,No specified use
+at,302,SOMMERRAPS,SUMMER RAPES,3310604012,spring_rapeseed_rape,0,No specified use
 at,303,WINTERRÜBSEN,WINTER BEETS,3310715990,other_root_vegetables,0,No specified use
-at,304,SOMMERRÜBSEN,Summer Brassica rapa L. var. silvestris,3310604013,summer_rapeseed_rape,0,No specified use
+at,304,SOMMERRÜBSEN,Summer Brassica rapa L. var. silvestris,3310604012,spring_rapeseed_rape,0,No specified use
 at,307,SONNENBLUMEN,SUNFLOWERS,3310604020,sunflower,0,No specified use
 at,308,SOJABOHNEN,SOYBEANS,3310201030,soy_soybeans,0,No specified use
 at,309,SOJABOHNEN / SOMMERWICKEN IN GETRENNTEN REIHEN,SOYBEANS / SUMMER VETCHETS IN SEPARATE ROWS,3310201030,soy_soybeans,0,No specified use
@@ -286,8 +286,8 @@ be2,396,Mengteelt maïs en vlinderbloemige teelt,Polyculture of corn and legume,
 be2,4,Houtkanten en houtwallen <= 10 m breed,Wooded edges and wooded banks <= 10 m wide,3360000000,tree_wood_forest,0,No specified use
 be2,4111,Winterkoolzaad,winter rapeseed,3310604011,winter_rapeseed_rape,0,No specified use
 be2,4112,Winterraapzaad,Winter rape seed,3310604011,winter_rapeseed_rape,0,No specified use
-be2,4121,Zomerkoolzaad,summer rapeseed,3310604013,summer_rapeseed_rape,0,No specified use
-be2,4122,Zomerraapzaad,summer rapeseed,3310604013,summer_rapeseed_rape,0,No specified use
+be2,4121,Zomerkoolzaad,summer rapeseed,3310604012,spring_rapeseed_rape,0,No specified use
+be2,4122,Zomerraapzaad,summer rapeseed,3310604012,spring_rapeseed_rape,0,No specified use
 be2,42,Zonnebloempitten,sunflower seeds,3310604020,sunflower,9,Seed/Propagation
 be2,43,Sojabonen,soybeans,3310201030,soy_soybeans,0,No specified use
 be2,44,Andere oliehoudende zaden,Other oilseeds,3310604000,oilseed_crops,8,Oil
@@ -1590,9 +1590,9 @@ de4,290,Alle anderen Hülsenfrüchte zur Körnergewinnung,All other legumes for 
 de4,291,Wicken (auch Saatwicken),Vetch (also known as seed vetch),3310202050,vetches,0,No specified use
 de4,3,Feldgehölze (100 - 2.000m²) CC,field trees (100 - 2.000m) CC,3360000000,tree_wood_forest,0,No specified use
 de4,311,Winterraps,Winter rape,3310604011,winter_rapeseed_rape,0,No specified use
-de4,312,Sommerraps,Summer rape,3310604013,summer_rapeseed_rape,0,No specified use
+de4,312,Sommerraps,Summer rape,3310604012,spring_rapeseed_rape,0,No specified use
 de4,315,"Winterrübsen (Rübsen, Rübsamen, Rübsaat)",Winter rape (oil radish/Winter turnip rape (also rapeseed),3310604011,winter_rapeseed_rape,8,Oil
-de4,316,"Sommerrübsen (Rübsen, Rübsamen, Rübsaat)",Summer rapeseed (rapeseed/Summer turnip rape (also rapeseed),3310604013,summer_rapeseed_rape,0,No specified use
+de4,316,"Sommerrübsen (Rübsen, Rübsamen, Rübsaat)",Summer rapeseed (rapeseed/Summer turnip rape (also rapeseed),3310604012,spring_rapeseed_rape,0,No specified use
 de4,320,Sonnenblumen,sunflowers,3310604020,sunflower,0,No specified use
 de4,330,Sojabohnen,Soybeans,3310201030,soy_soybeans,0,No specified use
 de4,341,"Lein, Flachs",Flax/Flax (flax linseed),3310607000,flax_linseed,0,No specified use
@@ -1847,9 +1847,9 @@ dea,240,Erbsen/Bohnen - Gemische,Peas/Beans - Mixtures,3310201080,peas,0,No spec
 dea,250,Gemenge Leguminosen / Getreide,Mixture of legumes / grain,3310200000,legumes,6,Harvested as Grains
 dea,292,Linsen (Speise-Linse),Lentils,3310201070,lentils,0,No specified use
 dea,311,Winterraps,Winter rape,3310604011,winter_rapeseed_rape,0,No specified use
-dea,312,Sommerraps,Summer rape,3310604013,summer_rapeseed_rape,0,No specified use
+dea,312,Sommerraps,Summer rape,3310604012,spring_rapeseed_rape,0,No specified use
 dea,315,Winterrübsen,WINTER BEETS,3310604011,winter_rapeseed_rape,0,No specified use
-dea,316,Sommerrübsen,Summer savory,3310604013,summer_rapeseed_rape,0,No specified use
+dea,316,Sommerrübsen,Summer savory,3310604012,spring_rapeseed_rape,0,No specified use
 dea,320,Sonnenblumen,sunflowers,3310604020,sunflower,0,No specified use
 dea,330,Sojabohnen,Soybeans,3310201030,soy_soybeans,0,No specified use
 dea,341,"Lein, Flachs",Flax/Flax (flax linseed),3310607000,flax_linseed,0,No specified use
@@ -2838,12 +2838,12 @@ ee,10229,suvinisu liblikõieliste allakülviga,Summer wheat undersown with legum
 ee,10230,"suvioder allakülviga, v.a liblikõieliste allakülviga",Summer barley undersown (excl. legumes),3310104002,spring_barley,0,No specified use
 ee,10231,suvioder allakülvita,Summer barley,3310104002,spring_barley,0,No specified use
 ee,10232,suvioder liblikõieliste allakülviga,Summer barley undersown with legumes,3310104002,spring_barley,0,No specified use
-ee,10233,"suviraps allakülviga, v.a liblikõieliste allakülviga",Summer oilseed rape with the exception of leguminous crops,3310604013,summer_rapeseed_rape,8,Oil
-ee,10234,suviraps allakülvita,Summer oilseed rape,3310604013,summer_rapeseed_rape,8,Oil
-ee,10235,suviraps liblikõielise allakülviga,Summer rape with leguminous sowing,3310604013,summer_rapeseed_rape,0,No specified use
-ee,10236,"suvirüps allakülviga, v.a liblikõieliste allakülviga","summer rape with undersowing, except for leguminous undersowing",3310604013,summer_rapeseed_rape,0,No specified use
-ee,10237,suvirüps allakülvita,Summer rape,3310604013,summer_rapeseed_rape,0,No specified use
-ee,10238,suvirüps liblikõieliste allakülviga,Summer rape undersown with legumes,3310604013,summer_rapeseed_rape,0,No specified use
+ee,10233,"suviraps allakülviga, v.a liblikõieliste allakülviga",Summer oilseed rape with the exception of leguminous crops,3310604012,spring_rapeseed_rape,8,Oil
+ee,10234,suviraps allakülvita,Summer oilseed rape,3310604012,spring_rapeseed_rape,8,Oil
+ee,10235,suviraps liblikõielise allakülviga,Summer rape with leguminous sowing,3310604012,spring_rapeseed_rape,0,No specified use
+ee,10236,"suvirüps allakülviga, v.a liblikõieliste allakülviga","summer rape with undersowing, except for leguminous undersowing",3310604012,spring_rapeseed_rape,0,No specified use
+ee,10237,suvirüps allakülvita,Summer rape,3310604012,spring_rapeseed_rape,0,No specified use
+ee,10238,suvirüps liblikõieliste allakülviga,Summer rape undersown with legumes,3310604012,spring_rapeseed_rape,0,No specified use
 ee,10239,"suvitritikale allakülviga, v.a liblikõieliste allakülviga","summer triticale with undersowing, other than leguminous undersowing",3310108002,spring_triticale,0,No specified use
 ee,10240,suvitritikale allakülvita,Summer triticale,3310108002,spring_triticale,0,No specified use
 ee,10241,suvitritikale liblikõeliste allakülviga,summer triticale with leguminous under-sowing,3310108002,spring_triticale,0,No specified use
@@ -3782,7 +3782,7 @@ fr,MSW,"Culture pérenne à forte biomasse (miscanthus, switchgrass, silphie, ca
 fr,MTH,Menthe,Mint,3310612220,mints_peppermint,0,No specified use
 fr,NOS,Noisette,Hazelnut,3330302000,hazelnuts_hazel,0,No specified use
 fr,NOX,Noix,Walnuts,3330306000,walnuts,0,No specified use
-fr,NVE,Navette d'été,Summer rape,3310604013,summer_rapeseed_rape,0,No specified use
+fr,NVE,Navette d'été,Summer rape,3310604012,spring_rapeseed_rape,0,No specified use
 fr,NVF,Navet fourrager,Forage turnip,3310715050,turnips,0,No specified use
 fr,NVH,Navette d'hiver,Winter rape,3310604011,winter_rapeseed_rape,0,No specified use
 fr,NVT,Navet,Turnip,3310715050,turnips,0,No specified use
