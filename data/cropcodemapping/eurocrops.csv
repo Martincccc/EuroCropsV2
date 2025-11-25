@@ -272,7 +272,7 @@ be2,34,Japanse haver,Japanese oats,3310105000,oats,0,No specified use
 be2,341,Winterhaver,winter oats,3310105001,winter_oats,0,No specified use
 be2,342,Zomerhaver,summer oats,3310105002,spring_oats,0,No specified use
 be2,35,Triticale,Triticale,3310108000,triticale,6,Harvested as Grains
-be2,36,Spelt,Spelt,3310110000,spelt,0,No specified use
+be2,36,Spelt,Spelt,Winter spelt,3310110001,winter_spelt,0,No specified use
 be2,37,Boekweit,Buckwheat,3310703020,buckwheat,0,No specified use
 be2,38,"Gierst, sorghum, kanariezaad of harde tarwe","Millet, sorghum, canary seed or durum wheat",3310100000,cereal,0,No specified use
 be2,381,Sorghum,Sorghum,3310116000,sorghum,0,No specified use
@@ -306,10 +306,10 @@ be2,522,Zomerveldbonen - niet menselijke consumptie,Summer Field Beans  not huma
 be2,523,Drooggeoogste Vicia bonen (voor menselijke consumptie),Dry-harvested Broad beans (for human consumption),3310201010,beans,1,Consumption/Fresh
 be2,524,Drooggeoogste Phaseolus bonen (voor menselijke consumptie),Dry-harvested Common beans (for human consumption),3310201010,beans,1,Consumption/Fresh
 be2,53,Niet-bittere lupinen,Sweet Lupins,3310201090,lupins,0,No specified use
-be2,541,Mengteelt wintertarwe of triticale en vlinderbloemige,Mixed cultivation of winter wheat or triticale and leguminous plants,3310101001,winter_common_soft_wheat,0,No specified use
-be2,542,Mengteelt  andere granen en vlinderbloemige (bv. erwten en gerst,Mixed cultivation of other cereals and leguminous plants (e.g. peas and barley),3310198000,unspecified_cereals,0,No specified use
+be2,541,Mengteelt wintertarwe of triticale en vlinderbloemige,Mixed cultivation of winter wheat or triticale and leguminous plants,3310200000,legumes,0,No specified use
+be2,542,Mengteelt  andere granen en vlinderbloemige (bv. erwten en gerst,Mixed cultivation of other cereals and leguminous plants (e.g. peas and barley),3310200000,legumes,0,No specified use
 be2,6,Begraasde niet-landbouwgrond,grazed non-agricultural land,3320100000,permanent_grassland,3,Fodder/Forage
-be2,60,Grasland,Grassland,3320100000,permanent_grassland,5,Harvested Green
+be2,60,Grasland,Grassland,3320100000,permanent_grassland,0,No specified use
 be2,601,Zaaizaad grassen,Seed grasses,3320201000,poaceae_grasses,9,Seed/Propagation
 be2,602,Teeltmateriaal wijnstokken,Cultivation material vines,3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use
 be2,603,Zaaizaad graangewassen,Seed cereals,3310100000,cereal,9,Seed/Propagation
@@ -375,7 +375,7 @@ be2,8410,Stamslabonen/sperziebonen - industrie,Standard green beans/green beans 
 be2,8411,Snijbonen - industrie,String beans - industry,3310201010,beans,2,Industry/for processing
 be2,8412,Flageolets (voor de boon) - industrie,Flageolets (for the bean) - industry,3310201010,beans,2,Industry/for processing
 be2,8456,Butternutpompoenen - industrie,Butternut Squashes - Industry,3310702040,pumpkin_squash_gourd,2,Industry/for processing
-be2,85,Andere bedekking,Other cover,3390000000,not_known_and_other,0,No specified use
+be2,85,Andere bedekking,Other cover,3310000000,arable_crops,0,No specified use
 be2,8511,Asperges - industrie,Asparagus - industry,3310706000,asparagus,2,Industry/for processing
 be2,8512,Spruitkool - industrie,Brussels sprouts - industry,3310707040,brussels_sprouts,2,Industry/for processing
 be2,8513,Sjalotten - industrie,Shallots - industry,3310708060,shallot,2,Industry/for processing
@@ -418,7 +418,7 @@ be2,8557,Andere alternatieve slasoorten - industrie,Other alternative lettuce va
 be2,8558,Vroege bladgroenten - industrie,Early leafy vegetables - industry.,3310717000,salads_lettuce_leaf_vegetables,2,Industry/for processing
 be2,8559,Andere groenten - industrie,Other vegetables - industry,3310700000,fresh_vegetables,2,Industry/for processing
 be2,856,Andere kruiden -  industriële verwerking,Industrial processing of other herbs.,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,2,Industry/for processing
-be2,8561,Witloof (voor de wortel) - industrie,Chicory (for the root) - industry,3310717010,chicory_chicories,2,Industry/for processing
+be2,8561,Witloof (voor de wortel) - industrie,Chicory (for the root) - industry,3310717020,endive,2,Industry/for processing
 be2,8563,Ajuinen (vroege) - industrie,Onions (early) - industry,3310708040,onions,2,Industry/for processing
 be2,8564,Wortel (vroege) (consumptie) - industrie,Carrot (early) (consumption) - industry,3310715020,carrots_daucus,2,Industry/for processing
 be2,858,Andere meerjarige kruiden - industrie,Other perennial herbs - industrial,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,2,Industry/for processing
@@ -435,7 +435,7 @@ be2,881,Engelwortel - vers,Angelica - fresh.,3310612040,angelica,1,Consumption/F
 be2,882,"Olifantegras, mariadistel","Miscanthus x giganteus, Milk thistle",3310617030,miscanthus_silvergrass,0,No specified use
 be2,883,Bebossing (korte omlooptijd),Afforestation (short rotation),3360100000,afforestation_reforestation,0,No specified use
 be2,884,Miscanthus,miscanthus,3310617030,miscanthus_silvergrass,0,No specified use
-be2,89,Braakliggend land met minimale activiteit met EAG,Derelict land with minimal activity with EAG,3370000000,unmaintained,0,No specified use
+be2,89,Braakliggend land met minimale activiteit met EAG,Derelict land with minimal activity with EAG,3311100000,fallow_land_not_crop,0,No specified use
 be2,891,Bebossing,Afforestation,3360100000,afforestation_reforestation,0,No specified use
 be2,8910,Bebossing loofbomen-ecologisch,Afforestation deciduous trees-ecological,3360100000,afforestation_reforestation,0,No specified use
 be2,8911,Bebossing loofbomen-economisch,Afforestation of deciduous trees-economical,3360100000,afforestation_reforestation,0,No specified use
@@ -445,7 +445,7 @@ be2,8914,Bebossing populieren-ecologisch,Afforestation poplar ecological,3360700
 be2,8915,Bebossing populieren,Poplar afforestation,3360100000,afforestation_reforestation,0,No specified use
 be2,892,Bebossing op blijvend grasland in 2003,Afforestation on permanent grassland in 2003,3320100000,permanent_grassland,0,No specified use
 be2,894,Andere bebossing,Other afforestation,3360100000,afforestation_reforestation,0,No specified use
-be2,895,Bomen in groep,Group trees,3360000000,tree_wood_forest,0,No specified use
+be2,895,Bomen in groep,Group trees,3360100000,afforestation_reforestation,0,No specified use
 be2,897,Bos,Forest,3360000000,tree_wood_forest,0,No specified use
 be2,898,Permacultuur,permaculture,3330000000,permanent_crops_perennial,0,No specified use
 be2,899,Blanco gewascode,Blank crop code,3390000000,not_known_and_other,0,No specified use
@@ -639,7 +639,7 @@ be3,393,Mélange de céréales d'hiver uniquement,Mixture of winter cereals only
 be3,394,Mélange de céréales de printemps uniquement,Mixture of spring cereals only,3310198002,spring_unspecified_cereals,0,No specified use
 be3,397,"Mélange froment ou épeautre ( plus de 50%) et de  pois ou féverole (plus de 20%), commercialisé à l'état sec","Mixture of wheat or spelt (more than 50%) and peas or fava beans (more than 20%), marketed in a dry state.",3310100000,cereal,0,No specified use
 be3,4111,Colza d'hiver,Winter rapeseed,3310604011,winter_rapeseed_rape,0,No specified use
-be3,4112,Navette d'hiver (graines),Winter turnip (seeds),3310715050,turnips,9,Seed/Propagation
+be3,4112,Navette d'hiver (graines),Winter turnip (seeds),3310604011,winter_rapeseed_rape,0,No specified use
 be3,4121,Colza de printemps,Spring rapeseed,3310604012,spring_rapeseed_rape,0,No specified use
 be3,4122,Navette de printemps (graines),Spring turnip (seeds),3310715050,turnips,9,Seed/Propagation
 be3,42,Tournesol,Sunflower,3310604020,sunflower,0,No specified use
@@ -661,10 +661,10 @@ be3,55,Autres protéagineux,Other protein crops,3310200000,legumes,0,No specifie
 be3,56,Luzerne lupuline,Lupulin alfalfa,3310202010,alfalfa_lucerne,0,No specified use
 be3,58,Sainfoin (Onobrychis sativa),Sainfoin,3310202060,onobrychis_sainfoins,0,No specified use
 be3,59,Fenugrec,Fenugreek,3310201060,fenugreek,0,No specified use
-be3,6,Prairie et fourrage,Meadow and fodder,3320000000,grassland_grass,3,Fodder/Forage
+be3,6,Prairie et fourrage,Meadow and fodder,3320100000,permanent_grassland,3,Fodder/Forage
 be3,60,Prairies,Meadows,3320000000,grassland_grass,0,No specified use
 be3,614,Prairie avec moins de 90 % couvert herbacé (pratiques locales établies),Pasture with less than 90% herbaceous cover (established local practices).,3320000000,grassland_grass,3,Fodder/Forage
-be3,700,Mélange graminées/trèfle,Grass/clover mix,3320000000,grassland_grass,0,No specified use
+be3,700,Mélange graminées/trèfle,Grass/clover mix,3310202030,clover,0,No specified use
 be3,71,Betterave fourragère,Fodder beet,3310719020,mangelwurzel_beets,3,Fodder/Forage
 be3,72,Trèfles,Clover,3310202030,clover,0,No specified use
 be3,722,Trèfle pérenne,Perennial clover,3310202030,clover,0,No specified use
@@ -672,7 +672,7 @@ be3,723,Trèfle violet,Red clover,3310202030,clover,0,No specified use
 be3,73,Luzerne,Lucerne,3310202010,alfalfa_lucerne,0,No specified use
 be3,732,Luzerne pérenne,Perennial alfalfa,3310202010,alfalfa_lucerne,0,No specified use
 be3,742,Carottes fourragères,Foraged carrots,3310715020,carrots_daucus,0,No specified use
-be3,743,Autres fourrages,Other fodder,3319900000,other_arable_land_crops,3,Fodder/Forage
+be3,743,Autres fourrages,Other fodder,3310000000,arable_crops,3,Fodder/Forage
 be3,7431,Ortie,Nettle,3310612250,nettles,0,No specified use
 be3,7433,Carotte,Carrot,3310715020,carrots_daucus,0,No specified use
 be3,745,Mélange de graminées et de légumineuses (autre que le mélange graminées/trèfle),Mixture of grasses and legumes (other than grass/clover),3320000000,grassland_grass,0,No specified use
@@ -697,7 +697,7 @@ be3,8512,Chou de Bruxelles (transformation industrielle),Brussels sprouts (indus
 be3,8514,Oignons (non-hâtifs) (transformation industrielle),Onions (non-early) (industrial processing),3310708040,onions,2,Industry/for processing
 be3,8516,Cultures fruitières annuelles - Fraise sous serre,Annual fruit crops - Greenhouse strawberries,3350000000,greenhouse_foil_film,0,No specified use
 be3,8517,Rhubarbe (transformation industrielle),Rhubarb (industrial processing),3310709000,rhubarb,2,Industry/for processing
-be3,8518,Laitues pommées pour l’industrie,Lettuce heads for industry,3310717030,iceberg,2,Industry/for processing
+be3,8518,Laitues pommées pour l’industrie,Lettuce heads for industry,3310717000,salads_lettuce_leaf_vegetables,2,Industry/for processing
 be3,8519,Epinards (transformation industrielle),Spinach (industrial processing),3310717070,spinach,2,Industry/for processing
 be3,8523,Chou-fleur (transformation industrielle),Cauliflower (industrial processing),3310707050,cauliflower,2,Industry/for processing
 be3,8524,Chou frisé (transformation industrielle),Kale (industrial processing),3310707090,kale,2,Industry/for processing
@@ -722,7 +722,7 @@ be3,859,Persil (transformation industrielle),Parsley (industrial processing),331
 be3,860,Cerfeuil (transformation industrielle),Chervil (industrial processing),3310612140,chervil,2,Industry/for processing
 be3,872,Chanvre non textile (culture soumise à autorisation préalable au semis),Non-textile hemp (crop subject to prior authorization for sowing),3310610000,hemp_cannabis,0,No specified use
 be3,881,Angélique,Angelica,3310612040,angelica,0,No specified use
-be3,883,Cultures forestières à rotation courte (taillis à très courte rotation),Short rotation forest crops (very short rotation coppice),3360000000,tree_wood_forest,0,No specified use
+be3,883,Cultures forestières à rotation courte (taillis à très courte rotation),Short rotation forest crops (very short rotation coppice),3360100000,afforestation_reforestation,0,No specified use
 be3,884,Miscanthus,miscanthus,3310617030,miscanthus_silvergrass,0,No specified use
 be3,885,Cultures permanentes sous serre,Permanent crops under glass,3350000000,greenhouse_foil_film,0,No specified use
 be3,89,Terre en jachère à activité minimale avec EAG,Fallow land with minimal activity with EAG,3311100000,fallow_land_not_crop,0,No specified use
@@ -752,7 +752,7 @@ be3,9514,Oignons (non-hâtifs) (consommation au frais),Onions (non-early) (store
 be3,9515,Endives (chicons),Endives (chicons),3310717010,chicory_chicories,0,No specified use
 be3,9516,Cultures fruitières annuelles - Fraises,Annual fruit crops - Strawberries,3310701000,strawberries,0,No specified use
 be3,9517,Rhubarbe (consommation au frais),Rhubarb (consumption chilled),3310709000,rhubarb,1,Consumption/Fresh
-be3,9518,Laitues pommées (consommation au frais),Lettuce heads (fresh consumption),3310717030,iceberg,1,Consumption/Fresh
+be3,9518,Laitues pommées (consommation au frais),Lettuce heads (fresh consumption),3310717000,salads_lettuce_leaf_vegetables,1,Consumption/Fresh
 be3,9519,Epinards (consommation au frais),Spinach (store in a cool place),3310717070,spinach,1,Consumption/Fresh
 be3,952,Cultures maraîchères sous verre,Market vegetables under glass,3350000000,greenhouse_foil_film,0,No specified use
 be3,9520,Pépinières de plants fruitiers ou de plantes ornementales,Fruit and ornamental plant nurseries,3330700000,nurseries_nursery,0,No specified use
@@ -780,7 +780,7 @@ be3,9548,Choux - Légumes,Cabbage - Vegetables,3310707000,brassicaceae_crucifera
 be3,9551,Céleri-branche (consommation au frais),Celery stalks (to be eaten chilled),3310711000,celery,1,Consumption/Fresh
 be3,9552,Tomates (consommation au frais),Tomatoes (store in a cool place),3310714000,tomato,1,Consumption/Fresh
 be3,9554,Concombre,Cucumber,3310702010,cucumber_pickle,0,No specified use
-be3,9560,Pépinières de plants forestiers,Forest plant nurseries,3360000000,tree_wood_forest,0,No specified use
+be3,9560,Pépinières de plants forestiers,Forest plant nurseries,3330700000,nurseries_nursery,0,No specified use
 be3,9563,Oignons (hâtifs) (consommation au frais),Onions (early) (store in a cool place),3310708040,onions,1,Consumption/Fresh
 be3,9564,Carotte (hâtive)(consommation) (consommation au frais),Carrot (early) (consumption) (consumption in a cool place),3310715020,carrots_daucus,1,Consumption/Fresh
 be3,957,Plantes médicinales,Medicinal plants,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
