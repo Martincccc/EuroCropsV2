@@ -19,7 +19,7 @@ class _LinkExtractor(HTMLParser):
                 if k.lower() == "href" and v:
                     self.hrefs.append(v)
 
-def _list_http_directory(base_url,region_list,year_list, extension=".parquet"):
+def _list_http_directory(base_url,region_list,year_list, stack_flag, extension=".parquet"):
     """
     Fetch an HTTP(S) directory index and return filenames matching extension.
     """
@@ -59,6 +59,17 @@ def _list_http_directory(base_url,region_list,year_list, extension=".parquet"):
                 yearok = False
             if nutsok and yearok:
                 files.append(name)
+
+            if stack_flag and region_list==['all'] and name.split('.')[0].split('_')[1] == 'stack':
+                stackok = True
+            elif stack_flag and name.split('.')[0].split('_')[0] in region_list and name.split('.')[0].split('_')[1] == 'stack':
+                stackok = True
+            else:
+                stackok = False
+            if stackok:
+                files.append(name)
+
+
     # De-dup (some indexes repeat links)
     print(files)
 
@@ -88,6 +99,7 @@ def download_http_files(conf):
     local_dir   =conf.paths['fastio_dir']
     region_list =conf.region_list
     year_list   =conf.year_list
+    stack_flag  =conf.parameters['stack']
 
     t0 = time.time()
     os.makedirs(local_dir, exist_ok=True)
@@ -96,7 +108,8 @@ def download_http_files(conf):
     if not base_url.endswith("/"):
         base_url = base_url + "/"
 
-    target_files = _list_http_directory(base_url,region_list,year_list, extension=".parquet")
+    target_files = _list_http_directory(base_url,region_list,year_list, stack_flag, extension=".parquet")
+    #print(target_files)
     if not target_files:
         print("No .parquet files found at the directory index.")
         return

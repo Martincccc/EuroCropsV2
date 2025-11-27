@@ -5,8 +5,10 @@ import os
 import duckdb
 import glob
 import time
+from code.utils.tools import to_duckdb_native
+import pandas as pd
 
-def upload_to_duckdb(conn, region_list, year_list, datadir):
+def upload_to_duckdb(conn, region_list, year_list, datadir, stack_flag):
 
     files_to_upload = []
     print(glob.glob(datadir + '**.parquet'))
@@ -26,6 +28,16 @@ def upload_to_duckdb(conn, region_list, year_list, datadir):
             yearok = False
 
         if nutsok and yearok:
+            print(f"Adding file to upload: {filename}")
+            files_to_upload.append(filename)
+
+        if stack_flag and region_list==['all'] and filename.split('/')[-1].split('.')[0].split('_')[1] == 'stack':
+            stackok = True
+        elif stack_flag and filename.split('/')[-1].split('.')[0].split('_')[0] in region_list and filename.split('/')[-1].split('.')[0].split('_')[1] == 'stack':
+            stackok = True
+        else:
+            stackok = False
+        if stackok:
             print(f"Adding file to upload: {filename}")
             files_to_upload.append(filename)
 
@@ -59,8 +71,19 @@ def upload(conf):
 
     t1=time.time()
     print("Importing files to DuckDB")
-    upload_to_duckdb(conn, region_list, year_list, conf.paths['fastio_dir'])
+    upload_to_duckdb(conn, region_list, year_list, conf.paths['fastio_dir'], conf.parameters['stack'])
     t2=time.time()
     print('-----> exec time = %.2fmn'%((t2-t1)/60))
+
+    t3=time.time()
+    print("Importing mapping tables to DuckDB")
+    df = pd.read_csv('./data/cropcodemapping/eurocrops.csv')
+    to_duckdb_native(conn, df, 'eurocrops')
+    df = pd.read_csv('./data/cropcodemapping/hcat4_agriprod_mapping.csv')
+    to_duckdb_native(conn, df, 'hcat4_agriprod_mapping')
+    df = pd.read_csv('./data/cropcodemapping/hcat4_eagle_mapping.csv')
+    to_duckdb_native(conn, df, 'hcat4_eagle_mapping')
+    t4=time.time()
+    print('-----> exec time = %.2fmn'%((t4-t3)/60))
 
     conn.close()

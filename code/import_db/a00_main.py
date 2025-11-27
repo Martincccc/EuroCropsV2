@@ -3,9 +3,9 @@
 
 # import json
 
-RunDownload  = False
+RunDownload  = True
 RunImportDuckDB = True
-RunImportPGDB = False
+RunImportPGDB = True
 
 
 # 

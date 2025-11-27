@@ -244,9 +244,27 @@ def to_sql_with_indexes(df, table_name, engine=engine, if_exists="replace", inde
             sql = text(f'CREATE INDEX IF NOT EXISTS "{idx_name}" ON "{schema}"."{table_name}" ("{col}");')
             conn.execute(sql)
 
-    print(f"✅ Table {schema}.{table_name} created with indexes on {index_cols or 'no columns'}.")
+    print(f"Table {schema}.{table_name} created with indexes on {index_cols or 'no columns'}.")
 
 
+import duckdb
+
+def to_duckdb_native(con, df, table_name, if_exists="replace"):
+
+    df.columns = [str(c).strip().lower() for c in df.columns]
+
+    # Register pandas DF as a DuckDB view
+    con.register("tmp_df", df)
+
+    if if_exists == "replace":
+        con.execute(f"DROP TABLE IF EXISTS {table_name}")
+
+    if_exists_clause = "OR REPLACE" if if_exists == "replace" else ""
+    con.execute(f"CREATE {if_exists_clause} TABLE {table_name} AS SELECT * FROM tmp_df;")
+
+    con.unregister("tmp_df")
+
+    print(f"DuckDB table '{table_name}' written using native API.")
 
 
 from io import StringIO
@@ -336,5 +354,5 @@ def push_df(df: pd.DataFrame, table_name: str, cfg=None, init: bool = True, inde
         for ind in indexes:
             conn.execute(text(f"CREATE INDEX IF NOT EXISTS idx_{table}_{ind} ON {schema}.{table} ({ind});"))
 
-    print(f"✅ DataFrame successfully pushed to {schema}.{table}")
+    print(f"DataFrame successfully pushed to {schema}.{table}")
 

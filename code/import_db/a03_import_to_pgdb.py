@@ -7,9 +7,12 @@ import psycopg2
 import pyarrow.parquet as pq
 import geopandas as gpd
 from sqlalchemy import create_engine
+from geoalchemy2 import Geometry
 from shapely import wkb 
+import pandas as pd
+from code.utils.tools import to_sql_with_indexes
 
-def upload_to_postgis(cur, conn, engine, datadir, region_list, year_list, postgis_schema):
+def upload_to_postgis(cur, conn, engine, datadir, region_list, year_list, postgis_schema, stack_flag):
     # Create schema if it doesn't exist
     cur.execute(f"CREATE SCHEMA IF NOT EXISTS {postgis_schema};")
     conn.commit()
@@ -32,10 +35,20 @@ def upload_to_postgis(cur, conn, engine, datadir, region_list, year_list, postgi
 
         if nutsok and yearok:
             files_to_upload.append(filename)
+
+        if stack_flag and region_list==['all'] and filename.split('/')[-1].split('.')[0].split('_')[1] == 'stack':
+            stackok = True
+        elif stack_flag and filename.split('/')[-1].split('.')[0].split('_')[0] in region_list and filename.split('/')[-1].split('.')[0].split('_')[1] == 'stack':
+            stackok = True
+        else:
+            stackok = False
+        if stackok:
+            print(f"Adding file to upload: {filename}")
+            files_to_upload.append(filename)
     #print(files_to_upload)
 
     tablenames = [x.split('/')[-1].split('.')[0] for x in files_to_upload]
-    #print(tablenames)
+    print(tablenames)
 
     for i in range(0, len(files_to_upload)):
         print(files_to_upload[i])
@@ -65,14 +78,17 @@ def upload_to_postgis(cur, conn, engine, datadir, region_list, year_list, postgi
                 if_exists="append" if ii > 0 else "replace",
                 index=False
             )
-            cur.execute(f"ALTER TABLE {tablenames[i]} RENAME COLUMN geometry TO geom;")
+        
+        cur.execute(f"ALTER TABLE {postgis_schema}.{tablenames[i]} RENAME COLUMN geometry TO geom;")
 
-            print("Upload complete")
+        print("Upload complete")
 
         cur.execute(f"""CREATE INDEX IF NOT EXISTS {tablenames[i]}_geom_idx ON {postgis_schema}.{tablenames[i]} USING GIST (geom);""")
         cur.execute(f"""CREATE INDEX IF NOT EXISTS {tablenames[i]}_cropfield_idx ON {postgis_schema}.{tablenames[i]} (cropfield);""")
-        cur.execute(f"""CREATE INDEX IF NOT EXISTS {tablenames[i]}_original_code_idx ON {postgis_schema}.{tablenames[i]} (original_code);""")
         cur.execute(f"""CREATE INDEX IF NOT EXISTS {tablenames[i]}_area_ha_idx ON {postgis_schema}.{tablenames[i]} (area_ha);""")
+
+        if filename.split('/')[-1].split('.')[0].split('_')[1] != 'stack':
+            cur.execute(f"""CREATE INDEX IF NOT EXISTS {tablenames[i]}_original_code_idx ON {postgis_schema}.{tablenames[i]} (original_code);""")
 
         conn.commit()
 
@@ -101,7 +117,17 @@ def upload(conf):
 
     try:
         cur = conn.cursor()
-        upload_to_postgis(cur, conn, engine, local_dir,region_list,year_list,conf.postgis['pg_gsa_schema'])
+        upload_to_postgis(cur, conn, engine, local_dir,region_list,year_list,conf.postgis['pg_gsa_schema'], conf.parameters['stack'])
+
+        df = pd.read_csv('./data/cropcodemapping/eurocrops.csv')
+        to_sql_with_indexes(df,conf.postgis['pg_gsa_schema']+'.eurocrops',index_cols='all')
+
+        df = pd.read_csv('./data/cropcodemapping/hcat4_agriprod_mapping.csv')
+        to_sql_with_indexes(df,conf.postgis['pg_gsa_schema']+'.hcat4_agriprod_mapping',index_cols='all')
+
+        df = pd.read_csv('./data/cropcodemapping/hcat4_eagle_mapping.csv')
+        to_sql_with_indexes(df,conf.postgis['pg_gsa_schema']+'.hcat4_eagle_mapping',index_cols='all')
+
     except Exception as e:
         conn.rollback()
         raise
