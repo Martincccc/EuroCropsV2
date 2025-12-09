@@ -40,11 +40,11 @@ postgis_engine = create_engine('postgresql://'+postgis_user+':'+postgis_password
                     postgis_host+':'+str(postgis_port)+'/'+postgis_dbname+'')
 
 ## refocus_db
-postgis_host     = "139.191.240.190"
-postgis_port     = '54324'
-postgis_dbname   = "refocus_db"
-postgis_user     = "refocus"   # ""
-postgis_password = "Ju78Ftu9374hGt"          # ""
+postgis_host     = "0000"
+postgis_port     = '0000'
+postgis_dbname   = "0000"
+postgis_user     = "0000"   # ""
+postgis_password = "0000"          # ""
 
 List = list(range(2023,2008-1,-1))
 List = list(range(2008,2017+1))
