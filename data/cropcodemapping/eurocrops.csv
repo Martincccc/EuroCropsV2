@@ -272,7 +272,7 @@ be2,34,Japanse haver,Japanese oats,3310105000,oats,0,No specified use
 be2,341,Winterhaver,winter oats,3310105001,winter_oats,0,No specified use
 be2,342,Zomerhaver,summer oats,3310105002,spring_oats,0,No specified use
 be2,35,Triticale,Triticale,3310108000,triticale,6,Harvested as Grains
-be2,36,Spelt,Spelt,Winter spelt,3310110001,winter_spelt,0,No specified use
+be2,36,Spelt,Spelt,3310110001,winter_spelt,0,No specified use
 be2,37,Boekweit,Buckwheat,3310703020,buckwheat,0,No specified use
 be2,38,"Gierst, sorghum, kanariezaad of harde tarwe","Millet, sorghum, canary seed or durum wheat",3310100000,cereal,0,No specified use
 be2,381,Sorghum,Sorghum,3310116000,sorghum,0,No specified use

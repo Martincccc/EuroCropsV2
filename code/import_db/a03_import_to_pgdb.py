@@ -125,8 +125,17 @@ def upload(conf):
         df = pd.read_csv('./data/cropcodemapping/hcat4_agriprod_mapping.csv')
         to_sql_with_indexes(df,conf.postgis['pg_gsa_schema']+'.hcat4_agriprod_mapping',index_cols='all')
 
+        df = pd.read_csv('./data/cropcodemapping/hcat4.csv')
+        to_sql_with_indexes(df,conf.postgis['pg_gsa_schema']+'.hcat4',index_cols='all')
+
+        df = pd.read_csv('./data/cropcodemapping/hcat4_hrlmapping.csv')
+        to_sql_with_indexes(df,conf.postgis['pg_gsa_schema']+'.hcat4_hrlmapping',index_cols='all')
+
         df = pd.read_csv('./data/cropcodemapping/hcat4_eagle_mapping.csv')
         to_sql_with_indexes(df,conf.postgis['pg_gsa_schema']+'.hcat4_eagle_mapping',index_cols='all')
+
+        df = pd.read_csv('./data/cropcodemapping/agriprod_fadn_mapping.csv')
+        to_sql_with_indexes(df,conf.postgis['pg_gsa_schema']+'.agriprod_fadn_mapping',index_cols='all')
 
     except Exception as e:
         conn.rollback()

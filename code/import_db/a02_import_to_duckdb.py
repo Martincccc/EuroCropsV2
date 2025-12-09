@@ -83,6 +83,12 @@ def upload(conf):
     to_duckdb_native(conn, df, 'hcat4_agriprod_mapping')
     df = pd.read_csv('./data/cropcodemapping/hcat4_eagle_mapping.csv')
     to_duckdb_native(conn, df, 'hcat4_eagle_mapping')
+    df = pd.read_csv('./data/cropcodemapping/hcat4_hrl_mapping.csv')
+    to_duckdb_native(conn, df, 'hcat4_hrl_mapping')
+    df = pd.read_csv('./data/cropcodemapping/agriprod_fadn_mapping.csv')
+    to_duckdb_native(conn, df, 'agriprod_fadn_mapping')
+    df = pd.read_csv('./data/cropcodemapping/hcat4.csv')
+    to_duckdb_native(conn, df, 'hcat4')
     t4=time.time()
     print('-----> exec time = %.2fmn'%((t4-t3)/60))
 
