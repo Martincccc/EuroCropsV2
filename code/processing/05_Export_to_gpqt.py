@@ -11,11 +11,11 @@ import shapely
 datadir = '/eos/jeodpp/data/projects/REFOCUS/data/tasks/gsa_export_test_4martin'
 
 # connection parameters
-host = "139.191.240.190"
-port = "54324"
-dbname = "refocus_db"
-user = "refocus"
-password = "Ju78Ftu9374hGt"
+host = "0000"
+port = "0000"
+dbname = "0000"
+user = "0000"
+password = "0000"
 schemas = ['gsa', 'stack']
 
 #set pg connection
