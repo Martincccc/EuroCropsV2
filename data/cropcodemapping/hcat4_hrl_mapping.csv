@@ -310,18 +310,18 @@ hcat4_code,hcat4_name,hrl_code,hrl_name
 3330500000,olive,2200,Olives
 3311100000,fallow_land_not_crop,3100,Unclassified arable crop
 3330600000,vineyards_wine_vine_rebland_grapes,2100,Grapes
-3320200000,temporary_grassland,4700,Temporary Grassland
-3320000000,grassland_grass,4800,Grassland
-3320201010,elymus,4700,Temporary Grassland
-3320201020,festuca_fescue,4700,Temporary Grassland
-3320201040,festulolium,4700,Temporary Grassland
-3320201050,lolium_ryegrass,4700,Temporary Grassland
-3320201060,setaria,4700,Temporary Grassland
-3320201070,sod_turf,4700,Temporary Grassland
-3320201080,switchgrass,4700,Temporary Grassland
-3320201090,timothy,4700,Temporary Grassland
-3320209900,other_poaceae_grasses,4700,Temporary Grassland
-3320100000,permanent_grassland,4600,Permanent Grassland
+3320200000,temporary_grassland,4100,Temporary Grassland
+3320000000,grassland_grass,4000,Grassland
+3320201010,elymus,4100,Temporary Grassland
+3320201020,festuca_fescue,4100,Temporary Grassland
+3320201040,festulolium,4100,Temporary Grassland
+3320201050,lolium_ryegrass,4100,Temporary Grassland
+3320201060,setaria,4100,Temporary Grassland
+3320201070,sod_turf,4100,Temporary Grassland
+3320201080,switchgrass,4100,Temporary Grassland
+3320201090,timothy,4100,Temporary Grassland
+3320209900,other_poaceae_grasses,4100,Temporary Grassland
+3320100000,permanent_grassland,4200,Permanent Grassland
 3330700000,nurseries_nursery,3200,Unclassified permanent crop
 3330800000,shrubberries_shrubs,2310,Fruits
 3330801000,azaleas,2310,Fruits
@@ -353,6 +353,6 @@ hcat4_code,hcat4_name,hrl_code,hrl_name
 3390000000,not_known_and_other,0,Other
 3360100000,afforestation_reforestation,3200,Unclassified permanent crop
 3310719000,beta_vulgaris,1210,Fresh Vegetables
-3320201000,poaceae_grasses,4700,Temporary Grassland
-3320201030,cocksfoot_catgrass,4700,Temporary Grassland
-3320201100,canary_seed_canaryseed,4700,Temporary Grassland
+3320201000,poaceae_grasses,4100,Temporary Grassland
+3320201030,cocksfoot_catgrass,4100,Temporary Grassland
+3320201100,canary_seed_canaryseed,4100,Temporary Grassland
