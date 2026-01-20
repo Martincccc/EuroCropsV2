@@ -46,7 +46,6 @@ hcat4_code,hcat4_name,seasonality_code,seasonality_name
 3310199001,winter_other_cereals,1,winter
 3310199002,spring_other_cereals,2,spring
 3310200000,legumes,0,NA
-3310201000,beans,0,NA
 3310201010,beans,0,NA
 3310201020,peanuts,0,NA
 3310201030,soy_soybeans,0,NA
@@ -57,7 +56,6 @@ hcat4_code,hcat4_name,seasonality_code,seasonality_name
 3310201080,peas,0,NA
 3310201090,lupins,0,NA
 3310201990,other_dry_pulses,0,NA
-3310202000,peanuts,0,NA
 3310202010,alfalfa_lucerne,0,NA
 3310202020,serradella,0,NA
 3310202030,clover,0,NA
