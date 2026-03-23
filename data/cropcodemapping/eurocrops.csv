@@ -2606,7 +2606,7 @@ dk,997,Ikke kontrolleret afgrøde (kontrollørkode),Uncontrolled crop (control c
 dk,998,Ukendt afgrøde,Unknown crop,3390000000,not_known_and_other,0,No specified use
 dk,999,Ugyldig afgrødekode,Invalid crop code,3390000000,not_known_and_other,0,No specified use
 dk,,,,3390000000,not_known_and_other,0,No specified use
-ee,10001,Karjatamine väljaspool põllumaj. maad,Rough grazings,3320100000,permanent_grassland,3,Fodder/Forage
+ee,10001,Karjatamine väljaspool põllumaj. maad,Grazing outside agricultural land,3320100000,permanent_grassland,3,Fodder/Forage
 ee,10002,"N siduv heint. ja N siduv põllumaj. kult. segu (N siduvaid kult. üle 50%, segus valdavalt heint.)",Mix of nitrogen-binding grasses and nitrogen-binding crops(over 50% nitrogen-binding crops mix contains mainly grasses),3310200000,legumes,11,Nitrogen fixing 
 ee,10003,"N siduv heint. ja kõrreliste segu (N siduvaid heintaimi üle 50%, kõrrelisi heintaimi alla 50%)",Mix of nitrogen-binding grasses and graminoids (over 50% nitrogen-binding grasses less than 50% graminoid grasses),3310200000,legumes,11,Nitrogen fixing 
 ee,10004,"N siduv heint. ja muu põllumaj. kult. segu (N siduvaid heint. üle 50%, muid kultuure alla 50%)",Mix of nitrogen-binding grasses and other crops (over 50% nitrogen-binding grasses less than 50% other crops).,3310200000,legumes,11,Nitrogen fixing 
@@ -2634,24 +2634,24 @@ ee,10025,hapu kirsipuu sh murelipuu,Sour cherry incl. morello cherry,3330104000,
 ee,10026,"harakputk, aed-",Chervil,3310612140,chervil,0,No specified use
 ee,10027,haraline ploomipuu (alõtša),Plum tree,3330113000,plums,0,No specified use
 ee,10028,harilik esparsett (100% esparsetti),Common sainfoin (100%),3310202060,onobrychis_sainfoins,0,No specified use
-ee,10029,"harilik esparsett (esparsetti 50-80%, teisi heintaimi 20-50%)",common asparagus (asparagus 50-80% other grasses 20-50%),3310706000,asparagus,0,No specified use
+ee,10029,"harilik esparsett (esparsetti 50-80%, teisi heintaimi 20-50%)",common sainfoin (sainfoin 50-80% other grasses 20-50%),3310202060,onobrychis_sainfoins,0,No specified use
 ee,10030,"harilik esparsett (vähemalt 80% esparsetti, kuni 20% heintaimi)","Common sainfoin (at least 80% sainfoin, up to 20% grass)",3310202060,onobrychis_sainfoins,0,No specified use
 ee,10031,harilik kanep,cannabis,3310610000,hemp_cannabis,0,No specified use
 ee,10032,harilik lutsern (100% lutsern),lucerne (100% lucerne),3310202010,alfalfa_lucerne,0,No specified use
 ee,10033,harilik lutsern (100% lutserni),Lucerne (100%),3310202010,alfalfa_lucerne,0,No specified use
 ee,10034,"harilik lutsern (lutserni 50-80%, teisi heintaimi 20-50%)",alfalfa (alfalfa 50-80% other grasses 20-50%),3310202010,alfalfa_lucerne,0,No specified use
 ee,10035,"harilik lutsern (vähemalt 80% lutserni, kun 20% heintaimi)",Lucerne (at least 80% alfalfa 20% grasses),3310202010,alfalfa_lucerne,0,No specified use
-ee,10036,harilik nõiahammas (100% nõiahammast),Birdsfoot trefoil (100%),3310202990,other_legumes_harvested_green,0,No specified use
-ee,10037,"harilik nõiahammas (nõiahammast 50-80%, teisi heintaimi 20-50%)",common trefoil (50-80% of witch tooth 20-50% other grasses),3310202990,other_legumes_harvested_green,0,No specified use
-ee,10038,"harilik nõiahammas (vähemalt 80% nõiahammast, kuni 20% heintaimi)","bird's-foot trefoil (at least 80% trefoil, up to 20% grass)",3310202990,other_legumes_harvested_green,0,No specified use
+ee,10036,harilik nõiahammas (100% nõiahammast),Birdsfoot trefoil (100%),3310202080,birdsfoot_treifoil,0,No specified use
+ee,10037,"harilik nõiahammas (nõiahammast 50-80%, teisi heintaimi 20-50%)",common trefoil (50-80% of witch tooth 20-50% other grasses),3310202080,birdsfoot_treifoil,0,No specified use
+ee,10038,"harilik nõiahammas (vähemalt 80% nõiahammast, kuni 20% heintaimi)","bird's-foot trefoil (at least 80% trefoil, up to 20% grass)",3310202080,birdsfoot_treifoil,0,No specified use
 ee,10039,harilik pihlakas,Rowan,3330213000,rowan_rowanberries,0,No specified use
 ee,10040,harilik sarapuu,common hazel,3330302000,hazelnuts_hazel,0,No specified use
 ee,10041,harilik sibul (söögisibul),onion (onion),3310708040,onions,0,No specified use
-ee,10042,harilik ussikeel (100% ussikeelt),Viper's bugloss (100%),3310899000,other_flowers_ornamental_plants,0,No specified use
+ee,10042,harilik ussikeel (100% ussikeelt),Common viper's bugloss (100% of viper's bugloss),3310899000,other_flowers_ornamental_plants,0,No specified use
 ee,10043,hiina kapsas,Chinese cabbage,3310707060,chinese_cabbage,0,No specified use
 ee,10044,humal,hops,3310602000,hops,0,No specified use
-ee,10045,humallutsern (100% lutserni),hop alfalfa (100% alfalfa),3310202010,alfalfa_lucerne,0,No specified use
-ee,10046,ida-kitsehernes (100% ida-kitsehernest),Eastern goat pea (100% eastern goat pea),3310201080,peas,0,No specified use
+ee,10045,humallutsern (100% lutserni),Black medick (100% of alfalfa),3310202010,alfalfa_lucerne,0,No specified use
+ee,10046,ida-kitsehernes (100% ida-kitsehernest),Fodder galega  (100% Fodder galega ),3310202070,galega,0,No specified use
 ee,10047,"ida-kitsehernes (vähemalt 80% ida-kitsehernest, kuni 20% heintaimi)",Fodder galega (at least 80% galega up to 20% grasses),3310202070,galega,3,Fodder/Forage
 ee,10048,"iisop, harilik",hyssop,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 ee,10049,juurseller,celery root,3310711010,celeriac,0,No specified use
@@ -2685,9 +2685,9 @@ ee,10076,"kartul v.a ""Ando""","Potato (excl. ""Ando"")",3310300000,potatoes,0,N
 ee,10077,karusmari,gooseberry,3330206030,gooseberry_gooseberries,0,No specified use
 ee,10078,"kassinaeris, mets-",Malva sylvestris,3310828000,malva,0,No specified use
 ee,10079,kaunviljade segu,Mixture of legumes,3310200000,legumes,0,No specified use
-ee,10080,keerispea allakülviga v.a liblikõieliste allakülviga,Phacelia tanacetifolia undersown (excl. legumes),3311300000,phacelia,0,No specified use
-ee,10081,keerispea allakülvita,Phacelia tanacetifolia,3311300000,phacelia,0,No specified use
-ee,10082,keerispea liblikõieliste allakülviga,Phacelia tanacetifolia undersown with legumes,3311300000,phacelia,0,No specified use
+ee,10080,keerispea allakülviga v.a liblikõieliste allakülviga,Scorpion-weed (Phacelia tanacetifolia)  undersown (excl. legumes),3311300000,phacelia,0,No specified use
+ee,10081,keerispea allakülvita,Scorpion-weed (Phacelia tanacetifolia) not undersown,3311300000,phacelia,0,No specified use
+ee,10082,keerispea liblikõieliste allakülviga,Scorpion-weed (Phacelia tanacetifolia) undersown with legumes,3311300000,phacelia,0,No specified use
 ee,10083,kikerhernes,chickpeas,3310201040,chickpeas,0,No specified use
 ee,10084,"kikkaputk, harilik",Garden angelica,3310612040,angelica,0,No specified use
 ee,10085,kirsipuu (hapukirss),cherry (sour cherry),3330104000,cherry_cherries,0,No specified use
@@ -2728,12 +2728,12 @@ ee,10119,magus kirsipuu,sweet cherry tree,3330104000,cherry_cherries,0,No specif
 ee,10120,maguslupiin,sweet lupin,3310201090,lupins,0,No specified use
 ee,10121,mais,Grain maize,3310106000,maize_corn_popcorn,6,Harvested as Grains
 ee,10122,melon,melon,3310702030,melon,0,No specified use
-ee,10123,mesiputk,Sweet Cicely,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
+ee,10123,mesiputk,Anise or Sweet Cicely,3310612050,anise_aniseed,0,No specified use
 ee,10124,minimais,Baby corn,3310106000,maize_corn_popcorn,0,No specified use
 ee,10125,mitmeliigiline väike põld,multispecies small field,3310000000,arable_crops,0,No specified use
 ee,10126,moon (magun),papaver,3310606000,poppy,0,No specified use
 ee,10127,mugulsibul,onion,3310708040,onions,0,No specified use
-ee,10128,murelipuu,Sour Cherry,3330104000,cherry_cherries,0,No specified use
+ee,10128,murelipuu,Morello cherry tree,3330104000,cherry_cherries,0,No specified use
 ee,10129,must leeder,elderberry,3330804000,elder_elderberry,0,No specified use
 ee,10130,must sõstar,black currant,3330206010,blackcurrant_cassis,0,No specified use
 ee,10131,mustikas,blueberry,3330204010,blueberry,0,No specified use
@@ -2741,9 +2741,9 @@ ee,10132,mustkesa,Fallow land (bare land),3311100000,fallow_land_not_crop,0,No s
 ee,10133,"mustköömen, aed-",black cumin,3310612080,black_cumin,0,No specified use
 ee,10134,"mustköömen, türgi","black cumin, turkey",3310612080,black_cumin,0,No specified use
 ee,10135,mustrõigas,patterned radish,3310715040,radish,0,No specified use
-ee,10136,muu heintaimede segu,Other mix of grasses,3320201010,elymus,0,No specified use
+ee,10136,muu heintaimede segu,Other mix of grasses,3320201000,poaceae_grasses,0,No specified use
 ee,10137,muu kapsas,Other cabbage,3310707000,brassicaceae_cruciferae,0,No specified use
-ee,10138,muu kaunvili,other pulses,3310201010,beans,0,No specified use
+ee,10138,muu kaunvili,other legumes,3310200000,legumes,0,No specified use
 ee,10139,muu köögivili,other vegetables,3310700000,fresh_vegetables,0,No specified use
 ee,10140,muu ravim- ja maitsetaim,Other medicinal and culinary plant,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 ee,10141,muu rühvelkultuur,Other cultures,3310000000,arable_crops,0,No specified use
@@ -2757,10 +2757,10 @@ ee,10148,muud marjapõõsad,Other berries,3330200000,berries_berry_species,0,No 
 ee,10149,muud viljapuud,other fruits,3330100000,orchards_fruits,0,No specified use
 ee,10150,mädarõigas,horseradish,3310715060,horseradish,0,No specified use
 ee,10151,"mädarõigas, aed-","horseradish, horseradish",3310715060,horseradish,0,No specified use
-ee,10152,"münt, pikaleheline","mint, long-leaved",3310612220,mints_peppermint,0,No specified use
-ee,10153,"münt, rohe-","mint, green",3310612220,mints_peppermint,0,No specified use
-ee,10154,"münt, vääris-","mint, precious (Mentha × gracilis)",3310612220,mints_peppermint,0,No specified use
-ee,10155,"münt, ümaraleheline",mint round leaf,3310612220,mints_peppermint,0,No specified use
+ee,10152,"münt, pikaleheline",Bush mint,3310612220,mints_peppermint,0,No specified use
+ee,10153,"münt, rohe-",Spearmint,3310612220,mints_peppermint,0,No specified use
+ee,10154,"münt, vääris-",Gingermint,3310612220,mints_peppermint,0,No specified use
+ee,10155,"münt, ümaraleheline",Bigleaf mint,3310612220,mints_peppermint,0,No specified use
 ee,10156,naeris,turnip,3310715050,turnips,0,No specified use
 ee,10157,"naistenõges, harilik",catnip,3310612120,catnip,0,No specified use
 ee,10158,"naistepuna, liht-",Perforate St Johns-wort,3310612340,st_johns_wort,0,No specified use
@@ -2821,19 +2821,19 @@ ee,10212,segavili/segatis,Cereal mixture,3310100000,cereal,0,No specified use
 ee,10213,segavili/segatis N siduvate kaunviljadega (N siduvaid kaunvilju segus üle 50%),Cereal mixture with nitrogen-binding pulses (pulses over 50%),3310200000,legumes,11,Nitrogen fixing 
 ee,10214,sidrunmeliss,lemon balm,3310612200,lemon_balm_melissa,0,No specified use
 ee,10215,"sigur, harilik",chicory,3310717010,chicory_chicories,0,No specified use
-ee,10216,"siilkübar, purpur-",echinacea coneflower,3310815000,echinacea,0,No specified use
+ee,10216,"siilkübar, purpur-",Eastern purple coneflower,3310815000,echinacea,0,No specified use
 ee,10217,sojauba,soybean,3310201030,soy_soybeans,0,No specified use
 ee,10218,sorgo,sorghum,3310116000,sorghum,0,No specified use
 ee,10219,spargel,asparagus,3310706000,asparagus,0,No specified use
 ee,10220,spargelkapsas (brokkoli),Broccoli,3310707030,broccoli,0,No specified use
-ee,10221,"speltanisu allakülviga, v.a liblikõieliste allakülviga",Spelt with the exception of legumes,3310110000,spelt,0,No specified use
-ee,10222,speltanisu allakülvita,Spelt,3310110000,spelt,0,No specified use
+ee,10221,"speltanisu allakülviga, v.a liblikõieliste allakülviga","Spelt undersown, excl. undersown with leguminous crops",3310110000,spelt,0,No specified use
+ee,10222,speltanisu allakülvita,Spelt not undersown,3310110000,spelt,0,No specified use
 ee,10223,speltanisu liblikõieliste allakülviga,Spelt with legumes,3310110000,spelt,0,No specified use
 ee,10224,spinat,spinach,3310717070,spinach,0,No specified use
 ee,10225,suhkrumais,sweet corn,3310106000,maize_corn_popcorn,0,No specified use
 ee,10226,suhkrupeet,sugar beet,3310719010,sugar_beet,0,No specified use
-ee,10227,"suvinisu allakülviga, v.a liblikõieliste allakülviga",Summer wheat undersown (excl. legumes),3310101002,spring_common_soft_wheat,0,No specified use
-ee,10228,suvinisu allakülvita,Summer wheat,3310101002,spring_common_soft_wheat,0,No specified use
+ee,10227,"suvinisu allakülviga, v.a liblikõieliste allakülviga",Spring wheat undersown (excl. legumes),3310101002,spring_common_soft_wheat,0,No specified use
+ee,10228,suvinisu allakülvita,Spring wheat not undersown,3310101002,spring_common_soft_wheat,0,No specified use
 ee,10229,suvinisu liblikõieliste allakülviga,Summer wheat undersown with legumes,3310101002,spring_common_soft_wheat,0,No specified use
 ee,10230,"suvioder allakülviga, v.a liblikõieliste allakülviga",Summer barley undersown (excl. legumes),3310104002,spring_barley,0,No specified use
 ee,10231,suvioder allakülvita,Summer barley,3310104002,spring_barley,0,No specified use
@@ -2848,14 +2848,14 @@ ee,10239,"suvitritikale allakülviga, v.a liblikõieliste allakülviga","summer 
 ee,10240,suvitritikale allakülvita,Summer triticale,3310108002,spring_triticale,0,No specified use
 ee,10241,suvitritikale liblikõeliste allakülviga,summer triticale with leguminous under-sowing,3310108002,spring_triticale,0,No specified use
 ee,10242,suvitritikale liblikõieliste allakülviga,Summer triticale with sown legumes,3310108002,spring_triticale,0,No specified use
-ee,10243,suvivikk,Common vetch Summer,3310202050,vetches,0,No specified use
+ee,10243,suvivikk,Common vetch,3310202050,vetches,0,No specified use
 ee,10244,söödakapsas,fodder cabbage,3310707000,brassicaceae_cruciferae,3,Fodder/Forage
 ee,10245,söödapeet,fodder beet,3310719020,mangelwurzel_beets,3,Fodder/Forage
-ee,10246,söödav kuslapuu,honeysuckle,3330805000,honeysuckle,0,No specified use
+ee,10246,söödav kuslapuu,Blue honeysuckle,3330805000,honeysuckle,0,No specified use
 ee,10247,söögipeet,beetroot,3310719020,mangelwurzel_beets,0,No specified use
 ee,10248,sööti jäetud maa,Fallow land,3311100000,fallow_land_not_crop,0,No specified use
 ee,10249,"südamerohi, veiste-",motherwort,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
-ee,10250,"talinisu allakülviga, v.a liblikõieliste allakülviga",Winter wheat undersown (excl. legumes),3310101001,winter_common_soft_wheat,0,No specified use
+ee,10250,"talinisu allakülviga, v.a liblikõieliste allakülviga","Winter wheat undersown, excl. undersown with leguminous crops",3310101001,winter_common_soft_wheat,0,No specified use
 ee,10251,talinisu allakülvita,Winter wheat,3310101001,winter_common_soft_wheat,0,No specified use
 ee,10252,talinisu liblikõieliste allakülviga,Winter wheat undersown with legumes,3310101001,winter_common_soft_wheat,0,No specified use
 ee,10253,"talioder allakülviga, v.a liblikõieliste allakülviga","winter barley with undersowing, except for leguminous undersowing",3310104001,winter_barley,0,No specified use
@@ -2870,17 +2870,17 @@ ee,10261,talirüps allakülvita,Winter turnip rape,3310604011,winter_rapeseed_ra
 ee,10262,talirüps liblikõieliste allakülviga,Winter oilseed rape,3310604011,winter_rapeseed_rape,8,Oil
 ee,10263,talisibul,Spring onion,3310708050,scallion,0,No specified use
 ee,10264,"talitritikale allakülviga, v.a liblikõieliste allakülviga",Winter triticale with the exception of leguminous crops,3310108001,winter_triticale,0,No specified use
-ee,10265,talitritikale allakülvita,Winter triticale,3310108001,winter_triticale,0,No specified use
+ee,10265,talitritikale allakülvita,Winter triticale not undersown,3310108001,winter_triticale,0,No specified use
 ee,10266,talitritikale liblikõieliste allakülviga,Winter triticale undersown with legumes,3310108001,winter_triticale,0,No specified use
 ee,10267,"tatar allakülviga, v.a liblikõieliste allakülviga",Buckwheat undersown (excl. legumes),3310703020,buckwheat,0,No specified use
 ee,10268,tatar allakülvita,buckwheat,3310703020,buckwheat,0,No specified use
 ee,10269,tatar liblikõieliste allakülviga,Buckwheat undersown with legumes,3310703020,buckwheat,0,No specified use
 ee,10270,teekummel,chamomile,3310612130,chamomile,0,No specified use
-ee,10271,"teeleht, suur",tea leaf large,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
+ee,10271,"teeleht, suur",Broadleaf plantain,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 ee,10272,"teraviljade segu allakülviga, v.a liblikõieliste allakülviga",Cereal mixture undersown (excl. legumes),3310100000,cereal,0,No specified use
 ee,10273,teraviljade segu allakülvita,mixed grains,3310100000,cereal,6,Harvested as Grains
 ee,10274,teraviljade segu liblikõieliste allakülviga,Mixed grains undersown with legumes,3310100000,cereal,6,Harvested as Grains
-ee,10275,"tihashein, harilik",common skullcap,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
+ee,10275,"tihashein, harilik",Hooded skullcap,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 ee,10276,"tihashein, külgõieline",blue skullcap,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 ee,10277,tomat,Tomato,3310714000,tomato,0,No specified use
 ee,10278,"tondipea, moldaavia",Moldavian dragonhead,3310612230,moldavian_dragonhead,0,No specified use
@@ -2905,7 +2905,7 @@ ee,10296,"valge sinep allakülviga, v.a liblikõieliste allakülviga",white must
 ee,10297,valge sinep allakülvita,white mustard without sowing,3310707010,mustard,0,No specified use
 ee,10298,valge sinep liblikõieliste allakülviga,White mustard with sown legumes,3310707010,mustard,0,No specified use
 ee,10299,valge sõstar,White currant,3330206990,other_ribes,0,No specified use
-ee,10300,valkjas mesiohakas (100% mesiohakat),white honeycomb (100% honeycomb),3319900000,other_arable_land_crops,0,No specified use
+ee,10300,valkjas mesiohakas (100% mesiohakat),Great globe thistle (100% of great globe thistle),3319900000,other_arable_land_crops,0,No specified use
 ee,10301,varajane kartul,early potatoes,3310300000,potatoes,0,No specified use
 ee,10302,varsseller,celery,3310711000,celery,0,No specified use
 ee,10303,veiniviinamarjad,wine grapes,3330600000,vineyards_wine_vine_rebland_grapes,2,Industry/for processing
@@ -2915,7 +2915,7 @@ ee,10306,viljapuu- ja marjaaiad väikestel pindadel,Fruits and berries in small 
 ee,10307,"vägihein, kõrge",denseflower mullein,3310899000,other_flowers_ornamental_plants,0,No specified use
 ee,10308,"võilill, harilik",Dandelion common,3310814000,dandelions,0,No specified use
 ee,10309,"vürtsköömen, harilik",Common cumin,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
-ee,10310,õlilina,Linseed (oil flax),3310607000,flax_linseed,8,Oil
+ee,10310,õlilina,Oil flax ,3310607000,flax_linseed,8,Oil
 ee,10311,õlirõigas,Oil radish,3310715040,radish,8,Oil
 ee,10312,õunapuu,apple tree,3330102000,apples,0,No specified use
 ee,10313,üheaastane raihein jm üheaastased heintaimed,Annual ryegrass and other annual grasses,3320201050,lolium_ryegrass,0,No specified use
