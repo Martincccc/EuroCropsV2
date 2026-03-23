@@ -641,7 +641,7 @@ be3,397,"Mélange froment ou épeautre ( plus de 50%) et de  pois ou féverole 
 be3,4111,Colza d'hiver,Winter rapeseed,3310604011,winter_rapeseed_rape,0,No specified use
 be3,4112,Navette d'hiver (graines),Winter turnip (seeds),3310604011,winter_rapeseed_rape,0,No specified use
 be3,4121,Colza de printemps,Spring rapeseed,3310604012,spring_rapeseed_rape,0,No specified use
-be3,4122,Navette de printemps (graines),Spring turnip (seeds),3310715050,turnips,9,Seed/Propagation
+be3,4122,Navette de printemps (graines),Spring turnip (seeds),3310604012,spring_rapeseed_rape,9,Seed/Propagation
 be3,42,Tournesol,Sunflower,3310604020,sunflower,0,No specified use
 be3,43,Soja,Soy,3310201030,soy_soybeans,0,No specified use
 be3,45,Lin oléagineux,Oilseed flax,3310607000,flax_linseed,8,Oil
@@ -764,7 +764,7 @@ be3,9526,Chou chinois,Chinese cabbage,3310707060,chinese_cabbage,0,No specified 
 be3,9527,Choux rouge (consommation au frais),Red cabbage (store in a cool place),3310707110,red_cabbage,1,Consumption/Fresh
 be3,9529,Choux-rave (consommation au frais),Kohlrabi (eat cool),3310707100,kohlrabi,1,Consumption/Fresh
 be3,953,Plantes aromatiques,Aromatic plants,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
-be3,9530,Navette,Turnip,3310715050,turnips,0,No specified use
+be3,9530,Navette,Turnip,3310604010,rapeseed_rape,0,No specified use
 be3,9533,Scorsonère,black salsify,3310715090,salsify,0,No specified use
 be3,9534,Fenouil (de Florence)(consommation au frais),Fennel (from Florence)(eat fresh),3310704000,fennel,1,Consumption/Fresh
 be3,9535,Carotte (non hâtive)(consommation) (consommation au frais),Carrot (not early) (consumption) (consumption in a cool place),3310715020,carrots_daucus,1,Consumption/Fresh
