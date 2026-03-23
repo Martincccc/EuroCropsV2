@@ -3401,8 +3401,8 @@ fi,4530,Öljyhamppu,Oil hemp,3310610000,hemp_cannabis,8,Oil
 fi,4610,Öljypellava,Oil flax,3310607000,flax_linseed,8,Oil
 fi,4620,Kuitupellava,Flax,3310607000,flax_linseed,0,No specified use
 fi,4810,"Siemenmausteet ja lääkekasvit (pl kumina, sinappi)",Seed spices and medicinal plants (not caraway/mustard),3310612000,aromatic_medicinal_culinary_plants_spices_herbs,9,Seed/Propagation
-fi,4904,Ruokohelpi (kuivike/rehu),reed canary grass (feed),3320201010,elymus,3,Fodder/Forage
-fi,4905,Ruokohelpi (energia),reed canary grass (energy),3320201010,elymus,4,Energy
+fi,4904,Ruokohelpi (kuivike/rehu),reed canary grass (feed),3320209900,other_poaceae_grasses,3,Fodder/Forage
+fi,4905,Ruokohelpi (energia),reed canary grass (energy),3320209900,other_poaceae_grasses,4,Energy
 fi,4913,"Energiapuu, lyhytkiertoinen (haapa ja paju)","Energy wood, short rotation (aspen and willow)",3360000000,tree_wood_forest,4,Energy
 fi,4914,"Energiapuu, lyhytkiert. (hybriidihaapa ja poppeli)","Energy trees, short cycle time (hybrid aspen and poplar)",3360000000,tree_wood_forest,4,Energy
 fi,4930,"Ahdekaunokki, energiantuotantoon",Brown knapweed for energy production,3310617990,other_energy_crops,4,Energy
