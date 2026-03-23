@@ -1,0 +1,370 @@
+nuts,original_code,original_name,translated_name,hcat4_code,hcat4_name,g_tname,dpl_tname,opus_tname,translation_flag,type_error,Notes,Niche/uncommon name/spelling error/abbreviation,hcat4_name_auto,hcat4_code_auto
+iti1,1001.0,avena,Oats,3310105000,oats,oats,oats,Oat,1,,,,oats,3310105000.0
+iti1,1002.0,frumento duro,Durum wheat,3310102000,durum_hard_wheat,durum wheat,durum wheat,durum wheat,1,,,,durum_hard_wheat,3310102000.0
+iti1,1003.0,frumento tenero,Common soft wheat,3310101000,common_soft_wheat,soft wheat,soft wheat,common wheat,1,,,,common_soft_wheat,3310101000.0
+iti1,1005.0,mais,Corn,3310106000,maize_corn_popcorn,corn,more,maize,0,1.0,,,maize_corn_popcorn,3310106000.0
+iti1,1007.0,orzo,Barley,3310104000,barley,barley,barley,Barley,1,,,,barley,3310104000.0
+iti1,101.0,papavero,POPPY,3310606000,poppy,poppy,poppy,poppy,1,,,,poppy,3310606000.0
+iti1,1012.0,sorgo,Sorghum,3310116000,sorghum,sorghum,sorghum,sorghum,1,,,,sorghum,3310116000.0
+iti1,1013.0,triticale,Triticale,3310108000,triticale,triticale,triticale,triticale,1,,,,triticale,3310108000.0
+iti1,1014.0,farro,Spelt/emmer/einkorn,3310110000,spelt,emmer,Farro,farro,0,1.0,,,spelt,3310110000.0
+iti1,1095.0,bosco,Woodland,3360000000,tree_wood_forest,woods,forest,forest,1,,,,isatis_tinctoria_woad,3310614000.0
+iti1,1098.0,vivaio specie ornamentali,Ornamental species nursery,3310800000,flowers_ornamental_plants,ornamental species nursery,nursery for ornamental plants,nursery ornamental species,1,,,,nurseries_nursery,3330700000.0
+iti1,11.0,stevia rebaudiana,STEVIA REBAUDIANA,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,stevia rebaudiana,stevia rebaudiana,stevia rebaudiana,1,,,,rye,3310103000.0
+iti1,1102.0,cece,Chickpea,3310201040,chickpeas,chickpea,What's the matter?,chickpea,0,1.0,,,chickpeas,3310201040.0
+iti1,112.0,canna cinese (miscanthus sinensis),CHINESE silver grass (MISCANTHUS SINENSIS),3310617030,miscanthus_silvergrass,Chinese cane (Miscanthus sinensis),Chinese silver grass (Miscanthus sinensis),Chinese cane (miscanthus sinensis),0,1.0,,,miscanthus_silvergrass,3310617030.0
+iti1,113.0,aglio,GARLIC,3310708020,garlic,garlic,garlic,garlic,1,,,,garlic,3310708020.0
+iti1,114.0,agretto,opposite leaved saltwort (soda ash/ eaten as vegetables),3310717990,other_salads_lettuce_leaf_vegetables,agretto,sullen,Agretto,0,3.0,,1.0,fresh_vegetables,3310700000.0
+iti1,1148.0,hedysarum coronarium l. (sulla),Sweet Vetch Hedysarum coronarium L.,3310202050,vetches,hedysarum coronarium l. (on the),Hedysarum coronarium L. (on),hedysarum coronarium l. (on board),1,,,,sweet_potatoes,3310400000.0
+iti1,1167.0,medicago sativa l. (erba medica),Medicago sativa L. (Alfalfa),3310202010,alfalfa_lucerne,medicago sativa l. (alfalfa),Medicago sativa L. (alfalfa),medicago sativa l. (medical herb),1,,,,alfalfa_lucerne,3310202010.0
+iti1,117.0,broccoletto di rapa,Rapini,3310707990,other_brassicaceae_cruciferae,turnip broccoli,turnip greens,turnip broccoli,0,1.0,,,mixed_grains,3310111000.0
+iti1,1170.0,onobrichis viciifolia scop. (lupinella),Onobrichis viciifolia Scop. (Sainfoin),3310202060,onobrychis_sainfoins,onobrichis viciifolia scop. (sainfoin),Onobrichis viciifolia Scop. (lupinella),onobrichis viciifolia scop. (Wolf),1,,,,onobrychis_sainfoins,3310202060.0
+iti1,1172.0,pascolo arborato - cespugliato tara 20%,Wooded Pasture - Shrubby Tare 20%,3320100000,permanent_grassland,wooded pasture - bushy tara 20%,"wooded pasture – shrubby, 20% cover",Arbored pasture - bushed tara 20%,1,,,,asters,3310803000.0
+iti1,1173.0,pascolo arborato - tara 50%,Wooded Pasture - Tare 50%,3320100000,permanent_grassland,wooded pasture - tare 50%,wooded pasture - 50% deduction,Arbored pasture - tara 50%,1,,,,peas,3310201080.0
+iti1,118.0,cavolfiore,CAULIFLOWER,3310707050,cauliflower,cauliflower,cauliflower,cauliflower,1,,,,cauliflower,3310707050.0
+iti1,121.0,fagiolino,green bean,3310201010,beans,green bean,green bean,green beans,1,,,,other_legumes_harvested_green,3310202990.0
+iti1,122.0,fagiolo,bean,3310201010,beans,bean,bean,bean,1,,,,soy_soybeans,3310201030.0
+iti1,127.0,lattuga lattughino,LETTUCE LETTUCE,3310717000,salads_lettuce_leaf_vegetables,lettuce lettuce,romaine lettuce,"lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce, lettuce",1,,,,lambs_lettuce_rapunzel,3310717040.0
+iti1,129.0,melanzana,AUBERGINE,3310712000,aubergine_eggplant,eggplant,eggplant,aubergine,1,,,,aubergine_eggplant,3310712000.0
+iti1,13.0,calla,CALLA lily,3310899000,other_flowers_ornamental_plants,calla,be quiet,Calla,0,1.0,,,cereal,3310100000.0
+iti1,130.0,melone,MELON,3310702030,melon,melon,melon,melon,1,,,,melon,3310702030.0
+iti1,1305.0,tabacco,Tobacco,3310601000,tobacco,tobacco,tobacco,tobacco,1,,,,tobacco,3310601000.0
+iti1,1308.0,pomodoro,Tomato,3310714000,tomato,tomato,tomato,tomato,1,,,,tomato,3310714000.0
+iti1,131.0,ortive a pieno campo,FIELD VEGETABLES,3310700000,fresh_vegetables,open field vegetables,open-field crops,Full-field orvies,0,1.0,,,salads_lettuce_leaf_vegetables,3310717000.0
+iti1,135.0,porro,Leek,3310708030,leek,leek,furthermore,leek,0,1.0,,,leek,3310708030.0
+iti1,145.0,sedano,wild celery,3310711000,celery,celery,celery,celery,1,,,,celery,3310711000.0
+iti1,1451.0,trifoglio,Clover,3310202030,clover,clover,clover,clover,1,,,,clover,3310202030.0
+iti1,1464.0,erbaio,forage grass less than a year,3320201000,poaceae_grasses,herbarium,grassland,Grass,0,1.0,,,grassland_grass,3320000000.0
+iti1,1482.0,fava,Fava bean,3310201010,beans,broad bean,fava bean,fava beans,1,,,,beans,3310201010.0
+iti1,149.0,sesamo,SESAME,3310604990,other_oilseed_crops,sesame,sesame,sesame,1,,,,other_dry_pulses,3310201990.0
+iti1,150.0,tartufo di prato,MEADOW TRUFFLE,3340200000,truffle,meadow truffle,meadow truffle,lawn truffle,1,,,,truffle,3340200000.0
+iti1,155.0,statice,STATICE (limonium),3310899000,other_flowers_ornamental_plants,static,static,static,0,2.0,,1.0,rice,3310107000.0
+iti1,156.0,uso non agricolo - altro,NON-AGRICULTURAL USE - OTHER,3390000000,not_known_and_other,non-agricultural use - other,non-agricultural use - other,non-agricultural use - other,0,,,,other_cereals,3310199000.0
+iti1,16.0,lenticchie,LENTILS,3310201070,lentils,lentils,lentils,lentils,1,,,,lentils,3310201070.0
+iti1,162.0,indivia o scarola,ENDIVE or ESCAROLE,3310717020,endive,endive or escarole,endive or escarole,Indivia or scarole,1,,,,endive,3310717020.0
+iti1,167.0,rucola,ROCKET rucola,3310717050,rocket_arugula,rocket,arugula,rocket,1,,,,rocket_arugula,3310717050.0
+iti1,1700.0,terreni ritirati dalla produzione,Land withdrawn from production,3370000000,unmaintained,land withdrawn from production,land taken out of production,land set aside from production,1,,,,fallow_land_not_crop,3311100000.0
+iti1,171.0,corbezzolo,STRAWBERRY TREE,3330199000,other_orchards_fruits,strawberry tree,strawberry tree,arbutus,1,,,,strawberries,3310701000.0
+iti1,176.0,sorbo,Sorbus trees,3369900000,other_tree_wood_forest,rowan,sip,sorbus,0,1.0,,,rubus_brambles,3330202000.0
+iti1,177.0,gelso,MULBERRY,3330299000,other_berries_berry_species,mulberry,mulberry,mulberry,1,,,,rye,3310103000.0
+iti1,178.0,acero,MAPLE,3369900000,other_tree_wood_forest,maple,steel,maple,0,1.0,,,apples,3330102000.0
+iti1,179.0,ontano,ALDER,3369900000,other_tree_wood_forest,alder,far away,alder,0,1.0,,,coriander,3310612150.0
+iti1,181.0,carpino,HORNBEAM,3369900000,other_tree_wood_forest,hornbeam,hornbeam,carpin,0,1.0,,,beans,3310201010.0
+iti1,183.0,olmo,ELM,3369900000,other_tree_wood_forest,elm,Olmo,elm,0,1.0,,,emmer,3310112000.0
+iti1,188.0,paulownia tomentosa,PAULOWNIA TOMENTOSA Princess tree,3369900000,other_tree_wood_forest,paulownia tomentosa,Paulownia tomentosa,paulownia tomentosa,1,,,,tree_wood_forest,3360000000.0
+iti1,19.0,risone,RICE,3310107000,rice,paddy,long-grain rice,paddy rice,0,1.0,,,rice,3310107000.0
+iti1,1904.0,girasole,Sunflower,3310604020,sunflower,sunflower,sunflower,sunflower,1,,,,sunflower,3310604020.0
+iti1,1905.0,pascolo polifita con roccia affiorante tara 20%,Multifloral Pasture with Exposed Rock - Tare 20%,3320100000,permanent_grassland,polyphytic pasture with rock outcropping Tara 20%,"mixed pasture with exposed rock, 20% tare",polyphyte pasture with tara rock 20%,0,1.0,,,cauliflower,3310707050.0
+iti1,1906.0,pascolo polifita con roccia affiorante tara 50%,Multifloral Pasture with Exposed Rock  TARE 50%,3320100000,permanent_grassland,polyphytic pasture with rock outcropping Tara 50%,"mixed pasture with exposed rock, 50% tare",polyphyte pasture with tara rock 50%,0,1.0,,,cauliflower,3310707050.0
+iti1,191.0,platano,cooking bananas,3330199000,other_orchards_fruits,plane tree,plantain,Platan,0,1.0,,,beans,3310201010.0
+iti1,192.0,farnia,English Oak,3360600000,oak,English oak,farnia,farnia,0,3.0,,1.0,oak,3360600000.0
+iti1,193.0,roverella,Downy oak,3360600000,oak,downy oak,dwarf oak,roverella,0,1.0,,,oak,3360600000.0
+iti1,194.0,tiglio,LINDEN,3369900000,other_tree_wood_forest,linden,linden tree,lime,0,1.0,,,industrial_nonfood_crops,3310600000.0
+iti1,195.0,abete,FIR,3360900000,conifers,fir,fir tree,fir,1,,,,finola,3310610010.0
+iti1,197.0,douglasia,douglas fir,3360900000,conifers,douglasia,Douglas fir,douglasia,0,1.0,,,iris,3310823000.0
+iti1,198.0,pino marittimo,MARITIME PINE,3360900000,conifers,maritime pine,maritime pine,sea pine,0,1.0,,,mandarin,3330403000.0
+iti1,199.0,cipresso,CYPRESS,3360900000,conifers,cypress,cypress,cypress,1,,,,cress,3310718000.0
+iti1,20.0,pisello,PEA,3310201080,peas,pea,pea,pea,1,,,,peanuts,3310201020.0
+iti1,201.0,arancio,ORANGE,3330402000,orange,orange,orange,orange,1,,,,orange,3330402000.0
+iti1,202.0,mandarino,MANDARIN,3330403000,mandarin,mandarin,mandarin,Mandarin,1,,,,mandarin,3330403000.0
+iti1,204.0,limone,LEMON,3330404000,lemons,lemon,lemon,lemon,1,,,,lemons,3330404000.0
+iti1,208.0,pino,PINE,3360900000,conifers,pine,fine,pine,0,1.0,,,nectarine,3330109000.0
+iti1,209.0,prato in rotolo (tappeto erboso),LAWN IN ROLL (TURF),3320201070,sod_turf,roll lawn (turf),roll-out turf (artificial grass),lawn in roll (turf),1,,,,sod_turf,3320201070.0
+iti1,2101.0,albicocco,Apricot,3330103000,apricots,apricot,apricot tree,apricot,1,,,,apricots,3330103000.0
+iti1,2103.0,ciliegio,Cherry,3330104000,cherry_cherries,cherry,cherry tree,cherry,1,,,,cherry_cherries,3330104000.0
+iti1,2107.0,pesco,Peach,3330111000,peach,peach,I fish,peach,0,1.0,,,peach,3330111000.0
+iti1,2109.0,susino,PLUM TREE,3330113000,plums,plum,plum,plum,1,,,,tree_wood_forest,3360000000.0
+iti1,213.0,lycium barbarum (goji),LYCIUM BARBARUM (GOJI),3330299000,other_berries_berry_species,lycium barbarum (goji),barbarum lycium (goji),lycium barbarum (goji),1,,,,rhubarb,3310709000.0
+iti1,216.0,liquirizia,LICORICE,3310299000,other_legumes,licorice,licorice,licorice,1,,,,rice,3310107000.0
+iti1,217.0,fagiolo d'egitto,Hyacinth bean,3310201010,beans,bean of Egypt,Egyptian bean,Egittus bean,0,1.0,,,beans,3310201010.0
+iti1,218.0,pascolo con pratiche tradizionali tara 50%,PASTURE WITH TRADITIONAL PRACTICES TARE 50%,3320100000,permanent_grassland,grazing with traditional practices tara 50%,"pasture using traditional methods, 50% deduction",pasture with traditional tare practices 50%,1,,,,winter_triticale,3310108001.0
+iti1,219.0,cipolletta  cipolla d'inverno,SPRING ONION,3310708050,scallion,winter onion,"spring onion, winter onion",Onion onion in winter,0,1.0,,,spring_common_soft_wheat,3310101002.0
+iti1,2201.0,melo,APPLE TREE,3330102000,apples,apple tree,Melody,melo,0,1.0,,,tree_wood_forest,3360000000.0
+iti1,2202.0,pero,PEAR TREE,3330112000,pears,but,but,Pero,0,3.0,,1.0,tree_wood_forest,3360000000.0
+iti1,221.0,aneto,DILL,3310612030,anethum_dill,dill,small,dill,0,1.0,,,anethum_dill,3310612030.0
+iti1,226.0,coriandolo,CORIADER,3310612150,coriander,coriander,coriander,Coriander,1,,,,coriander,3310612150.0
+iti1,228.0,giuggiolo,JUJUBE,3330199000,other_orchards_fruits,jujube,jujube,giuggiole,0,1.0,,,cucumber_pickle,3310702010.0
+iti1,23.0,ortensia,HYDRANGEA,3310899000,other_flowers_ornamental_plants,hydrangea,hydrangea,hydrangea,1,,,,orange,3330402000.0
+iti1,2302.0,vite,GRAPE,3330600000,vineyards_wine_vine_rebland_grapes,screw,quickly,screw,0,3.0,,1.0,vineyards_wine_vine_rebland_grapes,3330600000.0
+iti1,24.0,"bietola (compresa  la cheltenham beet, barbabietola rossa/bietola da costa)","CHARD (Including CHELTENHAM BEET, RED BEET/CHARD)",3310719000,beta_vulgaris,chard (including cheltenham beetroot),"chard (including Cheltenham beet, red beet, and Swiss chard)","chard (including cheltenham beet, red beet/coast beet)",1,,,,red_cabbage,3310707110.0
+iti1,240.0,barbabietola - rapa rossa/bietola da costa,BEET - beetroot/CHARD,3310719000,beta_vulgaris,beetroot - red turnip/chard,beet - red beet/swiss chard,beet - red turnip/coast beet,0,1.0,,,sugar_beet,3310719010.0
+iti1,2402.0,oliva da trasformazione,Olive for processing,3330500000,olive,processing olive,olive for processing,processed olive,1,,,,olive,3330500000.0
+iti1,244.0,tritordeum,TRITORDEUM,3310199000,other_cereals,tritordeum,tritordeum,tritordeum,1,,,,rubia_tinctorum_common_madder,3310613000.0
+iti1,245.0,mentuccia,Lesser calamint,3310612220,mints_peppermint,mint,chickweed,mint,0,1.0,,,nettles,3310612250.0
+iti1,261.0,avena altissima,false oat-grass,3320209900,other_poaceae_grasses,very high oats,tall oats,Very high oats,0,2.0,,1.0,oats,3310105000.0
+iti1,265.0,fagiolo di spagna,SPANISH BEAN,3310201010,beans,sponge bean,Spanish bean,Spane bean,0,1.0,,,beans,3310201010.0
+iti1,27.0,carota,CARROT,3310715020,carrots_daucus,carrot,carrot,carrot,1,,,,carrots_daucus,3310715020.0
+iti1,270.0,cavolo cinese,CHINESE CABBAGE,3310707060,chinese_cabbage,Chinese cabbage,Chinese cabbage,Chinese cabbage,1,,,,chinese_cabbage,3310707060.0
+iti1,2706.0,tare,non agricultural area,3390000000,not_known_and_other,tare,together,atare,0,3.0,,1.0,rice,3310107000.0
+iti1,279.0,menta dolce,SWEET MINT,3310612220,mints_peppermint,sweet mint,sweet mint,sweet mint,1,,,,sweet_chestnuts,3330305000.0
+iti1,28.0,cavolo,CABBAGE,3310707000,brassicaceae_cruciferae,cabbage,cabbage,Damn it.,0,1.0,,,chinese_cabbage,3310707060.0
+iti1,280.0,menta piperita,PEPPERMINT,3310612220,mints_peppermint,peppermint,peppermint,peppermint,1,,,,mints_peppermint,3310612220.0
+iti1,286.0,altea,Marshmallow,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,altea,others,altia,0,3.0,,1.0,shallot,3310708060.0
+iti1,289.0,anice comune,COMMON ANISE,3310612050,anise_aniseed,common anise,common anise,common anise,1,,,,winter_common_soft_wheat,3310101001.0
+iti1,29.0,cicerchia,CHICKENING PEA,3310201080,peas,cicerchia,chickpea,cicerchia,0,1.0,,,peas,3310201080.0
+iti1,291.0,arnica,ARNICA,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,arnica,pharmacy,arnica,0,1.0,,,aronia_chokeberries,3330201000.0
+iti1,292.0,aronia nera,BLACK ARONIA,3330201000,aronia_chokeberries,black chokeberry,black chokeberry,black irony,0,1.0,,,aronia_chokeberries,3330201000.0
+iti1,293.0,cumino - cumino romano,CUMIN - CUMIN ROMAN,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,cumin - Roman cumin,cumin - Roman cumin,Cumin - Roman cumin,1,,,,black_cumin,3310612080.0
+iti1,295.0,artemisia,ARTEMISIA,3310612060,artemisia,mugwort,Artemisia,artemisia,0,1.0,,,artemisia,3310612060.0
+iti1,296.0,assenzio,Artemisia absinthium,3310612060,artemisia,absinthe,wormwood,absinthe,0,1.0,,,artemisia,3310612060.0
+iti1,297.0,bardana,BURDOCK,3310715010,arctium_burdock,burdock,burdock,bardana,0,1.0,,,arctium_burdock,3310715010.0
+iti1,298.0,betulla,BIRCH,3360300000,birch,birch,birch,birch,1,,,,birch,3360300000.0
+iti1,3.0,colza,RAPE,3310604010,rapeseed_rape,rapeseed,rapeseed,Rape,1,,,,rapeseed_rape,3310604010.0
+iti1,300.0,pioppo bianco,WHITE POPLAR,3360700000,populus,white poplar,white poplar,white poplar,1,,,,winter_poppy,3310606001.0
+iti1,301.0,pioppo nero,BLACK POPLAR,3360700000,populus,black poplar,black poplar,Black poplar,1,,,,pears,3330112000.0
+iti1,302.0,pioppo tremulo,aspen,3360200000,aspen,aspen,aspen,Poplar tremule,0,1.0,,,aspen,3360200000.0
+iti1,303.0,faggio,BEECH,3369900000,other_tree_wood_forest,beech,beech,beech,1,,,,echinacea,3310815000.0
+iti1,304.0,biancospino,HAWTHORN,3330803000,crataegus_hawthorn,hawthorn,hawthorn,hawthorn,1,,,,crataegus_hawthorn,3330803000.0
+iti1,305.0,biricoccolo susincocco,BIRICOCCOLO Apricot,3330103000,apricots,biricoccolo susincocco,biricoccolo susincocco,biricoccol susinocco,0,2.0,,1.0,apricots,3330103000.0
+iti1,306.0,borragine,BORAGE,3310612090,borage,borage,borage,borage,1,,,,borage,3310612090.0
+iti1,3080.0,noce,WALNUT,3330306000,walnuts,walnuts,nights,Walnut,0,1.0,,,walnuts,3330306000.0
+iti1,309.0,frassino ossifillo o meridionale,ASH narrow-leaved OR SOUTHERN,3369900000,other_tree_wood_forest,oxyphyllous or southern ash,European ash or southern ash,ash oxyfill or southern,0,1.0,,,yarrow,3310612390.0
+iti1,31.0,peonia,PEONY,3310834000,peony_peonies,peony,peony,peony,1,,,,peony_peonies,3310834000.0
+iti1,310.0,ginkgo biloba,GINKGO BILOBA,3361000000,gingko,ginkgo biloba,ginkgo biloba,ginkgo biloba,1,,,,gingko,3361000000.0
+iti1,311.0,leccio,HOLM OAK,3360600000,oak,holm oak,holm oak,holm oak,1,,,,oak,3360600000.0
+iti1,314.0,sughera quercia da sughero,CORK OAK,3360600000,oak,cork oak cork tree,cork oak,cork cork cork,1,,,,oak,3360600000.0
+iti1,315.0,sambuco,elderberry,3330804000,elder_elderberry,elder,elderberry,elder,1,,,,elder_elderberry,3330804000.0
+iti1,316.0,olivello o olivello spinoso,SEA BUCKTHORN,3330208000,hippophae_sea_buckthorns_seaberry,sea ​​buckthorn or sea buckthorn,sea buckthorn,olevel or olevel spiny,0,1.0,,,hippophae_sea_buckthorns_seaberry,3330208000.0
+iti1,317.0,ginepro,JUNIPER,3360900000,conifers,juniper,juniper,juniper,1,,,,unspecified_season_durum_hard_wheat,3310102008.0
+iti1,318.0,mirto,MYRTLE,3310899000,other_flowers_ornamental_plants,myrtle,myrtle,myrtle,1,,,,alchemilla_ladys_mantle,3310612020.0
+iti1,319.0,rusco  pungitopo,BUTCHER'S BROOM,3330899000,other_shrubs,butcher's broom,butcher's broom,rusco pungitopo,0,1.0,,,other_mushrooms,3349900000.0
+iti1,32.0,erba mazzolina,cat grass,3320201030,cocksfoot_catgrass,bunch grass,Mullein,bouquet grass,0,3.0,,1.0,grassland_grass,3320000000.0
+iti1,320.0,cisto bianco,grey-leaved cistus,3330899000,other_shrubs,white cistus,white cyst,white cyst,0,3.0,,1.0,citrus,3330400000.0
+iti1,321.0,acca sellowiana o fejioia sellowiana,Feijoa,3330199000,other_orchards_fruits,acca sellowiana or fejioia sellowiana,acca sellowiana or fejioia sellowiana,acha sellowiana or fejioia sellowiana,0,2.0,feijoa,3.0,feijoa,3330105000.0
+iti1,322.0,lippia citriodora o cedrina o limoncina (aloysia citrodora),Lemon Verbena,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,lippia citriodora or cedrina or limoncina (aloysia citrodora),Lemon verbena (Aloysia citrodora),lippia citriodora or cedrina or limoncin (aloysia citrodora),0,2.0,,1.0,lemons,3330404000.0
+iti1,324.0,camomilla,CHAMOMILE,3310612130,chamomile,chamomile,chamomile,chamomile,1,,,,chamomile,3310612130.0
+iti1,325.0,camomilla romana,ROMAN CHAMOMILE,3310612130,chamomile,Roman chamomile,Roman chamomile,Roman chamomile,1,,,,chamomile,3310612130.0
+iti1,328.0,elicriso,HELICHRYSUM,3310899000,other_flowers_ornamental_plants,helichrysum,immortelle,elicrysus,0,3.0,,1.0,rye,3310103000.0
+iti1,329.0,enula,inula,3310899000,other_flowers_ornamental_plants,elecampane,enula,enula,0,3.0,,1.0,finola,3310610010.0
+iti1,33.0,philodendro,PHILODENDRON,3310899000,other_flowers_ornamental_plants,philodendron,Philodendron,philodendron,1,,,,almond,3330301000.0
+iti1,331.0,escolzia,Poppy,3310606000,poppy,school,I chose,excoltium,0,3.0,,1.0,poppy,3310606000.0
+iti1,332.0,facelia,phacelia,3311300000,phacelia,phacelic,phacelia,facelia,0,1.0,,,phacelia,3311300000.0
+iti1,334.0,"filipendula,ulmaria",Meadowsweet,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,"filipendula, ulmaria",meadowsweet,"filipendula,ulmaria",0,1.0,,,adonis,3310801000.0
+iti1,335.0,fiordaliso,CORNFLOWER,3310810000,cornflowers,cornflower,cornflower,cornalysol,0,1.0,,,cornflowers,3310810000.0
+iti1,336.0,prato polifita,Multifloral Meadow,3320100000,permanent_grassland,multiphyte meadow,mixed-species meadow,polyphyte lawn,0,1.0,,,cauliflower,3310707050.0
+iti1,337.0,galega o capraggine,GALEGA,3310202070,galega,galega or capraggine,goat's rue,Gauge or goat's lettuce,0,1.0,,,galega,3310202070.0
+iti1,338.0,giaggiolo (iris) pallida,Iris,3310823000,iris,orris (iris) pallida,pale iris,giaggiolo (iris) pale,0,1.0,,,iris,3310823000.0
+iti1,340.0,giaggiolo o giglio  bianco  iris fiorentina,White Iris,3310823000,iris,orris or white Florentine iris lily,Iris or white lily (Iris florentina),gioggiolo or lily white iris fiorentina,0,1.0,,,iris,3310823000.0
+iti1,342.0,grindelia,GRINDELIA,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,grindelia,Grindelia,grindelia,0,2.0,,1.0,dahlia,3310812000.0
+iti1,344.0,iperico,st johns wort,3310612340,st_johns_wort,St. John's wort,St. John's wort,hyperic,0,1.0,,,st_johns_wort,3310612340.0
+iti1,345.0,issopo,HYSSOP,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,hyssop,hyssop,hyssop,1,1.0,,,hops,3310602000.0
+iti1,346.0,grano turanicum o frumento orientale o grano khorasan,KHORASAN WHEAT,3310199000,other_cereals,turanicum wheat or oriental wheat or khorasan wheat,"Turanic wheat, Oriental wheat, or Khorasan wheat",wheat turanicum or or eastern wheat or khorasan wheat,0,,,,winter_common_soft_wheat,3310101001.0
+iti1,348.0,malva,MALLOW,3310828000,malva,mauve,mauve,mauve,0,2.0,,1.0,sida_virginia_mallow,3310617020.0
+iti1,35.0,rosa,ROSE,3310837000,roses,rose,pink,pink,0,1.0,,,rosemary,3310612300.0
+iti1,359.0,festuca  (sp. festuca arundinacea schreb.),Tall fescue,3320201020,festuca_fescue,tall fescue (sp. festuca arundinacea schreb.),fescue (specifically Festuca arundinacea Schreb.),festuca (SP. Arundinacea schreb.),0,1.0,,,festuca_fescue,3320201020.0
+iti1,361.0,festuca  (sp. festuca pratensis huds.),Meadow Fescue,3320201020,festuca_fescue,tall fescue (sp. festuca pratensis huds.),Fescue (Festuca pratensis Huds.),festuca (SP. festuca pratensis huds.),0,1.0,,,festuca_fescue,3320201020.0
+iti1,369.0,loietto  (sp. lolium x boucheanum kunt.),Ryegrass (Lolium x boucheanum),3320201050,lolium_ryegrass,ryegrass (sp. lolium x boucheanum kunt.),loietto (Lolium x boucheanum Kunt.),loietto (sp. lolium x boucheanum kunt.),0,1.0,,,lolium_ryegrass,3320201050.0
+iti1,375.0,poa  (sp. poa pratensis l.),Kentucky Bluegrass,3320209900,other_poaceae_grasses,poa (sp. poa pratensis l.),poa (Latin: Poa pratensis L.),poa (sp. poa pratensis l.),1,,,,galega,3310202070.0
+iti1,379.0,trifoglio (sp. trifolium alexandrinum l.),Clover (Alexandrian Clover),3310202030,clover,clover (sp. trifolium alexandrinum l.),clover (specifically Trifolium alexandrinum L.),clover (sp. trifolium alexandrinum l.),1,,,,clover,3310202030.0
+iti1,380.0,prati permanenti naturali con vincoli ambientali - tara 20%,Natural Permanent Grasslands with Environmental Constraints - Tare 20%,3320100000,permanent_grassland,natural permanent meadows with environmental constraints - tare 20%,natural permanent grasslands subject to environmental restrictions - 20% deduction,permanent natural meadows with environmental constraints - tara 20%,1,,,,permanent_grassland,3320100000.0
+iti1,381.0,trifoglio  (sp. trifolium hybridum l.),Clover (specifically Hybrid Clover),3310202030,clover,clover (sp. trifolium hybridum l.),clover (scientific name: Trifolium hybridum L.),clover (sp. trifolium hybridum l.),1,,,,clover,3310202030.0
+iti1,382.0,prati permanenti naturali con vincoli ambientali - tara 50%,Natural Permanent Grasslands with Environmental Constraints - Tare 50%,3320100000,permanent_grassland,natural permanent meadows with environmental constraints - tare 50%,natural permanent grasslands subject to environmental restrictions - 50% deduction,natural permanent meadows with environmental constraints - tara 50%,1,,,,permanent_grassland,3320100000.0
+iti1,383.0,trifoglio (sp. trifolium incarnatum l.),Clover (specifically Crimson Clover),3310202030,clover,clover (sp. trifolium incarnatum l.),clover (specifically Trifolium incarnatum L.),clover (sp. trifolium incarnatum l.),1,,,,clover,3310202030.0
+iti1,384.0,trifoglio  (sp. trifolium pratense l.),Clover (specifically Red Clover),3310202030,clover,clover (sp. trifolium pratense l.),clover (specifically Trifolium pratense L.),clover (sp. trifolium pratense l.),1,,,,clover,3310202030.0
+iti1,385.0,trifoglio (sp. trifolium repens l.),Clover (specifically White Clover),3310202030,clover,clover (sp. trifolium repens l.),clover (scientific name: Trifolium repens L.),clover (sp. trifolium repens l.),1,,,,clover,3310202030.0
+iti1,386.0,margini dei campi seminabili,Edges of Arable Fields,3310000000,arable_crops,margins of arable fields,edges of arable fields,margins of arable fields,1,,,,arable_crops,3310000000.0
+iti1,388.0,trifoglio (sp. trifolium resupinatum l.),Clover (specifically TRIFOLIUM RESUPINATUM),3310202030,clover,clover (sp. trifolium resupinatum l.),clover (specifically Trifolium resupinatum L.),clover (sp. trifolium resupinatum l.),1,,,,clover,3310202030.0
+iti1,389.0,veccia sativa,Common Vetch,3310202050,vetches,vetch sativa,common buckwheat,"Not less than € 60,8 but less than € 60,8",0,1.0,,,winter_common_soft_wheat,3310101001.0
+iti1,39.0,ginestra,Genisteae,3310299000,other_legumes,broom,broom,broom,0,2.0,,1.0,kale,3310707090.0
+iti1,390.0,veccia villosa,Hairy Vetch,3310202050,vetches,hairy vetch,hairy vein,vecchia villosa,0,1.0,,,vetches,3310202050.0
+iti1,391.0,prati permanenti naturali con vincoli ambientali,Natural Permanent Grasslands with Environmental Constraints,3320100000,permanent_grassland,natural permanent meadows with environmental constraints,natural permanent grasslands subject to environmental restrictions,natural permanent grasslands with environmental constraints,1,,,,permanent_grassland,3320100000.0
+iti1,392.0,ortica,Nettle,3310612250,nettles,nettle,nettle,nettle,1,,,,nettles,3310612250.0
+iti1,393.0,partenio,feverfew,3310899000,other_flowers_ornamental_plants,feverfew,pampas grass,partonium,0,1.0,,,rye,3310103000.0
+iti1,394.0,passiflora,passionflower,3310899000,other_flowers_ornamental_plants,passionflower,passion flower,passiflora,0,1.0,,,peas,3310201080.0
+iti1,395.0,pastinaca,Parsnip,3310715030,parsnips,parsnip,parsnip,Pastinaca,0,1.0,,,parsnips,3310715030.0
+iti1,396.0,piantaggine lanceolata o lingua di cane,Plantain (ribwort plantain),3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,lanceolate plantain or dog's tongue,lance-leaved plantain or dog's tongue,lanceolate or dog's tongue,0,3.0,,1.0,nectarine,3330109000.0
+iti1,398.0,psillo o plantago ovata,Plantain (blond plantain),3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,psyllid or plantago ovata,plantain,psillo or ovate plantago,0,1.0,,,nectarine,3330109000.0
+iti1,399.0,pilosella,Pilosella,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,hawkweed,on a cloud,pilosella,0,3.0,,1.0,primrose,3310835000.0
+iti1,4.0,soia,Soybean,3310201030,soy_soybeans,soy,soy,soya,1,,,,soy_soybeans,3310201030.0
+iti1,405.0,avocado,AVOCADO,3330116000,avocado,avocado,avocado,avocado,1,,,,avocado,3330116000.0
+iti1,407.0,ficodindia,Prickly Pear,3330199000,other_orchards_fruits,prickly pear,prickly pear,figodindia,0,1.0,,,pears,3330112000.0
+iti1,408.0,melograno,Pomegranate,3330114000,pomegranate,pomegranate,pomegranate,pomegranate,1,,,,pomegranate,3330114000.0
+iti1,411.0,rosa canina,dog rose,3310837000,roses,dog rose,Dog rose,rose canine,0,1.0,,,roses,3310837000.0
+iti1,412.0,roveja pisello selvatico,Wild Pea,3310201080,peas,roveja wild pea,wild pea,roveja wild pea,1,,,,peas,3310201080.0
+iti1,413.0,santoreggia montana,Winter savory,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,mountain savory,mountain savory,mountain saint,0,1.0,,,winter_common_soft_wheat,3310101001.0
+iti1,414.0,scorzonera,Black Salsify,3310715090,salsify,salsify,black salsify,sczonera,0,1.0,,,salsify,3310715090.0
+iti1,415.0,tarassaco,Dandelion,3310814000,dandelions,dandelion,dandelion,dandelion,1,,,,dandelions,3310814000.0
+iti1,416.0,valeriana,VALERIAN,3310612380,valerian,valerian,valerian,valerian,1,,,,valerian,3310612380.0
+iti1,417.0,verbena officinale,Common Verbena,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,officinal verbena,Verbena officinalis,medicinal verbena,1,,,,winter_common_soft_wheat,3310101001.0
+iti1,418.0,verga d'oro (solidago virga aurea l.),Goldenrod,3310822000,goldenrod,goldenrod (solidago virga aurea l.),Goldenrod (Solidago virga-aurea L.),gold rod (solidago virga aurea l.),0,1.0,,,goldenrod,3310822000.0
+iti1,419.0,viola tricolor,wild pansy,3310850000,viola,viola tricolor,Viola tricolor,purple tricolor,0,1.0,,,peas,3310201080.0
+iti1,422.0,bambu,Bamboo,3320209900,other_poaceae_grasses,bamboo,Bamboo,bamboo,1,,,,rubus_brambles,3330202000.0
+iti1,424.0,bambu gigante,Giant Bamboo,3320209900,other_poaceae_grasses,giant bamboo,giant bamboo,giant bamboo,1,,,,gai_lan,3310707080.0
+iti1,428.0,pino nero,Black Pine,3360900000,conifers,black pine,black pine,black pine,1,,,,black_cumin,3310612080.0
+iti1,429.0,rafano,wild radish,3310715040,radish,horseradish,horseradish,horseradish,1,,,,radish,3310715040.0
+iti1,43.0,ruscus,Butcher's Broom,3330899000,other_shrubs,ruscus,ruscus,ruscus,0,2.0,,1.0,other_mushrooms,3349900000.0
+iti1,430.0,agrumi,Citrus Fruits,3330400000,citrus,citrus fruits,citrus fruits,citrus fruits,1,,,,citrus,3330400000.0
+iti1,432.0,bergamotto,BERGAMOT,3330499000,other_citrus,bergamot,bergamot,bergamot,1,,,,oats,3310105000.0
+iti1,435.0,limette,LIMES,3330499000,other_citrus,limes,lime,limes,1,,,,lilies,3310825000.0
+iti1,436.0,senape bruna,BROWN MUSTARD,3310707010,mustard,brown mustard,brown mustard,brown mustard,1,,,,mustard,3310707010.0
+iti1,438.0,senape nera,BLACK MUSTARD,3310707010,mustard,black mustard,black mustard,black mustard,1,,,,mustard,3310707010.0
+iti1,445.0,lavanda,LAVENDER,3310612190,lavender_lavandula,lavender,lavender,lavender,1,,,,lavender_lavandula,3310612190.0
+iti1,446.0,poa annua,Annual bluegrass,3320209900,other_poaceae_grasses,annual poa,annual bluegrass,annual poa,0,1.0,,,galega,3310202070.0
+iti1,447.0,funghi,MUSHROOMS,3349900000,other_mushrooms,mushrooms,mushrooms,mushrooms,1,,,,mushrooms,3340300000.0
+iti1,45.0,spelta,SPELT,3310110000,spelt,spelled,spelt,spelt,0,1.0,,,spelt,3310110000.0
+iti1,453.0,fagiolo dall'occhio,cow pea,3310201010,beans,cowpea,black-eyed pea,bean from the eye,0,1.0,,,peas,3310201080.0
+iti1,456.0,aloe,ALOE,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,aloe,aloe,aloe,1,,,,triticale,3310108000.0
+iti1,457.0,echinacea pallida,ECHINACEA PALLIDA,3310815000,echinacea,pale echinacea,pale coneflower,Pale echinacea,1,,,,echinacea,3310815000.0
+iti1,458.0,echinacea angustifolia,ECHINACEA ANGUSTIFOLIA,3310815000,echinacea,echinacea angustifolia,Echinacea angustifolia,echinacea angustifolia,1,,,,echinacea,3310815000.0
+iti1,46.0,loietto loglio,PERENNIAL RYEGRASS,3320201050,lolium_ryegrass,ryegrass ryegrass,ryegrass,loietto loglio,0,1.0,,,rye,3310103000.0
+iti1,460.0,prati aridi - formazioni erbose con orchidee,Arid Grasslands - Herbaceous Formations with Orchids,3320000000,grassland_grass,arid meadows - grassy formations with orchids,dry grasslands - grassy areas with orchids,arid meadows - grassy formations with orchids,1,,,,temporary_grassland,3320200000.0
+iti1,463.0,pino mugo,Mountain Pine,3360900000,conifers,mountain pine,I'm sorry,mug pine,0,1.0,,,unmaintained,3370000000.0
+iti1,466.0,uva ursina,BEARBERRY,3330299000,other_berries_berry_species,bearberry,bearberry,Ursin grape,0,1.0,,,hippophae_sea_buckthorns_seaberry,3330208000.0
+iti1,467.0,achillea,Yarrow,3310612390,yarrow,yarrow,yarrow,achillea,1,,,,yarrow,3310612390.0
+iti1,468.0,"ciliegio acido (marasca,visciola,amarena)","SOUR CHERRY (MARASCA, SOUR CHERRY, BLACK CHERRY)",3330104000,cherry_cherries,"sour cherry (morello cherry, sour cherry, black cherry)","sour cherry (marasca, visciola, amarena)","acid cherry (marasca, viscola, black cherry)",1,,,,black_cumin,3310612080.0
+iti1,469.0,okra o ocra o gombo,Okra,3310799000,other_fresh_vegetables,okra or okra or okra,okra o ocra o gombo,Okra or ochre or gumbo,1,,,,orange,3330402000.0
+iti1,47.0,loietto loglio perenne/loietto inglese,RYEGRASS PERENNIAL,3320201050,lolium_ryegrass,ryegrass perennial ryegrass/English ryegrass,Perennial ryegrass/English ryegrass,Perennial loietto/English loietto,0,1.0,,,rye,3310103000.0
+iti1,471.0,loto (kaki),Persimmon,3330199000,other_orchards_fruits,lotus (khaki),Dream (hope),lotus (kaki),0,1.0,,,pears,3330112000.0
+iti1,472.0,fico,FIG,3330106000,fig,fig,I stay,fig,0,1.0,,,fig,3330106000.0
+iti1,473.0,lampone,RASPBERRY,3330202020,raspberry_raspberries,raspberry,raspberry,raspberry,1,,,,raspberry_raspberries,3330202020.0
+iti1,474.0,more,BLACKBERRIES,3330202010,blackberry,more,more,more,0,2.0,,1.0,blackberry,3330202010.0
+iti1,475.0,"mirtilli rossi, mirtilli neri ed altri frutti del genere vaccinium","CRANBERRIES, Blue berries AND OTHER FRUITS OF THE VACCINIUM GENUS",3330299000,other_berries_berry_species,"cranberries, blackberries and other fruits of the vaccinium genus","cranberries, blueberries, and other fruits of the genus Vaccinium","Blueberries, black blueberries and other fruits of the genus vitvonium",0,1.0,,,vaccinium,3330204000.0
+iti1,476.0,nespolo,MEDLAR,3330108000,medlar_loquat,medlar,apple blossom,medlar,0,1.0,,,medlar_loquat,3330108000.0
+iti1,477.0,ribes nero,BLACK CURRANT,3330206010,blackcurrant_cassis,blackcurrant,blackcurrant,blackcurrants,1,,,,black_cumin,3310612080.0
+iti1,479.0,visciole,Sour cherry,3330104000,cherry_cherries,sour cherries,sour cherries,viscioli,0,1.0,,,rye,3310103000.0
+iti1,48.0,viburno,VIBURNUM,3330899000,other_shrubs,viburnum,viburno,viburn,0,3.0,,1.0,vaccinium,3330204000.0
+iti1,480.0,ribes bianco (uva spina),WHITE CURRANTS (GOOSEBERRIES),3330206990,other_ribes,whitecurrant (gooseberry),white currant,whitecurrants (gooseberries),1,,,,white_cabbage,3310707130.0
+iti1,481.0,ribes rosso,RED CURRANT,3330206020,redcurrant,red currant,red currant,redcurrants,1,,,,redcurrant,3330206020.0
+iti1,483.0,centella,CENTELLA,3310717990,other_salads_lettuce_leaf_vegetables,centella,drop,centella,0,3.0,,1.0,rice,3310107000.0
+iti1,484.0,crescione dei giardini o crescione inglese,GARDEN CRESSE OR ENGLISH CRESSE,3311200000,kitchen_gardens,garden cress or English watercress,garden cress or English cress,garden grower or English grower,0,1.0,,,cress,3310718000.0
+iti1,485.0,alloro,Bay Laurel,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,laurel,bay leaf,laurel,1,,,,cereal,3310100000.0
+iti1,488.0,echinacea purpurea,ECHINACEA PURPUREA,3310815000,echinacea,echinacea purpurea,Echinacea purpurea,echinacea purpurea,1,,,,echinacea,3310815000.0
+iti1,490.0,frutta a guscio,NUTS,3330300000,nuts,nuts,nuts,nuts,1,,,,nuts,3330300000.0
+iti1,491.0,carrubo,CAROB,3330901000,carob,carob,carob,carob,1,,,,carob,3330901000.0
+iti1,492.0,castagno,CHESTNUT,3330305000,sweet_chestnuts,chestnut,chestnut,chestnut,1,,,,sweet_chestnuts,3330305000.0
+iti1,493.0,mandorlo,ALMOND TREE,3330301000,almond,almond tree,almond tree,almond,1,,,,almond,3330301000.0
+iti1,494.0,nocciolo,HAZELNUT,3330302000,hazelnuts_hazel,hazelnut,stone,core,0,1.0,,,hazelnuts_hazel,3330302000.0
+iti1,496.0,amaranto,AMARANTH,3310703010,amaranth,amaranth,amaranth,amaranth,1,,,,amaranth,3310703010.0
+iti1,497.0,pistacchio,PISTACHIO,3330304000,pistachio,pistachio,pistachio,pistachio,1,,,,pistachio,3330304000.0
+iti1,498.0,nasturzio,NASTURTIUM,3310612240,nasturtiums,nasturtium,nasturtium,nasturtium,1,,,,nasturtiums,3310612240.0
+iti1,499.0,prugnolo,blackthorn,3330199000,other_orchards_fruits,blackthorn,blackthorn,prugnol,0,1.0,,,hippophae_sea_buckthorns_seaberry,3330208000.0
+iti1,500.0,arboricoltura,ARBORICULTURE,3360000000,tree_wood_forest,arboriculture,arboriculture,arboriculture,1,,,,rye,3310103000.0
+iti1,501.0,tartufo,TRUFFLE,3340200000,truffle,truffle,truffle,truffle,1,,,,truffle,3340200000.0
+iti1,503.0,vivai orticoli,HORTICULTURAL NURSERY,3330700000,nurseries_nursery,horticultural nurseries,horticultural nurseries,Horticulture nurseries,1,,,,rye,3310103000.0
+iti1,505.0,cave da pietra,STONE QUARRIES,3390000000,not_known_and_other,stone quarries,stone quarries,stone quarries,1,,,,ribes,3330206000.0
+iti1,507.0,piante aromatiche e medicinali e spezie,AROMATIC AND MEDICINAL PLANTS AND SPICES,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,aromatic and medicinal plants and spices,"herbs, medicinal plants, and spices",aromatic and medicinal plants and spices,1,,,,aromatic_medicinal_culinary_plants_spices_herbs,3310612000.0
+iti1,508.0,portulaca o porcellana comune,COMMON PURSLANE,3310710000,purslane,purslane or common porcelain,purslane or common purslane,common portulaca or porcelain,0,1.0,,,purslane,3310710000.0
+iti1,51.0,lupolina,Black Medic,3310202010,alfalfa_lucerne,little wolf,police,lupolin,0,3.0,,1.0,black_cumin,3310612080.0
+iti1,524.0,camelia,CAMELLIA,3310899000,other_flowers_ornamental_plants,camellia,camellia,camelia,1,,,,camelina,3310615000.0
+iti1,53.0,panico,foxtail millet,3310109000,millet,panic,panic,panic,0,2.0,,1.0,millet,3310109000.0
+iti1,535.0,geranio,GERANIUM,3310899000,other_flowers_ornamental_plants,geranium,geranium,geranium,1,,,,galium_bedstraw,3310612170.0
+iti1,539.0,cartamo,SAFFLOWER,3310839000,safflower,safflower,cartamo,Safflower,0,1.0,,,safflower,3310839000.0
+iti1,541.0,mizuna o brassica rapa,MIZUNA OR BRASSICA RAPA,3310707000,brassicaceae_cruciferae,mizuna or brassica rapa,mizuna or rapa,mizuna or brassica turnip,1,,,,caraway,3310612110.0
+iti1,543.0,cardiaca,Motherwort,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,cardiac,cardiac,cardiac,0,2.0,,1.0,other_orchards_fruits,3330199000.0
+iti1,545.0,chenopodium quinoa,QUINOA,3310703030,quinoa,chenopodium quinoa,Quinoa,phenopodium quinoa,1,,,,quinoa,3310703030.0
+iti1,546.0,erismo,hedge mustard,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,erism,racism,erismo,0,3.0,,1.0,mustard,3310707010.0
+iti1,55.0,lino,LINEN,3310607000,flax_linseed,linen,linen,flax,1,,,,flax_linseed,3310607000.0
+iti1,552.0,vivai frutticoli,FRUIT NURSERY,3330700000,nurseries_nursery,fruit nurseries,fruit nurseries,fruit trees,0,1.0,,,rye,3310103000.0
+iti1,553.0,vivai viticoli,VINEYARD NURSERY,3330600000,vineyards_wine_vine_rebland_grapes,viticultural nurseries,vine nurseries,Vineyards,0,1.0,,,rye,3310103000.0
+iti1,554.0,vivai olivicoli,OLIVE NURSERY,3330500000,olive,olive tree nurseries,olive nurseries,olive trees,0,1.0,,,olive,3330500000.0
+iti1,555.0,vivai forestali,FORESTRY NURSERY,3330700000,nurseries_nursery,forest nurseries,forest nurseries,forest nurseries,1,,,,rye,3310103000.0
+iti1,556.0,vivai - altri,NURSERY - OTHERS,3330700000,nurseries_nursery,nurseries - others,nurseries - others,nurseries - other,1,,,,pears,3330112000.0
+iti1,557.0,serre,GREENHOUSES,3350000000,greenhouse_foil_film,greenhouses,greenhouse,greenhouses,1,,,,greenhouse_foil_film,3350000000.0
+iti1,56.0,canapa,HEMP,3310610000,hemp_cannabis,hemp,hemp,Hemp,1,,,,hemp_cannabis,3310610000.0
+iti1,562.0,erba medica,ALFAFA,3310202010,alfalfa_lucerne,alfalfa,alfalfa,alfalfa,1,,,,alfalfa_lucerne,3310202010.0
+iti1,58.0,ravizzone,RAPESEED,3310604010,rapeseed_rape,rapeseed,Ravizzone,Artichokes,0,1.0,,,rapeseed_rape,3310604010.0
+iti1,581.0,ginestrino,bird's-foot trefoil,3310202080,birdsfoot_treifoil,broom,broom,broom,0,2.0,,1.0,birdsfoot_treifoil,3310202080.0
+iti1,597.0,grano saraceno,BUCKWHEAT,3310703020,buckwheat,buckwheat,buckwheat,buckwheat,1,,,,buckwheat,3310703020.0
+iti1,60.0,cedro,CEDAR,3360900000,conifers,cedar,cedar,cedar,1,,,,medlar_loquat,3330108000.0
+iti1,607.0,leguminose da granella,GRAIN LEGUMES,3310201010,beans,grain legumes,grain legumes,Grain legumes,1,,,,legumes,3310200000.0
+iti1,615.0,lupino,LUPIN,3310201090,lupins,lupine,shell,Lupin,0,1.0,,,lupins,3310201090.0
+iti1,619.0,coltivazioni arboree permanenti soggette a divieto di fertilizzazione e di trattamento fitosanitario  lungo i corsi d?acqua,PERMANENT TREE CROPS SUBJECT TO A BAN ON FERTILIZATION AND PHYTOSANITARY TREATMENT ALONG WATER COURSES,3360000000,tree_wood_forest,permanent tree crops subject to a ban on fertilization and phytosanitary treatment along watercourses,permanent tree crops subject to a ban on fertilization and pesticide application along waterways,permanent tree crops subject to a prohibition of fertilization and plant protection treatment along watercourses,1,,,,industrial_nonfood_crops,3310600000.0
+iti1,62.0,peperoncino peperetta,CHILI PEPPER,3310716020,chili_pepper,chilli pepper,chili pepper,chili pepper,1,,,,chili_pepper,3310716020.0
+iti1,622.0,meliloto,sweet yellow clover,3310202030,clover,sweet clover,sweet clover,melilot,1,,,,clover,3310202030.0
+iti1,624.0,miglio,Proso MILLET,3310109000,millet,mile,mile,mile,0,2.0,,1.0,millet,3310109000.0
+iti1,629.0,orti familiari,Family Gardens,3311200000,kitchen_gardens,family gardens,community gardens,family gardens,1,,,,beans,3310201010.0
+iti1,630.0,arachide,PEANUT,3310201020,peanuts,peanut,peanut,Peanuts,1,,,,peanuts,3310201020.0
+iti1,646.0,piante ornamentali,ORNAMENTAL PLANTS,3310800000,flowers_ornamental_plants,ornamental plants,ornamental plants,ornamental plants,1,,,,flowers_ornamental_plants,3310800000.0
+iti1,65.0,pascolo polifita,Multifloral Pasture,3320100000,permanent_grassland,polyphytic pasture,mixed-species pasture,polyphyte grazing,0,1.0,,,rye,3310103000.0
+iti1,651.0,coltivazioni arboree specializzate,SPECIALIZED TREE CROPS,3369900000,other_tree_wood_forest,specialized tree crops,specialized tree crops,specialized tree crops,1,,,,arable_crops,3310000000.0
+iti1,653.0,arundo donax,Giant Reed,3320209900,other_poaceae_grasses,arundo donax,common reed,arundo donax,0,1.0,,,rye,3310103000.0
+iti1,655.0,arboreto consociabile (con coltivazioni erbacee),COMBINABLE ARBORETUM (WITH HERBACEOUS CROPS),3360000000,tree_wood_forest,sociable arboretum (with herbaceous crops),mixed orchard (with herbaceous crops),arboretum consociabile (with herbaceous crops),0,1.0,,,arable_crops,3310000000.0
+iti1,656.0,pomodorino,CHERRY TOMATO,3310714000,tomato,cherry tomato,cherry tomato,tomato,1,,,,tomato,3310714000.0
+iti1,66.0,calendula,CALENDULA,3310612100,calendula_marigold,marigold,calendula,calendula,1,,,,calendula_marigold,3310612100.0
+iti1,660.0,manufatti,non agricultural area,3390000000,not_known_and_other,artifacts,manufactured goods,Manufactures,0,3.0,,1.0,rice,3310107000.0
+iti1,661.0,cotogno,QUINCE,3330115000,quinces,quince,quince,quince,1,,,,quinces,3330115000.0
+iti1,666.0,seminativi,ARABLE LAND,3310000000,arable_crops,arable land,arable land,arable crops,1,,,,other_arable_land_crops,3319900000.0
+iti1,667.0,salice,WILLOW,3360800000,willows_osiers,willow,willow,willow,1,,,,willows_osiers,3360800000.0
+iti1,668.0,eucalipto,EUCALYPTUS,3360500000,eucalyptus,eucalyptus,eucalyptus,eucalyptus,1,,,,eucalyptus,3360500000.0
+iti1,669.0,robinia,ROBINIA,3369900000,other_tree_wood_forest,black locust,black locust,robinia,0,1.0,,,aronia_chokeberries,3330201000.0
+iti1,675.0,scagliola,CANARY GRASS,3320201100,canary_seed_canaryseed,canary seed,scagliola,scagliola,0,1.0,,,canary_seed_canaryseed,3320201100.0
+iti1,676.0,trifoglio (sp. trifolium squarrosum l.),CLOVER (SP. TRIFOLIUM SQUARROSUM L.),3310202030,clover,clover (sp. trifolium squarrosum l.),clover (specifically Trifolium squarrosum L.),clover (sp. trifolium squarrosum l.),1,,,,clover,3310202030.0
+iti1,679.0,frutteti familiari,FAMILY ORCHARDS,3330199000,other_orchards_fruits,family orchards,family orchards,family orchards,1,,,,orchards_fruits,3330100000.0
+iti1,680.0,scalogno,SHALLOT,3310708060,shallot,shallot,shallot,shallots,1,,,,shallot,3310708060.0
+iti1,682.0,tef o teff,TEFF,3310115000,teff,tef or teff,Pay up,tef or teff,0,1.0,,,teff,3310115000.0
+iti1,684.0,segala,RYE,3310103000,rye,rye,everything,Rye,0,1.0,,,rye,3310103000.0
+iti1,685.0,coltivazioni arboree promiscue (piu' specie arboree),Mixed Tree Cultivations (Multiple Tree Species),3360000000,tree_wood_forest,promiscuous tree crops (multiple tree species),mixed tree plantations (multiple tree species),Promiscuous tree crops (more tree species),1,,,,mixed_grains,3310111000.0
+iti1,688.0,caco mela,Oriental PERSIMMON,3330199000,other_orchards_fruits,persimmon apple,Caco Mela,caco apple,0,1.0,,,pears,3330112000.0
+iti1,69.0,pioppo,POPLAR,3360700000,populus,poplar,poplar,poplar,1,,,,populus,3360700000.0
+iti1,692.0,silene o sirene o strigoli,SILENE,3310843000,silene_catchfly,silene or sirens or strigoli,"silene, sirene, or strigoli",Silene or siren or strigoli,1,,,,silene_catchfly,3310843000.0
+iti1,7.0,aralia,ARALIA,3369900000,other_tree_wood_forest,aralia,aralia,aralia,1,,,,sanvitalia_procumbens,3310841000.0
+iti1,7001.0,fabbricati,Buildings,3390000000,not_known_and_other,manufactured,buildings,buildings,0,1.0,,,seed_seedlings,3311000000.0
+iti1,710.0,patata,POTATO,3310300000,potatoes,potato,potato,potato,1,,,,sweet_potatoes,3310400000.0
+iti1,719.0,luffa,LUFFA,3310702990,other_cucurbits,loofah,hitchhike,luffa,0,1.0,,,alfalfa_lucerne,3310202010.0
+iti1,722.0,miscuglio di azotofissatrici,Mixture of Nitrogen-Fixing Plants,3310201020,peanuts,mixture of nitrogen fixers,mixture of nitrogen-fixing plants,mixture of nitrogen-fixing machines,1,,,,other_aromatic_medicinal_culinary_plants_spices_herbs,3310612990.0
+iti1,732.0,spirulina,SPIRULINA -cyanobacteria,3390000000,not_known_and_other,spirulina,spirulina,spiruline,0,3.0,,1.0,setaria,3320201060.0
+iti1,734.0,fiori eduli,Edible Flowers,3310800000,flowers_ornamental_plants,edible flowers,edible flowers,edible flowers,1,,,,flowers_ornamental_plants,3310800000.0
+iti1,736.0,silfio (pianta di coppo)  silphium perfoliatum,SILPHUM Silphium perfoliatum,3310844000,silphium_rosinweeds,silphium (tile plant) silphium perfoliatum,silphium (tubular flower) Silphium perfoliatum,silfium (coppo plant) silphium perfoliatum,1,,,,basil,3310612070.0
+iti1,76.0,luppolo,HOPS,3310602000,hops,hop,hops,hops,1,,,,hops,3310602000.0
+iti1,77.0,senape,MUSTARD,3310707010,mustard,mustard,mustard,mustard,1,,,,mustard,3310707010.0
+iti1,770.0,uso non agricolo - aree non coltivabili,NON-AGRICULTURAL USE - NON-CULTIVABLE AREAS,3390000000,not_known_and_other,non-agricultural use - non-cultivable areas,non-agricultural use - non-arable land,non-agricultural use - non-cultivable areas,1,,,,garlic,3310708020.0
+iti1,783.0,alberi in filare,TREES IN ROWS,3360000000,tree_wood_forest,trees in rows,rows of trees,trees in rows,1,,,,rye,3310103000.0
+iti1,784.0,"maceri, stagni e laghetti","Marshes, Ponds, and Small Lakes",3390000000,not_known_and_other,"rubble, ponds and lakes","swamps, ponds, and small lakes","maceri, ponds and ponds",1,,,,not_known_and_other,3390000000.0
+iti1,785.0,gruppi di alberi e boschetti,GROUPS OF TREE AND SMALL GROVES,3360000000,tree_wood_forest,groups of trees and groves,groups of trees and groves,groups of trees and groves,1,,,,tree_wood_forest,3360000000.0
+iti1,786.0,fossati e canali,DITCHES AND CANALS,3390000000,not_known_and_other,ditches and canals,ditches and canals,Ditches and canals,1,,,,vetches,3310202050.0
+iti1,788.0,siepi e fasce alberate,HEDGES AND TREE-LINED STRIPS,3360000000,tree_wood_forest,hedges and tree-lined strips,hedges and tree-lined avenues,hedges and tree-lined bands,1,,,,tree_wood_forest,3360000000.0
+iti1,789.0,margini dei campi,FIELD MARGINS,3390000000,not_known_and_other,field margins,field edges,field margins,1,,,,fig,3330106000.0
+iti1,79.0,vecce,Vetches,3310202050,vetches,vetches,vetch,vetches,1,,,,vetches,3310202050.0
+iti1,790.0,terrazzamenti,TERRACES,3390000000,not_known_and_other,terraces,terraces,terraces,1,,,,rice,3310107000.0
+iti1,791.0,fasce tampone ripariali,RIPARIAN BUFFER STRIPS,3390000000,not_known_and_other,riparian buffer strips,riparian buffer zones,riparial buffer bands,1,,,,turnips,3310715050.0
+iti1,792.0,fasce tampone non ripariali,NON-RIPARIAN BUFFER STRIPS,3390000000,not_known_and_other,non-riparian buffer strips,non-riparian buffer zones,non-riparial buffer bands,1,,,,turnips,3310715050.0
+iti1,793.0,alberi isolati,TREES ISOLATED,3360000000,tree_wood_forest,isolated trees,isolated trees,isolated trees,1,,,,viola,3310850000.0
+iti1,80.0,crisantemo,CHRYSANTHEMUM,3310809000,chrysanthemum,chrysanthemum,chrysanthemum,chrysanthemum,1,,,,chrysanthemum,3310809000.0
+iti1,804.0,pesco nettarina,PEACH TREE NECTARINE,3330109000,nectarine,nectarine peach,nectarine,pesco nectarin,0,1.0,,,nectarine,3330109000.0
+iti1,826.0,pino domestico,DOMESTIC PINE,3360900000,conifers,domestic pine,European pine,domestic pine,1,,,,lupins,3310201090.0
+iti1,83.0,topinambur,JERUSALEM ARTICHOKE,3310713000,artichoke,Jerusalem artichoke,Jerusalem artichoke,Jerusalem artichokes,1,,,,topinambur_jerusalem_artichoke,3310705000.0
+iti1,831.0,actinidia (kiwi),ACTINIDIA (KIWI),3330107000,kiwi,actinidia (kiwi),Actinidia (kiwi),Actinidia (kiwi),1,,,,kiwi,3330107000.0
+iti1,842.0,ricino,Castor oil,3330806000,ricinus_castor,castor,castor bean,castor,1,,,,ricinus_castor,3330806000.0
+iti1,862.0,fieno greco,FENUGREEK,3310201060,fenugreek,fenugreek,fenugreek,fenugreek,1,,,,fenugreek,3310201060.0
+iti1,88.0,vigna cinese,Cowpea,3310201010,beans,Chinese vineyard,Chinese grapevine,Chinese vineyard,0,2.0,,1.0,peas,3310201080.0
+iti1,89.0,patata americana (batata),Sweet potato,3310400000,sweet_potatoes,American potato (batata),sweet potato,American potato (batata),0,,,,sweet_potatoes,3310400000.0
+iti1,899.0,prato pascolo,PASTURE,3320100000,permanent_grassland,pasture meadow,pasture,grazing lawn,1,,,,peas,3310201080.0
+iti1,902.0,asparago,ASPARAGUS,3310706000,asparagus,asparagus,asparagus,asparagus,1,,,,asparagus,3310706000.0
+iti1,903.0,basilico,BASIL,3310612070,basil,basil,basil,basil,1,,,,basil,3310612070.0
+iti1,909.0,carciofo,ARTICHOKE,3310713000,artichoke,artichoke,artichoke,artichoke,1,,,,artichoke,3310713000.0
+iti1,910.0,cardi,carduus (plumeless thistles),3310612400,marian_thistles,cardoons,thistles,cardoons,0,1.0,,,marian_thistles,3310612400.0
+iti1,917.0,cetriolo,Cucumber,3310702010,cucumber_pickle,cucumber,cucumber,cucumber,1,,,,cucumber_pickle,3310702010.0
+iti1,919.0,cicoria,CHICORY,3310717010,chicory_chicories,chicory,chicory,chicory,1,,,,chicory_chicories,3310717010.0
+iti1,92.0,lilium,LILY,3310825000,lilies,lilium,lily,lilium,0,1.0,,,lilies,3310825000.0
+iti1,921.0,cipolla anche di tipo lungo (echalion),Scallion,3310708050,scallion,onion also long type (echalion),"onions, including the long variety (echalion)","onion, whether or not of a long type (echalion)",0,2.0,,1.0,scallion,3310708050.0
+iti1,924.0,cocomero,WATERMELON,3310702050,watermelon,watermelon,watermelon,watermelon,1,,,,watermelon,3310702050.0
+iti1,926.0,finocchio,FENNEL,3310704000,fennel,fennel,fennel,fennel,1,,,,fennel,3310704000.0
+iti1,927.0,fragola,STRAWBERRY,3310701000,strawberries,strawberry,strawberry,strawberry,1,,,,strawberries,3310701000.0
+iti1,932.0,peperone,BELL PEPPER,3310716010,bell_pepper_paprika,pepper,bell pepper,pepper,1,,,,bell_pepper_paprika,3310716010.0
+iti1,933.0,prezzemolo,PARSLEY,3310612270,parsley,parsley,parsley,parsley,1,,,,parsley,3310612270.0
+iti1,935.0,radicchio,RADICCHIO,3310717990,other_salads_lettuce_leaf_vegetables,radish,radicchio,radicchio,0,1.0,,,radish,3310715040.0
+iti1,936.0,ravanello,RADISH,3310715040,radish,radish,radish,radish,1,,,,radish,3310715040.0
+iti1,939.0,spinacio,SPINACH,3310717070,spinach,spinach,spinach,spinach,1,,,,spinach,3310717070.0
+iti1,940.0,zucca,PUMPKIN,3310702040,pumpkin_squash_gourd,pumpkin,pumpkin,pumpkin,1,,,,pumpkin_squash_gourd,3310702040.0
+iti1,941.0,zucchino,COURGETTE,3310702060,zucchini_courgette,courgette,zucchini,zucchini,1,,,,zucchini_courgette,3310702060.0
+iti1,942.0,erba cipollina,CHIVES,3310708010,chives,chives,chives,chives,1,,,,chives,3310708010.0
+iti1,950.0,prugne,PLUMS,3330113000,plums,plums,plums,plums,1,,,,plums,3330113000.0
+iti1,951.0,timo,THYME,3310612370,thyme,thyme,thyme,thyme,1,,,,thyme,3310612370.0
+iti1,952.0,zafferano,SAFFRON,3310612320,saffron_crocus_sativus,saffron,saffron,saffron,1,,,,saffron_crocus_sativus,3310612320.0
+iti1,954.0,cavolo rapa,Kohlrabi,3310707100,kohlrabi,kohlrabi,kohlrabi,kohlrabi,1,,,,kohlrabi,3310707100.0
+iti1,956.0,sedano rapa,CELERIAC,3310711010,celeriac,celeriac,celeriac,celery,0,1.0,,,celeriac,3310711010.0
+iti1,961.0,melissa,LEMON BALM,3310612200,lemon_balm_melissa,melissa,lemon balm,melissa,1,,,,lemon_balm_melissa,3310612200.0
+iti1,962.0,menta,MINT,3310612220,mints_peppermint,mint,mint,mint,1,,,,mints_peppermint,3310612220.0
+iti1,963.0,origano,OREGANO,3310612260,oregano,oregano,oregano,oregano,1,,,,oregano,3310612260.0
+iti1,964.0,maggiorana,MARJORAM,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,marjoram,marjoram,marjoram,1,,,,aromatic_medicinal_culinary_plants_spices_herbs,3310612000.0
+iti1,965.0,rosmarino,ROSEMARY,3310612300,rosemary,rosemary,rosemary,rosemary,1,,,,rosemary,3310612300.0
+iti1,966.0,salvia,SAGE,3310703040,sage_chia,sage,sage,sage,1,,,,sage_chia,3310703040.0
+iti1,967.0,frassino,ASH,3369900000,other_tree_wood_forest,ash,ash,ash,1,,,,pumpkin_squash_gourd,3310702040.0
+iti1,968.0,cappero,CAPER,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,caper,caper,caper,1,,,,rapeseed_rape,3310604010.0
+iti1,969.0,azzeruolo,Hawthorn,3330803000,crataegus_hawthorn,azzeroolo,zero,azarole,0,1.0,,,crataegus_hawthorn,3330803000.0
+iti1,970.0,cavolo broccolo,CABBAGE BROCCOLI,3310707030,broccoli,broccoli cabbage,broccoli,Kale broccoli,0,1.0,,,broccoli,3310707030.0
+iti1,971.0,alchechengi,Hozuki (similar to groundcherry but purely ornamental),3310899000,other_flowers_ornamental_plants,alchechengi,"I'm sorry, but I can't help with that.",alchechengi,0,1.0,,,flowers_ornamental_plants,3310800000.0
+iti1,972.0,brassica carinata  (cavolo abissino),BRASSICA CARINATA (Ethiopian Rape),3310707990,other_brassicaceae_cruciferae,Brassica Carinata (Abyssinian Cabbage),Brassica carinata (Abyssinian cabbage),Carinated brassica (cabbage abyssinian),0,2.0,,1.0,rapeseed_rape,3310604010.0
+iti1,99.0,margherita,DAISY,3310813000,daisy_daisies,margherita pizza,little margherita,daisy,0,1.0,,,daisy_daisies,3310813000.0
+iti1,998.0,camelina o dorella  coltivata,CAMELINA,3310615000,camelina,cultivated camelina or dorella,cultivated camelina,cultivated camel or dorella,0,1.0,,,camelina,3310615000.0
+iti1,,,,3390000000,not_known_and_other,,,,0,,,,,
