@@ -81,7 +81,7 @@ at,205,ACKERBOHNEN / FELDGEMÜSE,Field beans / field vegetables,3310201010,beans
 at,206,ACKERBOHNEN - GETREIDE GEMENGE,FIELD BEANS - GRAIN MIX,3310201010,beans,6,Harvested as Grains
 at,207,BITTERLUPINEN,BITTER LUPINES,3310201090,lupins,0,No specified use
 at,208,ACKERBOHNEN / ERBSENGEMENGE,FIELD BEANS / PEAS MIX,3310201010,beans,0,No specified use
-at,209,ESPARSETTE,ESPARSETTE,3310201050,esparsette_onobrychis,0,No specified use
+at,209,ESPARSETTE,ESPARSETTE,3310202060,onobrychis_sainfoins,0,No specified use
 at,210,PELUSCHKEN,Field Pea,3310201080,peas,0,No specified use
 at,211,WINTERACKERBOHNEN,winter broad beans,3310201010,beans,0,No specified use
 at,212,SOMMERACKERBOHNEN,summer broad beans,3310201010,beans,0,No specified use
@@ -96,17 +96,17 @@ at,308,SOJABOHNEN,SOYBEANS,3310201030,soy_soybeans,0,No specified use
 at,309,SOJABOHNEN / SOMMERWICKEN IN GETRENNTEN REIHEN,SOYBEANS / SUMMER VETCHETS IN SEPARATE ROWS,3310201030,soy_soybeans,0,No specified use
 at,310,ÖLLEIN (NICHT ZUR FASERGEWINNUNG),FLAX (NOT FOR FIBER RECOVERY),3310607000,flax_linseed,0,No specified use
 at,311,ÖLLEIN (NICHT ZUR FASERGEWINNUNG) / FELDGEMÜSE,OIL FLAX (NOT FOR FIBER PRODUCTION) / FIELD VEGETABLES,3310607000,flax_linseed,8,Oil
-at,350,LSE FELDGEHÖLZ / BAUM- / GEBÜSCHGRUPPE,PROTECTED LANDSCAPE ELEMENT FIELD WOOD / TREE / BRUSH GROUP,3360000000,tree_wood_forest,0,No specified use
-at,351,LSE HECKE / UFERGEHÖLZ,(Protected Landscape Element) HEDGE / SHORE WOOD,3360000000,tree_wood_forest,0,No specified use
-at,353,LSE RAIN / BÖSCHUNG / TROCKENSTEINMAUER,PROTECTED LANDSCAPE ELEMENET RAIN / EMBANKMENT / DRY STONE WALL,3390000000,not_known_and_other,0,No specified use
-at,359,GLÖZ FELDGEHÖLZ / BAUM- / GEBÜSCHGRUPPE,Group of woody plants/trees/shrubs,3360000000,tree_wood_forest,0,No specified use
-at,360,GLÖZ HECKE / UFERGEHÖLZ,HEDGE / RIPARIAN WOODLAND,3360000000,tree_wood_forest,0,No specified use
-at,361,GLÖZ RAIN / BÖSCHUNG / TROCKENSTEINMAUER,RAIN / EMBANKMENT / DRY STONE WALL,3390000000,not_known_and_other,0,No specified use
-at,362,GLÖZ GRABEN / UFERRANDSTREIFEN,DITCH / RIPARIAN STRIP,3390000000,not_known_and_other,0,No specified use
-at,363,GLÖZ NATURDENKMAL FLÄCHE,Natural Site Area,3390000000,not_known_and_other,0,No specified use
-at,364,GLÖZ STEINRIEGEL / STEINHAGE,Clearance cairn,3390000000,not_known_and_other,0,No specified use
-at,365,GLÖZ TEICH / TÜMPEL,Pond,3390000000,not_known_and_other,0,No specified use
-at,366,LSE MEHRNUTZENHECKE,Multiple use hedge,3390000000,not_known_and_other,0,No specified use
+at,350,LSE FELDGEHÖLZ / BAUM- / GEBÜSCHGRUPPE,LANDSCAPE ELEMENT FIELD WOOD / TREE / BRUSH GROUP,3360000000,tree_wood_forest,0,No specified use
+at,351,LSE HECKE / UFERGEHÖLZ,(Landscape Element) HEDGE / SHORE WOOD,3360000000,tree_wood_forest,0,No specified use
+at,353,LSE RAIN / BÖSCHUNG / TROCKENSTEINMAUER,LANDSCAPE ELEMENET RAIN / EMBANKMENT / DRY STONE WALL,3390000000,not_known_and_other,0,No specified use
+at,359,GLÖZ FELDGEHÖLZ / BAUM- / GEBÜSCHGRUPPE,Group of woody plants/trees/shrubs (good agricultural and ecological condition),3360000000,tree_wood_forest,0,No specified use
+at,360,GLÖZ HECKE / UFERGEHÖLZ,HEDGE / RIPARIAN WOODLAND (good agricultural and ecological condition),3360000000,tree_wood_forest,0,No specified use
+at,361,GLÖZ RAIN / BÖSCHUNG / TROCKENSTEINMAUER,RAIN / EMBANKMENT / DRY STONE WALL (good agricultural and ecological condition),3390000000,not_known_and_other,0,No specified use
+at,362,GLÖZ GRABEN / UFERRANDSTREIFEN,DITCH / RIPARIAN STRIP (good agricultural and ecological condition),3390000000,not_known_and_other,0,No specified use
+at,363,GLÖZ NATURDENKMAL FLÄCHE,Natural Site Area (good agricultural and ecological condition),3390000000,not_known_and_other,0,No specified use
+at,364,GLÖZ STEINRIEGEL / STEINHAGE,Clearance cairn (good agricultural and ecological condition),3390000000,not_known_and_other,0,No specified use
+at,365,GLÖZ TEICH / TÜMPEL,Pond (good agricultural and ecological condition),3390000000,not_known_and_other,0,No specified use
+at,366,LSE MEHRNUTZENHECKE,Multiple use hedge LANDSCAPE ELEMENT,3390000000,not_known_and_other,0,No specified use
 at,506,SENF,MUSTARD,3310707010,mustard,0,No specified use
 at,509,SOMMERMOHN,SUMMER POPPY,3310606002,summer_poppy,0,No specified use
 at,510,WINTERMOHN,WINTER POPPY,3310606001,winter_poppy,0,No specified use
@@ -156,7 +156,7 @@ at,679,SONSTIGES FELDFUTTER,OTHER FIELD FORAGE,3390000000,not_known_and_other,0,
 at,680,MARIENDISTELN,Marian thistles,3310612400,marian_thistles,0,No specified use
 at,681,GRÜNSCHNITTROGGEN,GREEN CUT RYE,3310103000,rye,5,Harvested Green
 at,682,PHACELIA,PHACELIA,3311300000,phacelia,0,No specified use
-at,686,"ELEFANTENGRAS (CHINASCHILF, MISCANTHUS SINENSIS)",ELEPHANT GRASS (CHINA REED,3320201010,elymus,0,No specified use
+at,686,"ELEFANTENGRAS (CHINASCHILF, MISCANTHUS SINENSIS)","ELEPHANT GRASS (CHINA REED, MISCANTHUS SINENSIS)",3310617030,miscanthus_silvergrass,0,No specified use
 at,689,LEINDOTTER,Camelina,3310615000,camelina,0,No specified use
 at,690,ÖLRETTICH,OIL RADISH,3310715040,radish,8,Oil
 at,691,RÜBENVERMEHRUNG,BEET PROPAGATION,3310719000,beta_vulgaris,9,Seed/Propagation
