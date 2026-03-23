@@ -81,7 +81,7 @@ at,205,ACKERBOHNEN / FELDGEMÜSE,Field beans / field vegetables,3310201010,beans
 at,206,ACKERBOHNEN - GETREIDE GEMENGE,FIELD BEANS - GRAIN MIX,3310201010,beans,6,Harvested as Grains
 at,207,BITTERLUPINEN,BITTER LUPINES,3310201090,lupins,0,No specified use
 at,208,ACKERBOHNEN / ERBSENGEMENGE,FIELD BEANS / PEAS MIX,3310201010,beans,0,No specified use
-at,209,ESPARSETTE,ESPARSETTE,3310201050,esparsette_onobrychis,0,No specified use
+at,209,ESPARSETTE,ESPARSETTE,3310202060,onobrychis_sainfoins,0,No specified use
 at,210,PELUSCHKEN,Field Pea,3310201080,peas,0,No specified use
 at,211,WINTERACKERBOHNEN,winter broad beans,3310201010,beans,0,No specified use
 at,212,SOMMERACKERBOHNEN,summer broad beans,3310201010,beans,0,No specified use
@@ -96,17 +96,17 @@ at,308,SOJABOHNEN,SOYBEANS,3310201030,soy_soybeans,0,No specified use
 at,309,SOJABOHNEN / SOMMERWICKEN IN GETRENNTEN REIHEN,SOYBEANS / SUMMER VETCHETS IN SEPARATE ROWS,3310201030,soy_soybeans,0,No specified use
 at,310,ÖLLEIN (NICHT ZUR FASERGEWINNUNG),FLAX (NOT FOR FIBER RECOVERY),3310607000,flax_linseed,0,No specified use
 at,311,ÖLLEIN (NICHT ZUR FASERGEWINNUNG) / FELDGEMÜSE,OIL FLAX (NOT FOR FIBER PRODUCTION) / FIELD VEGETABLES,3310607000,flax_linseed,8,Oil
-at,350,LSE FELDGEHÖLZ / BAUM- / GEBÜSCHGRUPPE,PROTECTED LANDSCAPE ELEMENT FIELD WOOD / TREE / BRUSH GROUP,3360000000,tree_wood_forest,0,No specified use
-at,351,LSE HECKE / UFERGEHÖLZ,(Protected Landscape Element) HEDGE / SHORE WOOD,3360000000,tree_wood_forest,0,No specified use
-at,353,LSE RAIN / BÖSCHUNG / TROCKENSTEINMAUER,PROTECTED LANDSCAPE ELEMENET RAIN / EMBANKMENT / DRY STONE WALL,3390000000,not_known_and_other,0,No specified use
-at,359,GLÖZ FELDGEHÖLZ / BAUM- / GEBÜSCHGRUPPE,Group of woody plants/trees/shrubs,3360000000,tree_wood_forest,0,No specified use
-at,360,GLÖZ HECKE / UFERGEHÖLZ,HEDGE / RIPARIAN WOODLAND,3360000000,tree_wood_forest,0,No specified use
-at,361,GLÖZ RAIN / BÖSCHUNG / TROCKENSTEINMAUER,RAIN / EMBANKMENT / DRY STONE WALL,3390000000,not_known_and_other,0,No specified use
-at,362,GLÖZ GRABEN / UFERRANDSTREIFEN,DITCH / RIPARIAN STRIP,3390000000,not_known_and_other,0,No specified use
-at,363,GLÖZ NATURDENKMAL FLÄCHE,Natural Site Area,3390000000,not_known_and_other,0,No specified use
-at,364,GLÖZ STEINRIEGEL / STEINHAGE,Clearance cairn,3390000000,not_known_and_other,0,No specified use
-at,365,GLÖZ TEICH / TÜMPEL,Pond,3390000000,not_known_and_other,0,No specified use
-at,366,LSE MEHRNUTZENHECKE,Multiple use hedge,3390000000,not_known_and_other,0,No specified use
+at,350,LSE FELDGEHÖLZ / BAUM- / GEBÜSCHGRUPPE,LANDSCAPE ELEMENT FIELD WOOD / TREE / BRUSH GROUP,3360000000,tree_wood_forest,0,No specified use
+at,351,LSE HECKE / UFERGEHÖLZ,(Landscape Element) HEDGE / SHORE WOOD,3360000000,tree_wood_forest,0,No specified use
+at,353,LSE RAIN / BÖSCHUNG / TROCKENSTEINMAUER,LANDSCAPE ELEMENET RAIN / EMBANKMENT / DRY STONE WALL,3390000000,not_known_and_other,0,No specified use
+at,359,GLÖZ FELDGEHÖLZ / BAUM- / GEBÜSCHGRUPPE,Group of woody plants/trees/shrubs (good agricultural and ecological condition),3360000000,tree_wood_forest,0,No specified use
+at,360,GLÖZ HECKE / UFERGEHÖLZ,HEDGE / RIPARIAN WOODLAND (good agricultural and ecological condition),3360000000,tree_wood_forest,0,No specified use
+at,361,GLÖZ RAIN / BÖSCHUNG / TROCKENSTEINMAUER,RAIN / EMBANKMENT / DRY STONE WALL (good agricultural and ecological condition),3390000000,not_known_and_other,0,No specified use
+at,362,GLÖZ GRABEN / UFERRANDSTREIFEN,DITCH / RIPARIAN STRIP (good agricultural and ecological condition),3390000000,not_known_and_other,0,No specified use
+at,363,GLÖZ NATURDENKMAL FLÄCHE,Natural Site Area (good agricultural and ecological condition),3390000000,not_known_and_other,0,No specified use
+at,364,GLÖZ STEINRIEGEL / STEINHAGE,Clearance cairn (good agricultural and ecological condition),3390000000,not_known_and_other,0,No specified use
+at,365,GLÖZ TEICH / TÜMPEL,Pond (good agricultural and ecological condition),3390000000,not_known_and_other,0,No specified use
+at,366,LSE MEHRNUTZENHECKE,Multiple use hedge LANDSCAPE ELEMENT,3390000000,not_known_and_other,0,No specified use
 at,506,SENF,MUSTARD,3310707010,mustard,0,No specified use
 at,509,SOMMERMOHN,SUMMER POPPY,3310606002,summer_poppy,0,No specified use
 at,510,WINTERMOHN,WINTER POPPY,3310606001,winter_poppy,0,No specified use
@@ -156,7 +156,7 @@ at,679,SONSTIGES FELDFUTTER,OTHER FIELD FORAGE,3390000000,not_known_and_other,0,
 at,680,MARIENDISTELN,Marian thistles,3310612400,marian_thistles,0,No specified use
 at,681,GRÜNSCHNITTROGGEN,GREEN CUT RYE,3310103000,rye,5,Harvested Green
 at,682,PHACELIA,PHACELIA,3311300000,phacelia,0,No specified use
-at,686,"ELEFANTENGRAS (CHINASCHILF, MISCANTHUS SINENSIS)",ELEPHANT GRASS (CHINA REED,3320201010,elymus,0,No specified use
+at,686,"ELEFANTENGRAS (CHINASCHILF, MISCANTHUS SINENSIS)","ELEPHANT GRASS (CHINA REED, MISCANTHUS SINENSIS)",3310617030,miscanthus_silvergrass,0,No specified use
 at,689,LEINDOTTER,Camelina,3310615000,camelina,0,No specified use
 at,690,ÖLRETTICH,OIL RADISH,3310715040,radish,8,Oil
 at,691,RÜBENVERMEHRUNG,BEET PROPAGATION,3310719000,beta_vulgaris,9,Seed/Propagation
@@ -278,7 +278,7 @@ be2,38,"Gierst, sorghum, kanariezaad of harde tarwe","Millet, sorghum, canary se
 be2,381,Sorghum,Sorghum,3310116000,sorghum,0,No specified use
 be2,382,Quinoa,Quinoa,3310703030,quinoa,0,No specified use
 be2,383,Gierst,Millet,3310109000,millet,0,No specified use
-be2,39,Andere granen (bv. Mengkoren),Other grains (e.g. mixed wheat),3310198000,unspecified_cereals,6,Harvested as Grains
+be2,39,Andere granen (bv. Mengkoren),Other grains (e.g. mixed wheat),3310100000,cereal,6,Harvested as Grains
 be2,391,Mengteelt andere wintergranen en winterteelt vlinderbloemige,Polyculture of other winter cereals and winter legumes,3310198001,winter_unspecified_cereals,0,No specified use
 be2,392,Mengteelt zomergranen en zomerteelt vlinderbloemige,Polyculture of spring cereals and summer legumes,3310198002,spring_unspecified_cereals,0,No specified use
 be2,395,Mengteelt wintertarwe of triticale en winterteelt vlinderbloemig,Polyculture of winter wheat or triticale and winter legume crop,3310101001,winter_common_soft_wheat,0,No specified use
@@ -331,7 +331,7 @@ be2,636,Engels raaigras,perennial ryegrass,3320201050,lolium_ryegrass,0,No speci
 be2,637,Hybride raaigras,Hybrid ryegrass,3320201050,lolium_ryegrass,0,No specified use
 be2,638,Festulolium,Festulolium,3320201040,festulolium,0,No specified use
 be2,639,Snijrogge,cutting rye,3310103000,rye,5,Harvested Green
-be2,642,Bladrammenas,fodder radish,3310715040,radish,3,Fodder/Forage
+be2,642,Bladrammenas,Oil radish,3310715040,radish,3,Fodder/Forage
 be2,643,Gele mosterd,Yellow mustard,3310707010,mustard,0,No specified use
 be2,644,Lupinen,Lupins,3310201090,lupins,0,No specified use
 be2,645,Phacelia,Phacelia,3311300000,phacelia,0,No specified use
@@ -442,7 +442,7 @@ be2,8911,Bebossing loofbomen-economisch,Afforestation of deciduous trees-economi
 be2,8912,Bebossing naaldbomen,Afforestation of conifers,3360100000,afforestation_reforestation,0,No specified use
 be2,8913,Bebossing naaldbomen-economisch,Afforestation of conifers - economic,3360900000,conifers,0,No specified use
 be2,8914,Bebossing populieren-ecologisch,Afforestation poplar ecological,3360700000,populus,0,No specified use
-be2,8915,Bebossing populieren,Poplar afforestation,3360100000,afforestation_reforestation,0,No specified use
+be2,8915,Bebossing populieren,Poplar afforestation,3360700000,populus,0,No specified use
 be2,892,Bebossing op blijvend grasland in 2003,Afforestation on permanent grassland in 2003,3320100000,permanent_grassland,0,No specified use
 be2,894,Andere bebossing,Other afforestation,3360100000,afforestation_reforestation,0,No specified use
 be2,895,Bomen in groep,Group trees,3360100000,afforestation_reforestation,0,No specified use
@@ -564,7 +564,7 @@ be2,9604,Boomkweek - andere,arboriculture other,3330700000,nurseries_nursery,0,N
 be2,961,Wortelpeterselie - vers verbruik,Carrot parsley - fresh consumption,3310612270,parsley,1,Consumption/Fresh
 be2,962,Kerstbomen,Christmas trees,3360900000,conifers,0,No specified use
 be2,9620,Andere kolen - vers,Other cabbages - fresh,3310707000,brassicaceae_cruciferae,1,Consumption/Fresh
-be2,963,Wijmenaanplantingen,vine plantations,3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use
+be2,963,Wijmenaanplantingen,Willow plantations,3360800000,willows_osiers,0,No specified use
 be2,964,Basilicum - vers verbruik,Basil - fresh consumption,3310612070,basil,1,Consumption/Fresh
 be2,965,Bieslook - vers verbruik,Chives - fresh consumption,3310708010,chives,1,Consumption/Fresh
 be2,9710,Meerjarige fruitteelten (appel),Perennial fruit crops (apple),3330102000,apples,0,No specified use
@@ -641,7 +641,7 @@ be3,397,"Mélange froment ou épeautre ( plus de 50%) et de  pois ou féverole 
 be3,4111,Colza d'hiver,Winter rapeseed,3310604011,winter_rapeseed_rape,0,No specified use
 be3,4112,Navette d'hiver (graines),Winter turnip (seeds),3310604011,winter_rapeseed_rape,0,No specified use
 be3,4121,Colza de printemps,Spring rapeseed,3310604012,spring_rapeseed_rape,0,No specified use
-be3,4122,Navette de printemps (graines),Spring turnip (seeds),3310715050,turnips,9,Seed/Propagation
+be3,4122,Navette de printemps (graines),Spring turnip (seeds),3310604012,spring_rapeseed_rape,9,Seed/Propagation
 be3,42,Tournesol,Sunflower,3310604020,sunflower,0,No specified use
 be3,43,Soja,Soy,3310201030,soy_soybeans,0,No specified use
 be3,45,Lin oléagineux,Oilseed flax,3310607000,flax_linseed,8,Oil
@@ -764,7 +764,7 @@ be3,9526,Chou chinois,Chinese cabbage,3310707060,chinese_cabbage,0,No specified 
 be3,9527,Choux rouge (consommation au frais),Red cabbage (store in a cool place),3310707110,red_cabbage,1,Consumption/Fresh
 be3,9529,Choux-rave (consommation au frais),Kohlrabi (eat cool),3310707100,kohlrabi,1,Consumption/Fresh
 be3,953,Plantes aromatiques,Aromatic plants,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
-be3,9530,Navette,Turnip,3310715050,turnips,0,No specified use
+be3,9530,Navette,Turnip,3310604010,rapeseed_rape,0,No specified use
 be3,9533,Scorsonère,black salsify,3310715090,salsify,0,No specified use
 be3,9534,Fenouil (de Florence)(consommation au frais),Fennel (from Florence)(eat fresh),3310704000,fennel,1,Consumption/Fresh
 be3,9535,Carotte (non hâtive)(consommation) (consommation au frais),Carrot (not early) (consumption) (consumption in a cool place),3310715020,carrots_daucus,1,Consumption/Fresh
@@ -901,7 +901,7 @@ bg,10079,Ядкови(черупкови) видове,other pome fruit species,
 bg,10080,актинидия(киви),actinidia (kiwi),3330107000,kiwi,0,No specified use
 bg,10081,анасон,anise,3310612050,anise_aniseed,0,No specified use
 bg,10082,арония,aronia,3330201000,aronia_chokeberries,0,No specified use
-bg,10083,арпаджик,shallot,3310708060,shallot,0,No specified use
+bg,10083,арпаджик,Onion sets,3310708040,onions,0,No specified use
 bg,10084,артишок,artichoke,3310713000,artichoke,0,No specified use
 bg,10085,аспержи,asparagus,3310706000,asparagus,0,No specified use
 bg,10086,бадеми,almonds,3330301000,almond,0,No specified use
@@ -934,7 +934,7 @@ bg,10112,домати - отопляеми оранжерии,tomatoes - heated 
 bg,10113,домати - полски,tomatoes - field,3310714000,tomato,0,No specified use
 bg,10114,домати на открито,tomatoes outdoors,3310714000,tomato,0,No specified use
 bg,10115,други зърнено-бобови,other cereals and legumes,3310100000,cereal,0,No specified use
-bg,10116,други зърнено-житни,Other cereals,3310198000,unspecified_cereals,0,No specified use
+bg,10116,други зърнено-житни,Other cereals,3310100000,cereal,0,No specified use
 bg,10117,други индустриални култури,Other industrial crops,3310600000,industrial_nonfood_crops,2,Industry/for processing
 bg,10118,други кореноплодни култури,other root crops,3310715000,root_vegetables,0,No specified use
 bg,10119,други костилкови овощни видове,other stone fruit species,3330100000,orchards_fruits,0,No specified use
@@ -964,14 +964,14 @@ bg,10142,ечемик-пролетен,barley-Spring,3310104002,spring_barley,0,
 bg,10143,жълт мак,Yellow horned poppy,3310606000,poppy,0,No specified use
 bg,10144,захарна царевица,sweet corn,3310106000,maize_corn_popcorn,0,No specified use
 bg,10145,захарно цвекло,sugar beet,3310719010,sugar_beet,0,No specified use
-bg,10146,звездан,Bird’s foot Trefoil,3310202990,other_legumes_harvested_green,0,No specified use
+bg,10146,звездан,Bird’s foot Trefoil,3310202080,birdsfoot_treifoil,0,No specified use
 bg,10147,зелен грах,green peas,3310201080,peas,5,Harvested Green
 bg,10148,зелен фасул,green beans,3310201010,beans,0,No specified use
 bg,10149,зелена бакла,green broad beans,3310201010,beans,5,Harvested Green
 bg,10150,зим-зелен,Periwinkle,3310899000,other_flowers_ornamental_plants,0,No specified use
 bg,10151,изкуствени ливади-бобови,Cultivated grasslands – leguminous crops,3320000000,grassland_grass,0,No specified use
-bg,10152,изкуствени ливади-житни,Cultivated grasslands – cereal crops,3310100000,cereal,0,No specified use
-bg,10153,изкуствени ливади-смесени насаждения,cultivated meadows mixed plantations,3310000000,arable_crops,0,No specified use
+bg,10152,изкуствени ливади-житни,Cultivated grasslands – grass crops,3320201000,poaceae_grasses,0,No specified use
+bg,10153,изкуствени ливади-смесени насаждения,cultivated grasslands mixed plantations,3320000000,grassland_grass,0,No specified use
 bg,10154,кайсии/зарзали,apricots,3330103000,apricots,0,No specified use
 bg,10155,карфиол,cauliflower,3310707050,cauliflower,0,No specified use
 bg,10156,касис,blackcurrant,3330206010,blackcurrant_cassis,0,No specified use
@@ -1084,7 +1084,7 @@ bg,10262,целина,Celery,3310711000,celery,0,No specified use
 bg,10263,череши,cherries,3330104000,cherry_cherries,0,No specified use
 bg,10264,черна мерудия,Black cumin,3310612080,black_cumin,0,No specified use
 bg,10265,чесън,garlic,3310708020,garlic,0,No specified use
-bg,10266,чувен,Good-king-henry,3310717990,other_salads_lettuce_leaf_vegetables,0,No specified use
+bg,10266,чувен,Saponaria officinalis,3310699000,other_industrial_crops,0,No specified use
 bg,10267,шам-фъстъци,pistachios,3330304000,pistachio,0,No specified use
 bg,10268,шипка,Dog rose,3310837000,roses,0,No specified use
 bg,10269,ябълки,Apples,3330102000,apples,0,No specified use
@@ -1108,7 +1108,7 @@ cz,11,Sléz přeslenitý,Chinese mallow,3310828000,malva,0,No specified use
 cz,110,Tritikale ozimé,Winter triticale,3310108001,winter_triticale,0,No specified use
 cz,111,Žito jarní,Spring rye,3310103002,spring_rye,0,No specified use
 cz,112,Žito ozimé,Winter rye,3310103001,winter_rye,0,No specified use
-cz,113,Lesknice kanárská,Canary grass ,3320201010,elymus,0,No specified use
+cz,113,Lesknice kanárská,Canary grass ,3320209900,other_poaceae_grasses,0,No specified use
 cz,114,Pšenice dvouzrnka,Emmer wheat ,3310112000,emmer,0,No specified use
 cz,12,Svazenka vratičolistá,Lacy phacelia,3311300000,phacelia,0,No specified use
 cz,125,Laskavec,amaranth,3310703010,amaranth,0,No specified use
@@ -1130,7 +1130,7 @@ cz,20007,Topol kanadský,Populus × canadensis,3360700000,populus,0,No specified
 cz,20008,Topol Simonův a jeho kříženci,Populus simonii,3360700000,populus,0,No specified use
 cz,20010,Topol balzámový a jeho kříženci,Populus balsamifera,3360700000,populus,0,No specified use
 cz,20011,Topol černý,Populus nigra,3360700000,populus,0,No specified use
-cz,20012,Topol osika,Mixtures with a predominance of protein with cereals (§ 28 NV PP),3360200000,aspen,0,No specified use
+cz,20012,Topol osika,Populus aspen,3360200000,aspen,0,No specified use
 cz,20013,Vrba bílá a její kříženci,White willow and its hybrids,3360800000,willows_osiers,0,No specified use
 cz,20014,Vrba jíva a její kříženci,goat willow and its hybrids,3360800000,willows_osiers,0,No specified use
 cz,20015,Vrba košíkářská a její kříženci,basket willow and its hybrids,3360800000,willows_osiers,0,No specified use
@@ -1165,28 +1165,28 @@ cz,316,Bojínek luční,Timothy grass,3320201090,timothy,0,No specified use
 cz,317,Festulolium,Festulolium,3320201040,festulolium,0,No specified use
 cz,318,Jílek hybridní,hybrid ryegrass,3320201050,lolium_ryegrass,0,No specified use
 cz,319,Jílek mnohokvětý italský,Italian ryegrass,3320201050,lolium_ryegrass,0,No specified use
-cz,320,Jílek mnohokvětý jednoletý,ryegrass,3320201050,lolium_ryegrass,0,No specified use
+cz,320,Jílek mnohokvětý jednoletý,Annual Italian ryegrass,3320201050,lolium_ryegrass,0,No specified use
 cz,321,Jílek vytrvalý,perennial ryegrass,3320201050,lolium_ryegrass,0,No specified use
 cz,322,Kostřava červená,Red fescue,3320201020,festuca_fescue,0,No specified use
 cz,323,Kostřava luční,Meadow fescue,3320201020,festuca_fescue,0,No specified use
 cz,324,Kostřava ovčí,Sheep fescue,3320201020,festuca_fescue,0,No specified use
 cz,325,Kostřava rákosovitá,tall fescue,3320201020,festuca_fescue,0,No specified use
-cz,327,Lipnice hajní,wood bluegrass,3320201010,elymus,0,No specified use
-cz,328,Lipnice luční,Kentucky bluegrass,3320201010,elymus,0,No specified use
+cz,327,Lipnice hajní,wood bluegrass,3320209900,other_poaceae_grasses,0,No specified use
+cz,328,Lipnice luční,Kentucky bluegrass,3320209900,other_poaceae_grasses,0,No specified use
 cz,33,Kozlík lékařský,Valerian ,3310612380,valerian,0,No specified use
-cz,331,Medyněk vlnatý,Yorkshire fog,3320201010,elymus,0,No specified use
-cz,333,Ovsík vyvýšený,bulbous oat grass,3320201010,elymus,0,No specified use
-cz,334,Poháňka hřebenitá,crested dog's-tail,3320201010,elymus,0,No specified use
-cz,335,Psineček veliký,black bent,3320201010,elymus,0,No specified use
-cz,336,Psineček tenký,common bent,3320201010,elymus,0,No specified use
-cz,338,Psárka luční,meadow foxtail ,3320201010,elymus,0,No specified use
+cz,331,Medyněk vlnatý,Yorkshire fog,3320209900,other_poaceae_grasses,0,No specified use
+cz,333,Ovsík vyvýšený,bulbous oat grass,3320209900,other_poaceae_grasses,0,No specified use
+cz,334,Poháňka hřebenitá,crested dog's-tail,3320209900,other_poaceae_grasses,0,No specified use
+cz,335,Psineček veliký,black bent,3320209900,other_poaceae_grasses,0,No specified use
+cz,336,Psineček tenký,common bent,3320209900,other_poaceae_grasses,0,No specified use
+cz,338,Psárka luční,meadow foxtail ,3320209900,other_poaceae_grasses,0,No specified use
 cz,339,Srha hajní (Srha Aschersonova),Dactylis polygama,3320201030,cocksfoot_catgrass,0,No specified use
 cz,34,Levandule lékařská,English lavender,3310612190,lavender_lavandula,0,No specified use
 cz,340,Srha laločnatá (říznačka),cat grass,3320201030,cocksfoot_catgrass,0,No specified use
-cz,342,Trojštět žlutavý,Yellow Oatgrass,3320201010,elymus,0,No specified use
-cz,343,Sveřep bezbranný,Bromus inermis,3320201010,elymus,0,No specified use
-cz,344,Tomka vonná,sweet vernal grass,3320201010,elymus,0,No specified use
-cz,349,Chrastice rákosovitá,reed canary grass,3320201010,elymus,0,No specified use
+cz,342,Trojštět žlutavý,Yellow Oatgrass,3320209900,other_poaceae_grasses,0,No specified use
+cz,343,Sveřep bezbranný,Bromus inermis,3320209900,other_poaceae_grasses,0,No specified use
+cz,344,Tomka vonná,sweet vernal grass,3320209900,other_poaceae_grasses,0,No specified use
+cz,349,Chrastice rákosovitá,reed canary grass,3320209900,other_poaceae_grasses,0,No specified use
 cz,35,Lékořice lysá,licorice ,3310299000,other_legumes,0,No specified use
 cz,351,Dočasný travní porost,Temporary grassland,3320201000,poaceae_grasses,0,No specified use
 cz,352,Brokolice,Broccoli,3310707030,broccoli,0,No specified use
@@ -1260,7 +1260,7 @@ cz,40082,Řepík vonný,fragrant agrimony,3319900000,other_arable_land_crops,0,N
 cz,40083,Saturejka horská,Winter savory,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 cz,40086,Třapatka nachová,Echinacea,3310815000,echinacea,0,No specified use
 cz,40087,Třezalka skvrnitá x třezalka tečkovaná,St. John's wort,3310612340,st_johns_wort,0,No specified use
-cz,40089,Peluška ozimá,Fodder pea - winter type,3310201080,peas,3,Fodder/Forage
+cz,40089,Peluška ozimá,Fodder pea - winter type (Pisum sativum subsp. elatius ),3310201080,peas,3,Fodder/Forage
 cz,40096,Laskavec zelenoklasý,Powell's amaranth,3310703010,amaranth,0,No specified use
 cz,401,Salát římský,Romaine lettuce,3310717990,other_salads_lettuce_leaf_vegetables,0,No specified use
 cz,40105,Mužák prorostlý,Silphium perfoliatum,3310844000,silphium_rosinweeds,0,No specified use
@@ -1272,7 +1272,7 @@ cz,40119,Čekanka hlávková,Chicory,3310717010,chicory_chicories,0,No specified
 cz,40130,Zelenina (EZ - příl. 4 NV 76/2015),Vegetables (EC - Annex 4 of Government Decree 76/2015),3310700000,fresh_vegetables,0,No specified use
 cz,40136,Kozinec,Astragalus,3310299000,other_legumes,0,No specified use
 cz,40138,Jestřabina (jinde neuvedená),Galega  (not elsewhere specified),3310202070,galega,0,No specified use
-cz,40141,Tolice (jinde neuvedená),Medicago,3310299000,other_legumes,0,No specified use
+cz,40141,Tolice (jinde neuvedená),Medicago,3310202010,alfalfa_lucerne,0,No specified use
 cz,40143,Směsi PVN (§ 18 a - t NV PP),Mixtures of Protein PVN (Section 18 a - t NV PP),3310200000,legumes,0,No specified use
 cz,40144,Úhor,Fallow,3311100000,fallow_land_not_crop,0,No specified use
 cz,40149,Hořčice hnědá,Mustard brown,3310707010,mustard,0,No specified use
@@ -1284,7 +1284,7 @@ cz,40164,Srha laločnatá,Dactylis glomerata catgrass,3320201030,cocksfoot_catgr
 cz,40273,Pšenice špalda,Spelt,3310110000,spelt,0,No specified use
 cz,40280,Konopí - Eletta Campana,Hemp,3310610000,hemp_cannabis,0,No specified use
 cz,40282,Konopí - Fibror 79,Hemp,3310610000,hemp_cannabis,0,No specified use
-cz,40284,Trávy čeledi lipnicovité s výjimkou obilnin,Grasses of the Poaceae family excluding cereals,3320201010,elymus,0,No specified use
+cz,40284,Trávy čeledi lipnicovité s výjimkou obilnin,Grasses of the Poaceae family excluding cereals,3320201000,poaceae_grasses,0,No specified use
 cz,40287,Trávy na semeno,Grass for seeds,3320201000,poaceae_grasses,9,Seed/Propagation
 cz,40292,Kvìtiny,Flowers,3310800000,flowers_ornamental_plants,0,No specified use
 cz,40299,Konopí - Henola,Hemp,3310610000,hemp_cannabis,0,No specified use
@@ -1333,7 +1333,7 @@ cz,446,Lupina modrá,Lupine blue,3310201090,lupins,0,No specified use
 cz,449,Žito trsnaté (lesní),Wild rye (forest),3310103000,rye,0,No specified use
 cz,451,Úhor bez porostu,Fallow without vegetation,3311100000,fallow_land_not_crop,0,No specified use
 cz,453,Ozdobnice obrovská,giant miscanthus,3310617030,miscanthus_silvergrass,0,No specified use
-cz,454,Mužák prorostlý,cup plant,3310844000,silphium_rosinweeds,0,No specified use
+cz,454,Mužák prorostlý,Silphium perfoliatum,3310844000,silphium_rosinweeds,0,No specified use
 cz,455,Mastňák habešský,Guizotia abyssinica,3310604030,guizotia_abyssinica_nyger,0,No specified use
 cz,457,Směs trav pro energetické využití,A mixture of grasses for energy use,3320000000,grassland_grass,4,Energy
 cz,458,Směs krmná (čejka),Feed mixture (lark),3390000000,not_known_and_other,3,Fodder/Forage
@@ -1375,7 +1375,7 @@ cz,50035,Směs trav s PVN do 50 %,A mixture of grasses with PVN up to 50%,332000
 cz,50036,Vojtěškotravní směs (s převahou travin),Alfalfa grass mixture (with a predominance of grasses),3310202010,alfalfa_lucerne,0,No specified use
 cz,50037,Směs pro nektarodárný úhor (ekoplatba),Mixture for nectar fallow,3311100000,fallow_land_not_crop,0,No specified use
 cz,50038,Směs trav s nízkovzrůstající PVN do 10 %,A mixture of grasses with low-growing PVN up to 10%,3311100000,fallow_land_not_crop,0,No specified use
-cz,50040,Svazenka shloučená,Blue Curls,3310899000,other_flowers_ornamental_plants,0,No specified use
+cz,50040,Svazenka shloučená,Phacelia congesta Hook.,3311300000,phacelia,0,No specified use
 cz,50041,Sadební materiál lesních dřevin,Forest planting material,3360000000,tree_wood_forest,0,No specified use
 cz,50043,Směs pro souvrať (prémiová),Headland Mix (Premium),3390000000,not_known_and_other,0,No specified use
 cz,50044,Směs pro erozní pás (prémiová),Mixture for erosion belt (premium),3390000000,not_known_and_other,0,No specified use
@@ -1398,8 +1398,8 @@ cz,50062,Lupina (jinde neuvedená),Lupin (not elsewhere specified),3310201090,lu
 cz,50063,Neurčená plodina,Unspecified crop,3390000000,not_known_and_other,0,No specified use
 cz,50064,Ostatní smìsky,Other mixtures,3390000000,not_known_and_other,0,No specified use
 cz,50065,Oves,Oats,3310105000,oats,0,No specified use
-cz,50066,Peluka jarní,Spring pea,3310201080,peas,0,No specified use
-cz,50067,Peluška jarní,Field pea Spring,3310201080,peas,0,No specified use
+cz,50066,Peluka jarní,Field pea Spring (Pisum sativum subsp. elatius ),3310201080,peas,0,No specified use
+cz,50067,Peluška jarní,Field pea Spring (Pisum sativum subsp. elatius ),3310201080,peas,0,No specified use
 cz,50068,Pšenice jarní,Spring wheat,3310101002,spring_common_soft_wheat,0,No specified use
 cz,50069,Pšenice ozimá,Winter wheat,3310101001,winter_common_soft_wheat,0,No specified use
 cz,50070,Pšenice špalda,Spelt wheat,3310110000,spelt,0,No specified use
@@ -1429,15 +1429,15 @@ cz,532,Kopřiva dvoudomá,Stinging nettle,3310612250,nettles,0,No specified use
 cz,533,Roketa setá (rukola),Rocket Rucola,3310717050,rocket_arugula,0,No specified use
 cz,535,Merlík čilský,Quinoa ,3310703030,quinoa,0,No specified use
 cz,536,Mák setý ozimý,Winter poppy,3310606001,winter_poppy,0,No specified use
-cz,537,Směs trav čeledi lipnicovité,A mixture of grasses of the poaceae family,3320201010,elymus,0,No specified use
+cz,537,Směs trav čeledi lipnicovité,A mixture of grasses of the poaceae family,3320201000,poaceae_grasses,0,No specified use
 cz,538,Oves hřebílkatý,lopsided oat,3310105000,oats,0,No specified use
-cz,539,Kostřava vláskovitá,hair fescue,3320201020,festuca_fescue,0,No specified use
+cz,539,Kostřava vláskovitá,Festuca filiformis,3320201020,festuca_fescue,0,No specified use
 cz,540,Kostřava drsnolistá,hard fescue,3320201020,festuca_fescue,0,No specified use
 cz,541,Jestřabina východní,eastern galega,3310202070,galega,0,No specified use
 cz,542,Jetel alexandrijský,Berseem clover,3310202030,clover,0,No specified use
 cz,543,Bob polní,field bean,3310201010,beans,0,No specified use
-cz,545,Sveřep sitecký,Bromus grass,3320201010,elymus,0,No specified use
-cz,546,Sveřep americký,rescuegrass,3320201010,elymus,0,No specified use
+cz,545,Sveřep sitecký,Bromus sitchensis Trin.,3320209900,other_poaceae_grasses,0,No specified use
+cz,546,Sveřep americký,rescuegrass Bromus catharticus,3320209900,other_poaceae_grasses,0,No specified use
 cz,547,Hořčice černá,Black mustard,3310707010,mustard,0,No specified use
 cz,548,Vojtěška proměnlivá,Alfalfa variable,3310202010,alfalfa_lucerne,0,No specified use
 cz,55,Sléz maurský,Moorish mallow,3310828000,malva,0,No specified use
@@ -1466,14 +1466,14 @@ cz,588,Třezalka skvrnitá,spotted St. Johnswort,3310612340,st_johns_wort,0,No s
 cz,59,Včelník moldavský,Moldavian dragonhead,3310612230,moldavian_dragonhead,0,No specified use
 cz,590,Žito energetické,rye for biogas,3310103000,rye,4,Energy
 cz,592,Čičorka,crownvetch,3310202050,vetches,0,No specified use
-cz,593,Pelyněk pontický,Roman wormwood,3310612060,artemisia,0,No specified use
+cz,593,Pelyněk pontický,Artemisia pontica,3310612060,artemisia,0,No specified use
 cz,603,Krambe haberská (Katrán etiopský),Crambe abyssinica,3310707990,other_brassicaceae_cruciferae,0,No specified use
 cz,61,Yzop lékařský,Hyssop,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 cz,616,Roketa setá (Rukola),Rocket (Arugula),3310717050,rocket_arugula,0,No specified use
 cz,63,Řebříček obecný,Common yarrow,3310612390,yarrow,0,No specified use
 cz,64,Bob,Bean,3310201010,beans,0,No specified use
 cz,65,Cizrna beraní,chickpea,3310201040,chickpeas,0,No specified use
-cz,66,Čičorka pestrá,crownvetch,3310202050,vetches,0,No specified use
+cz,66,Čičorka pestrá,crownvetch (Securigera varia),3310202050,vetches,0,No specified use
 cz,67,Čočka jedlá,Lentils,3310201070,lentils,0,No specified use
 cz,68,Fazol polní,Field beans,3310201010,beans,0,No specified use
 cz,69,Hrách polní,Field peas,3310201080,peas,0,No specified use
@@ -1490,13 +1490,13 @@ cz,8,Bér vlašský (italský),Millet,3310109000,millet,0,No specified use
 cz,80,Lupina úzkolistá,Narrow-leaved lupine,3310201090,lupins,0,No specified use
 cz,81,Lupina proměnlivá (andská),Lupine variable (Andean),3310201090,lupins,0,No specified use
 cz,82,Ptačí noha setá (seradela),serradela,3310202020,serradella,0,No specified use
-cz,83,Štírovník,Trefoil,3310202990,other_legumes_harvested_green,0,No specified use
-cz,84,Štírovník růžkatý,common bird's-foot trefoil,3310202990,other_legumes_harvested_green,0,No specified use
-cz,85,Tolice dětelová,hop clover,3310202030,clover,0,No specified use
-cz,86,Úročník bolhoj,kidney vetch,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
+cz,83,Štírovník,Trefoil (Lotus),3310202080,birdsfoot_treifoil,0,No specified use
+cz,84,Štírovník růžkatý,common bird's-foot trefoil,3310202080,birdsfoot_treifoil,0,No specified use
+cz,85,Tolice dětelová,black medick (Medicago lupulina),3310202010,alfalfa_lucerne,0,No specified use
+cz,86,Úročník bolhoj,kidney vetch Anthyllis vulneraria,3310299000,other_legumes,0,No specified use
 cz,87,Vičenec ligrus,common sainfoin,3310202060,onobrychis_sainfoins,0,No specified use
-cz,88,Vikev setá,common vetch,3310202050,vetches,0,No specified use
-cz,89,Vikev huňatá,hairy vetch,3310202050,vetches,0,No specified use
+cz,88,Vikev setá,common vetch (Vicia sativa),3310202050,vetches,0,No specified use
+cz,89,Vikev huňatá,hairy vetch (Vicia villosa),3310202050,vetches,0,No specified use
 cz,9,Čirok cukrový,Sugar sorghum,3310116000,sorghum,0,No specified use
 cz,90,Vikev panonská,Hungarian vetch,3310202050,vetches,0,No specified use
 cz,91,Vojtěška setá,Alfafa,3310202010,alfalfa_lucerne,0,No specified use
@@ -2107,7 +2107,7 @@ dk,10006,Anden buskfrugt,Other shrub fruit,3330800000,shrubberries_shrubs,0,No s
 dk,10007,Andre grøntsager,Vegetables.,3310700000,fresh_vegetables,0,No specified use
 dk,10008,"Andre kornarter, vår","Other cereals, spring",3310198002,spring_unspecified_cereals,0,No specified use
 dk,10009,"Andre kornarter, vårsået","Other cereals, spring sown",3310198002,spring_unspecified_cereals,0,No specified use
-dk,10010,Blandet støtteberett,Mixed eligible fruit,3330100000,orchards_fruits,0,No specified use
+dk,10010,Blandet støtteberett,Mixed eligibility,3390000000,not_known_and_other,0,No specified use
 dk,10011,"Blandkorn, efterårss","Mixed grain, autumn.",3310198001,winter_unspecified_cereals,6,Harvested as Grains
 dk,10012,"Blandkorn, vårsået,","Mixed cereals, spring-sown,",3310198002,spring_unspecified_cereals,0,No specified use
 dk,10013,Blomme med undervæks,Plum with undergrowth,3330113000,plums,0,No specified use
@@ -2117,7 +2117,7 @@ dk,10016,Brombær,Blackberry,3330202010,blackberry,0,No specified use
 dk,10017,En- og to-årige plan,One- and two-year plants,3310000000,arable_crops,0,No specified use
 dk,10018,Engrapgræsfrø (markt,Poa pratensis L. Seed (field),3320209900,other_poaceae_grasses,9,Seed/Propagation
 dk,10019,Græs  under 50% kløv,Grass under 50% clover,3320000000,grassland_grass,5,Harvested Green
-dk,10020,Græs med vikke og an,Grass with vetch and oats.,3320000000,grassland_grass,0,No specified use
+dk,10020,Græs med vikke og an,Grass with vetch and other,3320000000,grassland_grass,0,No specified use
 dk,10021,Græs og kløvergræs u,Grass and clover grass mixture.,3320000000,grassland_grass,0,No specified use
 dk,10022,Græs og kløvergræs uden norm,Grass and clover grass without norm.,3320000000,grassland_grass,0,No specified use
 dk,10023,Græs til fabrik (omd,Grass for factory (omd.,3320000000,grassland_grass,0,No specified use
@@ -2177,25 +2177,25 @@ dk,10076,"Permanent græs, uden","Permanent grass, without.",3320100000,permanen
 dk,10077,"Permanent græs, uden kløver",Permanent grass without clover,3320100000,permanent_grassland,0,No specified use
 dk,10078,"Permanent græs, unde",Permanent grass,3320100000,permanent_grassland,0,No specified use
 dk,10079,"Permanent græs, under 50% kløver","Permanent grass, under 50% clover.",3320100000,permanent_grassland,0,No specified use
-dk,10080,"Permanent græs, ø-st","Permanent grass,  ø-st",3320100000,permanent_grassland,0,No specified use
+dk,10080,"Permanent græs, ø-st","Permanent grass,  eligible for organic subsidies",3320100000,permanent_grassland,0,No specified use
 dk,10081,Permanent lucerne og,Permanent lucerne,3310202010,alfalfa_lucerne,0,No specified use
 dk,10082,Planteskolekulturer,Nursery crops,3330700000,nurseries_nursery,0,No specified use
 dk,10083,Poppel,Poplar,3360700000,populus,0,No specified use
 dk,10084,Pærer,Pear,3330112000,pears,0,No specified use
 dk,10085,"Rajgræsfrø, alm. 1.","Rye grass seed, common 1.",3320201050,lolium_ryegrass,9,Seed/Propagation
 dk,10086,"Rajgræsfrø, ital. 1.",Italian ryegrass seed,3320201050,lolium_ryegrass,9,Seed/Propagation
-dk,10087,"Rapgræsfrø, alm.",Rough bluegrass,3320201010,elymus,0,No specified use
+dk,10087,"Rapgræsfrø, alm.",Poa trivialis,3320209900,other_poaceae_grasses,0,No specified use
 dk,10088,Rekreative formål,Recreative purpose,3390000000,not_known_and_other,0,No specified use
 dk,10089,Roer til fabrik,Beets for factory,3310719020,mangelwurzel_beets,2,Industry/for processing
 dk,10090,Rødbede,Beetroot,3310719020,mangelwurzel_beets,0,No specified use
 dk,10091,Rødsvingelfrø,Red fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
-dk,10092,Rørgræs,Reed canary grass,3320201010,elymus,0,No specified use
+dk,10092,Rørgræs,Reed canary grass,3320209900,other_poaceae_grasses,0,No specified use
 dk,10093,Salat,salad,3310717000,salads_lettuce_leaf_vegetables,0,No specified use
 dk,10094,Skovrejsning i proje,Afforestation in project,3360100000,afforestation_reforestation,0,No specified use
 dk,10095,Skovrejsning på tidl,Afforestation on former,3360100000,afforestation_reforestation,0,No specified use
-dk,10096,Surkirsebær med unde,Sour cherry with oak,3330104000,cherry_cherries,0,No specified use
-dk,10097,Surkirsebær uden und,Sour cherry without weed,3330104000,cherry_cherries,0,No specified use
-dk,10098,"Svingelfrø, strand-",Tall fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
+dk,10096,Surkirsebær med unde,Sour cherry with rootstock,3330104000,cherry_cherries,0,No specified use
+dk,10097,Surkirsebær uden und,Sour cherry without rootstock,3330104000,cherry_cherries,0,No specified use
+dk,10098,"Svingelfrø, strand-",Festuca ovina var. Duriuscula seeds,3320201020,festuca_fescue,9,Seed/Propagation
 dk,10099,Timothefrø,Timothy seeds,3320201090,timothy,9,Seed/Propagation
 dk,101,"Rajgræsfrø, alm.",Ryegrass seeds regular,3320201050,lolium_ryegrass,9,Seed/Propagation
 dk,10100,Udnyttet græs ved va,Utilized grass,3320000000,grassland_grass,0,No specified use
@@ -2213,28 +2213,28 @@ dk,10111,Økologiske naturarea,Organic natural areas,3390000000,not_known_and_ot
 dk,102,"Rajgræsfrø, alm. 1. år, efterårsudlagt",Ryegrass seeds regular 1st year autumn undersown,3320201050,lolium_ryegrass,9,Seed/Propagation
 dk,103,"Rajgræsfrø, ital.",Ryegrass seeds italian,3320201050,lolium_ryegrass,9,Seed/Propagation
 dk,104,"Rajgræsfrø, ital. 1. år efterårsudlagt",Ryegrass seeds Italian 1 year autumn undersown,3320201050,lolium_ryegrass,9,Seed/Propagation
-dk,105,Timothefr|,Timothy-grass seeds (Phleum pratense),3320201090,timothy,9,Seed/Propagation
-dk,106,Hundegræsfrø,Cocksfoot seeds,3320201030,cocksfoot_catgrass,9,Seed/Propagation
+dk,105,Timothefrø,Timothy-grass seeds (Phleum pratense),3320201090,timothy,9,Seed/Propagation
+dk,106,Hundegræsfrø,Dactylis glomerata seeds,3320201030,cocksfoot_catgrass,9,Seed/Propagation
 dk,107,Engsvingelfrø,Meadow fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
-dk,108,R|dsvingelfr|,Red fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
-dk,109,Rajsvingelfrø,Rice fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
+dk,108,Rødsvingelfrø,Red fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
+dk,109,Rajsvingelfrø,X Festulolium seeds,3320201020,festuca_fescue,9,Seed/Propagation
 dk,11,Vinterhvede,Winter wheat,3310101001,winter_common_soft_wheat,0,No specified use
-dk,110,"Svingelfrø, stivbladet",Hard fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
-dk,111,Strandsvingelfrø,tall fescue seed,3320201020,festuca_fescue,9,Seed/Propagation
-dk,112,Engrapgræsfrø (marktype),Kentucky bluegrass seed (ley type),3320201010,elymus,9,Seed/Propagation
-dk,113,Engrapsgræsfrø (plænetype),Kentucky bluegrass seed (turfgrass type),3320201010,elymus,9,Seed/Propagation
+dk,110,"Svingelfrø, stivbladet",Festuca ovina var. Duriuscula seeds,3320201020,festuca_fescue,9,Seed/Propagation
+dk,111,Strandsvingelfrø,Festuca arundinacea seed,3320201020,festuca_fescue,9,Seed/Propagation
+dk,112,Engrapgræsfrø (marktype),Poa Pratensis seed (ley type),3320209900,other_poaceae_grasses,9,Seed/Propagation
+dk,113,Engrapsgræsfrø (plænetype),Poa Pratensis seed (turfgrass type),3320209900,other_poaceae_grasses,9,Seed/Propagation
 dk,114,Alm. rapgræsfrø,Poa trivialis seeds,3320209900,other_poaceae_grasses,9,Seed/Propagation
-dk,115,"Hvenefrø, alm. og krybende",Browntop and creeping bent,3320201010,elymus,0,No specified use
+dk,115,"Hvenefrø, alm. og krybende",Agrostis stolonifera,3320209900,other_poaceae_grasses,0,No specified use
 dk,116,"Rajgræs, hybrid",Ryegrass hybrid,3320201050,lolium_ryegrass,0,No specified use
 dk,117,"Rajgræs, efterårsudl. hybrid",Ryegrass autumn undersown hybrid,3320201050,lolium_ryegrass,0,No specified use
-dk,118,"Rajsvingelfrø, efterårsudlagt",X Festulolium seeds autumn undersown,3320201010,elymus,9,Seed/Propagation
+dk,118,"Rajsvingelfrø, efterårsudlagt",X Festulolium seeds autumn undersown,3320201020,festuca_fescue,9,Seed/Propagation
 dk,120,Kløverfrø,Clover seeds,3310202030,clover,9,Seed/Propagation
 dk,121,Græsmarksbælgplanter,Grassland legumes,3320000000,grassland_grass,0,No specified use
 dk,122,Kommenfrø,Caraway seeds,3310612110,caraway,9,Seed/Propagation
 dk,123,Valmuefrø,Poppy seeds,3310606000,poppy,9,Seed/Propagation
 dk,124,Spinatfrø,Spinach seeds,3310717070,spinach,9,Seed/Propagation
-dk,125,Bederoefr|,Beetroot,3310719020,mangelwurzel_beets,0,No specified use
-dk,126,Blanding af markfrø til udsæd,Mix of seeds for seed corn,3310106000,maize_corn_popcorn,9,Seed/Propagation
+dk,125,Bederoefrø,Beetroot seeds,3310719020,mangelwurzel_beets,0,No specified use
+dk,126,Blanding af markfrø til udsæd,Mixture of field seeds for sowing,3310000000,arable_crops,9,Seed/Propagation
 dk,13,"Vinterhvede, brødhvede",Winter wheat bread wheat,3310101001,winter_common_soft_wheat,0,No specified use
 dk,130,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
 dk,14,Vinterrug,Winter rye,3310103001,winter_rye,0,No specified use
@@ -2250,7 +2250,7 @@ dk,156,"Kartofler, friteret/chips/pommes frites","Potatoes, fried/chips/french f
 dk,157,"Kartofler, spise- tidligt høstede med efterafgrøder","Potatoes, eating- Early harvested potatoes with aftercrops.",3310300000,potatoes,0,No specified use
 dk,16,Vintertriticale,Winter triticale,3310108001,winter_triticale,0,No specified use
 dk,160,Sukkerroer til fabrik,Sugar beet for factory,3310719010,sugar_beet,2,Industry/for processing
-dk,161,Cikorier|dder,Chicory root,3310717010,chicory_chicories,0,No specified use
+dk,161,Cikorierødder,Chicory root,3310717010,chicory_chicories,0,No specified use
 dk,162,"Andre industriafgr., herunder rodfrugter","Industrial crops, including root vegetables.",3310000000,arable_crops,2,Industry/for processing
 dk,17,Blanding af efterårssåede kornarter,Mix of autumn-sown cereal varieties,3310198001,winter_unspecified_cereals,0,No specified use
 dk,170,Græs/kløvergr. til fabrik (omdrift),Grass/clover for factory (recycling),3320000000,grassland_grass,0,No specified use
@@ -2272,17 +2272,17 @@ dk,210,"Vårbyg, helsæd",Spring barley wholecrop,3310104002,spring_barley,0,No 
 dk,211,"Vårhvede, helsæd",Spring wheat wholecrop,3310101002,spring_common_soft_wheat,0,No specified use
 dk,212,"Vårhavre, helsæd",Spring oats wholecrop,3310105002,spring_oats,0,No specified use
 dk,213,"Blandkorn, vårsået, helsæd",Mixed cereal spring sown wholecrop,3310111002,spring_mixed_grains,0,No specified use
-dk,214,"Korn/bælgsæd, helsæd, max 50% bælgsæd","Grain/legume, whole grain, max 50% legumes",3310100000,cereal,6,Harvested as Grains
-dk,215,Ærtehelsæd,Peas wholecrop,3310201080,peas,0,No specified use
+dk,214,"Korn/bælgsæd, helsæd, max 50% bælgsæd","Grain/legume, wholecrop, max 50% legumes",3310100000,cereal,6,Harvested as Grains
+dk,215,Ærtehelsæd,Pea wholecrop,3310201080,peas,0,No specified use
 dk,216,Silomajs,Silo maize,3310106000,maize_corn_popcorn,3,Fodder/Forage
 dk,217,"Korn og bælgsæd, helsæd (over 50 % bælgsæd)","Grain and grain legumes, whole grain (over 50% grain legumes)",3310200000,legumes,6,Harvested as Grains
-dk,218,Silomajs med græsudlæg,Silo maize with grass outcrop,3310106000,maize_corn_popcorn,3,Fodder/Forage
+dk,218,Silomajs med græsudlæg,Silo maize with grass undersowing,3310106000,maize_corn_popcorn,3,Fodder/Forage
 dk,22,Vinterraps,Winter rape,3310604011,winter_rapeseed_rape,0,No specified use
 dk,220,"Vinterbyg, helsæd",Winter barley wholecrop,3310104001,winter_barley,0,No specified use
 dk,221,"Vinterhvede, helsæd",Winter wheat wholecrop,3310101001,winter_common_soft_wheat,0,No specified use
 dk,222,"Vinterrug, helsæd",Winter rye wholecrop,3310103001,winter_rye,0,No specified use
 dk,223,"Vintertriticale, helsæd",Winter triticale wholecrop,3310108001,winter_triticale,0,No specified use
-dk,224,"Blandkorn, efterårssået helsæd","Mixed cereals, autumn-sown whole grains",3310198001,winter_unspecified_cereals,6,Harvested as Grains
+dk,224,"Blandkorn, efterårssået helsæd","Mixed cereals, autumn-sown wholecrop",3310198001,winter_unspecified_cereals,6,Harvested as Grains
 dk,225,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
 dk,23,Rybs,Rapeseed,3310604010,rapeseed_rape,0,No specified use
 dk,230,"Vårkorn, grønkorn","Spring cereals, green grains",3310198002,spring_unspecified_cereals,5,Harvested Green
@@ -2335,8 +2335,8 @@ dk,284,"Græs med vikke og andre bælgplanter, under 50 % bælgpl.",Grass with v
 dk,285,"Græs og kløvergræs uden norm, over 50 % kløver (omdrift)",Grass and clover grass without norm over 50% clover (rotation),3310202030,clover,0,No specified use
 dk,286,"Permanent græs og kløvergræs uden norm, over 50 % kløver",Permanent grass and clover grass without norm over 50% clover,3310202030,clover,0,No specified use
 dk,287,"Græs til udegrise, permanent",Grass for outdoor pigs permanent,3320100000,permanent_grassland,0,No specified use
-dk,3,VårHavre,Spring oats,3310105002,spring_oats,0,No specified use
-dk,30,[rter,unknown,3390000000,not_known_and_other,0,No specified use
+dk,3,Vårhavre,Spring oats,3310105002,spring_oats,0,No specified use
+dk,30,Ærter,unknown,3390000000,not_known_and_other,0,No specified use
 dk,300,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
 dk,305,"Permanent græs, uden udbetaling af økologi-tilskud",Permanent grass without payment of ecological subsidies,3320100000,permanent_grassland,0,No specified use
 dk,306,"Græs i omdrift, uden udbetaling af økologi-tilskud",Grass in rotation without payment of organic subsidies,3320201000,poaceae_grasses,0,No specified use
@@ -2383,7 +2383,7 @@ dk,349,"Brak langs vandløb og søer, sommerslåning (til målrettet kvælstofre
 dk,35,Flerårig bælgsæd,Perennial legume,3310200000,legumes,0,No specified use
 dk,350,Miljøgræs med N-kvote,Environmental grass with N quota,3320000000,grassland_grass,10,Eco-schemes for environment protection
 dk,36,"Bælgsæd, andre typer til modenhed blanding",Legumes other types for maturity mixing,3310200000,legumes,0,No specified use
-dk,360,Vildtafgrøder,Wild crops,3319900000,other_arable_land_crops,0,No specified use
+dk,360,Vildtafgrøder,Wildlife crops,3319900000,other_arable_land_crops,0,No specified use
 dk,361,Ikke støtteberettiget landbrugsareal,Farmland not warranted for subsidies,3310000000,arable_crops,0,No specified use
 dk,4,Blanding af vårsåede kornarter,Mix of spring-sown cereal crops,3310198002,spring_unspecified_cereals,0,No specified use
 dk,40,Oliehør,Oil flax,3310607000,flax_linseed,8,Oil
@@ -2399,12 +2399,12 @@ dk,408,Hvidkål,White cabbage,3310707130,white_cabbage,0,No specified use
 dk,409,Kinakål,Chinese cabbage,3310707060,chinese_cabbage,0,No specified use
 dk,41,Spindhør,Spinning flax,3310607000,flax_linseed,0,No specified use
 dk,410,Knoldselleri,Celeriac,3310711010,celeriac,0,No specified use
-dk,411,L|g,Onion,3310708040,onions,0,No specified use
+dk,411,Løg,Onion,3310708040,onions,0,No specified use
 dk,412,Pastinak,Parsnip,3310715030,parsnips,0,No specified use
 dk,413,Rodpersille,Parsley root,3310612270,parsley,0,No specified use
 dk,415,Porre,Leek,3310708030,leek,0,No specified use
 dk,416,Rosenkål,Brussel sprouts,3310707040,brussels_sprouts,0,No specified use
-dk,417,R|dbede,Beetroot,3310719020,mangelwurzel_beets,0,No specified use
+dk,417,Rødbede,Beetroot,3310719020,mangelwurzel_beets,0,No specified use
 dk,418,Rødkål,Red cabbage,3310707110,red_cabbage,0,No specified use
 dk,42,Hamp,Hemp,3310610000,hemp_cannabis,0,No specified use
 dk,420,Salat (friland),Salad (outdoor),3310717000,salads_lettuce_leaf_vegetables,0,No specified use
@@ -2415,7 +2415,7 @@ dk,424,"Ærter, konsum",Peas consumption,3310201080,peas,1,Consumption/Fresh
 dk,426,"Bønner, andre","Beans, other.",3310201010,beans,0,No specified use
 dk,429,"Jordskokker, konsum",Jerusalem artichokes comsumption,3310705000,topinambur_jerusalem_artichoke,0,No specified use
 dk,430,Bladpersille,Parsley,3310612270,parsley,0,No specified use
-dk,431,Purl|g,Chives,3310708010,chives,0,No specified use
+dk,431,Purløg,Chives,3310708010,chives,0,No specified use
 dk,432,"Krydderurter, støtteberettigede","Herbs, eligible",3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 dk,433,"Krydderurter, andre","Herbs, other",3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 dk,434,"Grøntsager, andre (friland)",Vegetables other (outdoor),3310700000,fresh_vegetables,0,No specified use
@@ -2462,7 +2462,7 @@ dk,513,Jordbær,Strawberry,3310701000,strawberries,0,No specified use
 dk,514,Solbær,Blackcurrant,3330206010,blackcurrant_cassis,0,No specified use
 dk,515,Ribs,Red currant,3330206020,redcurrant,0,No specified use
 dk,516,Stikkelsbær,Gooseberry,3330206030,gooseberry_gooseberries,0,No specified use
-dk,517,Bromb{r,Blackberry,3330202010,blackberry,0,No specified use
+dk,517,Brombær,Blackberry,3330202010,blackberry,0,No specified use
 dk,518,Hindbær,Raspberry,3330202020,raspberry_raspberries,0,No specified use
 dk,519,Blåbær,Blueberry,3330204010,blueberry,0,No specified use
 dk,52,Quinoa,Quinoa,3310703030,quinoa,0,No specified use
@@ -2475,7 +2475,7 @@ dk,525,Sødkirsebær med undervækst af græs,Sweet cherry with undergrowth of g
 dk,526,Hyld,Elder,3330804000,elder_elderberry,0,No specified use
 dk,527,Hassel (Corylus maxima),Hazel (Corylus maxima),3330302000,hazelnuts_hazel,0,No specified use
 dk,528,Æbler,Apples,3330102000,apples,0,No specified use
-dk,529,P{rer,Pear,3330112000,pears,0,No specified use
+dk,529,Pærer,Pear,3330112000,pears,0,No specified use
 dk,53,Boghvede,Buckwheat,3310703020,buckwheat,0,No specified use
 dk,530,Vindruer,Grapes,3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use
 dk,531,Anden træfrugt,Other tree fruit,3330100000,orchards_fruits,0,No specified use
@@ -2534,14 +2534,14 @@ dk,591,Lavskov.,Coppice forest,3360000000,tree_wood_forest,0,No specified use
 dk,592,Pil,Willow,3360800000,willows_osiers,0,No specified use
 dk,593,Poppel (0-100 andre træer pr. ha),Poplar (0-100 other trees per hectare),3360700000,populus,0,No specified use
 dk,594,El,Alder,3369900000,other_tree_wood_forest,0,No specified use
-dk,596,Elefantgræs,Elephant grass,3320201010,elymus,0,No specified use
-dk,597,R|rgr{s,reed canary grass,3320209900,other_poaceae_grasses,0,No specified use
+dk,596,Elefantgræs,Elephant grass,3320209900,other_poaceae_grasses,0,No specified use
+dk,597,Rørgræs,reed canary grass,3320209900,other_poaceae_grasses,0,No specified use
 dk,598,Sorrel,Sorrel,3310717060,sorrel,0,No specified use
 dk,599,Poppel (100-400 andre træer pr. ha),Poplar (100-400 other trees per ha),3360700000,populus,0,No specified use
 dk,6,"Vårhvede, brødhvede",Spring wheat bread wheat,3310101002,spring_common_soft_wheat,6,Harvested as Grains
 dk,602,MFO - Pil,EFA - Willow,3360800000,willows_osiers,10,Eco-schemes for environment protection
 dk,603,MFO - Poppel (0-100 andre træer pr. ha),MFO - Poplar (0-100 other trees per ha),3360700000,populus,0,No specified use
-dk,604,MFO - El,MFO - Alder,3360300000,birch,0,No specified use
+dk,604,MFO - El,MFO - Alder,3369900000,other_tree_wood_forest,0,No specified use
 dk,605,MFO - Lavskov,EFA - Coppice forest,3360000000,tree_wood_forest,10,Eco-schemes for environment protection
 dk,606,MFO - Poppel (100-400 andre træer pr. ha),EFA - Poplar (100-400 other trees per hectare),3360700000,populus,10,Eco-schemes for environment protection
 dk,650,"Chrysanthemum Garland, frø",Chrysanthemum Garland seeds,3310809000,chrysanthemum,9,Seed/Propagation
@@ -2552,16 +2552,16 @@ dk,654,Rucolafrø,Rocket Arugula seeds,3310717050,rocket_arugula,9,Seed/Propagat
 dk,655,Radissefrø (inklusiv olieræddikefrø),Radish seeds (including oilseed radish),3310715040,radish,9,Seed/Propagation
 dk,656,"Bladbedefrø, rødbede","Beetroot seeds, beetroot",3310719020,mangelwurzel_beets,9,Seed/Propagation
 dk,657,Grønkålfrø,Curly Kale seeds,3310707090,kale,9,Seed/Propagation
-dk,658,Guler|dderfr|,Carrot,3310715020,carrots_daucus,0,No specified use
+dk,658,Gulerødderfrø,Carrot,3310715020,carrots_daucus,0,No specified use
 dk,659,Kålfrø (hvid- og rødkål),Cabbage seeds (white and red cabbage),3310707000,brassicaceae_cruciferae,9,Seed/Propagation
 dk,660,Persillefrø,Parsley seeds,3310612270,parsley,9,Seed/Propagation
-dk,661,K|rvelfr|,Chervil seeds,3310612140,chervil,9,Seed/Propagation
-dk,662,Majroefr|,Brassica rapa subsp. Rapa seeds,3310715050,turnips,9,Seed/Propagation
+dk,661,Kørvelfrø,Chervil seeds,3310612140,chervil,9,Seed/Propagation
+dk,662,Majroefrø,Brassica rapa subsp. Rapa seeds,3310715050,turnips,9,Seed/Propagation
 dk,663,Pastinakfrø,Parsnip seeds,3310715030,parsnips,9,Seed/Propagation
 dk,664,Skorzonerrodfrø.,black salsify seeds,3310715090,salsify,9,Seed/Propagation
 dk,665,Havrerodfrø,Purple salsify seed,3310715090,salsify,9,Seed/Propagation
 dk,666,Purløgfrø,Chive seeds,3310708010,chives,9,Seed/Propagation
-dk,667,Timianfr|,Thyme (Thymus vulgaris),3310612370,thyme,0,No specified use
+dk,667,Timianfrø,Thyme seeds,3310612370,thyme,0,No specified use
 dk,668,Blomsterfrø,Flower seeds,3310800000,flowers_ornamental_plants,9,Seed/Propagation
 dk,669,Andet havefrø,Other garden seeds,3311000000,seed_seedlings,9,Seed/Propagation
 dk,7,Korn/bælgsæd max. 50% bælgsæd,Grain/legume max. 50% grain legumes,3310100000,cereal,6,Harvested as Grains
@@ -2594,19 +2594,19 @@ dk,910,Ikke anmeldt mark,Unreported field,3390000000,not_known_and_other,0,No sp
 dk,920,Økologisk sommerbrak,Organic summer fallow,3311100000,fallow_land_not_crop,0,No specified use
 dk,921,Intern kode: Bar jord,Internal code: Bare soil,3390000000,not_known_and_other,0,No specified use
 dk,95,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
-dk,960,"Græs, udlæg/eftersl. efter grønkorn o.l","Grass, sowing/follow-up after green grain, etc.",3320000000,grassland_grass,5,Harvested Green
-dk,961,"Gr{s, udl{g/eftersl. eft.hels{d/tidl.fr|","Grass, outlay/backlog after whole grain/early seed",3320000000,grassland_grass,0,No specified use
-dk,962,"Gr{s, udl{g/eftersl. eft.korn/sildig fr|","Grasses, long/short grain/silky grass",3320000000,grassland_grass,0,No specified use
+dk,960,"Græs, udlæg/eftersl. efter grønkorn o.l","Grass, undersown/aftermath after green grain harvest and similar",3320000000,grassland_grass,5,Harvested Green
+dk,961,"Græs, udlæg/eftersl. eft.helsæd/tidl.frø","Grass, undersown/aftermath after whole-crop silage / early seed crop",3320000000,grassland_grass,0,No specified use
+dk,962,"Græs, udlæg/eftersl. eft.korn/sildig frø","Grass, undersown/aftermath after cereals / late seed crop",3320000000,grassland_grass,0,No specified use
 dk,963,"Kløvergræs, udlæg/eftersl.efter grønkorn","Clover grass, sowing/following after green grain",3310202030,clover,5,Harvested Green
 dk,964,"Kløvergræs, udlæg/efterslæt efter helsæd","Clover grass, sown/after following whole crop.",3310202030,clover,0,No specified use
-dk,965,"Kl|vergr{s, udl{g/eftersl{t efter korn","Clover grass, cover crop after cereals",3310202030,clover,0,No specified use
-dk,968,Pligtige efterafgr|der,Mandatory catch crops,3310000000,arable_crops,0,No specified use
+dk,965,"Kløvergræs, udlæg/efterslæt efter korn","Clover-grass, undersown / after-sown after cereals",3310202030,clover,0,No specified use
+dk,968,Pligtige efterafgrøder,Mandatory catch crops,3310000000,arable_crops,0,No specified use
 dk,995,Slettet mark,Cleared field,3310000000,arable_crops,0,No specified use
 dk,997,Ikke kontrolleret afgrøde (kontrollørkode),Uncontrolled crop (control code),3390000000,not_known_and_other,0,No specified use
 dk,998,Ukendt afgrøde,Unknown crop,3390000000,not_known_and_other,0,No specified use
-dk,999,Ugyldig afgr|dekode,Invalid crop code,3390000000,not_known_and_other,0,No specified use
+dk,999,Ugyldig afgrødekode,Invalid crop code,3390000000,not_known_and_other,0,No specified use
 dk,,,,3390000000,not_known_and_other,0,No specified use
-ee,10001,Karjatamine väljaspool põllumaj. maad,Rough grazings,3320100000,permanent_grassland,3,Fodder/Forage
+ee,10001,Karjatamine väljaspool põllumaj. maad,Grazing outside agricultural land,3320100000,permanent_grassland,3,Fodder/Forage
 ee,10002,"N siduv heint. ja N siduv põllumaj. kult. segu (N siduvaid kult. üle 50%, segus valdavalt heint.)",Mix of nitrogen-binding grasses and nitrogen-binding crops(over 50% nitrogen-binding crops mix contains mainly grasses),3310200000,legumes,11,Nitrogen fixing 
 ee,10003,"N siduv heint. ja kõrreliste segu (N siduvaid heintaimi üle 50%, kõrrelisi heintaimi alla 50%)",Mix of nitrogen-binding grasses and graminoids (over 50% nitrogen-binding grasses less than 50% graminoid grasses),3310200000,legumes,11,Nitrogen fixing 
 ee,10004,"N siduv heint. ja muu põllumaj. kult. segu (N siduvaid heint. üle 50%, muid kultuure alla 50%)",Mix of nitrogen-binding grasses and other crops (over 50% nitrogen-binding grasses less than 50% other crops).,3310200000,legumes,11,Nitrogen fixing 
@@ -2634,24 +2634,24 @@ ee,10025,hapu kirsipuu sh murelipuu,Sour cherry incl. morello cherry,3330104000,
 ee,10026,"harakputk, aed-",Chervil,3310612140,chervil,0,No specified use
 ee,10027,haraline ploomipuu (alõtša),Plum tree,3330113000,plums,0,No specified use
 ee,10028,harilik esparsett (100% esparsetti),Common sainfoin (100%),3310202060,onobrychis_sainfoins,0,No specified use
-ee,10029,"harilik esparsett (esparsetti 50-80%, teisi heintaimi 20-50%)",common asparagus (asparagus 50-80% other grasses 20-50%),3310706000,asparagus,0,No specified use
+ee,10029,"harilik esparsett (esparsetti 50-80%, teisi heintaimi 20-50%)",common sainfoin (sainfoin 50-80% other grasses 20-50%),3310202060,onobrychis_sainfoins,0,No specified use
 ee,10030,"harilik esparsett (vähemalt 80% esparsetti, kuni 20% heintaimi)","Common sainfoin (at least 80% sainfoin, up to 20% grass)",3310202060,onobrychis_sainfoins,0,No specified use
 ee,10031,harilik kanep,cannabis,3310610000,hemp_cannabis,0,No specified use
 ee,10032,harilik lutsern (100% lutsern),lucerne (100% lucerne),3310202010,alfalfa_lucerne,0,No specified use
 ee,10033,harilik lutsern (100% lutserni),Lucerne (100%),3310202010,alfalfa_lucerne,0,No specified use
 ee,10034,"harilik lutsern (lutserni 50-80%, teisi heintaimi 20-50%)",alfalfa (alfalfa 50-80% other grasses 20-50%),3310202010,alfalfa_lucerne,0,No specified use
 ee,10035,"harilik lutsern (vähemalt 80% lutserni, kun 20% heintaimi)",Lucerne (at least 80% alfalfa 20% grasses),3310202010,alfalfa_lucerne,0,No specified use
-ee,10036,harilik nõiahammas (100% nõiahammast),Birdsfoot trefoil (100%),3310202990,other_legumes_harvested_green,0,No specified use
-ee,10037,"harilik nõiahammas (nõiahammast 50-80%, teisi heintaimi 20-50%)",common trefoil (50-80% of witch tooth 20-50% other grasses),3310202990,other_legumes_harvested_green,0,No specified use
-ee,10038,"harilik nõiahammas (vähemalt 80% nõiahammast, kuni 20% heintaimi)","bird's-foot trefoil (at least 80% trefoil, up to 20% grass)",3310202990,other_legumes_harvested_green,0,No specified use
+ee,10036,harilik nõiahammas (100% nõiahammast),Birdsfoot trefoil (100%),3310202080,birdsfoot_treifoil,0,No specified use
+ee,10037,"harilik nõiahammas (nõiahammast 50-80%, teisi heintaimi 20-50%)",common trefoil (50-80% of witch tooth 20-50% other grasses),3310202080,birdsfoot_treifoil,0,No specified use
+ee,10038,"harilik nõiahammas (vähemalt 80% nõiahammast, kuni 20% heintaimi)","bird's-foot trefoil (at least 80% trefoil, up to 20% grass)",3310202080,birdsfoot_treifoil,0,No specified use
 ee,10039,harilik pihlakas,Rowan,3330213000,rowan_rowanberries,0,No specified use
 ee,10040,harilik sarapuu,common hazel,3330302000,hazelnuts_hazel,0,No specified use
 ee,10041,harilik sibul (söögisibul),onion (onion),3310708040,onions,0,No specified use
-ee,10042,harilik ussikeel (100% ussikeelt),Viper's bugloss (100%),3310899000,other_flowers_ornamental_plants,0,No specified use
+ee,10042,harilik ussikeel (100% ussikeelt),Common viper's bugloss (100% of viper's bugloss),3310899000,other_flowers_ornamental_plants,0,No specified use
 ee,10043,hiina kapsas,Chinese cabbage,3310707060,chinese_cabbage,0,No specified use
 ee,10044,humal,hops,3310602000,hops,0,No specified use
-ee,10045,humallutsern (100% lutserni),hop alfalfa (100% alfalfa),3310202010,alfalfa_lucerne,0,No specified use
-ee,10046,ida-kitsehernes (100% ida-kitsehernest),Eastern goat pea (100% eastern goat pea),3310201080,peas,0,No specified use
+ee,10045,humallutsern (100% lutserni),Black medick (100% of alfalfa),3310202010,alfalfa_lucerne,0,No specified use
+ee,10046,ida-kitsehernes (100% ida-kitsehernest),Fodder galega  (100% Fodder galega ),3310202070,galega,0,No specified use
 ee,10047,"ida-kitsehernes (vähemalt 80% ida-kitsehernest, kuni 20% heintaimi)",Fodder galega (at least 80% galega up to 20% grasses),3310202070,galega,3,Fodder/Forage
 ee,10048,"iisop, harilik",hyssop,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 ee,10049,juurseller,celery root,3310711010,celeriac,0,No specified use
@@ -2685,9 +2685,9 @@ ee,10076,"kartul v.a ""Ando""","Potato (excl. ""Ando"")",3310300000,potatoes,0,N
 ee,10077,karusmari,gooseberry,3330206030,gooseberry_gooseberries,0,No specified use
 ee,10078,"kassinaeris, mets-",Malva sylvestris,3310828000,malva,0,No specified use
 ee,10079,kaunviljade segu,Mixture of legumes,3310200000,legumes,0,No specified use
-ee,10080,keerispea allakülviga v.a liblikõieliste allakülviga,Phacelia tanacetifolia undersown (excl. legumes),3311300000,phacelia,0,No specified use
-ee,10081,keerispea allakülvita,Phacelia tanacetifolia,3311300000,phacelia,0,No specified use
-ee,10082,keerispea liblikõieliste allakülviga,Phacelia tanacetifolia undersown with legumes,3311300000,phacelia,0,No specified use
+ee,10080,keerispea allakülviga v.a liblikõieliste allakülviga,Scorpion-weed (Phacelia tanacetifolia)  undersown (excl. legumes),3311300000,phacelia,0,No specified use
+ee,10081,keerispea allakülvita,Scorpion-weed (Phacelia tanacetifolia) not undersown,3311300000,phacelia,0,No specified use
+ee,10082,keerispea liblikõieliste allakülviga,Scorpion-weed (Phacelia tanacetifolia) undersown with legumes,3311300000,phacelia,0,No specified use
 ee,10083,kikerhernes,chickpeas,3310201040,chickpeas,0,No specified use
 ee,10084,"kikkaputk, harilik",Garden angelica,3310612040,angelica,0,No specified use
 ee,10085,kirsipuu (hapukirss),cherry (sour cherry),3330104000,cherry_cherries,0,No specified use
@@ -2728,12 +2728,12 @@ ee,10119,magus kirsipuu,sweet cherry tree,3330104000,cherry_cherries,0,No specif
 ee,10120,maguslupiin,sweet lupin,3310201090,lupins,0,No specified use
 ee,10121,mais,Grain maize,3310106000,maize_corn_popcorn,6,Harvested as Grains
 ee,10122,melon,melon,3310702030,melon,0,No specified use
-ee,10123,mesiputk,Sweet Cicely,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
+ee,10123,mesiputk,Anise or Sweet Cicely,3310612050,anise_aniseed,0,No specified use
 ee,10124,minimais,Baby corn,3310106000,maize_corn_popcorn,0,No specified use
 ee,10125,mitmeliigiline väike põld,multispecies small field,3310000000,arable_crops,0,No specified use
 ee,10126,moon (magun),papaver,3310606000,poppy,0,No specified use
 ee,10127,mugulsibul,onion,3310708040,onions,0,No specified use
-ee,10128,murelipuu,Sour Cherry,3330104000,cherry_cherries,0,No specified use
+ee,10128,murelipuu,Morello cherry tree,3330104000,cherry_cherries,0,No specified use
 ee,10129,must leeder,elderberry,3330804000,elder_elderberry,0,No specified use
 ee,10130,must sõstar,black currant,3330206010,blackcurrant_cassis,0,No specified use
 ee,10131,mustikas,blueberry,3330204010,blueberry,0,No specified use
@@ -2741,9 +2741,9 @@ ee,10132,mustkesa,Fallow land (bare land),3311100000,fallow_land_not_crop,0,No s
 ee,10133,"mustköömen, aed-",black cumin,3310612080,black_cumin,0,No specified use
 ee,10134,"mustköömen, türgi","black cumin, turkey",3310612080,black_cumin,0,No specified use
 ee,10135,mustrõigas,patterned radish,3310715040,radish,0,No specified use
-ee,10136,muu heintaimede segu,Other mix of grasses,3320201010,elymus,0,No specified use
+ee,10136,muu heintaimede segu,Other mix of grasses,3320201000,poaceae_grasses,0,No specified use
 ee,10137,muu kapsas,Other cabbage,3310707000,brassicaceae_cruciferae,0,No specified use
-ee,10138,muu kaunvili,other pulses,3310201010,beans,0,No specified use
+ee,10138,muu kaunvili,other legumes,3310200000,legumes,0,No specified use
 ee,10139,muu köögivili,other vegetables,3310700000,fresh_vegetables,0,No specified use
 ee,10140,muu ravim- ja maitsetaim,Other medicinal and culinary plant,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 ee,10141,muu rühvelkultuur,Other cultures,3310000000,arable_crops,0,No specified use
@@ -2757,10 +2757,10 @@ ee,10148,muud marjapõõsad,Other berries,3330200000,berries_berry_species,0,No 
 ee,10149,muud viljapuud,other fruits,3330100000,orchards_fruits,0,No specified use
 ee,10150,mädarõigas,horseradish,3310715060,horseradish,0,No specified use
 ee,10151,"mädarõigas, aed-","horseradish, horseradish",3310715060,horseradish,0,No specified use
-ee,10152,"münt, pikaleheline","mint, long-leaved",3310612220,mints_peppermint,0,No specified use
-ee,10153,"münt, rohe-","mint, green",3310612220,mints_peppermint,0,No specified use
-ee,10154,"münt, vääris-","mint, precious (Mentha × gracilis)",3310612220,mints_peppermint,0,No specified use
-ee,10155,"münt, ümaraleheline",mint round leaf,3310612220,mints_peppermint,0,No specified use
+ee,10152,"münt, pikaleheline",Bush mint,3310612220,mints_peppermint,0,No specified use
+ee,10153,"münt, rohe-",Spearmint,3310612220,mints_peppermint,0,No specified use
+ee,10154,"münt, vääris-",Gingermint,3310612220,mints_peppermint,0,No specified use
+ee,10155,"münt, ümaraleheline",Bigleaf mint,3310612220,mints_peppermint,0,No specified use
 ee,10156,naeris,turnip,3310715050,turnips,0,No specified use
 ee,10157,"naistenõges, harilik",catnip,3310612120,catnip,0,No specified use
 ee,10158,"naistepuna, liht-",Perforate St Johns-wort,3310612340,st_johns_wort,0,No specified use
@@ -2821,19 +2821,19 @@ ee,10212,segavili/segatis,Cereal mixture,3310100000,cereal,0,No specified use
 ee,10213,segavili/segatis N siduvate kaunviljadega (N siduvaid kaunvilju segus üle 50%),Cereal mixture with nitrogen-binding pulses (pulses over 50%),3310200000,legumes,11,Nitrogen fixing 
 ee,10214,sidrunmeliss,lemon balm,3310612200,lemon_balm_melissa,0,No specified use
 ee,10215,"sigur, harilik",chicory,3310717010,chicory_chicories,0,No specified use
-ee,10216,"siilkübar, purpur-",echinacea coneflower,3310815000,echinacea,0,No specified use
+ee,10216,"siilkübar, purpur-",Eastern purple coneflower,3310815000,echinacea,0,No specified use
 ee,10217,sojauba,soybean,3310201030,soy_soybeans,0,No specified use
 ee,10218,sorgo,sorghum,3310116000,sorghum,0,No specified use
 ee,10219,spargel,asparagus,3310706000,asparagus,0,No specified use
 ee,10220,spargelkapsas (brokkoli),Broccoli,3310707030,broccoli,0,No specified use
-ee,10221,"speltanisu allakülviga, v.a liblikõieliste allakülviga",Spelt with the exception of legumes,3310110000,spelt,0,No specified use
-ee,10222,speltanisu allakülvita,Spelt,3310110000,spelt,0,No specified use
+ee,10221,"speltanisu allakülviga, v.a liblikõieliste allakülviga","Spelt undersown, excl. undersown with leguminous crops",3310110000,spelt,0,No specified use
+ee,10222,speltanisu allakülvita,Spelt not undersown,3310110000,spelt,0,No specified use
 ee,10223,speltanisu liblikõieliste allakülviga,Spelt with legumes,3310110000,spelt,0,No specified use
 ee,10224,spinat,spinach,3310717070,spinach,0,No specified use
 ee,10225,suhkrumais,sweet corn,3310106000,maize_corn_popcorn,0,No specified use
 ee,10226,suhkrupeet,sugar beet,3310719010,sugar_beet,0,No specified use
-ee,10227,"suvinisu allakülviga, v.a liblikõieliste allakülviga",Summer wheat undersown (excl. legumes),3310101002,spring_common_soft_wheat,0,No specified use
-ee,10228,suvinisu allakülvita,Summer wheat,3310101002,spring_common_soft_wheat,0,No specified use
+ee,10227,"suvinisu allakülviga, v.a liblikõieliste allakülviga",Spring wheat undersown (excl. legumes),3310101002,spring_common_soft_wheat,0,No specified use
+ee,10228,suvinisu allakülvita,Spring wheat not undersown,3310101002,spring_common_soft_wheat,0,No specified use
 ee,10229,suvinisu liblikõieliste allakülviga,Summer wheat undersown with legumes,3310101002,spring_common_soft_wheat,0,No specified use
 ee,10230,"suvioder allakülviga, v.a liblikõieliste allakülviga",Summer barley undersown (excl. legumes),3310104002,spring_barley,0,No specified use
 ee,10231,suvioder allakülvita,Summer barley,3310104002,spring_barley,0,No specified use
@@ -2848,14 +2848,14 @@ ee,10239,"suvitritikale allakülviga, v.a liblikõieliste allakülviga","summer 
 ee,10240,suvitritikale allakülvita,Summer triticale,3310108002,spring_triticale,0,No specified use
 ee,10241,suvitritikale liblikõeliste allakülviga,summer triticale with leguminous under-sowing,3310108002,spring_triticale,0,No specified use
 ee,10242,suvitritikale liblikõieliste allakülviga,Summer triticale with sown legumes,3310108002,spring_triticale,0,No specified use
-ee,10243,suvivikk,Common vetch Summer,3310202050,vetches,0,No specified use
+ee,10243,suvivikk,Common vetch,3310202050,vetches,0,No specified use
 ee,10244,söödakapsas,fodder cabbage,3310707000,brassicaceae_cruciferae,3,Fodder/Forage
 ee,10245,söödapeet,fodder beet,3310719020,mangelwurzel_beets,3,Fodder/Forage
-ee,10246,söödav kuslapuu,honeysuckle,3330805000,honeysuckle,0,No specified use
+ee,10246,söödav kuslapuu,Blue honeysuckle,3330805000,honeysuckle,0,No specified use
 ee,10247,söögipeet,beetroot,3310719020,mangelwurzel_beets,0,No specified use
 ee,10248,sööti jäetud maa,Fallow land,3311100000,fallow_land_not_crop,0,No specified use
 ee,10249,"südamerohi, veiste-",motherwort,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
-ee,10250,"talinisu allakülviga, v.a liblikõieliste allakülviga",Winter wheat undersown (excl. legumes),3310101001,winter_common_soft_wheat,0,No specified use
+ee,10250,"talinisu allakülviga, v.a liblikõieliste allakülviga","Winter wheat undersown, excl. undersown with leguminous crops",3310101001,winter_common_soft_wheat,0,No specified use
 ee,10251,talinisu allakülvita,Winter wheat,3310101001,winter_common_soft_wheat,0,No specified use
 ee,10252,talinisu liblikõieliste allakülviga,Winter wheat undersown with legumes,3310101001,winter_common_soft_wheat,0,No specified use
 ee,10253,"talioder allakülviga, v.a liblikõieliste allakülviga","winter barley with undersowing, except for leguminous undersowing",3310104001,winter_barley,0,No specified use
@@ -2870,17 +2870,17 @@ ee,10261,talirüps allakülvita,Winter turnip rape,3310604011,winter_rapeseed_ra
 ee,10262,talirüps liblikõieliste allakülviga,Winter oilseed rape,3310604011,winter_rapeseed_rape,8,Oil
 ee,10263,talisibul,Spring onion,3310708050,scallion,0,No specified use
 ee,10264,"talitritikale allakülviga, v.a liblikõieliste allakülviga",Winter triticale with the exception of leguminous crops,3310108001,winter_triticale,0,No specified use
-ee,10265,talitritikale allakülvita,Winter triticale,3310108001,winter_triticale,0,No specified use
+ee,10265,talitritikale allakülvita,Winter triticale not undersown,3310108001,winter_triticale,0,No specified use
 ee,10266,talitritikale liblikõieliste allakülviga,Winter triticale undersown with legumes,3310108001,winter_triticale,0,No specified use
 ee,10267,"tatar allakülviga, v.a liblikõieliste allakülviga",Buckwheat undersown (excl. legumes),3310703020,buckwheat,0,No specified use
 ee,10268,tatar allakülvita,buckwheat,3310703020,buckwheat,0,No specified use
 ee,10269,tatar liblikõieliste allakülviga,Buckwheat undersown with legumes,3310703020,buckwheat,0,No specified use
 ee,10270,teekummel,chamomile,3310612130,chamomile,0,No specified use
-ee,10271,"teeleht, suur",tea leaf large,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
+ee,10271,"teeleht, suur",Broadleaf plantain,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 ee,10272,"teraviljade segu allakülviga, v.a liblikõieliste allakülviga",Cereal mixture undersown (excl. legumes),3310100000,cereal,0,No specified use
 ee,10273,teraviljade segu allakülvita,mixed grains,3310100000,cereal,6,Harvested as Grains
 ee,10274,teraviljade segu liblikõieliste allakülviga,Mixed grains undersown with legumes,3310100000,cereal,6,Harvested as Grains
-ee,10275,"tihashein, harilik",common skullcap,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
+ee,10275,"tihashein, harilik",Hooded skullcap,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 ee,10276,"tihashein, külgõieline",blue skullcap,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 ee,10277,tomat,Tomato,3310714000,tomato,0,No specified use
 ee,10278,"tondipea, moldaavia",Moldavian dragonhead,3310612230,moldavian_dragonhead,0,No specified use
@@ -2905,7 +2905,7 @@ ee,10296,"valge sinep allakülviga, v.a liblikõieliste allakülviga",white must
 ee,10297,valge sinep allakülvita,white mustard without sowing,3310707010,mustard,0,No specified use
 ee,10298,valge sinep liblikõieliste allakülviga,White mustard with sown legumes,3310707010,mustard,0,No specified use
 ee,10299,valge sõstar,White currant,3330206990,other_ribes,0,No specified use
-ee,10300,valkjas mesiohakas (100% mesiohakat),white honeycomb (100% honeycomb),3319900000,other_arable_land_crops,0,No specified use
+ee,10300,valkjas mesiohakas (100% mesiohakat),Great globe thistle (100% of great globe thistle),3319900000,other_arable_land_crops,0,No specified use
 ee,10301,varajane kartul,early potatoes,3310300000,potatoes,0,No specified use
 ee,10302,varsseller,celery,3310711000,celery,0,No specified use
 ee,10303,veiniviinamarjad,wine grapes,3330600000,vineyards_wine_vine_rebland_grapes,2,Industry/for processing
@@ -2915,7 +2915,7 @@ ee,10306,viljapuu- ja marjaaiad väikestel pindadel,Fruits and berries in small 
 ee,10307,"vägihein, kõrge",denseflower mullein,3310899000,other_flowers_ornamental_plants,0,No specified use
 ee,10308,"võilill, harilik",Dandelion common,3310814000,dandelions,0,No specified use
 ee,10309,"vürtsköömen, harilik",Common cumin,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
-ee,10310,õlilina,Linseed (oil flax),3310607000,flax_linseed,8,Oil
+ee,10310,õlilina,Oil flax ,3310607000,flax_linseed,8,Oil
 ee,10311,õlirõigas,Oil radish,3310715040,radish,8,Oil
 ee,10312,õunapuu,apple tree,3330102000,apples,0,No specified use
 ee,10313,üheaastane raihein jm üheaastased heintaimed,Annual ryegrass and other annual grasses,3320201050,lolium_ryegrass,0,No specified use
@@ -3057,7 +3057,7 @@ es,247,CULTIVOS MIXTOS DE ESPECIES PRATENSES,Mixed Crops of the Pratense (clover
 es,248,ALGARROBA,CAROB TREE,3330901000,carob,0,No specified use
 es,249,ALVERJA,Pea,3310201080,peas,0,No specified use
 es,25,ABANDONO 20 años,ABANDONMENT 20 years,3370000000,unmaintained,0,No specified use
-es,250,ALBERJÓN,Chickpea,3310201040,chickpeas,0,No specified use
+es,250,ALBERJÓN,Lupin,3310201090,lupins,0,No specified use
 es,251,AJEDREA,SAVORY,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 es,252,CILANTRO,CILANTRO,3310612150,coriander,0,No specified use
 es,253,ANÍS DULCE,SWEET ANISE,3310612050,anise_aniseed,0,No specified use
@@ -3110,9 +3110,9 @@ es,300,SABINA,Sabina (type of Junipers),3360900000,conifers,0,No specified use
 es,302,MEZCLA EN MÁRGENES MULTIFUNCIONALES,MIXING IN MULTIFUNCTIONAL MARGINS,3390000000,not_known_and_other,0,No specified use
 es,303,MEZCLA DE RESERVORIOS,RESERVOIR MIX,3390000000,not_known_and_other,0,No specified use
 es,304,COL CHINA,CHINESE CABBAGE,3310707060,chinese_cabbage,0,No specified use
-es,305,MEZCLA AVENA-TRIGO,OAT-WHEAT MIXTURE,3310105000,oats,0,No specified use
-es,306,MEZCLA AVENA-CEBADA,OATS-BARLEY MIXTURE,3310105000,oats,0,No specified use
-es,307,MEZCLA AVENA-TRITICALE,OAT-TRITICALE MIXTURE,3310105000,oats,0,No specified use
+es,305,MEZCLA AVENA-TRIGO,OAT-WHEAT MIXTURE,3310100000,cereal,0,No specified use
+es,306,MEZCLA AVENA-CEBADA,OATS-BARLEY MIXTURE,3310100000,cereal,0,No specified use
+es,307,MEZCLA AVENA-TRITICALE,OAT-TRITICALE MIXTURE,3310100000,cereal,0,No specified use
 es,308,AGRIMONIA,AGRIMONY,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 es,309,BARDANA,BURDOCK,3310715010,arctium_burdock,0,No specified use
 es,310,DIENTE DE LEÓN,DANDELION,3310814000,dandelions,0,No specified use
@@ -3146,7 +3146,7 @@ es,339,MEZCLA AVENA-YEROS,Oat vetch mixture,3310105000,oats,0,No specified use
 es,34,SOJA,SOY,3310201030,soy_soybeans,0,No specified use
 es,340,MEZCLA CEBADA-YEROS,BARLEY-Vetches MIXTURE,3310104000,barley,0,No specified use
 es,341,SILPHIUM,SILPHIUM,3310844000,silphium_rosinweeds,0,No specified use
-es,342,OTRAS MEZCLAS CON PREDOMINANCIA CFN,Nitrogen-fixing crops (CFN),3310201020,peanuts,11,Nitrogen fixing 
+es,342,OTRAS MEZCLAS CON PREDOMINANCIA CFN,OTHER MIXTURES WITH PREDOMINANCE Nitrogen-fixing crops (CFN),3310200000,legumes,11,Nitrogen fixing 
 es,343,AGUACATE,AVOCADO,3330116000,avocado,0,No specified use
 es,344,MANGO,MANGO,3330199000,other_orchards_fruits,0,No specified use
 es,345,CHIRIMOYO,cherimoya,3330199000,other_orchards_fruits,0,No specified use
@@ -3176,12 +3176,12 @@ es,377,MADROÑO ,Strawberry Tree,3369900000,other_tree_wood_forest,0,No specifie
 es,378,OLMO,ELM,3369900000,other_tree_wood_forest,0,No specified use
 es,381,QUEJIGO,Portuguese oak,3360600000,oak,0,No specified use
 es,383,RETAMA,RETAMA,3390000000,not_known_and_other,0,No specified use
-es,385,TALAYA,Tamarix,3369900000,other_tree_wood_forest,0,No specified use
+es,385,TALAYA,Pyrenean oak,3360600000,oak,0,No specified use
 es,387,TILO,Tilia tree,3369900000,other_tree_wood_forest,0,No specified use
 es,388,YUCA,YUCA,3310899000,other_flowers_ornamental_plants,0,No specified use
 es,389,PINO,PINE,3360900000,conifers,0,No specified use
 es,390,HABONCILLO,Field Beans,3310201010,beans,0,No specified use
-es,391,CEREZO DE MAHOMA,Mahaleb Cherrz,3330104000,cherry_cherries,0,No specified use
+es,391,CEREZO DE MAHOMA,Mahaleb Cherry,3330104000,cherry_cherries,0,No specified use
 es,392,MEZCLA ALUBIA-MAÍZ,BEAN-CORN MIXTURE,3310201010,beans,0,No specified use
 es,395,PANIZO,Maiz,3310106000,maize_corn_popcorn,0,No specified use
 es,397,JUDÍA ESCARLATA,SCARLET Runner BEAN,3310201010,beans,0,No specified use
@@ -3208,17 +3208,17 @@ es,444,ZUMAQUE,SUMAC,3310612990,other_aromatic_medicinal_culinary_plants_spices_
 es,445,COL CRESPA,Curly kale,3310707090,kale,0,No specified use
 es,446,SERRADELLA,SERRADELLA,3310202020,serradella,0,No specified use
 es,447,MEZCLA CEREAL-RAYGRASS,CEREAL-RYEGRASS MIXTURE,3310100000,cereal,0,No specified use
-es,448,MEZCLA AVENA-MAÍZ,OAT-CORN MIXTURE,3310105000,oats,0,No specified use
-es,449,MEZCLA HABA-VEZA,BEAN-VETCHES MIXTURE,3310201010,beans,0,No specified use
-es,450,MEZCLA CEBADA-TRIGO,BARLEY-WHEAT MIXTURE,3310104000,barley,0,No specified use
-es,451,MEZCLA CENTENO-TRIGO,RYE-WHEAT MIXTURE,3310103000,rye,0,No specified use
+es,448,MEZCLA AVENA-MAÍZ,OAT-CORN MIXTURE,3310100000,cereal,0,No specified use
+es,449,MEZCLA HABA-VEZA,BEAN-VETCHES MIXTURE,3310200000,legumes,0,No specified use
+es,450,MEZCLA CEBADA-TRIGO,BARLEY-WHEAT MIXTURE,3310100000,cereal,0,No specified use
+es,451,MEZCLA CENTENO-TRIGO,RYE-WHEAT MIXTURE,3310100000,cereal,0,No specified use
 es,452,MEZCLA AVENA-MAÍZ-VEZA,OAT-CORN-VETCHES MIXTURE,3310105000,oats,0,No specified use
 es,453,MEZCLA CEBADA-MAÍZ-VEZA,BARLEY-CORN-VETCHES MIXTURE,3310104000,barley,0,No specified use
 es,454,MEZCLA ALTRAMUZ-AVENA,LUPINE-OATS MIXTURE,3310201090,lupins,0,No specified use
-es,455,MEZCLA AVENA-CENTENO,OAT-RYE MIXTURE,3310105000,oats,0,No specified use
-es,457,MEZCLA MAÍZ-SORGO,CORN-SORGHUM MIXTURE,3310106000,maize_corn_popcorn,0,No specified use
+es,455,MEZCLA AVENA-CENTENO,OAT-RYE MIXTURE,3310100000,cereal,0,No specified use
+es,457,MEZCLA MAÍZ-SORGO,CORN-SORGHUM MIXTURE,3310100000,cereal,0,No specified use
 es,460,CAUPÍ,Black-eyed pea,3310201010,beans,0,No specified use
-es,461,MELILOTO AMARILLO ,YELLOW SWEET CLOVER,3310202030,clover,0,No specified use
+es,461,MELILOTO AMARILLO ,YELLOW SWEET CLOVER,3310202040,melilot,0,No specified use
 es,463,CHOISUM,CHOISUM,3310707990,other_brassicaceae_cruciferae,0,No specified use
 es,464,BRÓCOLI CHINO,Kai-lan,3310707080,gai_lan,0,No specified use
 es,465,BATATA ACUÁTICA,Water spinach,3310717990,other_salads_lettuce_leaf_vegetables,0,No specified use
@@ -3233,9 +3233,9 @@ es,483,VEZA VELLOSA,Hairy vetch,3310202050,vetches,0,No specified use
 es,484,GRELOS,Rapini,3310707990,other_brassicaceae_cruciferae,0,No specified use
 es,485,BAYAS DE GOJI,GOJI BERRIES,3330299000,other_berries_berry_species,0,No specified use
 es,486,ALVERJA HÚNGARA,HUNGARIAN PEA,3310201080,peas,0,No specified use
-es,489,GRAMA COMÚN,Scutch grass,3320201010,elymus,0,No specified use
+es,489,GRAMA COMÚN,Scutch grass,3320209900,other_poaceae_grasses,0,No specified use
 es,49,ALUBIA,BEAN,3310201010,beans,0,No specified use
-es,490,MEDICAGO,MEDICAGO,3310299000,other_legumes,0,No specified use
+es,490,MEDICAGO,MEDICAGO,3310202010,alfalfa_lucerne,0,No specified use
 es,496,MEZCLA RAYGRASS-TREBOL,RYEGRASS-CLOVER MIXTURE,3320201050,lolium_ryegrass,0,No specified use
 es,5,CEBADA,BARLEY,3310104000,barley,0,No specified use
 es,50,GARBANZO,CHICKPEA,3310201040,chickpeas,0,No specified use
@@ -3256,14 +3256,14 @@ es,67,ESPARCETA,sainfoin,3310202060,onobrychis_sainfoins,0,No specified use
 es,68,FESTUCA,Fescue,3320201020,festuca_fescue,0,No specified use
 es,69,RAYGRASS PERENNE,PERENNIAL RYEGRASS,3320201050,lolium_ryegrass,0,No specified use
 es,7,SORGO,SOY,3310116000,sorghum,0,No specified use
-es,70,AGROSTIS,Bent grass,3320201010,elymus,0,No specified use
+es,70,AGROSTIS,Bent grass,3320209900,other_poaceae_grasses,0,No specified use
 es,700,SUP DE AGROSILVICULTURA QUE RECIBA O HAYA RECIBIDO AYUDAS DE LOS REGLAMENTOS 1698/2005 Y/O 1305/2013,AGROSILVICULTURE SUP THAT RECEIVES OR HAS RECEIVED AID FROM REGULATIONS 1698/2005 AND/OR 1305/2013,3390000000,not_known_and_other,10,Eco-schemes for environment protection
-es,71,ARRHENATHERUM,Oat grass,3320201010,elymus,0,No specified use
+es,71,ARRHENATHERUM,Oat grass,3320209900,other_poaceae_grasses,0,No specified use
 es,72,DACTILO,Cat grass,3320201030,cocksfoot_catgrass,0,No specified use
 es,73,FLEO,Timothy,3320201090,timothy,0,No specified use
 es,74,POA,Poa grass,3320201010,elymus,0,No specified use
 es,750,SUPERFICIES VINCULADAS A LA DIRECTIVA 92/43/CEE,SURFACES LINKED TO DIRECTIVE 92/43/EEC,3390000000,not_known_and_other,0,No specified use
-es,76,ZULLA,Sulla coronaria,3310299000,other_legumes,0,No specified use
+es,76,ZULLA,Hedysarum coronarium,3310299000,other_legumes,0,No specified use
 es,77,TRÉBOL,CLOVER,3310202030,clover,0,No specified use
 es,78,RAYGRASS ANUAL ,Ryegrass annual,3320201050,lolium_ryegrass,0,No specified use
 es,8,AVENA,OAT,3310105000,oats,0,No specified use
@@ -3278,7 +3278,7 @@ es,850,OTRAS SUPERFICIES FORESTALES-VUELO,OTHER FOREST AREAS-FLIGHT,3360000000,t
 es,86,CÁÑAMO,HEMP,3310610000,hemp_cannabis,0,No specified use
 es,87,CACAHUETE,PEANUT,3310201020,peanuts,0,No specified use
 es,88,CÁRTAMO,safflower,3310839000,safflower,0,No specified use
-es,89,CHUFA,CHUFA,3330399000,other_nuts,0,No specified use
+es,89,CHUFA,CHUFA,3319900000,other_arable_land_crops,0,No specified use
 es,9,ALFORFÓN,BUCKWHEAT,3310703020,buckwheat,0,No specified use
 es,90,REGALIZ,Licorice,3310299000,other_legumes,0,No specified use
 es,901,BRASSICA CARINATA,Ethiopian rape/mustard,3310604990,other_oilseed_crops,0,No specified use
@@ -3303,14 +3303,14 @@ es,92,ROMANESCU,Romanesco,3310707990,other_brassicaceae_cruciferae,0,No specifie
 es,923,GUAYABO,Guava,3330199000,other_orchards_fruits,0,No specified use
 es,924,ZAPOTE,Sapote,3330199000,other_orchards_fruits,0,No specified use
 es,925,ALFICOZ,Armenian cucumber,3310702990,other_cucurbits,0,No specified use
-es,926,BATATA,Potato,3310400000,sweet_potatoes,0,No specified use
+es,926,BATATA,Sweet potato,3310400000,sweet_potatoes,0,No specified use
 es,927,OKRA,OKRA,3310799000,other_fresh_vegetables,0,No specified use
 es,928,PHYSALIS,PHYSALIS,3330299000,other_berries_berry_species,0,No specified use
 es,929,RÚCULA,ARUGULA,3310717050,rocket_arugula,0,No specified use
 es,93,LINO NO TEXTIL,NON-TEXTILE LINEN,3310607000,flax_linseed,0,No specified use
 es,930,SALICORNIA,Glassworts,3319900000,other_arable_land_crops,0,No specified use
 es,932,PLANTAS ORNAMENTALES,ORNAMENTAL PLANTS,3310800000,flowers_ornamental_plants,0,No specified use
-es,937,CUERNECILLO ,Birds foot trefoil,3310202990,other_legumes_harvested_green,0,No specified use
+es,937,CUERNECILLO ,Birds foot trefoil,3310202080,birdsfoot_treifoil,0,No specified use
 es,938,FRESÓN,STRAWBERRY,3310701000,strawberries,0,No specified use
 es,939,ALMENDRO-OLIVAR,ALMOND-OLIVE,3330301000,almond,0,No specified use
 es,940,NARANJO.CAQUI,ORANGE.KAKI,3330402000,orange,0,No specified use
@@ -3401,8 +3401,8 @@ fi,4530,Öljyhamppu,Oil hemp,3310610000,hemp_cannabis,8,Oil
 fi,4610,Öljypellava,Oil flax,3310607000,flax_linseed,8,Oil
 fi,4620,Kuitupellava,Flax,3310607000,flax_linseed,0,No specified use
 fi,4810,"Siemenmausteet ja lääkekasvit (pl kumina, sinappi)",Seed spices and medicinal plants (not caraway/mustard),3310612000,aromatic_medicinal_culinary_plants_spices_herbs,9,Seed/Propagation
-fi,4904,Ruokohelpi (kuivike/rehu),reed canary grass (feed),3320201010,elymus,3,Fodder/Forage
-fi,4905,Ruokohelpi (energia),reed canary grass (energy),3320201010,elymus,4,Energy
+fi,4904,Ruokohelpi (kuivike/rehu),reed canary grass (feed),3320209900,other_poaceae_grasses,3,Fodder/Forage
+fi,4905,Ruokohelpi (energia),reed canary grass (energy),3320209900,other_poaceae_grasses,4,Energy
 fi,4913,"Energiapuu, lyhytkiertoinen (haapa ja paju)","Energy wood, short rotation (aspen and willow)",3360000000,tree_wood_forest,4,Energy
 fi,4914,"Energiapuu, lyhytkiert. (hybriidihaapa ja poppeli)","Energy trees, short cycle time (hybrid aspen and poplar)",3360000000,tree_wood_forest,4,Energy
 fi,4930,"Ahdekaunokki, energiantuotantoon",Brown knapweed for energy production,3310617990,other_energy_crops,4,Energy
@@ -3601,7 +3601,7 @@ fr,BLT,Bleuet,Cornflower,3310810000,cornflowers,0,No specified use
 fr,BOP,Bois pâturé,Grazed wood,3360000000,tree_wood_forest,3,Fodder/Forage
 fr,BOR,Bordure de champ,Field margin,3390000000,not_known_and_other,0,No specified use
 fr,BRH,Bourrache de 5 ans ou moins,Borage 5 years or less,3310612090,borage,0,No specified use
-fr,BRO,Brome de 5 ans ou moins,Bromus grass 5 years or less,3320201010,elymus,0,No specified use
+fr,BRO,Brome de 5 ans ou moins,Bromus grass 5 years or less,3320209900,other_poaceae_grasses,0,No specified use
 fr,BTA,Bande tampon,Buffer strip,3390000000,not_known_and_other,0,No specified use
 fr,BTH,Blé tendre d'hiver,Soft winter wheat,3310101001,winter_common_soft_wheat,0,No specified use
 fr,BTN,Betterave non fourragère / Bette,Non-forage beet / Swiss chard,3310719010,sugar_beet,0,No specified use
@@ -3625,13 +3625,13 @@ fr,CGF,Autre céréale de genre Fagopyrum,Other cereal of the genus Fagopyrum,33
 fr,CGH,Autre céréale de genre Phalaris,Other cereal of the genus Phalaris,3320201100,canary_seed_canaryseed,0,No specified use
 fr,CGO,Autre céréale de genre Sorghum,Other cereal of the genus Sorghum,3310116000,sorghum,0,No specified use
 fr,CGP,Autre céréale de genre Panicum,Other cereal of the genus Panicum (millet),3310109000,millet,0,No specified use
-fr,CGS,Autre cereale de genre Setaria,Other cereal of the genus Panicum,3320201060,setaria,0,No specified use
-fr,CHA,Autre céréale d'hiver de genre Avena,Other winter cereal of the genus Avena,3310198001,winter_unspecified_cereals,0,No specified use
+fr,CGS,Autre cereale de genre Setaria,Other cereals of the Setaria genus,3320201060,setaria,0,No specified use
+fr,CHA,Autre céréale d'hiver de genre Avena,Other winter cereal of the genus Avena,3310105001,winter_oats,0,No specified use
 fr,CHF,Chou fourrager,Forage cabbage,3310707000,brassicaceae_cruciferae,0,No specified use
 fr,CHH,Autre céréale d'hiver de genre Hordeum,Other winter cereal of the genus Hordeum,3310104001,winter_barley,0,No specified use
 fr,CHR,Chardon Marie,Milk thistle,3310612400,marian_thistles,0,No specified use
 fr,CHS,Autre céréale d'hiver de genre Secale,Other Secale winter cereal,3310103001,winter_rye,0,No specified use
-fr,CHT,Autre céréale d'hiver de genre Triticum,Other winter cereal of the genus Triticum,3310108001,winter_triticale,0,No specified use
+fr,CHT,Autre céréale d'hiver de genre Triticum,Other winter cereal of the genus Triticum,3310198001,winter_unspecified_cereals,0,No specified use
 fr,CHU,Chou,Cabbage,3310707000,brassicaceae_cruciferae,0,No specified use
 fr,CHV,Chanvre,Hemp,3310610000,hemp_cannabis,0,No specified use
 fr,CIB,Ciboulette,Chive,3310708010,chives,0,No specified use
@@ -3645,12 +3645,12 @@ fr,CPA,Autre céréale de printemps de genre Avena,Other spring cereal of the ge
 fr,CPH,Autre céréale de printemps de genre Hordeum,Other spring cereal of the genus Hordeum,3310104002,spring_barley,0,No specified use
 fr,CPL,Fourrage composé de céréales et/ou de protéagineux (en proportion < 50%) et/ou de légumineuses fourragères (en proportion < 50%),Fodder composed of cereals and / or protein crops (in proportion <50%) and / or fodder legumes (in proportion <50%),3310100000,cereal,3,Fodder/Forage
 fr,CPS,Autre céréale de printemps de genre Secale,Other spring cereal of the genus Secale,3310103002,spring_rye,0,No specified use
-fr,CPT,Autre céréale de printemps de genre Triticum,Other spring cereal of the genus Triticum,3310108002,spring_triticale,0,No specified use
+fr,CPT,Autre céréale de printemps de genre Triticum,Other spring cereal of the genus Triticum,3310198002,spring_unspecified_cereals,0,No specified use
 fr,CPZ,Autre céréale de printemps de genre Zea,Other spring cereal of the genus Zea,3310106000,maize_corn_popcorn,0,No specified use
 fr,CRA,Cresson alénois de 5 ans ou moins,Garden cress 5 years old or less,3310718000,cress,0,No specified use
 fr,CRD,Coriandre,Coriander,3310612150,coriander,0,No specified use
 fr,CRF,Cerfeuil,Chervil,3310612140,chervil,0,No specified use
-fr,CRN,Cornille,Cornille,3310201080,peas,0,No specified use
+fr,CRN,Cornille,Blacked eye bean,3310201010,beans,0,No specified use
 fr,CRS,Cresson,Cress,3310718000,cress,0,No specified use
 fr,CSE,Chanvre sans étiquette conforme,Hemp without conforming label,3310610000,hemp_cannabis,0,No specified use
 fr,CSS,Culture sous serre hors sol,Off-ground cultivation in greenhouse,3350000000,greenhouse_foil_film,0,No specified use
@@ -3658,7 +3658,7 @@ fr,CTG,Châtaigne,Chestnut,3330305000,sweet_chestnuts,0,No specified use
 fr,CUM,Cumin,Cumin,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 fr,CZH,Colza d'hiver,Winter rapeseed,3310604011,winter_rapeseed_rape,0,No specified use
 fr,CZP,Colza de printemps,Spring rapeseed,3310604012,spring_rapeseed_rape,0,No specified use
-fr,DOL,Dolique,cowpea,3310201990,other_dry_pulses,0,No specified use
+fr,DOL,Dolique,cowpea,3310201010,beans,0,No specified use
 fr,DTY,Dactyle de 5 ans ou moins,Dactylis Orchard grass 5 years or less,3320201030,cocksfoot_catgrass,0,No specified use
 fr,EPE,Épeautre,Spelt,3310110000,spelt,0,No specified use
 fr,EPI,Épinard,Spinach,3310717070,spinach,0,No specified use
@@ -3682,7 +3682,7 @@ fr,FVL,Féverole semée avant le 31/05,Faba bean sown before 31 May,3310201010,b
 fr,FVP,Féverole de printemps,Spring beans,3310201010,beans,0,No specified use
 fr,FVT,Feverole semee tardivement (apres le 31/05),Faba bean sown after 31 May,3310201010,beans,0,No specified use
 fr,GAI,Gaillet,Galium,3310612170,galium_bedstraw,0,No specified use
-fr,GES,Gesse,Chickling vetch,3310202050,vetches,0,No specified use
+fr,GES,Gesse,Lathyrus sativus,3310201080,peas,0,No specified use
 fr,GFP,Autre graminée fourragère pure de 5 ans ou moins,Other pure forage grass 5 years or less,3320201000,poaceae_grasses,3,Fodder/Forage
 fr,GRA,Graminée pure exclusivement pour gazon ou pour production de semences certifiées,Pure grass exclusively for turf or certified seed production,3320201070,sod_turf,9,Seed/Propagation
 fr,HAR,Haricot / Flageolet,Bean / Flageolet,3310201010,beans,0,No specified use
@@ -3716,9 +3716,9 @@ fr,LH8,Lupin fourrager d'hiver implanté pour la récolte 2018,Winter forage lup
 fr,LIF,Lin fibres,Linen fibers,3310607000,flax_linseed,7,Fiber
 fr,LIH,Lin non textile d'hiver,Winter non-textile linen,3310607000,flax_linseed,0,No specified use
 fr,LIP,Lin non textile de printemps,Spring non-textile linen,3310607000,flax_linseed,0,No specified use
-fr,LO7,Lotier implanté pour la récolte 2017,Trefoil planted for the 2017 harvest,3310202990,other_legumes_harvested_green,0,No specified use
-fr,LO8,Lotier implanté pour la récolte 2018,Trefoil planted for the 2018 harvest,3310202990,other_legumes_harvested_green,0,No specified use
-fr,LOT,Lotier,Trefoil,3310202990,other_legumes_harvested_green,0,No specified use
+fr,LO7,Lotier implanté pour la récolte 2017,Trefoil planted for the 2017 harvest,3310202080,birdsfoot_treifoil,0,No specified use
+fr,LO8,Lotier implanté pour la récolte 2018,Trefoil planted for the 2018 harvest,3310202080,birdsfoot_treifoil,0,No specified use
+fr,LOT,Lotier,Trefoil,3310202080,birdsfoot_treifoil,0,No specified use
 fr,LP5,Lupin fourrager de printemps implante pour la recolte 2015,Spring forage lupine planted for the 2015 harvest,3310201090,lupins,0,No specified use
 fr,LP6,Lupin fourrager de printemps implanté pour la récolte 2016,Spring forage lupine planted for the 2016 harvest,3310201090,lupins,0,No specified use
 fr,LP7,Lupin fourrager de printemps implanté pour la récolte 2017,Spring forage lupin planted for 2017 harvest,3310201090,lupins,0,No specified use
@@ -3749,11 +3749,11 @@ fr,MEL,Autre mélilot,Other sweet clover,3310202040,melilot,0,No specified use
 fr,MH5,Melange de legumineuses fourrageres preponderantes au semis implantees pour la recolte 2015 et d'herbacees ou de graminees fourrageres,Mixture of forage legumes predominant at seeding planted for the 2015 harvest and herbaceous or forage grasses,3310200000,legumes,3,Fodder/Forage
 fr,MH6,Melange de legumineuses fourrageres preponderantes au semis implantees pour la recolte 2016 et d'herbacees ou de graminees fourrageres,Mixture of forage legumes predominant at seeding planted for the 2016 harvest and herbaceous or forage grasses,3310200000,legumes,3,Fodder/Forage
 fr,MH7,Melange de legumineuses fourrageres,Mixture of forage legumes,3310200000,legumes,0,No specified use
-fr,MI7,Minette implanté pour la récolte 2017,Hop clover Medicago planted for the 2017 harvest,3310202030,clover,0,No specified use
-fr,MI8,Minette implanté pour la récolte 2018,Hop clover Medicago planted for the 2018 harvest,3310202030,clover,0,No specified use
+fr,MI7,Minette implanté pour la récolte 2017,Hop clover Medicago planted for the 2017 harvest,3310202010,alfalfa_lucerne,0,No specified use
+fr,MI8,Minette implanté pour la récolte 2018,Hop clover Medicago planted for the 2018 harvest,3310202010,alfalfa_lucerne,0,No specified use
 fr,MID,Maïs doux,Sweet corn,3310106000,maize_corn_popcorn,0,No specified use
 fr,MIE,Maïs ensilage,Silage Maize,3310106000,maize_corn_popcorn,5,Harvested Green
-fr,MIN,Minette,Hop clover Medicago,3310202030,clover,0,No specified use
+fr,MIN,Minette,Hop clover Medicago,3310202010,alfalfa_lucerne,0,No specified use
 fr,MIS,Maïs,Maize,3310106000,maize_corn_popcorn,6,Harvested as Grains
 fr,ML5,Melange de legumineuses fourrageres implantees pour la recolte 2015 (entre elles),Mixture of forage legumes planted for the 2015 harvest (among themselves),3310200000,legumes,0,No specified use
 fr,ML6,Mélange de légumineuses fourragères implantées pour la récolte 2016 (entre elles),Mixture of forage legumes implanted for the 2016 harvest (among themselves),3310200000,legumes,0,No specified use
@@ -3804,7 +3804,7 @@ fr,PAG,Autre protéagineux d'un autre genre,Other protein crop of another type,3
 fr,PAN,Panais,Parsnip,3310715030,parsnips,0,No specified use
 fr,PAQ,Pâquerette,Daisy,3310813000,daisy_daisies,0,No specified use
 fr,PAS,Pastèque,Watermelon,3310702050,watermelon,0,No specified use
-fr,PAT,Pâturin commun de 5 ans ou moins,Other rough blue-grass 5 years or less,3320201010,elymus,0,No specified use
+fr,PAT,Pâturin commun de 5 ans ou moins,Other rough blue-grass (Poa trivialis) 5 years or less,3320209900,other_poaceae_grasses,0,No specified use
 fr,PCH,Pois chiche,Chickpea,3310201040,chickpeas,0,No specified use
 fr,PCL,Phacélie de 5 ans ou moins,Phacelia 5 years or less,3311300000,phacelia,0,No specified use
 fr,PEP,Pépinière,Nursery,3330700000,nurseries_nursery,0,No specified use
@@ -3863,7 +3863,7 @@ fr,SA6,Sainfoin implanté pour la récolte 2016,Sainfoin planted for the 2016 ha
 fr,SA7,Sainfoin implanté pour la récolte 2017,Sainfoin planted for the 2017 harvest,3310202060,onobrychis_sainfoins,0,No specified use
 fr,SA8,Sainfoin implanté pour la récolte 2018,Sainfoin planted for the 2018 harvest,3310202060,onobrychis_sainfoins,0,No specified use
 fr,SAD,Sainfoin déshydraté,Dehydrated Sainfoin,3310202060,onobrychis_sainfoins,0,No specified use
-fr,SAG,Roselière (récolte de sagnes),Reed beds (harvesting of reeds),3320201010,elymus,0,No specified use
+fr,SAG,Roselière (récolte de sagnes),Reed beds (harvesting of reeds),3320209900,other_poaceae_grasses,0,No specified use
 fr,SAI,Autre sainfoin,Other sainfoin,3310202060,onobrychis_sainfoins,0,No specified use
 fr,SBO,Surface boisée sur une ancienne terre agricole,Wooded area on former agricultural land,3360000000,tree_wood_forest,0,No specified use
 fr,SE5,Serradelle implantee pour la recolte 2015,Serradella planted for the 2015 harvest,3310202020,serradella,0,No specified use
@@ -4223,7 +4223,7 @@ iti1,240,BARBABIETOLA - RAPA ROSSA/BIETOLA DA COSTA,BEET - beetroot/CHARD,331071
 iti1,2402,Oliva da trasformazione,Olive for processing,3330500000,olive,2,Industry/for processing
 iti1,244,TRITORDEUM,TRITORDEUM,3310199000,other_cereals,0,No specified use
 iti1,245,MENTUCCIA,Lesser calamint,3310612220,mints_peppermint,0,No specified use
-iti1,261,AVENA ALTISSIMA,false oat-grass,3320201010,elymus,0,No specified use
+iti1,261,AVENA ALTISSIMA,false oat-grass,3320209900,other_poaceae_grasses,0,No specified use
 iti1,265,FAGIOLO DI SPAGNA,SPANISH BEAN,3310201010,beans,0,No specified use
 iti1,27,CAROTA,CARROT,3310715020,carrots_daucus,0,No specified use
 iti1,270,CAVOLO CINESE,CHINESE CABBAGE,3310707060,chinese_cabbage,0,No specified use
@@ -4286,7 +4286,7 @@ iti1,35,ROSA,ROSE,3310837000,roses,0,No specified use
 iti1,359,FESTUCA  (SP. FESTUCA ARUNDINACEA SCHREB.),Tall fescue,3320201020,festuca_fescue,0,No specified use
 iti1,361,FESTUCA  (SP. FESTUCA PRATENSIS HUDS.),Meadow Fescue,3320201020,festuca_fescue,0,No specified use
 iti1,369,LOIETTO  (SP. LOLIUM X BOUCHEANUM KUNT.),Ryegrass (Lolium x boucheanum),3320201050,lolium_ryegrass,0,No specified use
-iti1,375,POA  (SP. POA PRATENSIS L.),Kentucky Bluegrass,3320201010,elymus,0,No specified use
+iti1,375,POA  (SP. POA PRATENSIS L.),Kentucky Bluegrass,3320209900,other_poaceae_grasses,0,No specified use
 iti1,379,TRIFOGLIO (SP. TRIFOLIUM ALEXANDRINUM L.),Clover (Alexandrian Clover),3310202030,clover,0,No specified use
 iti1,380,PRATI PERMANENTI NATURALI CON VINCOLI AMBIENTALI - TARA 20%,Natural Permanent Grasslands with Environmental Constraints - Tare 20%,3320100000,permanent_grassland,10,Eco-schemes for environment protection
 iti1,381,TRIFOGLIO  (SP. TRIFOLIUM HYBRIDUM L.),Clover (specifically Hybrid Clover),3310202030,clover,0,No specified use
@@ -4319,9 +4319,9 @@ iti1,415,TARASSACO,Dandelion,3310814000,dandelions,0,No specified use
 iti1,416,VALERIANA,VALERIAN,3310612380,valerian,0,No specified use
 iti1,417,VERBENA OFFICINALE,Common Verbena,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 iti1,418,VERGA D'ORO (SOLIDAGO VIRGA AUREA L.),Goldenrod,3310822000,goldenrod,0,No specified use
-iti1,419,VIOLA TRICOLOR,wild pansy,3310899000,other_flowers_ornamental_plants,0,No specified use
-iti1,422,BAMBU,Bamboo,3320201010,elymus,0,No specified use
-iti1,424,BAMBU GIGANTE,Giant Bamboo,3320201010,elymus,0,No specified use
+iti1,419,VIOLA TRICOLOR,wild pansy,3310850000,viola,0,No specified use
+iti1,422,BAMBU,Bamboo,3320209900,other_poaceae_grasses,0,No specified use
+iti1,424,BAMBU GIGANTE,Giant Bamboo,3320209900,other_poaceae_grasses,0,No specified use
 iti1,428,PINO NERO,Black Pine,3360900000,conifers,0,No specified use
 iti1,429,RAFANO,wild radish,3310715040,radish,0,No specified use
 iti1,43,RUSCUS,Butcher's Broom,3330899000,other_shrubs,0,No specified use
@@ -4331,10 +4331,10 @@ iti1,435,LIMETTE,LIMES,3330499000,other_citrus,0,No specified use
 iti1,436,SENAPE BRUNA,BROWN MUSTARD,3310707010,mustard,0,No specified use
 iti1,438,SENAPE NERA,BLACK MUSTARD,3310707010,mustard,0,No specified use
 iti1,445,LAVANDA,LAVENDER,3310612190,lavender_lavandula,0,No specified use
-iti1,446,POA ANNUA,Annual bluegrass,3320201010,elymus,0,No specified use
+iti1,446,POA ANNUA,Annual bluegrass,3320209900,other_poaceae_grasses,0,No specified use
 iti1,447,FUNGHI,MUSHROOMS,3349900000,other_mushrooms,0,No specified use
 iti1,45,SPELTA,SPELT,3310110000,spelt,0,No specified use
-iti1,453,FAGIOLO DALL'OCCHIO,cow pea,3310201990,other_dry_pulses,0,No specified use
+iti1,453,FAGIOLO DALL'OCCHIO,cow pea,3310201010,beans,0,No specified use
 iti1,456,ALOE,ALOE,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 iti1,457,ECHINACEA PALLIDA,ECHINACEA PALLIDA,3310815000,echinacea,0,No specified use
 iti1,458,ECHINACEA ANGUSTIFOLIA,ECHINACEA ANGUSTIFOLIA,3310815000,echinacea,0,No specified use
@@ -4376,8 +4376,8 @@ iti1,503,VIVAI ORTICOLI,HORTICULTURAL NURSERY,3330700000,nurseries_nursery,0,No 
 iti1,505,CAVE DA PIETRA,STONE QUARRIES,3390000000,not_known_and_other,0,No specified use
 iti1,507,PIANTE AROMATICHE E MEDICINALI E SPEZIE,AROMATIC AND MEDICINAL PLANTS AND SPICES,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 iti1,508,PORTULACA O PORCELLANA COMUNE,COMMON PURSLANE,3310710000,purslane,0,No specified use
-iti1,51,LUPOLINA,Black Medic,3310202030,clover,0,No specified use
-iti1,524,CAMELIA,CAMELLIA,3310615000,camelina,0,No specified use
+iti1,51,LUPOLINA,Black Medic,3310202010,alfalfa_lucerne,0,No specified use
+iti1,524,CAMELIA,CAMELLIA,3310899000,other_flowers_ornamental_plants,0,No specified use
 iti1,53,PANICO,foxtail millet,3310109000,millet,0,No specified use
 iti1,535,GERANIO,GERANIUM,3310899000,other_flowers_ornamental_plants,0,No specified use
 iti1,539,CARTAMO,SAFFLOWER,3310839000,safflower,0,No specified use
@@ -4395,7 +4395,7 @@ iti1,557,SERRE,GREENHOUSES,3350000000,greenhouse_foil_film,0,No specified use
 iti1,56,CANAPA,HEMP,3310610000,hemp_cannabis,0,No specified use
 iti1,562,ERBA MEDICA,ALFAFA,3310202010,alfalfa_lucerne,0,No specified use
 iti1,58,RAVIZZONE,RAPESEED,3310604010,rapeseed_rape,0,No specified use
-iti1,581,GINESTRINO,bird's-foot trefoil,3310202990,other_legumes_harvested_green,0,No specified use
+iti1,581,GINESTRINO,bird's-foot trefoil,3310202080,birdsfoot_treifoil,0,No specified use
 iti1,597,GRANO SARACENO,BUCKWHEAT,3310703020,buckwheat,0,No specified use
 iti1,60,CEDRO,CEDAR,3360900000,conifers,0,No specified use
 iti1,607,LEGUMINOSE DA GRANELLA,GRAIN LEGUMES,3310201010,beans,6,Harvested as Grains
@@ -4409,7 +4409,7 @@ iti1,630,ARACHIDE,PEANUT,3310201020,peanuts,0,No specified use
 iti1,646,PIANTE ORNAMENTALI,ORNAMENTAL PLANTS,3310800000,flowers_ornamental_plants,0,No specified use
 iti1,65,PASCOLO POLIFITA,Multifloral Pasture,3320100000,permanent_grassland,3,Fodder/Forage
 iti1,651,COLTIVAZIONI ARBOREE SPECIALIZZATE,SPECIALIZED TREE CROPS,3369900000,other_tree_wood_forest,0,No specified use
-iti1,653,ARUNDO DONAX,Giant Reed,3320201010,elymus,0,No specified use
+iti1,653,ARUNDO DONAX,Giant Reed,3320209900,other_poaceae_grasses,0,No specified use
 iti1,655,ARBORETO CONSOCIABILE (CON COLTIVAZIONI ERBACEE),COMBINABLE ARBORETUM (WITH HERBACEOUS CROPS),3360000000,tree_wood_forest,0,No specified use
 iti1,656,POMODORINO,CHERRY TOMATO,3310714000,tomato,0,No specified use
 iti1,66,CALENDULA,CALENDULA,3310612100,calendula_marigold,0,No specified use
@@ -4458,7 +4458,7 @@ iti1,83,TOPINAMBUR,JERUSALEM ARTICHOKE,3310713000,artichoke,0,No specified use
 iti1,831,ACTINIDIA (KIWI),ACTINIDIA (KIWI),3330107000,kiwi,0,No specified use
 iti1,842,RICINO,Castor oil,3330806000,ricinus_castor,8,Oil
 iti1,862,FIENO GRECO,FENUGREEK,3310201060,fenugreek,0,No specified use
-iti1,88,VIGNA CINESE,Cowpea,3310201990,other_dry_pulses,0,No specified use
+iti1,88,VIGNA CINESE,Cowpea,3310201010,beans,0,No specified use
 iti1,89,PATATA AMERICANA (BATATA),Sweet potato,3310400000,sweet_potatoes,0,No specified use
 iti1,899,PRATO PASCOLO,PASTURE,3320100000,permanent_grassland,3,Fodder/Forage
 iti1,902,ASPARAGO,ASPARAGUS,3310706000,asparagus,0,No specified use
@@ -4608,9 +4608,9 @@ nl,1909,"Aardappelen, consumptie- op kleigrond","Potatoes, consumption on clay s
 nl,1910,"Aardappelen, consumptie- op zand-/veengrond","Potatoes, consumption on sandy/peat soil",3310300000,potatoes,1,Consumption/Fresh
 nl,1911,"Aardappelen, cons. op kleigrond (vroeg, loofver voor 15-07)","Potatoes, cons. on clay soil (early, leaves before 15-07)",3310300000,potatoes,0,No specified use
 nl,1912,"Aardappelen, cons. op zand/veen (vroeg, loofver voor 15-07)","Potatoes, cons. on sand/peat (early, leaves before 15-07)",3310300000,potatoes,0,No specified use
-nl,1914,"Graszaad, overig","Grass seed, other",3320201010,elymus,9,Seed/Propagation
+nl,1914,"Graszaad, overig","Grass seed, other",3320201000,poaceae_grasses,9,Seed/Propagation
 nl,1915,"Graszaad, rietzwenkgras","Grass seed, tall fescue",3320201020,festuca_fescue,9,Seed/Propagation
-nl,1916,"Graszaad, veldbeemd","Grass seed, kentucky bluegrass",3320201010,elymus,9,Seed/Propagation
+nl,1916,"Graszaad, veldbeemd","Grass seed, kentucky bluegrass",3320209900,other_poaceae_grasses,9,Seed/Propagation
 nl,1917,"Graszaad, roodzwenkgras, 1e jaar","Grass seed, red fescue, 1st year",3320201020,festuca_fescue,9,Seed/Propagation
 nl,1918,"Graszaad, roodzwenkgras, overjarig","Grass seed, red fescue, perennial",3320201020,festuca_fescue,9,Seed/Propagation
 nl,1919,"Graszaad, westerwolds","Grass seed, westerwolds ryegrass",3320201050,lolium_ryegrass,9,Seed/Propagation
@@ -4665,7 +4665,7 @@ nl,236,"Gerst, zomer-",barley summer,3310104002,spring_barley,0,No specified use
 nl,237,Rogge (geen snijrogge) ,Rye (not cut rye),3310103000,rye,0,No specified use
 nl,238,Haver ,Oats,3310105000,oats,0,No specified use
 nl,239,"Erwten, groene, droog te oogsten (geen conserven)","Peas, green, dry harvest (no canned)",3310201080,peas,5,Harvested Green
-nl,240,Schokkers,Wrinkled pea,3310201080,peas,0,No specified use
+nl,240,Schokkers,field pea (schokker peas),3310201080,peas,0,No specified use
 nl,241,Kapucijners (en grauwe erwten) ,Capuchins (and gray peas),3310201080,peas,0,No specified use
 nl,242,"Bonen, bruine-",beans brown,3310201010,beans,0,No specified use
 nl,243,"Bonen, veld-(oa duive-, paarde-, wierbonen)(droog te oogsten","Beans, field (including pigeon, horse, weed beans) (can be harvested dry",3310201010,beans,0,No specified use
@@ -4692,7 +4692,7 @@ nl,2629,Struweelrand,thicket edge,3360000000,tree_wood_forest,0,No specified use
 nl,263,"Uien, zilver-",onions silver,3310708040,onions,0,No specified use
 nl,2630,Hakhoutbosje,Coppice grove,3360000000,tree_wood_forest,0,No specified use
 nl,2631,Griendje,Osier belt,3360800000,willows_osiers,0,No specified use
-nl,2633,Rietzoom en klein rietperceel,Reed border and small reed plot with max 20% woody plants,3320201010,elymus,0,No specified use
+nl,2633,Rietzoom en klein rietperceel,Reed border and small reed plot with max 20% woody plants,3320201000,poaceae_grasses,0,No specified use
 nl,2634,Natuurvriendelijke oever,Nature-friendly bank,3390000000,not_known_and_other,0,No specified use
 nl,2636,Leibomen,Espalier trees,3360000000,tree_wood_forest,0,No specified use
 nl,2637,Schurvelingen en zandwallen,planted rampart and sand banks,3390000000,not_known_and_other,0,No specified use
@@ -4753,8 +4753,8 @@ nl,2743,"Kruiden, productie",Herbs production,3310612000,aromatic_medicinal_culi
 nl,2744,"Kruiden, zaden en opkweekmateriaal",Herbs seeds and propagation material,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,9,Seed/Propagation
 nl,2745,"Paksoi, productie",Bok choy production,3310707020,bok_choy_pak_choi,0,No specified use
 nl,2746,"Paksoi, zaden en opkweekmateriaal","Pak choi, seeds and propagation material",3310707020,bok_choy_pak_choi,9,Seed/Propagation
-nl,2747,"Peulen, productie","Pulses, production",3310201010,beans,0,No specified use
-nl,2748,"Peulen, zaden en opkweekmateriaal","Pulses, seeds and propagation material",3310201010,beans,9,Seed/Propagation
+nl,2747,"Peulen, productie","Pulses, production",3310200000,legumes,0,No specified use
+nl,2748,"Peulen, zaden en opkweekmateriaal","Pulses, seeds and propagation material",3310200000,legumes,9,Seed/Propagation
 nl,2749,"Prei, productie","Leek, production",3310708030,leek,0,No specified use
 nl,2750,"Prei, zaden en opkweekmateriaal","Leek, seeds and propagation material",3310708030,leek,9,Seed/Propagation
 nl,2751,"Pronkbonen, productie",Runner beans production,3310201010,beans,0,No specified use
@@ -4849,7 +4849,7 @@ nl,3516,Rietzwenkgras,Tall fescue,3320201020,festuca_fescue,0,No specified use
 nl,3517,Sarepta mosterd/Caliente,Sarepta mustard/Caliente,3310707010,mustard,0,No specified use
 nl,3518,Seradelle,Serradella,3310202020,serradella,0,No specified use
 nl,3519,Soedangras/Sorghum,Sudan grass/Sorghum,3310116000,sorghum,0,No specified use
-nl,3521,Stoppelknollen,Stubble Tubers,3310715050,turnips,0,No specified use
+nl,3521,Stoppelknollen,Autumn turnip (Brassica rapa subsp. rapa subvar. esculenta),3310715050,turnips,0,No specified use
 nl,3522,Timothee,Timothy,3320201090,timothy,0,No specified use
 nl,3523,Veldbeemdgras,Field meadow grass,3320100000,permanent_grassland,0,No specified use
 nl,3524,"Klaver, witte",clover white,3310202030,clover,0,No specified use
@@ -4886,7 +4886,7 @@ nl,516,Miscanthus (olifantsgras) ,Miscanthus (elephant grass),3310617030,miscant
 nl,636,Saffloer,safflower,3310839000,safflower,0,No specified use
 nl,637,Vrouwenmantel,lady's mantle,3310612020,alchemilla_ladys_mantle,0,No specified use
 nl,652,Meekrap,Madder,3310613000,rubia_tinctorum_common_madder,0,No specified use
-nl,6522,Riet,reed,3320201010,elymus,0,No specified use
+nl,6522,Riet,reed,3320201000,poaceae_grasses,0,No specified use
 nl,653,Teunisbloem,evening primrose,3310835000,primrose,0,No specified use
 nl,654,Brandnetel,Nettle,3310612250,nettles,0,No specified use
 nl,655,Zwarte mosterd,black mustard,3310707010,mustard,0,No specified use
@@ -4935,8 +4935,8 @@ nl,6784,"Roodzwenkgras, graszaad","Red fescue, grass seed",3320201020,festuca_fe
 nl,6785,"Roodzwenkgras, groenbemesting, vanggewas","Red fescue, green manure, catch crop",3320201020,festuca_fescue,5,Harvested Green
 nl,6786,"Timothee, graszaad","Timothy, grass seed",3320201090,timothy,9,Seed/Propagation
 nl,6787,"Timothee, groenbemesting, vanggewas","Timothy, green manure, catch crop",3320201090,timothy,5,Harvested Green
-nl,6788,"Veldbeemdgras, graszaad","Kentucky bluegrass, grass seed",3320201010,elymus,9,Seed/Propagation
-nl,6789,"Veldbeemdgras, groenbemesting, vanggewas","Kentucky bluegrass, green manure, catch crop",3320201010,elymus,5,Harvested Green
+nl,6788,"Veldbeemdgras, graszaad","Kentucky bluegrass, grass seed",3320209900,other_poaceae_grasses,9,Seed/Propagation
+nl,6789,"Veldbeemdgras, groenbemesting, vanggewas","Kentucky bluegrass, green manure, catch crop",3320209900,other_poaceae_grasses,5,Harvested Green
 nl,6790,"Westerwolds raaigras, graszaad","westerwold ryegrass, grass seed",3320201050,lolium_ryegrass,9,Seed/Propagation
 nl,6791,"Westerwolds raaigras, groenbemesting, vanggewas","westerwold ryegrass, green manure, catch crop",3320201050,lolium_ryegrass,5,Harvested Green
 nl,6792,Zeekraal,"salicornia (vegetable, feed, biofuel)",3319900000,other_arable_land_crops,0,No specified use
@@ -4958,7 +4958,7 @@ nl,795,Wilgenhakhout,Willow coppice,3360800000,willows_osiers,0,No specified use
 nl,796,Kerstbomen,Christmas trees,3360900000,conifers,0,No specified use
 nl,799,"Klaver, rode",clover red,3310202030,clover,0,No specified use
 nl,800,Rolklaver,Trefoil,3310202990,other_legumes_harvested_green,0,No specified use
-nl,801,Esparcette,esparcette,3310201050,esparsette_onobrychis,0,No specified use
+nl,801,Esparcette,esparcette,3310202060,onobrychis_sainfoins,0,No specified use
 nl,802,"Wikke, bonte",Vetch variegated,3310202050,vetches,0,No specified use
 nl,803,"Wikke, voeder-",vetch feed,3310202050,vetches,3,Fodder/Forage
 nl,804,Klaverzaad,clover seed,3310202030,clover,9,Seed/Propagation
@@ -5062,14 +5062,14 @@ pt,10157,OLIVAL,OLIVE VALLEY,3330500000,olive,0,No specified use
 pt,10165,OUTRAS_CULTURAS_PERMANENTES,Other permanent crops,3330000000,permanent_crops_perennial,0,No specified use
 pt,10166,OUTRAS_FRUTOS_FRESCOS,OTHER FRESH FRUIT,3330100000,orchards_fruits,1,Consumption/Fresh
 pt,10167,OUTRAS_HORTICOLAS,OTHER HORTICULTURAL CROPS,3310000000,arable_crops,0,No specified use
-pt,10168,OUTRAS_LEGUMINOSAS_SECAS,OTHER DRIED VEGETABLES,3310700000,fresh_vegetables,0,No specified use
+pt,10168,OUTRAS_LEGUMINOSAS_SECAS,OTHER_DRY_LEGUMES,3310200000,legumes,0,No specified use
 pt,10169,OUTRAS_OLEAGINOSAS,OTHER OILSEEDS,3310604000,oilseed_crops,8,Oil
 pt,10170,OUTRAS_SUPERFICIES_FLORESTAIS,OTHER FOREST SURFACES,3360000000,tree_wood_forest,0,No specified use
 pt,10176,OUTROS_CEREAIS,OTHER CEREALS,3310198000,unspecified_cereals,0,No specified use
 pt,10177,OUTROS_CITRINOS,OTHER CITRUS FRUIT,3330400000,citrus,0,No specified use
 pt,10178,OUTROS_FRUTOS_SECOS,Other Dried Fruits,3330100000,orchards_fruits,0,No specified use
 pt,10179,OUTROS_FRUTOS_SUB-TROPICAIS,OTHER SUB-TROPICAL FRUITS,3330100000,orchards_fruits,0,No specified use
-pt,10180,OUTROS_PEQUENOS_FRUTOS,OTHER SMALL FRUITS,3330100000,orchards_fruits,0,No specified use
+pt,10180,OUTROS_PEQUENOS_FRUTOS,OTHER SMALL FRUITS,3330200000,berries_berry_species,0,No specified use
 pt,10181,Ocupação por classificar,Unclassified occupation,3390000000,not_known_and_other,0,No specified use
 pt,10182,Olival,OLIVE VALLEY,3330500000,olive,0,No specified use
 pt,10183,Outras Superfícies,Other areas,3390000000,not_known_and_other,0,No specified use
@@ -5137,7 +5137,7 @@ pt,112,NOZ,NUT,3330300000,nuts,0,No specified use
 pt,114,VIME,"Willow (osier, for basketry)",3360800000,willows_osiers,0,No specified use
 pt,115,CHA,Camellia sinensis,3330899000,other_shrubs,0,No specified use
 pt,116,AVELÃ,HAZELNUT,3330302000,hazelnuts_hazel,0,No specified use
-pt,117,OUTROS PEQUENOS FRUTOS,OTHER SMALL FRUITS,3330100000,orchards_fruits,0,No specified use
+pt,117,OUTROS PEQUENOS FRUTOS,Other Berries,3330200000,berries_berry_species,0,No specified use
 pt,118,MARMELO,QUINCE,3330115000,quinces,0,No specified use
 pt,119,NÊSPERA,Loquat (Nespera),3330108000,medlar_loquat,0,No specified use
 pt,123,LIMA,Lime,3330499000,other_citrus,0,No specified use
@@ -5158,7 +5158,7 @@ pt,139,BOSQUETES,groves,3360000000,tree_wood_forest,0,No specified use
 pt,14,FAVA,BEAN,3310201010,beans,0,No specified use
 pt,142,PRADOS TEMPORÁRIOS ,TEMPORARY MEADOWS,3320200000,temporary_grassland,0,No specified use
 pt,143,PASTAGENS PERMANENTES,PERMANENT PASTURES,3320100000,permanent_grassland,3,Fodder/Forage
-pt,148,OUTRAS LEGUMINOSAS SECAS,OTHER DRIED VEGETABLES,3310700000,fresh_vegetables,0,No specified use
+pt,148,OUTRAS LEGUMINOSAS SECAS,OTHER DRIED LEGUMES,3310200000,legumes,0,No specified use
 pt,151,ANONA,Custard apple (also known as cherimoya or sugar apple),3330199000,other_orchards_fruits,0,No specified use
 pt,155,TANGERINA,mandarin orange,3330403000,mandarin,0,No specified use
 pt,156,OUTRAS OLEAGINOSAS,OTHER OILSEEDS,3310604000,oilseed_crops,8,Oil
@@ -5208,9 +5208,9 @@ pt,249,CENOURA,CARROT,3310715020,carrots_daucus,0,No specified use
 pt,250,COURGETTE,COURGETTE,3310702060,zucchini_courgette,0,No specified use
 pt,254,COUVE,CABBAGE,3310707000,brassicaceae_cruciferae,0,No specified use
 pt,26,OUTROS CEREAIS,OTHER CEREALS,3310198000,unspecified_cereals,0,No specified use
-pt,261,TANGERA,Tangerine (Citrus reticulata),3330499000,other_citrus,0,No specified use
+pt,261,TANGERA,Tangelo,3330499000,other_citrus,0,No specified use
 pt,262,SOBREIRO PARA PRODUÇÃO DE CORTIÇA,CORK OAK FOR CORK PRODUCTION,3360600000,oak,0,No specified use
-pt,263,CHUCHU,Chayote Gourd,3310702040,pumpkin_squash_gourd,0,No specified use
+pt,263,CHUCHU,Chayote Gourd,3310702990,other_cucurbits,0,No specified use
 pt,264,COLZA,RAPE,3310604010,rapeseed_rape,0,No specified use
 pt,265,SUPERFÍCIE ARBUSTIVA NÃO PASTOREÁVEL,non-grazable shrub area,3330800000,shrubberries_shrubs,0,No specified use
 pt,266,CONSOCIAÇÃO DE FIXADORAS DE AZOTO,association of nitrogen-fixing plants,3310200000,legumes,11,Nitrogen fixing 
@@ -5221,7 +5221,7 @@ pt,276,MOSTARDA,MUSTARD,3310707010,mustard,0,No specified use
 pt,277,NABIÇA,Turnip greens,3310715050,turnips,0,No specified use
 pt,279,RÚCULA,ARUGULA,3310717050,rocket_arugula,0,No specified use
 pt,280,PASTAGENS ARBUSTIVAS,PASTURE WITH BUSHES,3320100000,permanent_grassland,3,Fodder/Forage
-pt,283,MEDRONHO,COMMON LAND PASTURE,3320100000,permanent_grassland,3,Fodder/Forage
+pt,283,MEDRONHO,Strawberry Tree Fruit,3330199000,other_orchards_fruits,3,Fodder/Forage
 pt,284,PAPAIA,papaya,3330199000,other_orchards_fruits,0,No specified use
 pt,285,FIGO DA INDIA,Prickly pear,3330199000,other_orchards_fruits,0,No specified use
 pt,286,GROSELHA,red currant,3330206020,redcurrant,0,No specified use
@@ -5231,7 +5231,7 @@ pt,289,PANASCO,Dactylis glomerata,3320201030,cocksfoot_catgrass,0,No specified u
 pt,29,CANA DE AÇÚCAR,Sugar cane,3310699000,other_industrial_crops,0,No specified use
 pt,290,BROMUS,Bromus,3320209900,other_poaceae_grasses,0,No specified use
 pt,291,MARALFALFA,MARALFALFA,3320209900,other_poaceae_grasses,0,No specified use
-pt,292,ANAFA,Alfalfa,3310202010,alfalfa_lucerne,0,No specified use
+pt,292,ANAFA,melilot,3310202040,melilot,0,No specified use
 pt,293,ALHO FRANCÊS,FRENCH GARLIC,3310708020,garlic,0,No specified use
 pt,294,TALHADEIRA DE CURTA ROTAÇÃO,Short rotation coppice,3360000000,tree_wood_forest,0,No specified use
 pt,298,MANGA,Mango (Mangifera indica),3330199000,other_orchards_fruits,0,No specified use
@@ -5243,7 +5243,7 @@ pt,302,CULTURAS SEM SOLO,CULTURES WITHOUT SOIL,3390000000,not_known_and_other,0,
 pt,304,TRIGO SPELTA,Spelt Wheat,3310110000,spelt,0,No specified use
 pt,305,ESPINAFRE,SPINACH,3310717070,spinach,0,No specified use
 pt,307,OUTRAS CULTURAS TEMPORÁRIAS,OTHER TEMPORARY CROPS,3310000000,arable_crops,0,No specified use
-pt,308,CARQUEJA,Baccharis trimera,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
+pt,308,CARQUEJA,Genista tridentata,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 pt,309,ESPARGOS,ASPARAGUS,3310706000,asparagus,0,No specified use
 pt,310,GOJI,Goji,3330299000,other_berries_berry_species,0,No specified use
 pt,311,ARAÇÁ,Psidium,3330199000,other_orchards_fruits,0,No specified use
@@ -5251,9 +5251,9 @@ pt,312,PITAIA,Dragon fruit,3330199000,other_orchards_fruits,0,No specified use
 pt,313,PHYSALIS,PHYSALIS,3310799000,other_fresh_vegetables,0,No specified use
 pt,314,QUINOA,QUINOA,3310703030,quinoa,0,No specified use
 pt,315,LENTILHA,Lentil,3310201070,lentils,0,No specified use
-pt,316,CHICHARO,Lathyrus sativus/Lathyrus cicera,3310299000,other_legumes,0,No specified use
+pt,316,CHICHARO,Lathyrus sativus/Lathyrus cicera,3310201080,peas,0,No specified use
 pt,317,BERSIM,Berseem clover (Egyptian clover),3310202030,clover,0,No specified use
-pt,319,FEIJÃO FRADE,Black-eyed bean (cowpea),3310299000,other_legumes,0,No specified use
+pt,319,FEIJÃO FRADE,Black-eyed bean (cowpea),3310201010,beans,0,No specified use
 pt,32,BETERRABA,BEETROOT,3310719000,beta_vulgaris,0,No specified use
 pt,321,CÁRTAMO,Safflower,3310839000,safflower,0,No specified use
 pt,322,BAMBU,Bamboo,3320209900,other_poaceae_grasses,0,No specified use
@@ -5276,7 +5276,7 @@ pt,58,CÂNHAMO,Hemp,3310610000,hemp_cannabis,0,No specified use
 pt,59,ALGODÃO,Cotton,3310603000,cotton,0,No specified use
 pt,6,MILHO,CORN,3310106000,maize_corn_popcorn,0,No specified use
 pt,60,OUTRAS CULTURAS PERMANENTES,OTHER PERMANENT CROPS,3330000000,permanent_crops_perennial,0,No specified use
-pt,67,AZEVEM,lolium,3320201050,lolium_ryegrass,0,No specified use
+pt,67,AZEVEM,Lolium rigidum,3320201050,lolium_ryegrass,0,No specified use
 pt,7,TRITICALE,TRITICALE,3310108000,triticale,6,Harvested as Grains
 pt,724,ELEMENTO LINEAR ARROZ (NÃO ÚTIL-COMP. MAA),Linear element RICE (COMP. MAA),3310107000,rice,0,No specified use
 pt,725,SUPERFICIE NÃO AGRICOLA,Non-agricultural surface,3390000000,not_known_and_other,0,No specified use
@@ -5286,7 +5286,7 @@ pt,81,"PLANTAS AROM., MEDICINAIS E CONDIMENTARES",AROM. MEDICINAL AND CONDIMENTA
 pt,83,OLIVAL ,OLIVE VALLEY,3330500000,olive,0,No specified use
 pt,84,POMARES MISTOS DE FRUTOS FRESCOS,Mixed orchards of fresh fruits,3330100000,orchards_fruits,0,No specified use
 pt,85,FIGO,FIG,3330106000,fig,0,No specified use
-pt,86,OUTROS FRUTOS SECOS,Other Dried Fruits,3330100000,orchards_fruits,0,No specified use
+pt,86,OUTROS FRUTOS SECOS,OTHER DRIED FRUITS,3330100000,orchards_fruits,0,No specified use
 pt,89,POUSIO,FALLOW,3311100000,fallow_land_not_crop,0,No specified use
 pt,9,LINHO,Flax,3310607000,flax_linseed,0,No specified use
 pt,90,OUTRAS HORTÍCOLAS,Other Horticultural Crops,3310000000,arable_crops,0,No specified use
@@ -5676,7 +5676,7 @@ sk,10185,Ringlota,Greengage plums,3330113000,plums,0,No specified use
 sk,10186,Rumanček kamilkový,Chamomile,3310612130,chamomile,0,No specified use
 sk,10187,Ruža jabĺčková,Apple rose,3310837000,roses,0,No specified use
 sk,10188,Ríbezľa,Currants,3330206000,ribes,0,No specified use
-sk,10189,Sida obojpohlavná,Sida dioecious,3310617020,sida_virginia_mallow,0,No specified use
+sk,10189,Sida obojpohlavná,Sida hermaphrodita,3310617020,sida_virginia_mallow,0,No specified use
 sk,10190,Skorocel kopijovitý,Ribwort plantain,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 sk,10191,Slez kŕmny,Chinese Mallow (fodder crop),3310828000,malva,0,No specified use
 sk,10192,Slivka domáca,Domestic plum,3330113000,plums,0,No specified use

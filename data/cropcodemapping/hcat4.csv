@@ -50,7 +50,6 @@ hcat4_code,hcat4_name,seasonality_code,seasonality_name
 3310201020,peanuts,0,NA
 3310201030,soy_soybeans,0,NA
 3310201040,chickpeas,0,NA
-3310201050,esparsette_onobrychis,0,NA
 3310201060,fenugreek,0,NA
 3310201070,lentils,0,NA
 3310201080,peas,0,NA
@@ -63,6 +62,7 @@ hcat4_code,hcat4_name,seasonality_code,seasonality_name
 3310202050,vetches,0,NA
 3310202060,onobrychis_sainfoins,0,NA
 3310202070,galega,0,NA
+3310202080,birdsfoot_treifoil,0,NA
 3310202990,other_legumes_harvested_green,0,NA
 3310299000,other_legumes,0,NA
 3310300000,potatoes,0,NA
@@ -75,7 +75,6 @@ hcat4_code,hcat4_name,seasonality_code,seasonality_name
 3310604010,rapeseed_rape,0,NA
 3310604011,winter_rapeseed_rape,1,winter
 3310604012,spring_rapeseed_rape,2,spring
-3310604013,summer_rapeseed_rape,3,summer
 3310604020,sunflower,0,NA
 3310604030,guizotia_abyssinica_nyger,0,NA
 3310604990,other_oilseed_crops,0,NA
@@ -248,7 +247,6 @@ hcat4_code,hcat4_name,seasonality_code,seasonality_name
 3310848000,thimbles,0,NA
 3310849000,tulips,0,NA
 3310850000,viola,0,NA
-3310851000,violets_pansies,0,NA
 3310852000,zinnias,0,NA
 3310853000,ericaceae_heather,0,NA
 3310899000,other_flowers_ornamental_plants,0,NA
