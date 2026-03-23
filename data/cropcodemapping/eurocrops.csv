@@ -5062,14 +5062,14 @@ pt,10157,OLIVAL,OLIVE VALLEY,3330500000,olive,0,No specified use
 pt,10165,OUTRAS_CULTURAS_PERMANENTES,Other permanent crops,3330000000,permanent_crops_perennial,0,No specified use
 pt,10166,OUTRAS_FRUTOS_FRESCOS,OTHER FRESH FRUIT,3330100000,orchards_fruits,1,Consumption/Fresh
 pt,10167,OUTRAS_HORTICOLAS,OTHER HORTICULTURAL CROPS,3310000000,arable_crops,0,No specified use
-pt,10168,OUTRAS_LEGUMINOSAS_SECAS,OTHER DRIED VEGETABLES,3310700000,fresh_vegetables,0,No specified use
+pt,10168,OUTRAS_LEGUMINOSAS_SECAS,OTHER_DRY_LEGUMES,3310200000,legumes,0,No specified use
 pt,10169,OUTRAS_OLEAGINOSAS,OTHER OILSEEDS,3310604000,oilseed_crops,8,Oil
 pt,10170,OUTRAS_SUPERFICIES_FLORESTAIS,OTHER FOREST SURFACES,3360000000,tree_wood_forest,0,No specified use
 pt,10176,OUTROS_CEREAIS,OTHER CEREALS,3310198000,unspecified_cereals,0,No specified use
 pt,10177,OUTROS_CITRINOS,OTHER CITRUS FRUIT,3330400000,citrus,0,No specified use
 pt,10178,OUTROS_FRUTOS_SECOS,Other Dried Fruits,3330100000,orchards_fruits,0,No specified use
 pt,10179,OUTROS_FRUTOS_SUB-TROPICAIS,OTHER SUB-TROPICAL FRUITS,3330100000,orchards_fruits,0,No specified use
-pt,10180,OUTROS_PEQUENOS_FRUTOS,OTHER SMALL FRUITS,3330100000,orchards_fruits,0,No specified use
+pt,10180,OUTROS_PEQUENOS_FRUTOS,OTHER SMALL FRUITS,3330200000,berries_berry_species,0,No specified use
 pt,10181,Ocupação por classificar,Unclassified occupation,3390000000,not_known_and_other,0,No specified use
 pt,10182,Olival,OLIVE VALLEY,3330500000,olive,0,No specified use
 pt,10183,Outras Superfícies,Other areas,3390000000,not_known_and_other,0,No specified use
@@ -5137,7 +5137,7 @@ pt,112,NOZ,NUT,3330300000,nuts,0,No specified use
 pt,114,VIME,"Willow (osier, for basketry)",3360800000,willows_osiers,0,No specified use
 pt,115,CHA,Camellia sinensis,3330899000,other_shrubs,0,No specified use
 pt,116,AVELÃ,HAZELNUT,3330302000,hazelnuts_hazel,0,No specified use
-pt,117,OUTROS PEQUENOS FRUTOS,OTHER SMALL FRUITS,3330100000,orchards_fruits,0,No specified use
+pt,117,OUTROS PEQUENOS FRUTOS,Other Berries,3330200000,berries_berry_species,0,No specified use
 pt,118,MARMELO,QUINCE,3330115000,quinces,0,No specified use
 pt,119,NÊSPERA,Loquat (Nespera),3330108000,medlar_loquat,0,No specified use
 pt,123,LIMA,Lime,3330499000,other_citrus,0,No specified use
@@ -5158,7 +5158,7 @@ pt,139,BOSQUETES,groves,3360000000,tree_wood_forest,0,No specified use
 pt,14,FAVA,BEAN,3310201010,beans,0,No specified use
 pt,142,PRADOS TEMPORÁRIOS ,TEMPORARY MEADOWS,3320200000,temporary_grassland,0,No specified use
 pt,143,PASTAGENS PERMANENTES,PERMANENT PASTURES,3320100000,permanent_grassland,3,Fodder/Forage
-pt,148,OUTRAS LEGUMINOSAS SECAS,OTHER DRIED VEGETABLES,3310700000,fresh_vegetables,0,No specified use
+pt,148,OUTRAS LEGUMINOSAS SECAS,OTHER DRIED LEGUMES,3310200000,legumes,0,No specified use
 pt,151,ANONA,Custard apple (also known as cherimoya or sugar apple),3330199000,other_orchards_fruits,0,No specified use
 pt,155,TANGERINA,mandarin orange,3330403000,mandarin,0,No specified use
 pt,156,OUTRAS OLEAGINOSAS,OTHER OILSEEDS,3310604000,oilseed_crops,8,Oil
@@ -5208,9 +5208,9 @@ pt,249,CENOURA,CARROT,3310715020,carrots_daucus,0,No specified use
 pt,250,COURGETTE,COURGETTE,3310702060,zucchini_courgette,0,No specified use
 pt,254,COUVE,CABBAGE,3310707000,brassicaceae_cruciferae,0,No specified use
 pt,26,OUTROS CEREAIS,OTHER CEREALS,3310198000,unspecified_cereals,0,No specified use
-pt,261,TANGERA,Tangerine (Citrus reticulata),3330499000,other_citrus,0,No specified use
+pt,261,TANGERA,Tangelo,3330499000,other_citrus,0,No specified use
 pt,262,SOBREIRO PARA PRODUÇÃO DE CORTIÇA,CORK OAK FOR CORK PRODUCTION,3360600000,oak,0,No specified use
-pt,263,CHUCHU,Chayote Gourd,3310702040,pumpkin_squash_gourd,0,No specified use
+pt,263,CHUCHU,Chayote Gourd,3310702990,other_cucurbits,0,No specified use
 pt,264,COLZA,RAPE,3310604010,rapeseed_rape,0,No specified use
 pt,265,SUPERFÍCIE ARBUSTIVA NÃO PASTOREÁVEL,non-grazable shrub area,3330800000,shrubberries_shrubs,0,No specified use
 pt,266,CONSOCIAÇÃO DE FIXADORAS DE AZOTO,association of nitrogen-fixing plants,3310200000,legumes,11,Nitrogen fixing 
@@ -5221,7 +5221,7 @@ pt,276,MOSTARDA,MUSTARD,3310707010,mustard,0,No specified use
 pt,277,NABIÇA,Turnip greens,3310715050,turnips,0,No specified use
 pt,279,RÚCULA,ARUGULA,3310717050,rocket_arugula,0,No specified use
 pt,280,PASTAGENS ARBUSTIVAS,PASTURE WITH BUSHES,3320100000,permanent_grassland,3,Fodder/Forage
-pt,283,MEDRONHO,COMMON LAND PASTURE,3320100000,permanent_grassland,3,Fodder/Forage
+pt,283,MEDRONHO,Strawberry Tree Fruit,3330199000,other_orchards_fruits,3,Fodder/Forage
 pt,284,PAPAIA,papaya,3330199000,other_orchards_fruits,0,No specified use
 pt,285,FIGO DA INDIA,Prickly pear,3330199000,other_orchards_fruits,0,No specified use
 pt,286,GROSELHA,red currant,3330206020,redcurrant,0,No specified use
@@ -5231,7 +5231,7 @@ pt,289,PANASCO,Dactylis glomerata,3320201030,cocksfoot_catgrass,0,No specified u
 pt,29,CANA DE AÇÚCAR,Sugar cane,3310699000,other_industrial_crops,0,No specified use
 pt,290,BROMUS,Bromus,3320209900,other_poaceae_grasses,0,No specified use
 pt,291,MARALFALFA,MARALFALFA,3320209900,other_poaceae_grasses,0,No specified use
-pt,292,ANAFA,Alfalfa,3310202010,alfalfa_lucerne,0,No specified use
+pt,292,ANAFA,melilot,3310202040,melilot,0,No specified use
 pt,293,ALHO FRANCÊS,FRENCH GARLIC,3310708020,garlic,0,No specified use
 pt,294,TALHADEIRA DE CURTA ROTAÇÃO,Short rotation coppice,3360000000,tree_wood_forest,0,No specified use
 pt,298,MANGA,Mango (Mangifera indica),3330199000,other_orchards_fruits,0,No specified use
@@ -5243,7 +5243,7 @@ pt,302,CULTURAS SEM SOLO,CULTURES WITHOUT SOIL,3390000000,not_known_and_other,0,
 pt,304,TRIGO SPELTA,Spelt Wheat,3310110000,spelt,0,No specified use
 pt,305,ESPINAFRE,SPINACH,3310717070,spinach,0,No specified use
 pt,307,OUTRAS CULTURAS TEMPORÁRIAS,OTHER TEMPORARY CROPS,3310000000,arable_crops,0,No specified use
-pt,308,CARQUEJA,Baccharis trimera,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
+pt,308,CARQUEJA,Genista tridentata,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 pt,309,ESPARGOS,ASPARAGUS,3310706000,asparagus,0,No specified use
 pt,310,GOJI,Goji,3330299000,other_berries_berry_species,0,No specified use
 pt,311,ARAÇÁ,Psidium,3330199000,other_orchards_fruits,0,No specified use
@@ -5251,9 +5251,9 @@ pt,312,PITAIA,Dragon fruit,3330199000,other_orchards_fruits,0,No specified use
 pt,313,PHYSALIS,PHYSALIS,3310799000,other_fresh_vegetables,0,No specified use
 pt,314,QUINOA,QUINOA,3310703030,quinoa,0,No specified use
 pt,315,LENTILHA,Lentil,3310201070,lentils,0,No specified use
-pt,316,CHICHARO,Lathyrus sativus/Lathyrus cicera,3310299000,other_legumes,0,No specified use
+pt,316,CHICHARO,Lathyrus sativus/Lathyrus cicera,3310201080,peas,0,No specified use
 pt,317,BERSIM,Berseem clover (Egyptian clover),3310202030,clover,0,No specified use
-pt,319,FEIJÃO FRADE,Black-eyed bean (cowpea),3310299000,other_legumes,0,No specified use
+pt,319,FEIJÃO FRADE,Black-eyed bean (cowpea),3310201010,beans,0,No specified use
 pt,32,BETERRABA,BEETROOT,3310719000,beta_vulgaris,0,No specified use
 pt,321,CÁRTAMO,Safflower,3310839000,safflower,0,No specified use
 pt,322,BAMBU,Bamboo,3320209900,other_poaceae_grasses,0,No specified use
@@ -5276,7 +5276,7 @@ pt,58,CÂNHAMO,Hemp,3310610000,hemp_cannabis,0,No specified use
 pt,59,ALGODÃO,Cotton,3310603000,cotton,0,No specified use
 pt,6,MILHO,CORN,3310106000,maize_corn_popcorn,0,No specified use
 pt,60,OUTRAS CULTURAS PERMANENTES,OTHER PERMANENT CROPS,3330000000,permanent_crops_perennial,0,No specified use
-pt,67,AZEVEM,lolium,3320201050,lolium_ryegrass,0,No specified use
+pt,67,AZEVEM,Lolium rigidum,3320201050,lolium_ryegrass,0,No specified use
 pt,7,TRITICALE,TRITICALE,3310108000,triticale,6,Harvested as Grains
 pt,724,ELEMENTO LINEAR ARROZ (NÃO ÚTIL-COMP. MAA),Linear element RICE (COMP. MAA),3310107000,rice,0,No specified use
 pt,725,SUPERFICIE NÃO AGRICOLA,Non-agricultural surface,3390000000,not_known_and_other,0,No specified use
@@ -5286,7 +5286,7 @@ pt,81,"PLANTAS AROM., MEDICINAIS E CONDIMENTARES",AROM. MEDICINAL AND CONDIMENTA
 pt,83,OLIVAL ,OLIVE VALLEY,3330500000,olive,0,No specified use
 pt,84,POMARES MISTOS DE FRUTOS FRESCOS,Mixed orchards of fresh fruits,3330100000,orchards_fruits,0,No specified use
 pt,85,FIGO,FIG,3330106000,fig,0,No specified use
-pt,86,OUTROS FRUTOS SECOS,Other Dried Fruits,3330100000,orchards_fruits,0,No specified use
+pt,86,OUTROS FRUTOS SECOS,OTHER DRIED FRUITS,3330100000,orchards_fruits,0,No specified use
 pt,89,POUSIO,FALLOW,3311100000,fallow_land_not_crop,0,No specified use
 pt,9,LINHO,Flax,3310607000,flax_linseed,0,No specified use
 pt,90,OUTRAS HORTÍCOLAS,Other Horticultural Crops,3310000000,arable_crops,0,No specified use
