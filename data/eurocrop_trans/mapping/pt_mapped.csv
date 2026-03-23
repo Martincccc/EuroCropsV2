@@ -1,0 +1,314 @@
+nuts,original_code,original_name,translated_name,hcat4_code,hcat4_name,g_tname,dpl_tname,gpt_tname,translation_flag,type_error,Notes,Niche/uncommon name/spelling error/abbreviation,hcat4_name_auto,hcat4_code_auto
+pt,1.0,TRIGO,WHEAT,3310101000,common_soft_wheat,WHEAT,Wheat,Wheat,1.0,,,,common_soft_wheat,3310101000.0
+pt,10002.0,ABOBORAS_E_ABOBORINHAS,PUMPKINS AND COURGETTES,3310702040,pumpkin_squash_gourd,PUMPKINS_AND_PUMPKINS,PUMPKINS_AND_SQUASHES,Pumpkins and Zucchinis,1.0,,,,nettles,3310612250.0
+pt,10005.0,ACEIRO_FLORESTAL,FOREST FIREBREAKS,3360000000,tree_wood_forest,ACEIRO_FLORESTAL,FOREST FIREBREAK,Forest Firebreak,0.0,1.0,,,fig,3330106000.0
+pt,10006.0,AGRIAO,watercress,3310718000,cress,CRESS,AGRIAO,Watercress,0.0,1.0,,,cress,3310718000.0
+pt,10012.0,ALHO_FRANCES,FRENCH GARLIC,3310708020,garlic,GARLIC_FRENCH,GARLIC,Leek,0.0,1.0,,,garlic,3310708020.0
+pt,10021.0,AVELA,HAZELNUT,3330302000,hazelnuts_hazel,HAZELNUT,They appear,Hazelnut,0.0,1.0,,,hazelnuts_hazel,3330302000.0
+pt,10024.0,Aceiros florestais,Forest Firebreaks,3390000000,not_known_and_other,Forest firebreaks,Forest firebreaks,Forest firebreaks,1.0,,,,fig,3330106000.0
+pt,10026.0,BATATA,Potato,3310300000,potatoes,POTATO,Potatoes,Potato,1.0,,,,sweet_potatoes,3310400000.0
+pt,10028.0,BATATA_DOCE,SWEET POTATO,3310400000,sweet_potatoes,SWEET POTATO,SWEET POTATO,Sweet Potato,1.0,,,,sweet_potatoes,3310400000.0
+pt,10033.0,Bosquetes,groves,3360000000,tree_wood_forest,Bosquetes,Groves,Groves,0.0,1.0,,,roses,3310837000.0
+pt,10035.0,CABECEIRAS CULT. PERMANENTES -ÁREA ÚTIL,Headlands of permanent crops - useful area,3390000000,not_known_and_other,CULT HEADBOARDS PERMANENT - USEFUL AREA,CULTURAL HEADBOARDS. PERMANENT - USABLE AREA,Headlands of Permanent Crops – Useful Area,0.0,1.0,,,arable_crops,3310000000.0
+pt,10036.0,CABECEIRAS_CULT_PERMANENTES_AREA_UTIL,Headlands of permanent crops - useful area,3390000000,not_known_and_other,HEADS_CULT_PERMANENTES_AREA_UTIL,HEADBOARDS_CULT_PERMANENT_AREA_UTIL,Headlands of Permanent Crops – Useful Area,0.0,1.0,,,arable_crops,3310000000.0
+pt,10037.0,CANA DE AÇUCAR,Sugar cane,3310699000,other_industrial_crops,SUGAR CANE,SUGAR CANE,Sugarcane,1.0,,,,sugar_beet,3310719010.0
+pt,10039.0,CANA_DE_ACUCAR,Sugar cane,3310699000,other_industrial_crops,SUGAR_CANE,Sugar Cane,Sugarcane,1.0,,,,sugar_beet,3310719010.0
+pt,10040.0,CANHAMO,Hemp,3310610000,hemp_cannabis,HEMP,CANHAMO,Hemp,0.0,1.0,,,hemp_cannabis,3310610000.0
+pt,10050.0,CONS FIXADORAS AZOTO (+ 50% FIX AZOTO),NITROGEN FIXING CROPS (+50% FIXED NITROGEN),3310200000,legumes,NITROGEN FIXING CONS (+ 50% FIX NITROGEN),NITROGEN FIXERS (+ 50% NITROGEN FIX),Nitrogen-fixing Associations (+50% Nitrogen Fixation),1.0,,,,arable_crops,3310000000.0
+pt,10051.0,CONSOCIACAO_DE_FIXADORAS_DE_AZOTO,association of nitrogen-fixing plants,3310200000,legumes,CONSOCIACAO_OF_NITROZO_FIXERS,Association of Nitrogen Fixers,Nitrogen-fixing Associations,1.0,,,,peanuts,3310201020.0
+pt,10052.0,CONSOCIACOES_ANUAIS_E_OUTRAS_CULT_FORRAG_ANUAIS,ANNUAL AND OTHER CULT. FORAGE ANNUALS,3310000000,arable_crops,CONSOCIACOES_ANUAIS_E_OUTRAS_CULT_FORRAG_ANUAIS,ANNUAL ASSOCIATIONS AND OTHER ANNUAL FORAGE CROPS,Annual Associations and Other Annual Forage Crops,0.0,1.0,,,other_cereals,3310199000.0
+pt,10055.0,CONSOCIAÇÕES ANUAIS E OUTRAS CULTURAS FORRAGEIRAS ANUAIS,ANNUAL CROPS AND OTHER ANNUAL FORAGE CROPS,3310000000,arable_crops,ANNUAL CONSOCIATIONS AND OTHER ANNUAL FORAGE CROPS,ANNUAL CROPS AND OTHER ANNUAL FORAGE CROPS,Annual Associations and Other Annual Forage Crops,1.0,,,,arable_crops,3310000000.0
+pt,10057.0,"COURGETTE,FEIJÃO,MORANGO,OUTRAS HORTÍCOLAS,BATATA,BATATA DOCE","Zucchini, Bean, Strawberry, Other Vegetables, Potato, Sweet Potato",3310000000,arable_crops,"COURGETTE, BEANS, STRAWBERRY, OTHER VEGETABLES, POTATOES, SWEET POTATOES","ZUCCHINI, BEANS, STRAWBERRIES, OTHER VEGETABLES, POTATOES, SWEET POTATOES","Zucchini, Beans, Strawberry, Other Vegetables, Potato, Sweet Potato",1.0,,,,other_cereals,3310199000.0
+pt,10061.0,Cabeceiras de Culturas Permanentes,Permanent Crop Headlands,3390000000,not_known_and_other,Headboards for Permanent Crops,Headlands of Permanent Crops,Headlands of Permanent Crops,1.0,,,,permanent_grassland,3320100000.0
+pt,10062.0,Cabeceiras e áreas envolventes,Headlands and surrounding areas,3390000000,not_known_and_other,Headboards and surrounding areas,Headboards and surrounding areas,Headlands and Surrounding Areas,1.0,,,,not_known_and_other,3390000000.0
+pt,10063.0,Culturas Temporárias,Temporary crops,3310000000,arable_crops,Temporary Crops,Temporary Crops,Temporary Crops,1.0,,,,industrial_nonfood_crops,3310600000.0
+pt,10064.0,Culturas frutícolas,Fruit crops,3330100000,orchards_fruits,Fruit crops,Fruit crops,Fruit Crops,1.0,,,,industrial_nonfood_crops,3310600000.0
+pt,10065.0,Culturas protegidas,Protected crops,3310000000,arable_crops,Protected crops,Protected crops,Protected Crops,1.0,,,,industrial_nonfood_crops,3310600000.0
+pt,10066.0,Culturas sem contacto com o solo,Crops without contact with the soil,3390000000,not_known_and_other,Crops without contact with the soil,Soil-free cultures,Crops Without Contact with the Soil,1.0,,,,arable_crops,3310000000.0
+pt,10073.0,ELEMENTO_LINEAR_ARROZ_NAO_UTIL_COMP_MAA,Linear element RICE (COMP. MAA),3310107000,rice,ELEMENTO_LINEAR_RAROZ_NAO_UTIL_COMP_MAA,Linear element rice NAO utility component MAA,Linear Element Rice Non-Useful Component MAA,0.0,1.0,,,rice,3310107000.0
+pt,10074.0,ELEMENTO_LINEAR_EM_ORIZICULTURA_AREA_UTIL,Linear element in rice cultivation - useful area,3310107000,rice,LINEAR_ELEMENT_EM_ORIZICULTURA_AREA_UTIL,LINEAR_ELEMENT_EM_HORIZONTAL_AREA_UTIL,Linear Element in Rice Cultivation – Useful Area,0.0,1.0,,,clementine,3330401000.0
+pt,10075.0,ELEMENTO_LINEAR_SEBE_OU_CORTA_VENTO_AREA_UTIL,Linear element hedge or windbreak,3390000000,not_known_and_other,ELEMENTO_LINEAR_HEDGE_OU_CORTA_VENTO_AREA_UTIL,Linear Element: Seam or Wind-Crossing Useful Area,Linear Element Hedge or Windbreak – Useful Area,0.0,1.0,,,clementine,3330401000.0
+pt,10076.0,ELP Galeria Ripícola,ELP Riparian Gallery,3390000000,not_known_and_other,ELP Ripicultural Gallery,ELP Ripícola Gallery,Riparian Gallery Landscape Element,0.0,1.0,,,rye,3310103000.0
+pt,10077.0,ELP Linha de Água,ELP Water Line,3390000000,not_known_and_other,ELP Water Line,ELP Water Line,Water Line Landscape Element,1.0,,,,asters,3310803000.0
+pt,10078.0,ELP Talude,ELP Slope,3390000000,not_known_and_other,ELP Talude,ELP Farms,Slope Landscape Element,0.0,1.0,,,peas,3310201080.0
+pt,10080.0,EP_BOSQUETE_E_FORMACOES_RELIQUIAIS_AREA_UTIL,EP_FOREST_AND_RELICIAL_FORMATIONS_USEFUL_AREA,3390000000,not_known_and_other,EP_BOSQUETE_E_FORMACOES_RELIQUIAIS_AREA_UTIL,EP_BOSQUETE_AND_RELIC_FORMATIONS_AREA_UTIL,Groves and Relict Formations Landscape Element – Useful Area,0.0,1.0,,,tree_wood_forest,3360000000.0
+pt,10084.0,Elemento Linear Linha de Água,Water Line,3390000000,not_known_and_other,Water Line Linear Element,Linear Element Water Line,Linear Element Water Line,1.0,,,,watermelon,3310702050.0
+pt,10085.0,Elemento Linear Sebe ou Corta-Vento,Linear Hedge or Windbreak,3390000000,not_known_and_other,Linear Element Hedge or Windbreak,Linear Element Hedge or Windbreak,Linear Element Hedge or Windbreak,1.0,,,,lupins,3310201090.0
+pt,10086.0,Elemento Linear em Orizicultura,Linear Element in Rice Cultivation,3310107000,rice,Linear Element in Rice Farming,Linear Element in Rice Farming,Linear Element in Rice Cultivation,1.0,,,,clementine,3330401000.0
+pt,10087.0,Elemento de Paisagem Galeria Ripícola,Riparian Gallery Landscape Element.,3390000000,not_known_and_other,Riparian Gallery Landscape Element,Landscape Element Riparian Gallery,Riparian Gallery Landscape Element,1.0,,,,clementine,3330401000.0
+pt,10088.0,Espaço florestal arborizado,Wooded forest area,3360000000,tree_wood_forest,Wooded forest space,Wooded forest area,Forested Woodland Area,1.0,,,,tree_wood_forest,3360000000.0
+pt,10090.0,FEIJAO,BEAN,3310201010,beans,BEAN,BEANS,Bean,1.0,,,,soy_soybeans,3310201030.0
+pt,10091.0,FEIJÃO,BEAN,3310201010,beans,BEAN,BEANS,Bean,1.0,,,,soy_soybeans,3310201030.0
+pt,10095.0,FIGO_DA_INDIA,Prickly pear,3330199000,other_orchards_fruits,FIGO_DA_INDIA,FIGO_DA_INDIA,Prickly Pear,0.0,3.0,"figo-da-Índia, name of the fruit not plant",3.0,pears,3330112000.0
+pt,10097.0,FLORES_E_PLANTAS_ORNAMENTAIS,ORNAMENTAL FLOWERS AND PLANTS,3310800000,flowers_ornamental_plants,ORNAMENTAL_FLOWERS_AND_PLANTS,FLOWERS_AND_ORNAMENTAL_PLANTS,Flowers and Ornamental Plants,1.0,,,,flowers_ornamental_plants,3310800000.0
+pt,10099.0,GALERIA RIPICOLA,RIPARIAN GALLERY,3390000000,not_known_and_other,RIPICOLA GALLERY,RIPICOLA GALLERY,Riparian Gallery,0.0,1.0,,,rye,3310103000.0
+pt,101.0,VIVEIROS ,NURSERY,3330700000,nurseries_nursery,NURSERY,Nurseries ,Nurseries,1.0,,,,nurseries_nursery,3330700000.0
+pt,10100.0,GALERIA RIPICOLA FLORESTAL,RIPICOLA FLORESTAL GALLERY,3390000000,not_known_and_other,RIPICOLA FLORESTAL GALLERY,FOREST RIPICOLA GALLERY,Forest Riparian Gallery,0.0,1.0,,,celery,3310711000.0
+pt,10104.0,GALERIA_RIPICOLA,RIPARIAN GALLERY,3390000000,not_known_and_other,GALERIA_RIPICOLA,SMALL GALLERY,Riparian Gallery,0.0,1.0,,,rye,3310103000.0
+pt,10105.0,GALERIA_RIPICOLA_AREA_UTIL,GALLERY_RIPICOLA_AREA_UTIL,3390000000,not_known_and_other,GALERIA_RIPICOLA_AREA_UTIL,SMALL GALLERY UTILITY AREA,Riparian Gallery – Useful Area,0.0,1.0,,,viola,3310850000.0
+pt,10106.0,GALERIA_RIPICOLA_FLORESTAL,GALLERY_RIPICOLA_FORESTAL,3390000000,not_known_and_other,GALERIA_RIPICOLA_FLORESTAL,GALERIA_RIPICOLA_FLORESTAL,Forest Riparian Gallery,0.0,1.0,,,viola,3310850000.0
+pt,10109.0,GRAO DE BICO,CHICKPEA,3310201040,chickpeas,CHICKPEA,Degree of Smile,Chickpea,0.0,1.0,,,chickpeas,3310201040.0
+pt,10110.0,GRAO_DE_BICO,CHICKPEA,3310201040,chickpeas,CHICKPEA,Degree of smile,Chickpea,0.0,1.0,,,chickpeas,3310201040.0
+pt,10113.0,Galeria Ripícola em Espaço Florestal,Riparian Gallery in Forest Space,3390000000,not_known_and_other,Riparian Gallery in Espaço Florestal,Riparian Gallery in Forest Area,Riparian Gallery in Forest Area,0.0,1.0,,,tree_wood_forest,3360000000.0
+pt,10115.0,Improdutivo,Unproductive,3370000000,unmaintained,Unproductive,Unproductive,Unproductive,1.0,,,,olive,3330500000.0
+pt,10118.0,LIMAO,LEMON,3330404000,lemons,LEMON,Lemon,Lemon,1.0,,,,lemons,3330404000.0
+pt,10121.0,LINHAS_DE_AGUA_AREA_UTIL,ELEGIBLE LANDSCAPE FEATURES - WATER LINES,3390000000,not_known_and_other,LINHAS_DE_WATER_AREA_UTIL,WATER_LINES_AREA_UTIL,Water Lines – Useful Area,0.0,1.0,,,asters,3310803000.0
+pt,10125.0,MACA,APPLE,3330102000,apples,LITTER,Read,Apple,0.0,3.0,maçã,3.0,apples,3330102000.0
+pt,10126.0,MACICOS_OU_FORMACOES_RELIQUIAIS_OU_NOTAVEIS,MASSIVE_OR_RELIQUIAL_OR_NOTABLE_FORMATIONS,3390000000,not_known_and_other,MACICOS_OU_FORMACOES_RELIQUIAIS_OU_NOTAVEIS,MACICOS_OR_RELIC_OR_NOTABLE_FORMATIONS,Thickets or Relict or Notable Formations,0.0,1.0,,,sorrel,3310717060.0
+pt,10130.0,MARACUJA,Passion fruit,3330199000,other_orchards_fruits,PASSION FRUIT,Witch doctor,Passion Fruit,0.0,1.0,,,peas,3310201080.0
+pt,10134.0,MAÇA,APPLE,3330102000,apples,LITTER,MATCH,Apple,0.0,3.0,maçã,3.0,apples,3330102000.0
+pt,10139.0,MELAO,MELON,3310702030,melon,MELON,Rules,Melon,0.0,1.0,,,melon,3310702030.0
+pt,10145.0,MISTO DE CULTURAS PERMANENTES,Mixed permanent crops,3330000000,permanent_crops_perennial,MIX OF PERMANENT CROPS,MIX OF PERMANENT CROPS,Mixed Permanent Crops,1.0,,,,arable_crops,3310000000.0
+pt,10146.0,MISTO_CULTURAS_PERMANENTES,MIXED PERMANENT CULTURES,3330000000,permanent_crops_perennial,MIXED_PERMANENT_CULTURES,MISTO_PERMANENT_CROPS,Mixed Permanent Crops,1.0,,,,mixed_grains,3310111000.0
+pt,10149.0,Massas de água,Water bodies,3390000000,not_known_and_other,Bodies of water,Water bodies,Water Bodies,1.0,,,,asters,3310803000.0
+pt,10150.0,Misto de culturas permanentes,Mixed permanent crops,3330000000,permanent_crops_perennial,Mix of permanent crops,Mixed permanent crops,Mixed Permanent Crops,1.0,,,,arable_crops,3310000000.0
+pt,10151.0,NABICA,Turnip greens,3310715050,turnips,NABICA,NABICA,Turnip Greens,0.0,3.0,nabiça can also be brassica napus,3.0,turnips,3310715050.0
+pt,10154.0,NESPERA,Loquat (Nespera),3330108000,medlar_loquat,NESPERA,Hopeless,Loquat,0.0,3.0,Nêspera,3.0,peas,3310201080.0
+pt,10157.0,OLIVAL,OLIVE VALLEY,3330500000,olive,OLIVAL,OLIVAL,Olive Grove,0.0,3.0,Olive grove,1.0,olive,3330500000.0
+pt,10165.0,OUTRAS_CULTURAS_PERMANENTES,Other permanent crops,3330000000,permanent_crops_perennial,OTHER_PERMANENT_CROPS,OTHER_PERMANENT_CROPS,Other Permanent Crops,1.0,,,,arable_crops,3310000000.0
+pt,10166.0,OUTRAS_FRUTOS_FRESCOS,OTHER FRESH FRUIT,3330100000,orchards_fruits,OTHER_FRESH_FRUITS,OTHER_FRESH_FRUITS,Other Fresh Fruits,1.0,,,,other_legumes_harvested_green,3310202990.0
+pt,10167.0,OUTRAS_HORTICOLAS,OTHER HORTICULTURAL CROPS,3310000000,arable_crops,OTHER_HORTICOS,OTHER VEGETABLES,Other Vegetables,0.0,1.0,,,arable_crops,3310000000.0
+pt,10168.0,OUTRAS_LEGUMINOSAS_SECAS,OTHER_DRY_LEGUMES,3310200000,legumes,OTHER_DRY_LEGUMES,OTHER_DRY_LEGUMES,OTHER_DRY_LEGUMES,1.0,,,,other_legumes,3310299000.0
+pt,10169.0,OUTRAS_OLEAGINOSAS,OTHER OILSEEDS,3310604000,oilseed_crops,OTHER_OILSEEDS,OTHER_OILSEEDS,Other Oilseeds,1.0,,,,other_legumes_harvested_green,3310202990.0
+pt,10170.0,OUTRAS_SUPERFICIES_FLORESTAIS,OTHER FOREST SURFACES,3360000000,tree_wood_forest,OTHER_FOREST_SUPERFICIES,OTHER_FOREST_AREAS,Other Forest Areas,1.0,,,,other_cereals,3310199000.0
+pt,10176.0,OUTROS_CEREAIS,OTHER CEREALS,3310198000,unspecified_cereals,OTHER_CEREALS,OTHER_CEREALS,Other Cereals,1.0,,,,other_cereals,3310199000.0
+pt,10177.0,OUTROS_CITRINOS,OTHER CITRUS FRUIT,3330400000,citrus,OTHER_CITRUS,OTHER_CITRUS FRUITS,Other Citrus Fruits,1.0,,,,citrus,3330400000.0
+pt,10178.0,OUTROS_FRUTOS_SECOS,Other Dried Fruits,3330100000,orchards_fruits,OTHER_DRY_FRUIT,OTHER_DRY_FRUITS,Other Nuts,0.0,1.0,,,other_legumes_harvested_green,3310202990.0
+pt,10179.0,OUTROS_FRUTOS_SUB-TROPICAIS,OTHER SUB-TROPICAL FRUITS,3330100000,orchards_fruits,OTHER_SUB-TROPICAL_FRUITS,OTHER SUBTROPICAL FRUITS,Other Subtropical Fruits,1.0,,,,other_cereals,3310199000.0
+pt,10180.0,OUTROS_PEQUENOS_FRUTOS,OTHER SMALL FRUITS,3330200000,berries_berry_species,OTHERS_SMALL_FRUITS,OTHER_SMALL_FRUITS,Other Berries,1.0,,,,other_legumes_harvested_green,3310202990.0
+pt,10181.0,Ocupação por classificar,Unclassified occupation,3390000000,not_known_and_other,Occupation to classify,Occupation to be classified,Occupation to Be Classified,1.0,,,,carnation,3310808000.0
+pt,10182.0,Olival,OLIVE VALLEY,3330500000,olive,olive grove,Olival,Olive Grove,0.0,1.0,,,olive,3330500000.0
+pt,10183.0,Outras Superfícies,Other areas,3390000000,not_known_and_other,Other Surfaces,Other Surfaces,Other Areas,1.0,,,,winter_other_cereals,3310199001.0
+pt,10184.0,Outras culturas permanentes,Other permanent crops,3330000000,permanent_crops_perennial,Other permanent crops,Other permanent crops,Other Permanent Crops,1.0,,,,arable_crops,3310000000.0
+pt,10189.0,PASTAGENS_ARBUSTIVAS,PASTURE WITH BUSHES,3320100000,permanent_grassland,ARBUSTIVE_PASTURES,SHRUBBY PASTURES,Shrub Pastures,1.0,,,,peas,3310201080.0
+pt,10190.0,PASTAGENS_PERMANENTES,PERMANENT PASTURES,3320100000,permanent_grassland,PERMANENT_PASTURES,PERMANENT PASTURES,Permanent Pastures,1.0,,,,peas,3310201080.0
+pt,10193.0,PESSEGO,PEACH,3330111000,peach,PEACH,PESSEGO,Peach,0.0,1.0,,,peach,3330111000.0
+pt,10195.0,PINHAO,PINE NUTS,3360900000,conifers,PINION,Pineapple,Pine Nut,0.0,3.0,"Pinhão, pine nuts",3.0,nuts,3330300000.0
+pt,10199.0,PLANTAS_AROM_MEDICINAIS_E_CONDIMENTARES,AROM. MEDICINAL AND CONDIMENTAL PLANTS,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,PLANTAS_AROM_MEDICINAL_E_CONDIMENTARES,"AROMATIC, MEDICINAL, AND SPICE PLANTS","Aromatic, Medicinal and Condiment Plants",0.0,1.0,,,flowers_ornamental_plants,3310800000.0
+pt,102.0,OUTROS FRUTOS SUB-TROPICAIS,OTHER SUB-TROPICAL FRUITS,3330100000,orchards_fruits,OTHER SUB-TROPICAL FRUITS,OTHER SUBTROPICAL FRUITS,Other Subtropical Fruits,1.0,,,,other_cereals,3310199000.0
+pt,10209.0,POVOAMENTO FLORESTAL MISTO,Mixed forest planting,3360000000,tree_wood_forest,MIXED FOREST STANDING,MIXED FOREST STAND,Mixed Forest Stand,1.0,,,,mixed_grains,3310111000.0
+pt,10213.0,POVOAMENTO_AZINHEIRAS,EVERGREEN OAK PLANTATION,3360600000,oak,POVOAMENTO_AZINHEIRAS,POPULATION_HOLM OAKS,Holm Oak Stand,0.0,1.0,,,carnation,3310808000.0
+pt,10214.0,POVOAMENTO_CARVALHO_NEGRAL,BLACK OAK NEGRAL PLANTATION,3360600000,oak,POVOAMENTO_CARVALHO_NEGRAL,BLACK OAK FOREST,Pyrenean Oak Stand,0.0,1.0,,,black_cumin,3310612080.0
+pt,10215.0,POVOAMENTO_CASTANHEIRO,CHESTNUT PLANTATION,3330305000,sweet_chestnuts,POVOAMENTO_CASTANHEIRO,CHESTNUT GROVE,Chestnut Stand,0.0,1.0,,,carnation,3310808000.0
+pt,10216.0,POVOAMENTO_DE_EUCALIPTO,EUCALYPTUS PLANTATION,3360500000,eucalyptus,PEOPLE_OF_EUCALIPTO,EUCALYPTUS PLANTATION,Eucalyptus Stand,0.0,1.0,,,eucalyptus,3360500000.0
+pt,10217.0,POVOAMENTO_DE_PINHEIRO_MANSO,PINE TREES PLANTATION,3360900000,conifers,POVOAMENTO_DE_PINHEIRO_MANSO,POPULATION_OF_PINHEIRO_MANSO,Stone Pine Stand,0.0,3.0,Italian stone pine,1.0,carnation,3310808000.0
+pt,10218.0,POVOAMENTO_DE_SOBREIROS,CORK OAK PLANTATION,3360600000,oak,POVOAMENTO_DE_SOBREIROS,CORK OAK FOREST,Cork Oak Stand,0.0,1.0,,,oak,3360600000.0
+pt,10219.0,POVOAMENTO_F_MISTO,MIXED Forest,3360000000,tree_wood_forest,MIXED_F_Settlement,MIXED_POPULATION_F,Mixed Broadleaf Forest Stand,0.0,3.0,"F possible stands for Folhoso, but mixed forest also works",4.0,winter_mixed_grains,3310111001.0
+pt,10220.0,POVOAMENTO_MISTO_QUERCUS_SOBAZENHCARVAL_NEGRAL,oak MIXED SETTLEMENT (UNDER AZENH.CARVAL/NEGRAL),3360600000,oak,POVOAMENTO_MISTO_QUERCUS_SOBAZENHCARVAL_NEGRAL,MIXED_FOREST_QUERCUS_SOBAZENHCARVAL_NEGRAL,"Mixed Stand of Quercus, Cork Oak and Pyrenean Oak",0.0,1.0,,,mixed_grains,3310111000.0
+pt,10221.0,POVOAMENTO_OUTRAS_FOLHOSAS,OTHER HARDWOOD PLANTATION,3360000000,tree_wood_forest,SETTLEMENT_OTHER_LEAFLETS,POPULATION_OTHER_DECIDUOUS_TREES,Other Broadleaf Stands,0.0,1.0,,,other_cereals,3310199000.0
+pt,10222.0,POVOAMENTO_OUTRAS_RESINOSAS,OTHER CONIFEROUS FORESTS,3360900000,conifers,POVOAMENTO_OUTRAS_RESINOSAS,POPULATION_OTHER_RESINOUS TREES,Other Resinous Stands,0.0,1.0,,,other_cereals,3310199000.0
+pt,10223.0,PPE-AR: Prado e Pastagem Arbustiva,PPE-AR: Meadow and Shrubby Pasture,3320000000,grassland_grass,PPE-AR: Meadow and Shrub Pasture,PPE-AR: Meadow and Shrubby Pasture,PPE-AR: Shrub Meadow and Pasture,1.0,,,,not_known_and_other,3390000000.0
+pt,10224.0,PPE-MX: Pastagem Permanente em Sob Coberto Misto,PPE-MX: Permanent Pasture under Mixed Cover,3320100000,permanent_grassland,PPE-MX: Permanent Pasture under Mixed Cover,PPE-MX: Permanent Pasture under Mixed Cover,PPE-MX: Permanent Pasture under Mixed Cover,1.0,,,,mixed_grains,3310111000.0
+pt,10225.0,PPE-OL: Pastagem Permanente em sob coberto de olival,PPE-OL: Permanent pasture under olive grove cover,3320100000,permanent_grassland,PPE-OL: Permanent Pasture under olive grove cover,PPE-OL: Permanent pasture under olive grove cover,PPE-OL: Permanent Pasture under Olive Grove Cover,1.0,,,,permanent_grassland,3320100000.0
+pt,10226.0,PPE-PL: Prado e Pastagem Permanente Prática Local,PPE-PL: Meadow and Permanent Pasture Local Practice,3320100000,permanent_grassland,PPE-PL: Local Practice Permanent Meadow and Pasture,PPE-PL: Pasture and Permanent Pasture Local Practice,PPE-PL: Meadow and Permanent Pasture – Local Practice,1.0,,,,permanent_grassland,3320100000.0
+pt,10227.0,PPE-PM: Pastagem Permanente em Sob Coberto de Pinheiro Manso ou Castanheiro,PPE-PM: Permanent Pasture under Pine or Chestnut Cover,3320100000,permanent_grassland,PPE-PM: Permanent Pasture Under Stone Pine or Chestnut Cover,PPE-PM: Permanent Pasture under Cover of Stone Pine or Chestnut Trees,PPE-PM: Permanent Pasture under Stone Pine or Chestnut Cover,1.0,,,,permanent_grassland,3320100000.0
+pt,10228.0,PPE-PP: Prado e Pastagem Permanente,PPE-PP: Meadow and Permanent Pasture,3320100000,permanent_grassland,PPE-PP: Meadow and Permanent Pasture,PPE-PP: Meadow and Permanent Pasture,PPE-PP: Meadow and Permanent Pasture,1.0,,,,permanent_grassland,3320100000.0
+pt,10229.0,PPE-QU: Pastagem Permanente em Sob Coberto de Quercíneas,PPE-QU: Permanent Pasture under Quercine Cover,3320100000,permanent_grassland,PPE-QU: Permanent Pasture Under Cover of Quercineas,PPE-QU: Permanent Pasture Under Oak Trees,PPE-QU: Permanent Pasture under Oak Cover,1.0,,,,permanent_grassland,3320100000.0
+pt,10230.0,PRADOS TEMPORÁRIOS,TEMPORARY MEADOWS,3320200000,temporary_grassland,TEMPORARY MEADOWS,TEMPORARY MEADOWS,Temporary Meadows,1.0,,,,rye,3310103000.0
+pt,10231.0,PRADOS_TEMPORARIOS,TEMPORARY MEADOWS,3320200000,temporary_grassland,TEMPORARY_MEDADOWS,TEMPORARY FIELDS,Temporary Meadows,1.0,,,,rye,3310103000.0
+pt,10232.0,Pastagem Permanente,Permanent Pasture,3320100000,permanent_grassland,Permanent Pasture,Permanent Pasture,Permanent Pasture,1.0,,,,peas,3310201080.0
+pt,10233.0,Pastagem Permanente Arbustiva,Shrubby permanent pasture,3320100000,permanent_grassland,Permanent Shrub Pasture,Permanent Shrub Pasture,Shrub Permanent Pasture,1.0,,,,peas,3310201080.0
+pt,10234.0,Pastagem Permanente Prática Local,Permanent Local Pasture,3320100000,permanent_grassland,Local Practical Permanent Pasture,Permanent Pasture Local Practice,Permanent Pasture – Local Practice,1.0,,,,rye,3310103000.0
+pt,10237.0,ROMA,POMEGRANATE,3330114000,pomegranate,POMEGRANATE,ROME,Pomegranate,0.0,1.0,,,pomegranate,3330114000.0
+pt,10239.0,RUTABAGA,Rutabaga,3310715070,swede_rutabaga,RUTABAGA,Potato,Rutabaga,0.0,1.0,,,swede_rutabaga,3310715070.0
+pt,10243.0,SABUGUEIRO_BAGA,ELDERBERRY,3330804000,elder_elderberry,ELDERBERRY_BERRY,ELDERBERRY,Elderberry,1.0,,,,elder_elderberry,3330804000.0
+pt,10246.0,SOBREIRO_PARA_PRODUCAO_DE_CORTICA,CORK OAK FOR CORK PRODUCTION,3360600000,oak,SOBREIRO_PARA_PRODUCAO_DE_CORTICA,Cork for bark production,Cork Oak for Cork Production,0.0,1.0,,,cotton,3310603000.0
+pt,10249.0,SUPERFICIE_ARBUSTIVA_NAO_PASTOREAVEL,non-grazable shrub area,3330800000,shrubberries_shrubs,SUPERFICIE_ARBUSTIVA_NAO_PASTOREAVEL,Non-pasturable shrubland surface,Shrub Area Not Suitable for Grazing,0.0,1.0,,,kale,3310707090.0
+pt,10251.0,Sobcoberto Misto,Mixed Cover Crop,3310000000,arable_crops,Mixed Undercover,Mixed Undercover,Mixed Understory,1.0,,,,clover,3310202030.0
+pt,10252.0,Sobcoberto de Pinheiro Manso ou Castanheiro,Under cover of Stone Pine or Chestnut,3360000000,tree_wood_forest,Stone Pine or Chestnut Undercover,Undergrowth of Pinheiro Manso or Chestnut Tree,Stone Pine or Chestnut Understory,0.0,1.0,,,clover,3310202030.0
+pt,10253.0,Sobcoberto de Quercíneas,Under cover of oak trees,3360600000,oak,Undercover of Quercineas,Under the cover of Quercíneas,Oak Understory,0.0,1.0,,,clover,3310202030.0
+pt,10254.0,Sobreiros destinados à produção de cortiça,Cork oaks destined for cork production.,3360600000,oak,Cork oaks intended for cork production,Cork oak trees intended for cork production,Cork Oaks Intended for Cork Production,1.0,,,,cotton,3310603000.0
+pt,10255.0,Superfície com Vegetação Arbustiva,Surface with Shrub Vegetation,3330800000,shrubberries_shrubs,Surface with Shrub Vegetation,Surface with Shrub Vegetation,Area with Shrub Vegetation,1.0,,,,carnation,3310808000.0
+pt,10256.0,Superfície com árvores de espécie a identificar,Surface with trees of unidentified species,3360000000,tree_wood_forest,Surface with trees of species to be identified,Area with trees of species to be identified,Area with Trees of Unidentified Species,1.0,,,,berries_berry_species,3330200000.0
+pt,10257.0,Superfícies em produção não elegíveis,Ineligible production surfaces,3390000000,not_known_and_other,Ineligible production surfaces,Ineligible production areas,Non-Eligible Production Areas,1.0,,,,cress,3310718000.0
+pt,10264.0,TREMOCO,LUPIN,3310201090,lupins,LUPINE,tremble,Lupin,0.0,1.0,,,lupins,3310201090.0
+pt,10270.0,Talude ou muro de suporte da vinha,Slope or vineyard support wall,3330600000,vineyards_wine_vine_rebland_grapes,Slope or support wall for the vineyard,Slope or retaining wall of the vineyard,Slope or Retaining Wall of the Vineyard,1.0,,,,peas,3310201080.0
+pt,10272.0,VINHA,VINEYARD,3330600000,vineyards_wine_vine_rebland_grapes,VINEYARD,VINEYARD,Vineyard,1.0,,,,vineyards_wine_vine_rebland_grapes,3330600000.0
+pt,10273.0,VIVEIROS,NURSERY,3330700000,nurseries_nursery,NURSERY,Nurseries,Nurseries,1.0,,,,nurseries_nursery,3330700000.0
+pt,10274.0,Vias,Roads,3390000000,not_known_and_other,Ways,Ways,Roads,0.0,1.0,,,radish,3310715040.0
+pt,10275.0,Vinha,Vineyards,3330600000,vineyards_wine_vine_rebland_grapes,vineyard,Vineyard,Vineyard,1.0,,,,vineyards_wine_vine_rebland_grapes,3330600000.0
+pt,10276.0,Zonas Húmidas,Wetlands,3390000000,not_known_and_other,Wetlands,Wetlands,Wetlands,1.0,,,,gentians,3310820000.0
+pt,10277.0,Zonas Húmidas ou Turfeiras,Wetlands or Peatlands,3390000000,not_known_and_other,Wetlands or Peatlands,Wetlands or Peatlands,Wetlands or Peatlands,1.0,,,,peas,3310201080.0
+pt,10278.0,Zonas de Protecção / Conservação,Protection / Conservation Zones,3390000000,not_known_and_other,Protection / Conservation Zones,Protection/Conservation Areas,Protection / Conservation Areas,1.0,,,,conifers,3360900000.0
+pt,10279.0,Área social,Social area,3390000000,not_known_and_other,Social area,Social area,Social Area,1.0,,,,peas,3310201080.0
+pt,103.0,BATATA ,POTATO,3310300000,potatoes,POTATO,Potatoes ,Potato,1.0,,,,sweet_potatoes,3310400000.0
+pt,105.0,MAÇÃ,APPLE,3330102000,apples,LITTER,APPLE,Apple,0.0,1.0,,,apples,3330102000.0
+pt,106.0,CEREJA,CHERRY,3330104000,cherry_cherries,CHERRY,CHERRY,Cherry,1.0,,,,cherry_cherries,3330104000.0
+pt,107.0,DAMASCO,apricot,3330103000,apricots,DAMASCUS,DAMASCUS,Apricot,0.0,3.0,Fruit name shared with Damascus,1.0,apricots,3330103000.0
+pt,108.0,AMEIXA,PLUM,3330113000,plums,PLUM,Clam,Plum,0.0,1.0,,,plums,3330113000.0
+pt,109.0,AMENDOA,ALMOND,3330301000,almond,ALMOND,Olive,Almond,0.0,1.0,,,almond,3330301000.0
+pt,110.0,CASTANHA,CASTANIA,3330305000,sweet_chestnuts,BRUNETTE,Chestnut,Chestnut,0.0,1.0,,,catnip,3310612120.0
+pt,111.0,ALFARROBA,Carob (Algaroba),3330901000,carob,CAROB,CAROB,Carob,1.0,,,,carob,3330901000.0
+pt,112.0,NOZ,NUT,3330300000,nuts,WALNUT,Night,Walnut,0.0,1.0,,,peanuts,3310201020.0
+pt,114.0,VIME,"Willow (osier, for basketry)",3360800000,willows_osiers,WICKER,VIME,Wicker,0.0,3.0,"Wicker, not a plant name but the method of weaving",2.0,willows_osiers,3360800000.0
+pt,115.0,CHA,Camellia sinensis,3330899000,other_shrubs,TEA,No,Tea,0.0,1.0,,,camelina,3310615000.0
+pt,116.0,AVELÃ,HAZELNUT,3330302000,hazelnuts_hazel,HAZELNUT,HAZELNUT,Hazelnut,1.0,,,,hazelnuts_hazel,3330302000.0
+pt,117.0,OUTROS PEQUENOS FRUTOS,Other Berries,3330200000,berries_berry_species,OTHER SMALL FRUITS,OTHER SMALL FRUITS,Other Berries,0.0,1.0,,,other_berries_berry_species,3330299000.0
+pt,118.0,MARMELO,QUINCE,3330115000,quinces,QUINCE,Marmelade,Quince,0.0,1.0,,,quinces,3330115000.0
+pt,119.0,NÊSPERA,Loquat (Nespera),3330108000,medlar_loquat,MEDLAR,NÊSPERA,Loquat,0.0,1.0,,,peas,3310201080.0
+pt,123.0,LIMA,Lime,3330499000,other_citrus,FILE,FIVE,Lime,0.0,3.0,Lime,1.0,galium_bedstraw,3310612170.0
+pt,124.0,KIWI,Kiwi,3330107000,kiwi,KIWI,New Zealand,Kiwi,0.0,1.0,,,kiwi,3330107000.0
+pt,125.0,GALERIA RIPÍCOLA,RIPARIAN GALLERY,3390000000,not_known_and_other,RIPICOLA GALLERY,RIPÍCOLA GALLERY,Riparian Gallery,0.0,1.0,,,rye,3310103000.0
+pt,127.0,BATATA DOCE,SWEET POTATO,3310400000,sweet_potatoes,SWEET POTATO,SWEET POTATO,Sweet Potato,1.0,,,,sweet_potatoes,3310400000.0
+pt,128.0,INHAME,Taro (Colocasia esculenta),3310715990,other_root_vegetables,YAM,YAM,Yam,1.0,,,,oats,3310105000.0
+pt,13.0,ERVILHA,PEA,3310201080,peas,PEA,PEA,Pea,1.0,,,,peanuts,3310201020.0
+pt,130.0,AMENDOIM,PEANUT,3310201020,peanuts,PEANUT,PEANUT,Peanut,1.0,,,,peanuts,3310201020.0
+pt,131.0,MEDRONHEIRO,Strawberry Tree,3330199000,other_orchards_fruits,MEDRONHEIRO,MEDRONHEIRO,Strawberry Tree,0.0,3.0,Strawberry Tree,1.0,strawberries,3310701000.0
+pt,132.0,ANANÁS,Pineapple,3330199000,other_orchards_fruits,ANANAS,PINEAPPLE,Pineapple,0.0,1.0,,,apples,3330102000.0
+pt,133.0,BANANA,Banana,3330199000,other_orchards_fruits,BANANA,Girls,Banana,0.0,1.0,,,hemp_cannabis,3310610000.0
+pt,134.0,PISTACIOS,PISTACES,3330304000,pistachio,PISTACIOS,Pistachios,Pistachios,0.0,1.0,,,pistachio,3330304000.0
+pt,135.0,PINHÃO,PINE NUTS,3360900000,conifers,PINION,PINHÃO,Pine Nut,0.0,3.0,Pinenut correct spelling,1.0,nuts,3330300000.0
+pt,136.0,ABACATE,AVOCADO,3330116000,avocado,AVOCADO,AVOCADO,Avocado,1.0,,,,avocado,3330116000.0
+pt,137.0,BERINGELA,EGGPLANT,3310712000,aubergine_eggplant,EGGPLANT,EGGPLANT,Eggplant,1.0,,,,aubergine_eggplant,3310712000.0
+pt,139.0,BOSQUETES,groves,3360000000,tree_wood_forest,WOODS,Groves,Groves,0.0,1.0,,,roses,3310837000.0
+pt,14.0,FAVA,BEAN,3310201010,beans,FAVA,Broad bean,Broad Bean,1.0,,,,soy_soybeans,3310201030.0
+pt,142.0,PRADOS TEMPORÁRIOS ,TEMPORARY MEADOWS,3320200000,temporary_grassland,TEMPORARY MEADOWS,TEMPORARY MEADOWS ,Temporary Meadows,1.0,,,,rye,3310103000.0
+pt,143.0,PASTAGENS PERMANENTES,PERMANENT PASTURES,3320100000,permanent_grassland,PERMANENT PASTURES,PERMANENT PASTURES,Permanent Pastures,1.0,,,,peas,3310201080.0
+pt,148.0,OUTRAS LEGUMINOSAS SECAS,OTHER DRIED LEGUMES,3310200000,legumes,OTHER DRIED LEGUMES,OTHER DRY LEGUMES,Other Dry Legumes,1.0,,,,other_legumes,3310299000.0
+pt,151.0,ANONA,Custard apple (also known as cherimoya or sugar apple),3330199000,other_orchards_fruits,ANONA,Why,Cherimoya,0.0,3.0,Custard apple,1.0,sugar_beet,3310719010.0
+pt,155.0,TANGERINA,mandarin orange,3330403000,mandarin,TANGERINE,TANGERINE,Tangerine,1.0,,,,orange,3330402000.0
+pt,156.0,OUTRAS OLEAGINOSAS,OTHER OILSEEDS,3310604000,oilseed_crops,OTHER OILSEEDS,OTHER OILSEEDS,Other Oilseeds,0.0,1.0,,,other_legumes_harvested_green,3310202990.0
+pt,157.0,OUTROS CITRINOS,OTHER CITRUS FRUIT,3330400000,citrus,OTHER CITRUS FRUIT,OTHER CITRUS FRUITS,Other Citrus Fruits,1.0,,,,citrus,3330400000.0
+pt,161.0,MISTO CULTURAS PERMANENTES,MIXED PERMANENT CULTURES,3330000000,permanent_crops_perennial,MIXED PERMANENT CROPS,MIXED PERMANENT CROPS,Mixed Permanent Crops,0.0,1.0,,,mixed_grains,3310111000.0
+pt,162.0,POVOAMENTO DE SOBREIROS,CORK OAK PLANTATION,3360600000,oak,CORK OAK PEOPLE,CORK OAK FOREST,Cork Oak Stand,0.0,1.0,,,oak,3360600000.0
+pt,163.0,POVOAMENTO AZINHEIRAS,EVERGREEN OAK PLANTATION,3360600000,oak,AZINHEIRAS SETTLEMENT,HOLM OAK FOREST,Holm Oak Stand,0.0,1.0,,,carnation,3310808000.0
+pt,164.0,POVOAMENTO CARVALHO NEGRAL,BLACK OAK NEGRAL PLANTATION,3360600000,oak,CARVALHO NEGRAL SETTLEMENT,BLACK OAK FOREST,Pyrenean Oak Stand,0.0,1.0,,,black_cumin,3310612080.0
+pt,165.0,POVOAMENTO MISTO QUERCUS(SOB.AZENH.CARVAL/NEGRAL),oak MIXED SETTLEMENT (UNDER AZENH.CARVAL/NEGRAL),3360600000,oak,QUERCUS MIXED SETTLEMENT (SOB.AZENH.CARVAL/NEGRAL),MIXED QUERCUS FOREST (SOB.AZENH.CARVAL/NEGRAL),"Mixed Stand of Quercus (Cork Oak, Holm Oak, Pyrenean Oak)",1.0,,,,mixed_grains,3310111000.0
+pt,166.0,POVOAMENTO CASTANHEIRO,CHESTNUT PLANTATION,3330305000,sweet_chestnuts,CASTANHEIRO SETTLEMENT,CHESTNUT GROVE,Chestnut Stand,0.0,1.0,,,carnation,3310808000.0
+pt,167.0,POVOAMENTO OUTRAS FOLHOSAS,OTHER HARDWOOD PLANTATION,3360000000,tree_wood_forest,STANDING OTHER HARDWOODS,OTHER DECIDUOUS TREES,Other Broadleaf Stands,0.0,1.0,,,other_cereals,3310199000.0
+pt,168.0,POVOAMENTO DE PINHEIRO MANSO,PINE TREES PLANTATION,3360900000,conifers,STOCK PINE STANDING,PINHEIRO MANSO SETTLEMENT,Stone Pine Stand,0.0,1.0,,,carnation,3310808000.0
+pt,169.0,POVOAMENTO OUTRAS RESINOSAS,OTHER CONIFEROUS FORESTS,3360900000,conifers,SETTLEMENT OF OTHER RESINOUS,OTHER RESINOUS TREES,Other Resinous Stands,1.0,,,,other_cereals,3310199000.0
+pt,17.0,GIRASSOL,SUNFLOWER,3310604020,sunflower,SUNFLOWER,SUNFLOWER,Sunflower,1.0,,,,sunflower,3310604020.0
+pt,170.0,POVOAMENTO F MISTO,MIXED Forest,3360000000,tree_wood_forest,MIXED SETTLEMENT F,MIXED FOREST,Mixed Forest Stand,0.0,1.0,,,winter_mixed_grains,3310111001.0
+pt,173.0,ACEIRO FLORESTAL,FOREST FIREBREAKS,3360000000,tree_wood_forest,FOREST ACEIRO,FOREST FIREBREAK,Forest Firebreak,0.0,1.0,,,fig,3330106000.0
+pt,174.0,OUTRAS SUPERFÍCIES FLORESTAIS,OTHER FOREST SURFACES,3360000000,tree_wood_forest,OTHER FOREST SURFACES,OTHER FOREST AREAS,Other Forest Areas,1.0,,,,other_cereals,3310199000.0
+pt,18.0,SOJA,SOY,3310201030,soy_soybeans,SOY,Soldier,Soybean,0.0,1.0,,,soy_soybeans,3310201030.0
+pt,190.0,MACIÇOS OU FORMAÇÕES RELIQUIAIS OU NOTÁVEIS,Massifs or Relict or Notable Formations,3390000000,not_known_and_other,MASSIVES OR RELIQUIAL OR NOTABLE FORMATIONS,MASSIFS OR RELIC OR NOTABLE FORMATIONS,Massifs or Relict or Notable Formations,1.0,,,,sorrel,3310717060.0
+pt,195.0,OUTRAS FRUTOS FRESCOS,OTHER FRESH FRUIT,3330100000,orchards_fruits,OTHER FRESH FRUITS,OTHER FRESH FRUITS,Other Fresh Fruits,1.0,,,,other_legumes_harvested_green,3310202990.0
+pt,201.0,AMORA,BLACKBERRY,3330202010,blackberry,BLACKBERRY,Love,Blackberry,0.0,1.0,,,blackberry,3330202010.0
+pt,202.0,MIRTILO,BLUEBERRY,3330204010,blueberry,BLUEBERRY,BLUEBERRY,Blueberry,1.0,,,,blueberry,3330204010.0
+pt,203.0,FRAMBOESA,RASPBERRY,3330202020,raspberry_raspberries,RASPBERRY,RASPBERRY,Raspberry,1.0,,,,raspberry_raspberries,3330202020.0
+pt,204.0,MORANGO,STRAWBERRY,3310701000,strawberries,STRAWBERRY,STRAWBERRY,Strawberry,1.0,,,,strawberries,3310701000.0
+pt,205.0,MELÃO,MELON,3310702030,melon,MELON,MELON,Melon,1.0,,,,melon,3310702030.0
+pt,208.0,DIOSPIRO,Persimmon,3330199000,other_orchards_fruits,PERSIMMON,DIOSPIRO,Persimmon,0.0,1.0,,,pears,3330112000.0
+pt,209.0,ROMÃ,POMEGRANATE,3330114000,pomegranate,POMEGRANATE,POMEGRANATE,Pomegranate,1.0,,,,pomegranate,3330114000.0
+pt,210.0,POVOAMENTO DE EUCALIPTO,EUCALYPTUS PLANTATION,3360500000,eucalyptus,EUCALYPTUS STANDING,EUCALYPTUS PLANTATION,Eucalyptus Stand,1.0,,,,eucalyptus,3360500000.0
+pt,211.0,GINJA,sour cherry,3330104000,cherry_cherries,GINJA,GINJA,Sour Cherry,0.0,3.0,sour cherry,1.0,rye,3310103000.0
+pt,223.0,SABUGUEIRO (BAGA),ELDERBERRY,3330804000,elder_elderberry,ELDERBERRY (BERRY),ELDERBERRY (BERRY),Elderberry (Berry),1.0,,,,elder_elderberry,3330804000.0
+pt,23.0,MILHO DOCE,Sweet corn,3310106000,maize_corn_popcorn,SWEET CORN,SWEET CORN,Sweet Corn,1.0,,,,maize_corn_popcorn,3310106000.0
+pt,230.0,FEIJÃO ,BEAN,3310201010,beans,BEAN,BEANS ,Bean,1.0,,,,soy_soybeans,3310201030.0
+pt,231.0,MELANCIA,WATERMELON,3310702050,watermelon,WATERMELON,WATERMELON,Watermelon,1.0,,,,watermelon,3310702050.0
+pt,232.0,MELOA,melon,3310702030,melon,MELONA,The sun is shining,Melon,0.0,1.0,,,melon,3310702030.0
+pt,233.0,NABO,TURNIP,3310715050,turnips,TURNIP,And they,Turnip,0.0,1.0,,,turnips,3310715050.0
+pt,234.0,PEPINO,CUCUMBER,3310702010,cucumber_pickle,CUCUMBER,CUCUMBER,Cucumber,1.0,,,,cucumber_pickle,3310702010.0
+pt,236.0,RABANETE,Radish,3310715040,radish,RADISH,RADISH,Radish,1.0,,,,radish,3310715040.0
+pt,237.0,RÁBANO,RADISH,3310715060,horseradish,HORSENDER,RADISH,Horseradish,0.0,1.0,,,radish,3310715040.0
+pt,24.0,ARROZ,RICE,3310107000,rice,RICE,RICE,Rice,1.0,,,,rice,3310107000.0
+pt,240.0,TREMOCILHA,Lupinus luteus,3310201090,lupins,TREMOCILLA,WIRE MESH,White Lupin,0.0,3.0,Yellow lupin,1.0,lupins,3310201090.0
+pt,241.0,ABÓBORAS E ABOBORINHAS,PUMPKINS AND COURGETTES,3310702040,pumpkin_squash_gourd,PUMPKINS AND PUMPKINS,PUMPKINS AND SQUASHES,Pumpkins and Zucchinis,1.0,,,,nettles,3310612250.0
+pt,242.0,AGRIÃO,watercress,3310718000,cress,CRESS,WATERCRESS,Watercress,1.0,,,,cress,3310718000.0
+pt,244.0,ALFACE,LETTUCE,3310717000,salads_lettuce_leaf_vegetables,LETTUCE,LETTUCE,Lettuce,1.0,,,,salads_lettuce_leaf_vegetables,3310717000.0
+pt,245.0,ALHO,GARLIC,3310708020,garlic,GARLIC,GARLIC,Garlic,1.0,,,,garlic,3310708020.0
+pt,248.0,CEBOLA,ONION,3310708040,onions,ONION,ONION,Onion,1.0,,,,onions,3310708040.0
+pt,249.0,CENOURA,CARROT,3310715020,carrots_daucus,CARROT,CARROT,Carrot,1.0,,,,carrots_daucus,3310715020.0
+pt,250.0,COURGETTE,COURGETTE,3310702060,zucchini_courgette,COURGETTE,ZUCCHINI,Zucchini,1.0,,,,zucchini_courgette,3310702060.0
+pt,254.0,COUVE,CABBAGE,3310707000,brassicaceae_cruciferae,CABBAGE,COUVE,Cabbage,0.0,1.0,,,chinese_cabbage,3310707060.0
+pt,26.0,OUTROS CEREAIS,OTHER CEREALS,3310198000,unspecified_cereals,OTHER CEREALS,OTHER CEREALS,Other Cereals,1.0,,,,other_cereals,3310199000.0
+pt,261.0,TANGERA,Tangelo,3330499000,other_citrus,TANGERA,TANGERA,Tangerine,0.0,3.0,tângera,3.0,mangelwurzel_beets,3310719020.0
+pt,262.0,SOBREIRO PARA PRODUÇÃO DE CORTIÇA,CORK OAK FOR CORK PRODUCTION,3360600000,oak,CORK OAK FOR CORK PRODUCTION,CORK OAK FOR CORK PRODUCTION,Cork Oak for Cork Production,1.0,,,,cotton,3310603000.0
+pt,263.0,CHUCHU,Chayote Gourd,3310702990,other_cucurbits,CHUCHU,Mama,Chayote,0.0,3.0,Chayote Gourd,1.0,pumpkin_squash_gourd,3310702040.0
+pt,264.0,COLZA,RAPE,3310604010,rapeseed_rape,COOLZA,RAPESEED,Rapeseed,0.0,1.0,,,rapeseed_rape,3310604010.0
+pt,265.0,SUPERFÍCIE ARBUSTIVA NÃO PASTOREÁVEL,non-grazable shrub area,3330800000,shrubberries_shrubs,NON-GRAZABLE SHRUBBY SURFACE,UNPASTURABLE SCRUB LAND,Shrub Area Not Suitable for Grazing,1.0,,,,kale,3310707090.0
+pt,266.0,CONSOCIAÇÃO DE FIXADORAS DE AZOTO,association of nitrogen-fixing plants,3310200000,legumes,CONSOCIATION OF NITROGEN FIXERS,ASSOCIATION OF NITROGEN FASTENERS,Nitrogen-Fixing Association,1.0,,,,peanuts,3310201020.0
+pt,267.0,CONSOCIAÇÕES ANUAIS E OUTRAS CULT. FORRAG. ANUAIS,ANNUAL AND OTHER CULT. FORAGE ANNUALS,3310000000,arable_crops,ANNUAL CONSOCIATIONS AND OTHER CULTS. FORRAG. ANNUAL,ANNUAL ASSOCIATIONS AND OTHER ANNUAL FORAGE CROPS,Annual Associations and Other Annual Forage Crops,1.0,,,,other_cereals,3310199000.0
+pt,268.0,GALERIA RIPÍCOLA FLORESTAL,FOREST RIPELINE GALLERY,3390000000,not_known_and_other,RIPICUL FOREST GALLERY,FOREST RIPICOLE GALLERY,Forest Riparian Gallery,0.0,1.0,,,rye,3310103000.0
+pt,269.0,MARACUJÁ,Passion fruit,3330199000,other_orchards_fruits,PASSION FRUIT,PASSION FRUIT,Passion Fruit,1.0,,,,peas,3310201080.0
+pt,276.0,MOSTARDA,MUSTARD,3310707010,mustard,MUSTARD,MUSTARD,Mustard,1.0,,,,mustard,3310707010.0
+pt,277.0,NABIÇA,Turnip greens,3310715050,turnips,NABIÇA,NABIÇA,Turnip Greens,0.0,3.0,Brassica Rapa or Brassica Napus correct spelling,1.0,turnips,3310715050.0
+pt,279.0,RÚCULA,ARUGULA,3310717050,rocket_arugula,ARUGULA,ROCKET,Arugula,1.0,,,,rocket_arugula,3310717050.0
+pt,280.0,PASTAGENS ARBUSTIVAS,PASTURE WITH BUSHES,3320100000,permanent_grassland,BUSHED PASTURES,SHRUBBY PASTURES,Shrub Pastures,1.0,,,,peas,3310201080.0
+pt,283.0,MEDRONHO,Strawberry Tree Fruit,3330199000,other_orchards_fruits,MEDRONHO,MEDRONHO,Strawberry Tree Fruit,0.0,3.0,Strawberry Tree Fruit,1.0,strawberries,3310701000.0
+pt,284.0,PAPAIA,papaya,3330199000,other_orchards_fruits,PAPAYA,PAPAIA,Papaya,0.0,1.0,,,pawpaw,3330110000.0
+pt,285.0,FIGO DA INDIA,Prickly pear,3330199000,other_orchards_fruits,INDIA FIG,INDIAN FIG,Prickly Pear,0.0,1.0,,,pears,3330112000.0
+pt,286.0,GROSELHA,red currant,3330206020,redcurrant,CURRANT,GOOSEBERRY,Currant,0.0,1.0,,,redcurrant,3330206020.0
+pt,287.0,SERRADELA,SERRADELA,3310202020,serradella,SERRADELA,Clover,Serradella,0.0,1.0,,,serradella,3310202020.0
+pt,288.0,FESTUCA,Fescue,3320201020,festuca_fescue,FESTUCA,Straw,Fescue,0.0,1.0,,,festuca_fescue,3320201020.0
+pt,289.0,PANASCO,Dactylis glomerata,3320201030,cocksfoot_catgrass,PANASCO,PANASCO,Panas Grass,0.0,3.0,Some kind of grass,1.0,clover,3310202030.0
+pt,29.0,CANA DE AÇÚCAR,Sugar cane,3310699000,other_industrial_crops,SUGAR CANE,SUGAR CANE,Sugarcane,1.0,,,,sugar_beet,3310719010.0
+pt,290.0,BROMUS,Bromus,3320209900,other_poaceae_grasses,BROMUS,BROMUS,Bromus,1.0,,,,brussels_sprouts,3310707040.0
+pt,291.0,MARALFALFA,MARALFALFA,3320209900,other_poaceae_grasses,MARALFALFA,MARALFALFA,Maralfalfa,1.0,,,,alfalfa_lucerne,3310202010.0
+pt,292.0,ANAFA,melilot,3310202040,melilot,ANAFA,It's a shame,Anafa,0.0,3.0,melilot,1.0,melilot,3310202040.0
+pt,293.0,ALHO FRANCÊS,FRENCH GARLIC,3310708020,garlic,LEEK,LEEK,Leek,1.0,,,,garlic,3310708020.0
+pt,294.0,TALHADEIRA DE CURTA ROTAÇÃO,Short rotation coppice,3360000000,tree_wood_forest,SHORT ROTATION SLIP,SHORT ROTATION CUTTER,Short Rotation Coppice,0.0,1.0,,,rice,3310107000.0
+pt,298.0,MANGA,Mango (Mangifera indica),3330199000,other_orchards_fruits,SLEEVE,What are you doing?,Mango,0.0,3.0,Mango fruit,1.0,orange,3330402000.0
+pt,299.0,GOIABA,Guava (Psidium guajava),3330199000,other_orchards_fruits,GUAVA,GUAVA,Guava,1.0,,,,malva,3310828000.0
+pt,3.0,CENTEIO,CEREALS,3310100000,cereal,RYE,RYE,Rye,1.0,,,,cereal,3310100000.0
+pt,300.0,TALUDE DA VINHA,Vineyard Terrace,3330600000,vineyards_wine_vine_rebland_grapes,VINEYARD SLOPE,VINEYARD SLOPE,Vineyard Slope,1.0,,,,rice,3310107000.0
+pt,301.0,CULTURAS EM HIDROPONIA,Hydroponic crops.,3390000000,not_known_and_other,CROPS IN HYDROPONICS,HYDROPONIC CROPS,Hydroponic Crops,1.0,,,,industrial_nonfood_crops,3310600000.0
+pt,302.0,CULTURAS SEM SOLO,CULTURES WITHOUT SOIL,3390000000,not_known_and_other,SOILLESS CROPS,SOILLESS CULTURES,Soilless Crops,1.0,,,,cress,3310718000.0
+pt,304.0,TRIGO SPELTA,Spelt Wheat,3310110000,spelt,SPELTA WHEAT,SPELT WHEAT,Spelt Wheat,1.0,,,,spelt,3310110000.0
+pt,305.0,ESPINAFRE,SPINACH,3310717070,spinach,SPINACH,SPINACH,Spinach,1.0,,,,spinach,3310717070.0
+pt,307.0,OUTRAS CULTURAS TEMPORÁRIAS,OTHER TEMPORARY CROPS,3310000000,arable_crops,OTHER TEMPORARY CROPS,OTHER TEMPORARY CROPS,Other Temporary Crops,1.0,,,,arable_crops,3310000000.0
+pt,308.0,CARQUEJA,Genista tridentata,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,CARQUEJA,CARQUEJA,Carqueja,0.0,2.0,Genista tridentata,1.0,gentians,3310820000.0
+pt,309.0,ESPARGOS,ASPARAGUS,3310706000,asparagus,ASPARAGUS,ASPARAGUS,Asparagus,1.0,,,,asparagus,3310706000.0
+pt,310.0,GOJI,Goji,3330299000,other_berries_berry_species,GOJI,GOJI,Goji,1.0,,,,begonias,3310804000.0
+pt,311.0,ARAÇÁ,Psidium,3330199000,other_orchards_fruits,ARRACK,Vehicle,Araçá,0.0,3.0,Psidium,1.0,capsicum,3310716000.0
+pt,312.0,PITAIA,Dragon fruit,3330199000,other_orchards_fruits,PITAIA,PITAIA,Pitaya,0.0,1.0,,,tarragon,3310612360.0
+pt,313.0,PHYSALIS,PHYSALIS,3310799000,other_fresh_vegetables,PHYSALIS,PHYSALIS,Physalis,1.0,,,,phacelia,3311300000.0
+pt,314.0,QUINOA,QUINOA,3310703030,quinoa,QUINOA,QUINOA,Quinoa,1.0,,,,quinoa,3310703030.0
+pt,315.0,LENTILHA,Lentil,3310201070,lentils,LENTIL,LENTIL,Lentil,1.0,,,,lentils,3310201070.0
+pt,316.0,CHICHARO,Lathyrus sativus/Lathyrus cicera,3310201080,peas,CHICHARO,Pea,Grass Pea,0.0,1.0,,,cereal,3310100000.0
+pt,317.0,BERSIM,Berseem clover (Egyptian clover),3310202030,clover,BERSIM,BERSIM,Berseem,0.0,1.0,,,clover,3310202030.0
+pt,319.0,FEIJÃO FRADE,Black-eyed bean (cowpea),3310201010,beans,BROWN BEANS,BLACK-EYED PEAS,Black-Eyed Bean,0.0,1.0,,,black_cumin,3310612080.0
+pt,32.0,BETERRABA,BEETROOT,3310719000,beta_vulgaris,BEET,BEETROOT,Beetroot,1.0,,,,oats,3310105000.0
+pt,321.0,CÁRTAMO,Safflower,3310839000,safflower,SAFFON,Safflower,Safflower,0.0,1.0,,,safflower,3310839000.0
+pt,322.0,BAMBU,Bamboo,3320209900,other_poaceae_grasses,BAMBOO,Bamboo,Bamboo,1.0,,,,rubus_brambles,3330202000.0
+pt,323.0,FUNCHO,Fennel,3310704000,fennel,FENNEL,FENNEL,Fennel,1.0,,,,fennel,3310704000.0
+pt,324.0,TRIGO-SARRACENO,Buckwheat,3310703020,buckwheat,BUCKWHEAT,BUCKWHEAT,Buckwheat,1.0,,,,buckwheat,3310703020.0
+pt,325.0,MILHO PAINÇO,Millet,3310109000,millet,MILLET CORN,PAINÇO CORN,Foxtail Millet,0.0,1.0,,,millet,3310109000.0
+pt,327.0,CANÓNIGOS,Lamb’s lettuce,3310717040,lambs_lettuce_rapunzel,CANONS,CANONS,Lamb’s Lettuce,0.0,3.0,Spanish name PT is canônigos,2.0,lambs_lettuce_rapunzel,3310717040.0
+pt,33.0,TOMATE,TOMATO,3310714000,tomato,TOMATO,TOMATO,Tomato,1.0,,,,tomato,3310714000.0
+pt,34.0,VINHA ,VINEYARD,3330600000,vineyards_wine_vine_rebland_grapes,VINEYARD,VINEYARD ,Vineyard,1.0,,,,vineyards_wine_vine_rebland_grapes,3330600000.0
+pt,35.0,LUPULO,Hops,3310602000,hops,HOP,The truth,Hops,0.0,1.0,,,hops,3310602000.0
+pt,38.0,GRÃO DE BICO,CHICKPEA,3310201040,chickpeas,CHICKPEA,CHICKPEAS,Chickpea,1.0,,,,chickpeas,3310201040.0
+pt,4.0,CEVADA,BARLEY,3310104000,barley,BARLEY,CEVADA,Barley,0.0,1.0,,,barley,3310104000.0
+pt,42.0,TABACO,TOBACCO,3310601000,tobacco,TOBACCO,TOBACCO,Tobacco,1.0,,,,tobacco,3310601000.0
+pt,44.0,LUZERNA,LUCERNE,3310202010,alfalfa_lucerne,LUCERNE,Lucerne,Alfalfa,1.0,,,,alfalfa_lucerne,3310202010.0
+pt,46.0,TREVO,CLOVER,3310202030,clover,CLOVER,CLOVER,Clover,1.0,,,,clover,3310202030.0
+pt,47.0,TREMOÇO,LUPIN,3310201090,lupins,LUPINE,LUPINE,Lupin,1.0,,,,lupins,3310201090.0
+pt,48.0,ERVILHACA,Bird VETCH,3310202050,vetches,VETCH,PEAS,Vetch,0.0,1.0,,,birch,3360300000.0
+pt,5.0,AVEIA,OATS,3310105000,oats,OAT,OATS,Oats,1.0,,,,oats,3310105000.0
+pt,58.0,CÂNHAMO,Hemp,3310610000,hemp_cannabis,HEMP,HEMP,Hemp,1.0,,,,hemp_cannabis,3310610000.0
+pt,59.0,ALGODÃO,Cotton,3310603000,cotton,COTTON,COTTON,Cotton,1.0,,,,cotton,3310603000.0
+pt,6.0,MILHO,CORN,3310106000,maize_corn_popcorn,CORN,CORN,Maize,1.0,,,,maize_corn_popcorn,3310106000.0
+pt,60.0,OUTRAS CULTURAS PERMANENTES,OTHER PERMANENT CROPS,3330000000,permanent_crops_perennial,OTHER PERMANENT CROPS,OTHER PERMANENT CROPS,Other Permanent Crops,1.0,,,,arable_crops,3310000000.0
+pt,67.0,AZEVEM,Lolium rigidum,3320201050,lolium_ryegrass,AZEVEM,AZEVEM,Ryegrass,0.0,3.0,Lolium rigidum,1.0,alliums,3310708000.0
+pt,7.0,TRITICALE,TRITICALE,3310108000,triticale,TRITICALE,TRITICALE,Triticale,1.0,,,,triticale,3310108000.0
+pt,724.0,ELEMENTO LINEAR ARROZ (NÃO ÚTIL-COMP. MAA),Linear element RICE (COMP. MAA),3310107000,rice,LINEAR ELEMENT RICE (NOT USEFUL-COMP. MAA),LINEAR ELEMENT RICE (NOT USEFUL-COMP. MAA),Linear Element Rice (Non-Useful – MAA Component),1.0,,,,rice,3310107000.0
+pt,725.0,SUPERFICIE NÃO AGRICOLA,Non-agricultural surface,3390000000,not_known_and_other,NON-AGRICULTURAL SURFACE,NON-AGRICULTURAL LAND,Non-Agricultural Area,1.0,,,,rice,3310107000.0
+pt,78.0,PIMENTO,PEPPER,3310716010,bell_pepper_paprika,PEPPER,PEPPER,Pepper,1.0,,,,mints_peppermint,3310612220.0
+pt,8.0,SORGO,SOY,3310201030,soy_soybeans,SORGHUM,SORGHUM,Sorghum,1.0,,,,soy_soybeans,3310201030.0
+pt,81.0,"PLANTAS AROM., MEDICINAIS E CONDIMENTARES",AROM. MEDICINAL AND CONDIMENTAL PLANTS,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,"AROMA, MEDICINAL AND CONDIMENTARY PLANTS","AROMATIC, MEDICINAL, AND CONDIMENT PLANTS","Aromatic, Medicinal and Condiment Plants",1.0,,,,flowers_ornamental_plants,3310800000.0
+pt,83.0,OLIVAL ,OLIVE VALLEY,3330500000,olive,OLIVAL,OLIVAL ,Olive Grove,0.0,3.0,Olive grove,1.0,olive,3330500000.0
+pt,84.0,POMARES MISTOS DE FRUTOS FRESCOS,Mixed orchards of fresh fruits,3330100000,orchards_fruits,MIXED FRESH FRUITS ORCHARDS,MIXED FRESH FRUIT ORCHARDS,Mixed Orchards of Fresh Fruits,1.0,,,,mixed_grains,3310111000.0
+pt,85.0,FIGO,FIG,3330106000,fig,FIG,International Federation of Gynecology and Obstetrics,Fig,0.0,1.0,,,fig,3330106000.0
+pt,86.0,OUTROS FRUTOS SECOS,OTHER DRIED FRUITS,3330100000,orchards_fruits,OTHER DRIED FRUITS,OTHER DRIED FRUITS,Other Nuts,0.0,1.0,,,other_legumes_harvested_green,3310202990.0
+pt,89.0,POUSIO,FALLOW,3311100000,fallow_land_not_crop,FALL,POUSIO,Fallow,0.0,3.0,Fallow,1.0,fallow_land_not_crop,3311100000.0
+pt,9.0,LINHO,Flax,3310607000,flax_linseed,LINEN,LINEN,Flax,1.0,,,,flax_linseed,3310607000.0
+pt,90.0,OUTRAS HORTÍCOLAS,Other Horticultural Crops,3310000000,arable_crops,OTHER VEGETABLES,OTHER VEGETABLES,Other Vegetables,1.0,,,,arable_crops,3310000000.0
+pt,91.0,FLORES E PLANTAS ORNAMENTAIS,ORNAMENTAL FLOWERS AND PLANTS,3310800000,flowers_ornamental_plants,ORNAMENTAL FLOWERS AND PLANTS,FLOWERS AND ORNAMENTAL PLANTS,Flowers and Ornamental Plants,1.0,,,,flowers_ornamental_plants,3310800000.0
+pt,914.0,ELEMENTO LINEAR SEBE OU CORTA-VENTO-ÁREA ÚTIL,Linear element hedge or windbreak,3390000000,not_known_and_other,LINEAR ELEMENT HEDGES OR WINDBREAKERS - USEFUL AREA,LINEAR ELEMENT SEBE OR WINDSCREEN - USABLE AREA,Linear Element Hedge or Windbreak – Useful Area,1.0,,,,clementine,3330401000.0
+pt,924.0,ELEMENTO LINEAR EM ORIZICULTURA-ÁREA ÚTIL,Linear element in rice cultivation - useful area,3310107000,rice,LINEAR ELEMENT IN PRICE FARMING - USEFUL AREA,LINEAR ELEMENT IN RICE CULTIVATION - USABLE AREA,Linear Element in Rice Cultivation – Useful Area,0.0,1.0,,,clementine,3330401000.0
+pt,925.0,GALERIA RIPÍCOLA - ÁREA ÚTIL,RIPARIAN GALLERY - USEFUL AREA,3390000000,not_known_and_other,RIPICOLA GALLERY - USEFUL AREA,RIPÍCOLA GALLERY - USABLE AREA,Riparian Gallery – Useful Area,0.0,1.0,,,kale,3310707090.0
+pt,93.0,PERA,PEAR,3330112000,pears,PEAR,Like,Pear,0.0,1.0,,,pears,3330112000.0
+pt,939.0,EP-BOSQUETE E FORMAÇÕES RELIQUIAIS-ÁREA ÚTIL,EP-FOREST AND RELICIAL FORMATIONS-USEFUL AREA,3390000000,not_known_and_other,EP-WOODS AND RELIQUIAL FORMATIONS-USEFUL AREA,EP-BOSQUETE AND RELIC FORMATIONS-USABLE AREA,Landscape Element – Groves and Relict Formations – Useful Area,0.0,1.0,,,tree_wood_forest,3360000000.0
+pt,94.0,PÊSSEGO,PEACH,3330111000,peach,PEACH,PEACH,Peach,1.0,,,,peach,3330111000.0
+pt,96.0,LARANJA,ORANGE,3330402000,orange,ORANGE,ORANGE,Orange,1.0,,,,orange,3330402000.0
+pt,97.0,LIMÃO,LEMON,3330404000,lemons,LEMON,LEMON,Lemon,1.0,,,,lemons,3330404000.0
+pt,982.0,CABECEIRAS CULT. PERMANENTES - ÁREA ÚTIL,Headlands of permanent crops - useful area,3390000000,not_known_and_other,CULT HEADBOARDS PERMANENT - USEFUL AREA,PERMANENT CULTURAL HEADBOARDS - USABLE AREA,Headlands of Permanent Crops – Useful Area,0.0,1.0,,,arable_crops,3310000000.0
+pt,985.0,LINHAS DE ÁGUA - ÁREA ÚTIL,ELEGIBLE LANDSCAPE FEATURES - WATER LINES,3390000000,not_known_and_other,WATER LINES - USEFUL AREA,WATER LINES - USABLE AREA,Water Lines – Useful Area,1.0,,,,asters,3310803000.0
+pt,986.0,ELP CHARCAS E LAGOAS - ÁREA ÚTIL,ELP (Linear and Landscape Element) ponds and lagoons - usable area,3390000000,not_known_and_other,ELP CHARCAS E LAGOAS - USEFUL AREA,ELP PONDS AND LAGOONS - USABLE AREA,Landscape Element Ponds and Lagoons – Useful Area,0.0,1.0,,,not_known_and_other,3390000000.0
+pt,987.0,ELP MURO DE PEDRA POSTA - ÁREA ÚTIL,ELP (Linear and Landscape Element) dry stone wall - usable area,3390000000,not_known_and_other,ELP POSTA STONE WALL - USEFUL AREA,ELP STONE WALL POSTA - USABLE AREA,Landscape Element Dry Stone Wall – Useful Area,1.0,,,,other_dry_pulses,3310201990.0
+pt,988.0,ELP PATRIMÓNIO CULTURAL - ÁREA ÚTIL,ELP (Linear and Landscape Element) cultural heritage - usable area,3390000000,not_known_and_other,ELP CULTURAL HERITAGE - USEFUL AREA,ELP CULTURAL HERITAGE - USABLE AREA,Landscape Element Cultural Heritage – Useful Area,1.0,,,,not_known_and_other,3390000000.0
+pt,989.0,ELP VALA DE REGA OU DRENAGEM - ÁREA ÚTIL,ELP (Linear and Landscape Element) irrigation or drainage ditch - usable area,3390000000,not_known_and_other,ELP WATERING OR DRAINAGE DITCH - USEFUL AREA,ELP IRRIGATION OR DRAINAGE DITCH - USABLE AREA,Landscape Element Irrigation or Drainage Ditch – Useful Area,1.0,,,,not_known_and_other,3390000000.0
+pt,,,,3390000000,not_known_and_other,,,,,,,,,

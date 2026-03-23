@@ -1,0 +1,274 @@
+nuts,original_code,original_name,translated_name,hcat4_code,hcat4_name,g_tname,dpl_tname,opus_tname,translation_flag,type_error,Notes,Niche/uncommon name/spelling error/abbreviation,hcat4_name_auto,hcat4_code_auto
+bg,10001.0,Unknown,unknown,3390000000,not_known_and_other,,,,,,,,not_known_and_other,3390000000.0
+bg,10002.0,Басми,tobacco,3310601000,tobacco,Basmi,Basmi,Bass,0.0,3.0,Basma - Tobacco,1.0,tobacco,3310601000.0
+bg,10003.0,Бърлей,tobacco,3310601000,tobacco,Burleigh,Burleigh,Burlay.,0.0,3.0,Burley tobacco,1.0,tobacco,3310601000.0
+bg,10004.0,Бяла върба,White willow,3360800000,willows_osiers,White willow,White willow,White willow,1.0,,,,willows_osiers,3360800000.0
+bg,10005.0,Бяла топола,White poplar,3360700000,populus,White poplar,White poplar,White poplar,1.0,,,,winter_poppy,3310606001.0
+bg,10006.0,Бяла черница,White mulberry,3330299000,other_berries_berry_species,White mulberry,White mulberry,White mulberry,1.0,,,,rye,3310103000.0
+bg,10007.0,Винени лозя,Wine vineyards,3330600000,vineyards_wine_vine_rebland_grapes,Wine vineyards,Vineni lozia,Wine vineyards,0.0,2.0,vineyards for wine,1.0,vineyards_wine_vine_rebland_grapes,3330600000.0
+bg,10008.0,Виржиния,Virginia tobacco,3310601000,tobacco,Virginia,Virginia,Virginia,0.0,1.0,,,tobacco,3310601000.0
+bg,10009.0,Влакнодайни култури,Fibre crops,3310611000,fibre_crops,Fiber crops,Fibre crops,Fiber crops,1.0,,,,fibre_crops,3310611000.0
+bg,10010.0,ДРУГИ  ТРАЙНИ НАСАЖДЕНИЯ,OTHER PERMANENT CROPS,3330000000,permanent_crops_perennial,OTHER PERMANENT PLANTATIONS,OTHER PERMANENT CROPS,OTHER TRADITIONS,0.0,1.0,,,arable_crops,3310000000.0
+bg,10011.0,Декоративни храсти,Ornamental shrubs,3330800000,shrubberries_shrubs,Ornamental shrubs,Ornamental shrubs,Decorative shrubs,1.0,,,,other_flowers_ornamental_plants,3310899000.0
+bg,10012.0,Десертни лозя,Dessert vineyards,3330600000,vineyards_wine_vine_rebland_grapes,Dessert vineyards,Dessert vine,Dessert vineyards,1.0,,,,vineyards_wine_vine_rebland_grapes,3330600000.0
+bg,10013.0,Други декоративни растения,Other ornamental plants,3310800000,flowers_ornamental_plants,Other ornamental plants,Other ornamental plants,Other ornamental plants,1.0,,,,other_flowers_ornamental_plants,3310899000.0
+bg,10014.0,Други зеленчукови култури,Other vegetable crops,3310700000,fresh_vegetables,Other vegetable crops,Other vegetable crops,Other vegetable crops,1.0,,,,arable_crops,3310000000.0
+bg,10015.0,Други овощни видове,Other fruit types,3330100000,orchards_fruits,Other fruit types,Other fruit species,Other orchard species,1.0,,,,other_legumes_harvested_green,3310202990.0
+bg,10016.0,Дървесни култури с кратък цикъл на ротация,Tree crops with a short rotation cycle,3360000000,tree_wood_forest,Tree crops with a short rotation cycle,Tree crops with a short rotation cycle,Wood crops with a short rotation cycle,1.0,,,,arable_crops,3310000000.0
+bg,10017.0,Едногодишни фуражни култури,Annual forage crops,3310000000,arable_crops,Annual forage crops,Annual forage crops,Annual feed crops,1.0,,,,arable_crops,3310000000.0
+bg,10018.0,Зеленчуци,Vegetables,3310700000,fresh_vegetables,Vegetables,Vegetables,Vegetables,1.0,,,,fresh_vegetables,3310700000.0
+bg,10019.0,Зърнено-бобови култури,Grain and legume crops,3310100000,cereal,Grain and legume crops,Grain legumes,Cereals,0.0,1.0,,,arable_crops,3310000000.0
+bg,10020.0,Зърнено-житни култури,Cereals,3310100000,cereal,Cereals and grains,Cereals,Cereals,0.0,1.0,,,cereal,3310100000.0
+bg,10021.0,Изкуствени ливади,Cultivated meadows,3320000000,grassland_grass,Artificial meadows,Artificial meadows,Artificial meadows,0.0,2.0,Human cultivated meadows,1.0,adonis,3310801000.0
+bg,10022.0,Източен чинар,Oriental Plane,3369900000,other_tree_wood_forest,Eastern plane tree,Eastern sycamore,Eastern chinar,0.0,3.0,Oriental Plane,1.0,flowers_ornamental_plants,3310800000.0
+bg,10023.0,Индустриални култури,Industrial crops,3310600000,industrial_nonfood_crops,Industrial crops,Industrial crops,Industrial crops,1.0,,,,other_industrial_crops,3310699000.0
+bg,10024.0,КАРТОФИ,POTATOES,3310300000,potatoes,POTATOES,CARTOFI,CARTOFIES,0.0,1.0,,,potatoes,3310300000.0
+bg,10025.0,КУЛТИВИРАНИ ГЪБИ,CULTIVATED MUSHROOMS,3349900000,other_mushrooms,CULTIVATED MUSHROOMS,CULTIVATED MUSHROOMS,CULTURED FURNITURES,0.0,1.0,,,mushrooms,3340300000.0
+bg,10026.0,Каба-кулак,tobacco,3310601000,tobacco,Kaba-kulak,Kaba fist,Kaba-kulak,0.0,3.0,Kaba Kulak tobacco,1.0,tobacco,3310601000.0
+bg,10027.0,Кореноплодни зеленчукови култури,Root vegetables,3310715000,root_vegetables,Root vegetable crops,Root vegetable crops,Root vegetables,1.0,,,,root_vegetables,3310715000.0
+bg,10028.0,Костилкови овощни видове,Stone fruit species,3330100000,orchards_fruits,Stone fruit species,Stem fruit species,Stone orchards,0.0,1.0,,,chives,3310708010.0
+bg,10029.0,ЛОЗЯ,VINEYARD,3330600000,vineyards_wine_vine_rebland_grapes,VINEYARD,BLADE,LOSEYA,0.0,3.0,VINEYARD,1.0,vineyards_wine_vine_rebland_grapes,3330600000.0
+bg,10030.0,Леска,Hazel,3330302000,hazelnuts_hazel,Hazelnut,fishing line,Hazelnuts/cobnuts,0.0,1.0,,,hazelnuts_hazel,3330302000.0
+bg,10031.0,Ливади за косене,Mowing meadows,3320000000,grassland_grass,Meadows for mowing,Meadows for mowing,Mowing meadows,1.0,,,,adonis,3310801000.0
+bg,10032.0,Листностъблени зеленчукови култури,Leafy vegetable crops,3310717990,other_salads_lettuce_leaf_vegetables,Leafy vegetable crops,Leafy vegetable crops,Leafy vegetable crops,1.0,,,,arable_crops,3310000000.0
+bg,10033.0,Лозов посадъчен материал,Vine planting material,3330600000,vineyards_wine_vine_rebland_grapes,Vine planting material,Vine planting material,Vegetative planting material,0.0,1.0,,,vineyards_wine_vine_rebland_grapes,3330600000.0
+bg,10034.0,Луковични зеленчукови култури,Bulb vegetable crops,3310708000,alliums,Bulb vegetable crops,Bulbous vegetable crops,Bulb vegetables,1.0,,,,arable_crops,3310000000.0
+bg,10035.0,МНОГОГОДИШНИ МЕДИЦИНСКИ И АРОМАТНИ КУЛТУРИ,PERENNIAL MEDICINAL AND AROMATIC CROPS,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,PERENNIAL MEDICINAL AND AROMATIC CROPS,PERENNIAL MEDICINAL AND AROMATIC CROPS,MANY MEDICAL AND AROMATE CULTURES,1.0,,,,arable_crops,3310000000.0
+bg,10036.0,Маслодайни култури,Oil crops,3310604000,oilseed_crops,Oil crops,Oilseed crops,Oil crops,1.0,,,,industrial_nonfood_crops,3310600000.0
+bg,10037.0,Медицински и Ароматни култури,Medicinal and Aromatic Crops,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,Medicinal and Aromatic Crops,Medicinal and Aromatic Crops,Medical and Fragrant crops,1.0,,,,arable_crops,3310000000.0
+bg,10038.0,Медицински и ароматни култури,Medical and aromatic crops,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,Medicinal and aromatic crops,Medicinal and aromatic crops,Medical and aromatic crops,1.0,,,,arable_crops,3310000000.0
+bg,10039.0,Многогодишни тревни видове,Perennial grass species,3320100000,permanent_grassland,Perennial grass species,Multiyear trevni vidove,Multi-annual herbaceous species,0.0,1.0,,,grassland_grass,3320000000.0
+bg,10040.0,Многогодишни фуражни култури,Perennial forage crops,3330000000,permanent_crops_perennial,Perennial forage crops,Perennial forage crops,Multi-annual feed crops,1.0,,,,arable_crops,3310000000.0
+bg,10041.0,ОВОЩНИ ВИДОВЕ,FRUIT TYPES,3330100000,orchards_fruits,FRUIT TYPES,FOOD SPECIES,THE MARKETING AUTHORISATION NUMBER (S),0.0,1.0,,,peas,3310201080.0
+bg,10042.0,ОРАНЖЕРИЙНИ ПЛОЩИ,GREENHOUSE AREAS,3350000000,greenhouse_foil_film,GREENHOUSE AREAS,GREENHOUSES,RENEWABLE PLOCKS,0.0,1.0,,,peas,3310201080.0
+bg,10043.0,Овощен посадъчен материал,Fruit planting material,3330100000,orchards_fruits,Fruit planting material,Fruit planting material,Organic planting material,0.0,1.0,,,cereal,3310100000.0
+bg,10044.0,ПЛОЩИ С УГАРИ,AREA WITH FALLOW LAND,3311100000,fallow_land_not_crop,AREA WITH FALLOW LAND,FIRE AREAS,UGARI FLOWERS,0.0,3.0,Угар is fallow,1.0,fallow_land_not_crop,3311100000.0
+bg,10045.0,"ПОСТОЯННО ЗАТРЕВЕНИ ПЛОЩИ (постоянни пасища, мери и ливади)","PERMANENT GRASSLANDS (permanent pastures, meadows and pastures)",3320100000,permanent_grassland,"PERMANENT GRASSLANDS (permanent pastures, meadows and pastures)","PERMANENTLY FARMED AREAS (permanent pastures, meadows and meadows)","RESPONSELY CLOSED PLOCKS (constant pastures, meres and meadows)",1.0,,,,permanent_grassland,3320100000.0
+bg,10046.0,ПРЕСНИ ЗЕЛЕНЧУЦИ,FRESH VEGETABLES,3310700000,fresh_vegetables,FRESH VEGETABLES,FRESH VEGETABLES,REGULAR REGULAR EARTHS,0.0,1.0,,,fresh_vegetables,3310700000.0
+bg,10047.0,Плодови зеленчукови култури,Fruiting vegetables,3310700000,fresh_vegetables,Fruit and vegetable crops,Fruit vegetable crops,Fruiting vegetables,0.0,1.0,,,salads_lettuce_leaf_vegetables,3310717000.0
+bg,10048.0,Площи за производство на посевен и посадъчен материал,Areas for the production of seed and seed material,3311000000,seed_seedlings,Areas for the production of seed and planting material,Areas for the production of seeds and planting material,Areas for the production of seed and seed material,1.0,,,,seed_seedlings,3311000000.0
+bg,10049.0,Полски бряст,Field elm,3369900000,other_tree_wood_forest,Polish elm,Field elm,Polish elm,0.0,1.0,,,fig,3330106000.0
+bg,10050.0,Постоянни или временни пасища за паша на животни (пасища и мери за паша),Permanent grassland kept in a state suitable for grazing or mowing,3320100000,permanent_grassland,Permanent or temporary pastures for grazing animals (pastures and pastures),Permanent or temporary grazing land for livestock (grazing pastures and meadows),Permanent or temporary pastures for grazing animals (pastures and grazing meters),1.0,,,,permanent_grassland,3320100000.0
+bg,10051.0,Постоянно затревени площи (ливади за косене),Permanent grassland (mowed meadows),3320100000,permanent_grassland,Permanently grassed areas (mowing meadows),Permanent grassland (mowed meadows),Permanent grassland (mows for mowing),1.0,,,,permanent_grassland,3320100000.0
+bg,10052.0,Постоянно затревени площи (пасища и мери за паша),Permanent grassland (pastures and grazing measures),3320100000,permanent_grassland,Permanently grassed areas (pastures and grazing lands),Permanent grassland (grazing pastures and meadows),Permanent grassland (pastures and grazing measures),1.0,,,,permanent_grassland,3320100000.0
+bg,10053.0,"Постоянно затревени площи поддържани в състояние, годно за паша или косене",Permanent grassland kept in a state suitable for grazing or mowing,3320100000,permanent_grassland,Permanently grassed areas maintained in a condition suitable for grazing or mowing,Permanent grassland maintained in a condition suitable for grazing or mowing,Permanent grassland kept in a state suitable for grazing or mowing,1.0,,,,permanent_grassland,3320100000.0
+bg,10054.0,РАЗСАДНИЦИ,NURSERIES,3330700000,nurseries_nursery,NURSERIES,DISPOSERS,DISCLOSURES,0.0,1.0,,,nurseries_nursery,3330700000.0
+bg,10055.0,Разсадници за горски фиданки,Nurseries for forest saplings,3330700000,nurseries_nursery,Nurseries for forest saplings,Nurseries for forest saplings,Wood sapphires,0.0,1.0,,,nurseries_nursery,3330700000.0
+bg,10056.0,Разсадници за декоративни растения,Nurseries for ornamental plants,3330700000,nurseries_nursery,Nurseries for ornamental plants,Nurseries for ornamental plants,Decorative seedlings,1.0,,,,aromatic_medicinal_culinary_plants_spices_herbs,3310612000.0
+bg,10057.0,СЕМЕЙНИ ГРАДИНИ,FAMILY GARDENES,3311200000,kitchen_gardens,FAMILY GARDENS,FAMILY GARDENS,FAMILY GARDENES,1.0,,,,rye,3310103000.0
+bg,10058.0,Саксийни култури,Potted plants,3310000000,arable_crops,Potted crops,Pot crops,Saxe crops,0.0,1.0,,,aromatic_medicinal_culinary_plants_spices_herbs,3310612000.0
+bg,10059.0,Семкови овощни видове,Pome fruits,3330100000,orchards_fruits,Seed fruit species,Family fruit species,Pome fruits,0.0,1.0,,,other_orchards_fruits,3330199000.0
+bg,10060.0,Спелта,Spelt,3310110000,spelt,Spelled,Spelta,Spelt,1.0,,,,spelt,3310110000.0
+bg,10061.0,Сребролистна липа,Silver Linden,3369900000,other_tree_wood_forest,Silver-leaved linden,Silver lime,Silver-billed linden,0.0,3.0,Silver Linden,1.0,lunaria_honesty_silver,3310827000.0
+bg,10062.0,ТЕХНИЧЕСКИ КУЛТУРИ,Industrial Crop,3310600000,industrial_nonfood_crops,TECHNICAL CULTURES,TECHNICAL CROPS,TECHNICAL CULTURES,1.0,,,,industrial_nonfood_crops,3310600000.0
+bg,10063.0,ТОПОЛИ,POPLARS,3360700000,populus,POPLARS,POPLARS,TOPOLS,0.0,1.0,,,populus,3360700000.0
+bg,10064.0,Тикви за семки,Pumpkins for seeds,3310702040,pumpkin_squash_gourd,Pumpkins for seeds,Pumpkins for seeds,Pumpkins for seeds,1.0,,,,plums,3330113000.0
+bg,10065.0,Трепетлика,Aspen,3360200000,aspen,Aspen,Aspen,Twigs,0.0,1.0,,,aspen,3360200000.0
+bg,10066.0,Тритичинкова върба,Almond Willow,3360800000,willows_osiers,Tritium willow,Triticinkova willow,Threetichin's willow,0.0,1.0,,,almond,3330301000.0
+bg,10067.0,ФУРАЖНИ КУЛТУРИ,FORAGE CROPS,3310000000,arable_crops,FORAGE CROPS,FORAGE CROPS,FEEDING CULTURES,1.0,,,,industrial_nonfood_crops,3310600000.0
+bg,10068.0,ЦВЕТЯ И ДЕКОРАТИВНИ РАСТЕНИЯ,FLOWERS AND DECORATIVE PLANTS,3310800000,flowers_ornamental_plants,FLOWERS AND DECORATIVE PLANTS,FLOWERING AND ORNAMENTAL PLANTS,FLOWERS AND DECORATIVES,1.0,,,,aromatic_medicinal_culinary_plants_spices_herbs,3310612000.0
+bg,10069.0,Цветя,Flowers,3310800000,flowers_ornamental_plants,Flowers,Blossoming,Flowers,1.0,,,,flowers_ornamental_plants,3310800000.0
+bg,10070.0,Цветя и декоративни растения,Flowers and ornamental plants,3310800000,flowers_ornamental_plants,Flowers and ornamental plants,Flowers and ornamental plants,Flowers and ornamental plants,1.0,,,,flowers_ornamental_plants,3310800000.0
+bg,10071.0,"Цветя,отглеждани за луковици",Flowers grown for bulbs,3310800000,flowers_ornamental_plants,Flowers grown for bulbs,Flowers grown for bulbs,Flowers grown for bulbs,1.0,,,,sunflower,3310604020.0
+bg,10072.0,"Цветя,отглеждани за рязан цвят",Flowers grown for cut flowers,3310800000,flowers_ornamental_plants,Flowers grown for cut color,Flowers grown for cut flowers,Flowers grown for cut flowers,1.0,,,,sunflower,3310604020.0
+bg,10073.0,ЧЕРНИЦИ,Mulberries,3330299000,other_berries_berry_species,BLUEBERRIES,CHERNICE,BLACKS,0.0,3.0,черница is the singular for mulberries,1.0,ribes,3330206000.0
+bg,10074.0,Черна елша,Black alder,3369900000,other_tree_wood_forest,Black alder,Black alder,Black salsa,0.0,1.0,,,kale,3310707090.0
+bg,10075.0,Черна топола,Black poplar,3360700000,populus,Black poplar,Black poplar,Black poplar,1.0,,,,pears,3330112000.0
+bg,10076.0,Черна черница,Black mulberry,3330299000,other_berries_berry_species,Black mulberry,Black mulberry,Black mulberry,1.0,,,,blackberry,3330202010.0
+bg,10077.0,Ягодоплодни,Berry fruit,3330200000,berries_berry_species,Strawberry,Berry fruit,Berries and small fruits,0.0,1.0,,,berries_berry_species,3330200000.0
+bg,10078.0,Ягодоплодни видове,Berry fruit species,3330200000,berries_berry_species,Strawberry species,Berry fruit species,Berries and small fruits,0.0,1.0,,,berries_berry_species,3330200000.0
+bg,10079.0,Ядкови(черупкови) видове,other pome fruit species,3330300000,nuts,Nut (shell) species,Yadkovi (czerupkovi) vidove,Nuts(shells) species,0.0,1.0,,,other_cereals,3310199000.0
+bg,10080.0,актинидия(киви),actinidia (kiwi),3330107000,kiwi,actinidia (kiwi),actinidia,Actinidea(kiwis),1.0,,,,kiwi,3330107000.0
+bg,10081.0,анасон,anise,3310612050,anise_aniseed,anise,anason,anise,1.0,,,,anise_aniseed,3310612050.0
+bg,10082.0,арония,aronia,3330201000,aronia_chokeberries,aronia,chokeberry,aronia,1.0,,,,aronia_chokeberries,3330201000.0
+bg,10083.0,арпаджик,Onion sets,3310708040,onions,arpajik,arpeggio,arpadjik,0.0,3.0,"Onion sets, from Turkish arpaçik soğanı",1.0,onions,3310708040.0
+bg,10084.0,артишок,artichoke,3310713000,artichoke,artichoke,artichoke,Cardoons,0.0,1.0,,,artichoke,3310713000.0
+bg,10085.0,аспержи,asparagus,3310706000,asparagus,asparagus,asperger's,asparagus,0.0,1.0,,,asparagus,3310706000.0
+bg,10086.0,бадеми,almonds,3330301000,almond,almonds,bademi,almonds,0.0,1.0,,,almond,3330301000.0
+bg,10087.0,бакла за зърно,broad beans for grain,3310201010,beans,grain cob,broad beans for grain,Grain beans,0.0,1.0,,,beans,3310201010.0
+bg,10088.0,бамя,okra,3310799000,other_fresh_vegetables,okra,bamya,Okra/lady's fingers,0.0,1.0,,,orange,3330402000.0
+bg,10089.0,беладона,belladonna,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,belladonna,belladonna,belladonna,1.0,,,,adonis,3310801000.0
+bg,10090.0,блатно кокиче,Leucojum,3310899000,other_flowers_ornamental_plants,marsh snowdrop,marsh snowdrop,Swimming wedge,0.0,1.0,,,kale,3310707090.0
+bg,10091.0,бодливо грозде,gooseberry,3330206030,gooseberry_gooseberries,prickly grapes,bunched,Sponge grapes,0.0,3.0,Not the common name,2.0,gooseberry_gooseberries,3330206030.0
+bg,10092.0,боровинки,blueberries,3330204010,blueberry,blueberries,holes,blueberries,0.0,1.0,,,blueberry,3330204010.0
+bg,10093.0,босилек,basil,3310612070,basil,basil,bosilek,basil,0.0,1.0,,,basil,3310612070.0
+bg,10094.0,броколи,broccoli,3310707030,broccoli,broccoli,broccoli,broccoli,1.0,,,,broccoli,3310707030.0
+bg,10095.0,бурчак,bitter vetch,3310202050,vetches,burchak,grouse,burschak,0.0,3.0,bitter vetch,1.0,vetches,3310202050.0
+bg,10096.0,бял риган,Oregano,3310612260,oregano,white oregano,Bial Regan,white oregano,0.0,1.0,,,oregano,3310612260.0
+bg,10097.0,бял трън,milk thistle,3310612400,marian_thistles,white thorn,milk thistle,white thorn,0.0,3.0,milk thistle,1.0,marian_thistles,3310612400.0
+bg,10098.0,валериана,valerian,3310612380,valerian,valerian,valerian,valeriana,1.0,,,,valerian,3310612380.0
+bg,10099.0,вигна,vigna,3310201010,beans,rose,wigna,vigna,0.0,3.0,Vigna,1.0,camelina,3310615000.0
+bg,10100.0,вишни,sour cherries,3330104000,cherry_cherries,sour cherries,cherries,Soursops/guanabanas,0.0,1.0,,,ribes,3330206000.0
+bg,10101.0,главесто зеле,cabbage,3310707000,brassicaceae_cruciferae,cabbage,cabbage head,Head brassica,0.0,1.0,,,chinese_cabbage,3310707060.0
+bg,10102.0,грах за зърно - зимен,peas for grain - winter,3310201080,peas,peas for grain - winter,peas for grain - winter,peas for grain - winter,1.0,,,,peas,3310201080.0
+bg,10103.0,грах за зърно - пролетен,peas for grain - spring,3310201080,peas,peas for grain - spring,peas for grain - spring,peas for grain - spring,1.0,,,,peas,3310201080.0
+bg,10104.0,грах полски,field peas,3310201080,peas,field peas,grah polsky,field peas,0.0,1.0,,,peas,3310201080.0
+bg,10105.0,двузърнест лимец,emmer,3310112000,emmer,two-grain spelled,two-grain spelt,Two-grained einkorn,0.0,1.0,,,emmer,3310112000.0
+bg,10106.0,детелина,clover,3310202030,clover,clover,clover,clover,1.0,,,,clover,3310202030.0
+bg,10107.0,дини,watermelons,3310702050,watermelon,watermelons,watermelons,watermelons,1.0,,,,watermelon,3310702050.0
+bg,10108.0,домати,tomatoes,3310714000,tomato,tomatoes,domati,tomatoes,1.0,,,,tomato,3310714000.0
+bg,10109.0,домати - градински,tomatoes - garden,3310714000,tomato,tomatoes - garden,tomatoes - garden,tomatoes - garden,1.0,,,,tomato,3310714000.0
+bg,10110.0,домати - неотопляеми оранжерии,tomatoes - non-heated greenhouses,3310714000,tomato,tomatoes - unheated greenhouses,domati - unheated greenhouses,tomatoes - non-heated greenhouses,1.0,,,,tomato,3310714000.0
+bg,10111.0,домати - оранжерийно производство,tomatoes - greenhouse production,3310714000,tomato,tomatoes - greenhouse production,domati - greenhouse production,tomatoes - greenhouse production,1.0,,,,tomato,3310714000.0
+bg,10112.0,домати - отопляеми оранжерии,tomatoes - heated greenhouses,3310714000,tomato,tomatoes - heated greenhouses,domati - heated greenhouses,tomatoes - heated greenhouses,1.0,,,,tomato,3310714000.0
+bg,10113.0,домати - полски,tomatoes - field,3310714000,tomato,tomatoes - Polish,tomatoes - field,tomatoes - Polish,1.0,,,,tomato,3310714000.0
+bg,10114.0,домати на открито,tomatoes outdoors,3310714000,tomato,tomatoes outdoors,outdoor tomatoes,tomatoes in the open air,1.0,,,,tomato,3310714000.0
+bg,10115.0,други зърнено-бобови,other cereals and legumes,3310100000,cereal,other cereals and legumes,other cereal legumes,Other cereals,0.0,1.0,,,cereal,3310100000.0
+bg,10116.0,други зърнено-житни,Other cereals,3310100000,cereal,other cereals,other cereals,Other cereals,1.0,,,,other_cereals,3310199000.0
+bg,10117.0,други индустриални култури,Other industrial crops,3310600000,industrial_nonfood_crops,other industrial crops,other industrial crops,Other industrial crops,1.0,,,,other_industrial_crops,3310699000.0
+bg,10118.0,други кореноплодни култури,other root crops,3310715000,root_vegetables,other root crops,other root crops,other root crops,1.0,,,,other_legumes_harvested_green,3310202990.0
+bg,10119.0,други костилкови овощни видове,other stone fruit species,3330100000,orchards_fruits,other stone fruit species,other stone fruit species,Other stone orchards,1.0,,,,other_cereals,3310199000.0
+bg,10120.0,други листностъблени култури,other leafy crops,3310717000,salads_lettuce_leaf_vegetables,other leafy crops,other leafy crops,other leafy crops,1.0,,,,other_legumes_harvested_green,3310202990.0
+bg,10121.0,други луковични зеленчукови култури,other bulbous vegetable crops,3310708000,alliums,other bulbous vegetable crops,other bulbous culms of the green bulbous cultivars.,Other bulb vegetables,1.0,,,,arable_crops,3310000000.0
+bg,10122.0,други маслодайни,other oilseeds,3310604000,oilseed_crops,other oilseeds,other oils,Other oil,1.0,,,,other_legumes_harvested_green,3310202990.0
+bg,10123.0,други медицински и ароматни култури,other medicinal and aromatic crops,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,other medicinal and aromatic crops,other medicinal and aromatic crops,other medicinal and aromatic crops,1.0,,,,arable_crops,3310000000.0
+bg,10124.0,други многогодишни ароматни култури,other perennial aromatic crops,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,other perennial aromatic crops,other perennial aromatic crops,other multi-annual aromatic crops,1.0,,,,arable_crops,3310000000.0
+bg,10125.0,други многогодишни зеленчукови култури,other perennial vegetable crops,3310700000,fresh_vegetables,other perennial vegetable crops,other perennial vegetable crops,other multiannual vegetable crops,1.0,,,,arable_crops,3310000000.0
+bg,10126.0,други плодови зеленчукови култури,Other fruiting vegetables,3310700000,fresh_vegetables,other fruit and vegetable crops,other fruit vegetable crops,Other fruiting vegetables,0.0,1.0,,,other_cereals,3310199000.0
+bg,10127.0,други семкови овощни видове,other pome fruit species,3330100000,orchards_fruits,other pome fruit species,other pome fruit species,Other pome fruit species,1.0,,,,other_cereals,3310199000.0
+bg,10128.0,други фуражни зеленчуци,other fodder vegetables,3310000000,arable_crops,other fodder vegetables,other forage vegetables,Other feed vegetables,1.0,,,,other_cereals,3310199000.0
+bg,10129.0,други фуражни култури,Other feed crops,3310000000,arable_crops,other forage crops,other forage crops,Other feed crops,1.0,,,,other_oilseed_crops,3310604990.0
+bg,10130.0,други ягодоплодни култури,other berry crops,3330200000,berries_berry_species,other berry crops,other berry crops,other berry crops,1.0,,,,other_energy_crops,3310617990.0
+bg,10131.0,други ядкови (черупкови) видове,other nut (shell) species,3330300000,nuts,other nut (shell) species,other yadkovi (cherupkovi) species,Other nut species,0.0,1.0,,,other_cereals,3310199000.0
+bg,10132.0,дрян,dogwood,3360400000,dogwood_cornus,dogwood,trash,lysine,0.0,3.0,Dogwood,1.0,dogwood_cornus,3360400000.0
+bg,10133.0,дюли,quinces,3330115000,quinces,quinces,duli,quinces,0.0,1.0,,,quinces,3330115000.0
+bg,10134.0,едногодишни зърнено-бобови,annual cereal and legumes,3310100000,cereal,annual legumes,annual cereal legumes,one-year grain-worms,0.0,1.0,,,cereal,3310100000.0
+bg,10135.0,едногодишни зърнено-житни,annual cereals,3310100000,cereal,annual cereals,annual cereals,1 year old cereal,1.0,,,,cereal,3310100000.0
+bg,10136.0,едногодишни фуражни зеленчуци,annual forage vegetables,3310000000,arable_crops,annual forage vegetables,annual fodder vegetables,one-year feed vegetables,1.0,,,,fresh_vegetables,3310700000.0
+bg,10137.0,еднозърнест лимец,einkorn,3310113000,einkorn,einkorn,monograin spelt,"Edible offal of bovine animals of the species Gallus domesticus, fresh, chilled, frozen, frozen or in brine, whether or not salted or in brine, but not further prepared",0.0,3.0,einkorn,1.0,einkorn,3310113000.0
+bg,10138.0,еспарзета,Sainfoin,3310202060,onobrychis_sainfoins,asparagus,esparzet,esparzes,0.0,3.0,Sainfoin,1.0,onobrychis_sainfoins,3310202060.0
+bg,10139.0,ехинацея,echinacea,3310815000,echinacea,echinacea,echinacea,echinacea,1.0,,,,echinacea,3310815000.0
+bg,10140.0,ечемик,Barley,3310104000,barley,barley,echemist,Barley,0.0,1.0,,,barley,3310104000.0
+bg,10141.0,ечемик-зимен,barley-winter,3310104001,winter_barley,winter barley,echemik zimen,barley-winter,0.0,1.0,,,winter_barley,3310104001.0
+bg,10142.0,ечемик-пролетен,barley-Spring,3310104002,spring_barley,spring barley,Etchemik-Proleten,barley-Spring,0.0,1.0,,,spring_barley,3310104002.0
+bg,10143.0,жълт мак,Yellow horned poppy,3310606000,poppy,yellow poppy,yellow poppy,Yellow poppy,1.0,,,,poppy,3310606000.0
+bg,10144.0,захарна царевица,sweet corn,3310106000,maize_corn_popcorn,sweet corn,sugar corn,sugar corn,1.0,,,,maize_corn_popcorn,3310106000.0
+bg,10145.0,захарно цвекло,sugar beet,3310719010,sugar_beet,sugar beet,zaharno blossom,sugar beet,0.0,1.0,,,sugar_beet,3310719010.0
+bg,10146.0,звездан,Bird’s foot Trefoil,3310202080,birdsfoot_treifoil,starry,star,Star,0.0,2.0,"Lit. Trans is star, possibly Lotus corniculatus",1.0,birdsfoot_treifoil,3310202080.0
+bg,10147.0,зелен грах,green peas,3310201080,peas,green peas,green peas,green peas,1.0,,,,peas,3310201080.0
+bg,10148.0,зелен фасул,green beans,3310201010,beans,green beans,green faculus,green beans,0.0,1.0,,,beans,3310201010.0
+bg,10149.0,зелена бакла,green broad beans,3310201010,beans,green beans,green broad beans,green beans,0.0,1.0,,,beans,3310201010.0
+bg,10150.0,зим-зелен,Periwinkle,3310899000,other_flowers_ornamental_plants,winter-green,wintergreen,winter-green,0.0,2.0,ЗИМЗЕЛЕН,3.0,kale,3310707090.0
+bg,10151.0,изкуствени ливади-бобови,Cultivated grasslands – leguminous crops,3320000000,grassland_grass,artificial bean meadows,izkustveni livadi bebovi,artificial meadows-boobs,0.0,3.0,бобови: legumes,1.0,arable_crops,3310000000.0
+bg,10152.0,изкуствени ливади-житни,Cultivated grasslands – grass crops,3320201000,poaceae_grasses,artificial wheat meadows,artificial meadows-meadows,artificial meadows,0.0,3.0,житни: grass,1.0,arable_crops,3310000000.0
+bg,10153.0,изкуствени ливади-смесени насаждения,cultivated grasslands mixed plantations,3320000000,grassland_grass,artificial meadows-mixed plantations,artificial meadows-mixed plantations,artificial meadows mixed plantations,1.0,,,,mixed_grains,3310111000.0
+bg,10154.0,кайсии/зарзали,apricots,3330103000,apricots,apricots/greens,apricots/zarzali,apricots/zarsals,1.0,,,,apricots,3330103000.0
+bg,10155.0,карфиол,cauliflower,3310707050,cauliflower,cauliflower,carphiol,cauliflower,0.0,1.0,,,cauliflower,3310707050.0
+bg,10156.0,касис,blackcurrant,3330206010,blackcurrant_cassis,blackcurrant,casis,curassow,0.0,1.0,,,blackcurrant_cassis,3330206010.0
+bg,10157.0,кестени,chestnuts,3330305000,sweet_chestnuts,chestnuts,kesteni,chestnuts,0.0,1.0,,,nuts,3330300000.0
+bg,10158.0,кимион,cumin,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,cumin,kimion,Cumin,0.0,1.0,,,black_cumin,3310612080.0
+bg,10159.0,коноп,hemp,3310610000,hemp_cannabis,hemp,hemp,hemp,1.0,,,,hemp_cannabis,3310610000.0
+bg,10160.0,копър,dill,3310612030,anethum_dill,dill,dill,fennel,0.0,1.0,,,anethum_dill,3310612030.0
+bg,10161.0,кориандър,coriander,3310612150,coriander,coriander,Coriander,coriander,1.0,,,,coriander,3310612150.0
+bg,10162.0,корнишони на открито,gherkins outdoors,3310702010,cucumber_pickle,gherkins outdoors,gherkins outdoors,Gherkins in the open air,1.0,,,,iris,3310823000.0
+bg,10163.0,краставици,cucumbers,3310702010,cucumber_pickle,cucumbers,cucumbers,cucumbers,1.0,,,,cucumber_pickle,3310702010.0
+bg,10164.0,краставици - градински,cucumbers - garden,3310702010,cucumber_pickle,cucumbers - garden,cucumbers - garden,cucumbers - garden cucumbers,1.0,,,,cucumber_pickle,3310702010.0
+bg,10165.0,краставици - неотопляеми оранжерии,cucumbers - non-heated greenhouses,3310702010,cucumber_pickle,cucumbers - unheated greenhouses,cucumbers - unheated greenhouses,cucumbers - non-heated greenhouses,1.0,,,,roses,3310837000.0
+bg,10166.0,краставици - оранжерийно производство,cucumbers - greenhouse production,3310702010,cucumber_pickle,cucumbers - greenhouse production,cucumbers - greenhouse production,cucumbers - greenhouse production,1.0,,,,greenhouse_foil_film,3350000000.0
+bg,10167.0,краставици - отопляеми оранжерии,cucumbers - heated greenhouses,3310702010,cucumber_pickle,cucumbers - heated greenhouses,cucumbers - heated greenhouses,cucumbers - heated greenhouses,1.0,,,,roses,3310837000.0
+bg,10168.0,краставици - полски,cucumbers - field,3310702010,cucumber_pickle,cucumbers - Polish,cucumbers - field,cucumbers - Polish,1.0,,,,cucumber_pickle,3310702010.0
+bg,10169.0,краставици на открито,cucumbers outdoors,3310702010,cucumber_pickle,cucumbers outdoors,cucumbers outdoors,Outdoor cucumbers,1.0,,,,cucurbits,3310702000.0
+bg,10170.0,круши,pears,3330112000,pears,pears,smash,pears,0.0,1.0,,,pears,3330112000.0
+bg,10171.0,къпини,brambles,3330202000,rubus_brambles,blackberries,blackberries,Dewberries,0.0,1.0,,,rubus_brambles,3330202000.0
+bg,10172.0,лавандула,lavender,3310612190,lavender_lavandula,lavender,lavender,lavender,1.0,,,,lavender_lavandula,3310612190.0
+bg,10173.0,лайка,chamomile,3310612130,chamomile,chamomile,like,Chamomile,0.0,1.0,,,chamomile,3310612130.0
+bg,10174.0,левзея,Maral root,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,leuzeia,lewesia,lesolium,0.0,3.0,Maral root,1.0,root_vegetables,3310715000.0
+bg,10175.0,лен влакнодаен,flax fiber,3310607000,flax_linseed,flax fiber,flax vlaknodaen,flax fibreedaen,1.0,,,,fig,3330106000.0
+bg,10176.0,лен маслодаен,oilseed flax,3310607000,flax_linseed,oiled flax,oilseed flax,linseed oildane,1.0,,,,other_oilseed_crops,3310604990.0
+bg,10177.0,лешници,Hazelnuts,3330302000,hazelnuts_hazel,hazelnuts,Hazelnuts,Hazelnuts/cobnuts,1.0,,,,nuts,3330300000.0
+bg,10178.0,леща,Lentil,3310201070,lentils,lens,bream,Lens,0.0,3.0,Lentil,1.0,lentils,3310201070.0
+bg,10179.0,лук,onions,3310708040,onions,onion,onion,onions,1.0,,,,onions,3310708040.0
+bg,10180.0,лупина,lupin,3310201090,lupins,lupine,lupina,lupin,1.0,,,,lupins,3310201090.0
+bg,10181.0,люцерна,alfalfa,3310202010,alfalfa_lucerne,alfalfa,alfalfa,alfalfa,1.0,,,,alfalfa_lucerne,3310202010.0
+bg,10182.0,магданоз,parsley,3310612270,parsley,parsley,magdanosis,parsley,0.0,1.0,,,parsley,3310612270.0
+bg,10183.0,малини,raspberry,3330202020,raspberry_raspberries,raspberries,raspberries,raspberry,1.0,,,,raspberry_raspberries,3330202020.0
+bg,10184.0,малини-неотопляеми оранжерии,raspberries-unheated greenhouses,3330202020,raspberry_raspberries,raspberries-unheated greenhouses,raspberry greenhouses,raspberry-unheated greenhouses,1.0,,,,raspberry_raspberries,3330202020.0
+bg,10185.0,малини-отопляеми оранжерии,raspberry-heated greenhouses,3330202020,raspberry_raspberries,raspberry-heated greenhouses,raspberry greenhouses,raspberry-heated greenhouses,1.0,,,,roses,3310837000.0
+bg,10186.0,марули,lettuce,3310717000,salads_lettuce_leaf_vegetables,lettuce,marbles,lettuces,0.0,1.0,,,salads_lettuce_leaf_vegetables,3310717000.0
+bg,10187.0,маслодайна роза,Gallic rose,3310837000,roses,butter rose,butter rose,Oil rose,0.0,3.0,Oil rose,1.0,roses,3310837000.0
+bg,10188.0,маточина,lemon balm,3310612200,lemon_balm_melissa,lemon balm,lemon balm,urinary tract infection,0.0,1.0,,,lemon_balm_melissa,3310612200.0
+bg,10189.0,мащерка,thyme,3310612370,thyme,thyme,masher,thyme,0.0,1.0,,,thyme,3310612370.0
+bg,10190.0,медицинска ружа,Marsh Mallow,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,medicinal blush,medical rouge,medical rouge,0.0,3.0,Marsh Mallow,1.0,sida_virginia_mallow,3310617020.0
+bg,10191.0,мека пшеница,soft wheat,3310101000,common_soft_wheat,soft wheat,soft wheat,common wheat,1.0,,,,common_soft_wheat,3310101000.0
+bg,10192.0,мека пшеница-зимна,soft winter wheat,3310101001,winter_common_soft_wheat,soft wheat-winter,soft winter wheat,Common wheat-winter,1.0,,,,winter_common_soft_wheat,3310101001.0
+bg,10193.0,мека пшеница-пролетна,soft spring wheat,3310101002,spring_common_soft_wheat,soft wheat-spring,soft spring wheat,common wheat spring,1.0,,,,spring_common_soft_wheat,3310101002.0
+bg,10194.0,мента,mint,3310612220,mints_peppermint,mint,menta,mint,1.0,,,,mints_peppermint,3310612220.0
+bg,10195.0,моркови,carrots,3310715020,carrots_daucus,carrots,carrots,carrots,1.0,,,,carrots_daucus,3310715020.0
+bg,10196.0,мушмули,Medlars,3330108000,medlar_loquat,medlars,medlars,Medlars,1.0,,,,medlar_loquat,3330108000.0
+bg,10197.0,нахут,chickpeas,3310201040,chickpeas,chickpeas,nakhut,chickpeas,1.0,,,,chickpeas,3310201040.0
+bg,10198.0,неизвестна,Not known,3390000000,not_known_and_other,unknown,unknown,Not known,1.0,,,,not_known_and_other,3390000000.0
+bg,10199.0,нектарини,nectarines,3330109000,nectarine,nectarines,nectarini,nectarines,1.0,,,,nectarine,3330109000.0
+bg,10200.0,непета,Nepeta,3310899000,other_flowers_ornamental_plants,unsung,nepeta,nepets,0.0,1.0,,,peas,3310201080.0
+bg,10201.0,овес,oats,3310105000,oats,oats,oats,oats,1.0,,,,oats,3310105000.0
+bg,10202.0,овес - зимен,Oats - winter,3310105001,winter_oats,Oats - winter,oats - winter,oats - winter,1.0,,,,winter_oats,3310105001.0
+bg,10203.0,овес - пролетен,oats - spring,3310105002,spring_oats,oats - spring,oats - spring,oats - spring,1.0,,,,spring_oats,3310105002.0
+bg,10204.0,орехи,nuts,3330300000,nuts,walnuts,nuts,nuts,0.0,1.0,,,nuts,3330300000.0
+bg,10205.0,ориз,rice,3310107000,rice,rice,oryz,rice,0.0,1.0,,,rice,3310107000.0
+bg,10206.0,памук,cotton,3310603000,cotton,cotton,pamuk,cotton,0.0,1.0,,,cotton,3310603000.0
+bg,10207.0,патладжан,aubergine,3310712000,aubergine_eggplant,eggplant,eggplant,aubergine,1.0,,,,aubergine_eggplant,3310712000.0
+bg,10208.0,пелин,Artemesia,3310612060,artemisia,wormwood,pelin,metilamine,0.0,3.0,artemisia (includes wormwood),1.0,artemisia,3310612060.0
+bg,10209.0,пипер,Peppers,3310716000,capsicum,pepper,piper,Peppers,1.0,,,,chili_pepper,3310716020.0
+bg,10210.0,пипер - градински,pepper - garden,3310716000,capsicum,pepper - garden,pepper - garden,pepper - garden,1.0,,,,pears,3330112000.0
+bg,10211.0,пипер - неотопляеми оранжерии,pepper - non-heated greenhouses,3310716000,capsicum,pepper - unheated greenhouses,Peeper - unheated greenhouses,pepper - non-heated greenhouses,1.0,,,,bell_pepper_paprika,3310716010.0
+bg,10212.0,пипер - оранжерийно производство,pepper - greenhouse production,3310716000,capsicum,pepper - greenhouse production,piper - greenhouse production,pepper - greenhouse production,1.0,,,,bell_pepper_paprika,3310716010.0
+bg,10213.0,пипер - отопляеми оранжерии,pepper - heated greenhouses,3310716000,capsicum,pepper - heated greenhouses,Peeper - heated greenhouses,pepper - heated greenhouses,1.0,,,,chili_pepper,3310716020.0
+bg,10214.0,пипер - полски,pepper - field,3310716000,capsicum,pepper - Polish,pepper - Polish,pepper - Polish,1.0,,,,chili_pepper,3310716020.0
+bg,10215.0,пипер на открито,pepper outdoors,3310716000,capsicum,pepper outdoors,pepper outdoors,pepper in the open air,1.0,,,,pears,3330112000.0
+bg,10216.0,пиретрум,Pyrethrum,3310899000,other_flowers_ornamental_plants,pyrethrum,pyrethrum,pirethrum,1.0,,,,rye,3310103000.0
+bg,10217.0,праз,leek,3310708030,leek,leek,pras,leek,0.0,1.0,,,leek,3310708030.0
+bg,10218.0,праскови,peaches,3330111000,peach,peaches,praskovi,peaches,0.0,1.0,,,peach,3330111000.0
+bg,10219.0,праскови/нектарини,peaches/nectarines,3330109000,nectarine,peaches/nectarines,praskovi/nectarini,peaches/nectarines,1.0,,,,nectarine,3330109000.0
+bg,10220.0,просо,Millet,3310109000,millet,millet,millet,Millet,1.0,,,,millet,3310109000.0
+bg,10221.0,пъпеши,melons,3310702030,melon,melons,melons,melons,1.0,,,,melon,3310702030.0
+bg,10222.0,рапица,Rapeseeds/canolas,3310604010,rapeseed_rape,canola,canola,Rapeseeds/canolas,1.0,,,,oats,3310105000.0
+bg,10223.0,рапица - зимна,rape - winter,3310604011,winter_rapeseed_rape,Rapeseed - winter,rape - winter,rape - winter,1.0,,,,winter_common_soft_wheat,3310101001.0
+bg,10224.0,рапица - пролетна,rape - spring,3310604012,spring_rapeseed_rape,Rapeseed - spring,rape - spring,rape - spring,1.0,,,,spring_common_soft_wheat,3310101002.0
+bg,10225.0,резене,fennel,3310704000,fennel,slice,resene,fennel,0.0,1.0,,,fennel,3310704000.0
+bg,10226.0,репички,radishes,3310715040,radish,radishes,radishes,Radishes,1.0,,,,radish,3310715040.0
+bg,10227.0,репко,RAPE,3310604010,rapeseed_rape,turnip,repco,Repco,0.0,1.0,,,rapeseed_rape,3310604010.0
+bg,10228.0,розмарин,rosemary,3310612300,rosemary,rosemary,rosemary,rosmarin,1.0,,,,rosemary,3310612300.0
+bg,10229.0,ръж,rye,3310103000,rye,rye,Rye,rye,1.0,,,,rye,3310103000.0
+bg,10230.0,ръж - зимна,rye - winter,3310103001,winter_rye,rye - winter,rye - winter,rye - winter,1.0,,,,winter_rye,3310103001.0
+bg,10231.0,ръж - пролетна,rye - spring,3310103002,spring_rye,rye - spring,rye - spring,rye - spring,1.0,,,,spring_rye,3310103002.0
+bg,10232.0,ряпа,Brassica rapa,3310707000,brassicaceae_cruciferae,turnip,cassock,turnips,0.0,1.0,,,brassicaceae_cruciferae,3310707000.0
+bg,10233.0,салата,Salad,3310717000,salads_lettuce_leaf_vegetables,salad,salad,Salad,1.0,,,,salads_lettuce_leaf_vegetables,3310717000.0
+bg,10234.0,салатно цвекло,beetroot for salad,3310719020,mangelwurzel_beets,beetroot salad,salad beetroot,Salad beet,0.0,1.0,,,malva,3310828000.0
+bg,10235.0,салвия,sage,3310703040,sage_chia,sage,salvia,salvia,1.0,,,,sage_chia,3310703040.0
+bg,10236.0,синап,mustard,3310707010,mustard,mustard,mustard,mustard,1.0,,,,mustard,3310707010.0
+bg,10237.0,сливи,plums,3330113000,plums,plums,plum,plums,1.0,,,,plums,3330113000.0
+bg,10238.0,слънчоглед,sunflower,3310604020,sunflower,sunflower,Sunflower,sunflower,1.0,,,,sunflower,3310604020.0
+bg,10239.0,смесени едногодишни,mixed annuals,3310000000,arable_crops,mixed annuals,mixed annuals,mixed one-year,1.0,,,,mixed_grains,3310111000.0
+bg,10240.0,смокини,figs,3330106000,fig,figs,tuxedos,figs,0.0,1.0,,,fig,3330106000.0
+bg,10241.0,сорго,sorghum,3310116000,sorghum,sorghum,sorghum,sorghum,1.0,,,,sorghum,3310116000.0
+bg,10242.0,соя,Soybeans,3310201030,soy_soybeans,soy,soybean,Soybeans,1.0,,,,beans,3310201010.0
+bg,10243.0,спанак,spinach,3310717070,spinach,spinach,spanak,spinach,0.0,1.0,,,spinach,3310717070.0
+bg,10244.0,сусам,sesame,3310604990,other_oilseed_crops,sesame,susam,sesame,0.0,1.0,,,other_dry_pulses,3310201990.0
+bg,10245.0,твърда пшеница,Durum wheat,3310102000,durum_hard_wheat,durum wheat,durum wheat,Durum wheat,1.0,,,,durum_hard_wheat,3310102000.0
+bg,10246.0,тикви,Pumpkins,3310702040,pumpkin_squash_gourd,pumpkins,tikwi,Pumpkins,0.0,1.0,,,pumpkin_squash_gourd,3310702040.0
+bg,10247.0,тиквички,zucchini,3310702060,zucchini_courgette,zucchini,pumpkins,Okra/lady's fingers,0.0,1.0,,,zucchini_courgette,3310702060.0
+bg,10248.0,тритикале,triticale,3310108000,triticale,triticale,triticale,triticale,1.0,,,,triticale,3310108000.0
+bg,10249.0,тритикале-зимно,Triticale-winter,3310108001,winter_triticale,triticale-winter,winter triticale,Triticale-winter,1.0,,,,winter_triticale,3310108001.0
+bg,10250.0,тритикале-пролетно,triticale-spring,3310108002,spring_triticale,triticale-spring,triticale fly,Triticale-Spring,1.0,,,,spring_triticale,3310108002.0
+bg,10251.0,тютюн,tobacco,3310601000,tobacco,tobacco,tobacco,tobacco,1.0,,,,tobacco,3310601000.0
+bg,10252.0,фасул полски,field beans,3310201010,beans,field beans,Fasul Polski,Polish beans,0.0,1.0,,,beans,3310201010.0
+bg,10253.0,фий,vetch,3310202050,vetches,vetch,fii,pheasants,0.0,3.0,Vicia sativa,1.0,vetches,3310202050.0
+bg,10254.0,френско грозде,ribes,3330206000,ribes,gooseberry,Frensko Grozde,Currants,0.0,3.0,Ribes,1.0,ribes,3330206000.0
+bg,10255.0,фуражно цвекло,fodder beet,3310719020,mangelwurzel_beets,fodder beet,forage,feed beet,0.0,1.0,,,other_beta_vulgaris,3310719030.0
+bg,10256.0,фъстъци,peanuts,3310201020,peanuts,peanuts,peanuts,groundnuts,1.0,,,,peanuts,3310201020.0
+bg,10257.0,хизоп,hyssop,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,hyssop,hizop,hysop,0.0,1.0,,,hops,3310602000.0
+bg,10258.0,хмел,hops,3310602000,hops,hops,hops,hops,1.0,,,,hops,3310602000.0
+bg,10259.0,царевица за зърно,corn for grain,3310106000,maize_corn_popcorn,corn for grain,corn for grain,corn for grain,1.0,,,,clover,3310202030.0
+bg,10260.0,царевица за силаж,maize for silage,3310106000,maize_corn_popcorn,corn for silage,maize for silage,Maize (corn) for showwrights,1.0,,,,borage,3310612090.0
+bg,10261.0,цветя,Flowers,3310800000,flowers_ornamental_plants,flowers,blooming,Flowers,1.0,,,,flowers_ornamental_plants,3310800000.0
+bg,10262.0,целина,Celery,3310711000,celery,celery,celery,Celery,1.0,,,,celery,3310711000.0
+bg,10263.0,череши,cherries,3330104000,cherry_cherries,cherries,cherries,cherries,1.0,,,,cherry_cherries,3330104000.0
+bg,10264.0,черна мерудия,Black cumin,3310612080,black_cumin,black merudia,black meringue,black merudiya,0.0,3.0,Черният кимион is the common name,2.0,black_cumin,3310612080.0
+bg,10265.0,чесън,garlic,3310708020,garlic,garlic,Garlic,garlic,1.0,,,,garlic,3310708020.0
+bg,10266.0,чувен,Saponaria officinalis,3310699000,other_industrial_crops,audible,chuwen,chrysanthemum,0.0,3.0,Saponaria officinalis,1.0,alliums,3310708000.0
+bg,10267.0,шам-фъстъци,pistachios,3330304000,pistachio,pistachios,pistachios,pistachios,1.0,,,,pistachio,3330304000.0
+bg,10268.0,шипка,Dog rose,3310837000,roses,rose hip,spike,Rose hip,0.0,1.0,,,roses,3310837000.0
+bg,10269.0,ябълки,Apples,3330102000,apples,apples,Apples,Apples,1.0,,,,apples,3330102000.0
+bg,10270.0,ягоди,strawberries,3310701000,strawberries,strawberries,berries,strawberries,1.0,,,,strawberries,3310701000.0
+bg,10271.0,ягоди-неотопляеми оранжерии,strawberries-unheated greenhouses,3310701000,strawberries,strawberries-unheated greenhouses,Jagodi unheated greenhouses,strawberries-unheated greenhouses,1.0,,,,strawberries,3310701000.0
+bg,10272.0,ягоди-отопляеми оранжерии,strawberries-heated greenhouses,3310701000,strawberries,strawberries-heated greenhouses,jagodi heated greenhouses,strawberries-heated greenhouses,1.0,,,,strawberries,3310701000.0
+bg,,,,3390000000,not_known_and_other,,,,,,,,,
