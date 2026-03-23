@@ -1108,7 +1108,7 @@ cz,11,Sléz přeslenitý,Chinese mallow,3310828000,malva,0,No specified use
 cz,110,Tritikale ozimé,Winter triticale,3310108001,winter_triticale,0,No specified use
 cz,111,Žito jarní,Spring rye,3310103002,spring_rye,0,No specified use
 cz,112,Žito ozimé,Winter rye,3310103001,winter_rye,0,No specified use
-cz,113,Lesknice kanárská,Canary grass ,3320201010,elymus,0,No specified use
+cz,113,Lesknice kanárská,Canary grass ,3320209900,other_poaceae_grasses,0,No specified use
 cz,114,Pšenice dvouzrnka,Emmer wheat ,3310112000,emmer,0,No specified use
 cz,12,Svazenka vratičolistá,Lacy phacelia,3311300000,phacelia,0,No specified use
 cz,125,Laskavec,amaranth,3310703010,amaranth,0,No specified use
@@ -1130,7 +1130,7 @@ cz,20007,Topol kanadský,Populus × canadensis,3360700000,populus,0,No specified
 cz,20008,Topol Simonův a jeho kříženci,Populus simonii,3360700000,populus,0,No specified use
 cz,20010,Topol balzámový a jeho kříženci,Populus balsamifera,3360700000,populus,0,No specified use
 cz,20011,Topol černý,Populus nigra,3360700000,populus,0,No specified use
-cz,20012,Topol osika,Mixtures with a predominance of protein with cereals (§ 28 NV PP),3360200000,aspen,0,No specified use
+cz,20012,Topol osika,Populus aspen,3360200000,aspen,0,No specified use
 cz,20013,Vrba bílá a její kříženci,White willow and its hybrids,3360800000,willows_osiers,0,No specified use
 cz,20014,Vrba jíva a její kříženci,goat willow and its hybrids,3360800000,willows_osiers,0,No specified use
 cz,20015,Vrba košíkářská a její kříženci,basket willow and its hybrids,3360800000,willows_osiers,0,No specified use
@@ -1165,28 +1165,28 @@ cz,316,Bojínek luční,Timothy grass,3320201090,timothy,0,No specified use
 cz,317,Festulolium,Festulolium,3320201040,festulolium,0,No specified use
 cz,318,Jílek hybridní,hybrid ryegrass,3320201050,lolium_ryegrass,0,No specified use
 cz,319,Jílek mnohokvětý italský,Italian ryegrass,3320201050,lolium_ryegrass,0,No specified use
-cz,320,Jílek mnohokvětý jednoletý,ryegrass,3320201050,lolium_ryegrass,0,No specified use
+cz,320,Jílek mnohokvětý jednoletý,Annual Italian ryegrass,3320201050,lolium_ryegrass,0,No specified use
 cz,321,Jílek vytrvalý,perennial ryegrass,3320201050,lolium_ryegrass,0,No specified use
 cz,322,Kostřava červená,Red fescue,3320201020,festuca_fescue,0,No specified use
 cz,323,Kostřava luční,Meadow fescue,3320201020,festuca_fescue,0,No specified use
 cz,324,Kostřava ovčí,Sheep fescue,3320201020,festuca_fescue,0,No specified use
 cz,325,Kostřava rákosovitá,tall fescue,3320201020,festuca_fescue,0,No specified use
-cz,327,Lipnice hajní,wood bluegrass,3320201010,elymus,0,No specified use
-cz,328,Lipnice luční,Kentucky bluegrass,3320201010,elymus,0,No specified use
+cz,327,Lipnice hajní,wood bluegrass,3320209900,other_poaceae_grasses,0,No specified use
+cz,328,Lipnice luční,Kentucky bluegrass,3320209900,other_poaceae_grasses,0,No specified use
 cz,33,Kozlík lékařský,Valerian ,3310612380,valerian,0,No specified use
-cz,331,Medyněk vlnatý,Yorkshire fog,3320201010,elymus,0,No specified use
-cz,333,Ovsík vyvýšený,bulbous oat grass,3320201010,elymus,0,No specified use
-cz,334,Poháňka hřebenitá,crested dog's-tail,3320201010,elymus,0,No specified use
-cz,335,Psineček veliký,black bent,3320201010,elymus,0,No specified use
-cz,336,Psineček tenký,common bent,3320201010,elymus,0,No specified use
-cz,338,Psárka luční,meadow foxtail ,3320201010,elymus,0,No specified use
+cz,331,Medyněk vlnatý,Yorkshire fog,3320209900,other_poaceae_grasses,0,No specified use
+cz,333,Ovsík vyvýšený,bulbous oat grass,3320209900,other_poaceae_grasses,0,No specified use
+cz,334,Poháňka hřebenitá,crested dog's-tail,3320209900,other_poaceae_grasses,0,No specified use
+cz,335,Psineček veliký,black bent,3320209900,other_poaceae_grasses,0,No specified use
+cz,336,Psineček tenký,common bent,3320209900,other_poaceae_grasses,0,No specified use
+cz,338,Psárka luční,meadow foxtail ,3320209900,other_poaceae_grasses,0,No specified use
 cz,339,Srha hajní (Srha Aschersonova),Dactylis polygama,3320201030,cocksfoot_catgrass,0,No specified use
 cz,34,Levandule lékařská,English lavender,3310612190,lavender_lavandula,0,No specified use
 cz,340,Srha laločnatá (říznačka),cat grass,3320201030,cocksfoot_catgrass,0,No specified use
-cz,342,Trojštět žlutavý,Yellow Oatgrass,3320201010,elymus,0,No specified use
-cz,343,Sveřep bezbranný,Bromus inermis,3320201010,elymus,0,No specified use
-cz,344,Tomka vonná,sweet vernal grass,3320201010,elymus,0,No specified use
-cz,349,Chrastice rákosovitá,reed canary grass,3320201010,elymus,0,No specified use
+cz,342,Trojštět žlutavý,Yellow Oatgrass,3320209900,other_poaceae_grasses,0,No specified use
+cz,343,Sveřep bezbranný,Bromus inermis,3320209900,other_poaceae_grasses,0,No specified use
+cz,344,Tomka vonná,sweet vernal grass,3320209900,other_poaceae_grasses,0,No specified use
+cz,349,Chrastice rákosovitá,reed canary grass,3320209900,other_poaceae_grasses,0,No specified use
 cz,35,Lékořice lysá,licorice ,3310299000,other_legumes,0,No specified use
 cz,351,Dočasný travní porost,Temporary grassland,3320201000,poaceae_grasses,0,No specified use
 cz,352,Brokolice,Broccoli,3310707030,broccoli,0,No specified use
@@ -1260,7 +1260,7 @@ cz,40082,Řepík vonný,fragrant agrimony,3319900000,other_arable_land_crops,0,N
 cz,40083,Saturejka horská,Winter savory,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 cz,40086,Třapatka nachová,Echinacea,3310815000,echinacea,0,No specified use
 cz,40087,Třezalka skvrnitá x třezalka tečkovaná,St. John's wort,3310612340,st_johns_wort,0,No specified use
-cz,40089,Peluška ozimá,Fodder pea - winter type,3310201080,peas,3,Fodder/Forage
+cz,40089,Peluška ozimá,Fodder pea - winter type (Pisum sativum subsp. elatius ),3310201080,peas,3,Fodder/Forage
 cz,40096,Laskavec zelenoklasý,Powell's amaranth,3310703010,amaranth,0,No specified use
 cz,401,Salát římský,Romaine lettuce,3310717990,other_salads_lettuce_leaf_vegetables,0,No specified use
 cz,40105,Mužák prorostlý,Silphium perfoliatum,3310844000,silphium_rosinweeds,0,No specified use
@@ -1272,7 +1272,7 @@ cz,40119,Čekanka hlávková,Chicory,3310717010,chicory_chicories,0,No specified
 cz,40130,Zelenina (EZ - příl. 4 NV 76/2015),Vegetables (EC - Annex 4 of Government Decree 76/2015),3310700000,fresh_vegetables,0,No specified use
 cz,40136,Kozinec,Astragalus,3310299000,other_legumes,0,No specified use
 cz,40138,Jestřabina (jinde neuvedená),Galega  (not elsewhere specified),3310202070,galega,0,No specified use
-cz,40141,Tolice (jinde neuvedená),Medicago,3310299000,other_legumes,0,No specified use
+cz,40141,Tolice (jinde neuvedená),Medicago,3310202010,alfalfa_lucerne,0,No specified use
 cz,40143,Směsi PVN (§ 18 a - t NV PP),Mixtures of Protein PVN (Section 18 a - t NV PP),3310200000,legumes,0,No specified use
 cz,40144,Úhor,Fallow,3311100000,fallow_land_not_crop,0,No specified use
 cz,40149,Hořčice hnědá,Mustard brown,3310707010,mustard,0,No specified use
@@ -1284,7 +1284,7 @@ cz,40164,Srha laločnatá,Dactylis glomerata catgrass,3320201030,cocksfoot_catgr
 cz,40273,Pšenice špalda,Spelt,3310110000,spelt,0,No specified use
 cz,40280,Konopí - Eletta Campana,Hemp,3310610000,hemp_cannabis,0,No specified use
 cz,40282,Konopí - Fibror 79,Hemp,3310610000,hemp_cannabis,0,No specified use
-cz,40284,Trávy čeledi lipnicovité s výjimkou obilnin,Grasses of the Poaceae family excluding cereals,3320201010,elymus,0,No specified use
+cz,40284,Trávy čeledi lipnicovité s výjimkou obilnin,Grasses of the Poaceae family excluding cereals,3320201000,poaceae_grasses,0,No specified use
 cz,40287,Trávy na semeno,Grass for seeds,3320201000,poaceae_grasses,9,Seed/Propagation
 cz,40292,Kvìtiny,Flowers,3310800000,flowers_ornamental_plants,0,No specified use
 cz,40299,Konopí - Henola,Hemp,3310610000,hemp_cannabis,0,No specified use
@@ -1333,7 +1333,7 @@ cz,446,Lupina modrá,Lupine blue,3310201090,lupins,0,No specified use
 cz,449,Žito trsnaté (lesní),Wild rye (forest),3310103000,rye,0,No specified use
 cz,451,Úhor bez porostu,Fallow without vegetation,3311100000,fallow_land_not_crop,0,No specified use
 cz,453,Ozdobnice obrovská,giant miscanthus,3310617030,miscanthus_silvergrass,0,No specified use
-cz,454,Mužák prorostlý,cup plant,3310844000,silphium_rosinweeds,0,No specified use
+cz,454,Mužák prorostlý,Silphium perfoliatum,3310844000,silphium_rosinweeds,0,No specified use
 cz,455,Mastňák habešský,Guizotia abyssinica,3310604030,guizotia_abyssinica_nyger,0,No specified use
 cz,457,Směs trav pro energetické využití,A mixture of grasses for energy use,3320000000,grassland_grass,4,Energy
 cz,458,Směs krmná (čejka),Feed mixture (lark),3390000000,not_known_and_other,3,Fodder/Forage
@@ -1375,7 +1375,7 @@ cz,50035,Směs trav s PVN do 50 %,A mixture of grasses with PVN up to 50%,332000
 cz,50036,Vojtěškotravní směs (s převahou travin),Alfalfa grass mixture (with a predominance of grasses),3310202010,alfalfa_lucerne,0,No specified use
 cz,50037,Směs pro nektarodárný úhor (ekoplatba),Mixture for nectar fallow,3311100000,fallow_land_not_crop,0,No specified use
 cz,50038,Směs trav s nízkovzrůstající PVN do 10 %,A mixture of grasses with low-growing PVN up to 10%,3311100000,fallow_land_not_crop,0,No specified use
-cz,50040,Svazenka shloučená,Blue Curls,3310899000,other_flowers_ornamental_plants,0,No specified use
+cz,50040,Svazenka shloučená,Phacelia congesta Hook.,3311300000,phacelia,0,No specified use
 cz,50041,Sadební materiál lesních dřevin,Forest planting material,3360000000,tree_wood_forest,0,No specified use
 cz,50043,Směs pro souvrať (prémiová),Headland Mix (Premium),3390000000,not_known_and_other,0,No specified use
 cz,50044,Směs pro erozní pás (prémiová),Mixture for erosion belt (premium),3390000000,not_known_and_other,0,No specified use
@@ -1398,8 +1398,8 @@ cz,50062,Lupina (jinde neuvedená),Lupin (not elsewhere specified),3310201090,lu
 cz,50063,Neurčená plodina,Unspecified crop,3390000000,not_known_and_other,0,No specified use
 cz,50064,Ostatní smìsky,Other mixtures,3390000000,not_known_and_other,0,No specified use
 cz,50065,Oves,Oats,3310105000,oats,0,No specified use
-cz,50066,Peluka jarní,Spring pea,3310201080,peas,0,No specified use
-cz,50067,Peluška jarní,Field pea Spring,3310201080,peas,0,No specified use
+cz,50066,Peluka jarní,Field pea Spring (Pisum sativum subsp. elatius ),3310201080,peas,0,No specified use
+cz,50067,Peluška jarní,Field pea Spring (Pisum sativum subsp. elatius ),3310201080,peas,0,No specified use
 cz,50068,Pšenice jarní,Spring wheat,3310101002,spring_common_soft_wheat,0,No specified use
 cz,50069,Pšenice ozimá,Winter wheat,3310101001,winter_common_soft_wheat,0,No specified use
 cz,50070,Pšenice špalda,Spelt wheat,3310110000,spelt,0,No specified use
@@ -1429,15 +1429,15 @@ cz,532,Kopřiva dvoudomá,Stinging nettle,3310612250,nettles,0,No specified use
 cz,533,Roketa setá (rukola),Rocket Rucola,3310717050,rocket_arugula,0,No specified use
 cz,535,Merlík čilský,Quinoa ,3310703030,quinoa,0,No specified use
 cz,536,Mák setý ozimý,Winter poppy,3310606001,winter_poppy,0,No specified use
-cz,537,Směs trav čeledi lipnicovité,A mixture of grasses of the poaceae family,3320201010,elymus,0,No specified use
+cz,537,Směs trav čeledi lipnicovité,A mixture of grasses of the poaceae family,3320201000,poaceae_grasses,0,No specified use
 cz,538,Oves hřebílkatý,lopsided oat,3310105000,oats,0,No specified use
-cz,539,Kostřava vláskovitá,hair fescue,3320201020,festuca_fescue,0,No specified use
+cz,539,Kostřava vláskovitá,Festuca filiformis,3320201020,festuca_fescue,0,No specified use
 cz,540,Kostřava drsnolistá,hard fescue,3320201020,festuca_fescue,0,No specified use
 cz,541,Jestřabina východní,eastern galega,3310202070,galega,0,No specified use
 cz,542,Jetel alexandrijský,Berseem clover,3310202030,clover,0,No specified use
 cz,543,Bob polní,field bean,3310201010,beans,0,No specified use
-cz,545,Sveřep sitecký,Bromus grass,3320201010,elymus,0,No specified use
-cz,546,Sveřep americký,rescuegrass,3320201010,elymus,0,No specified use
+cz,545,Sveřep sitecký,Bromus sitchensis Trin.,3320209900,other_poaceae_grasses,0,No specified use
+cz,546,Sveřep americký,rescuegrass Bromus catharticus,3320209900,other_poaceae_grasses,0,No specified use
 cz,547,Hořčice černá,Black mustard,3310707010,mustard,0,No specified use
 cz,548,Vojtěška proměnlivá,Alfalfa variable,3310202010,alfalfa_lucerne,0,No specified use
 cz,55,Sléz maurský,Moorish mallow,3310828000,malva,0,No specified use
@@ -1466,14 +1466,14 @@ cz,588,Třezalka skvrnitá,spotted St. Johnswort,3310612340,st_johns_wort,0,No s
 cz,59,Včelník moldavský,Moldavian dragonhead,3310612230,moldavian_dragonhead,0,No specified use
 cz,590,Žito energetické,rye for biogas,3310103000,rye,4,Energy
 cz,592,Čičorka,crownvetch,3310202050,vetches,0,No specified use
-cz,593,Pelyněk pontický,Roman wormwood,3310612060,artemisia,0,No specified use
+cz,593,Pelyněk pontický,Artemisia pontica,3310612060,artemisia,0,No specified use
 cz,603,Krambe haberská (Katrán etiopský),Crambe abyssinica,3310707990,other_brassicaceae_cruciferae,0,No specified use
 cz,61,Yzop lékařský,Hyssop,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 cz,616,Roketa setá (Rukola),Rocket (Arugula),3310717050,rocket_arugula,0,No specified use
 cz,63,Řebříček obecný,Common yarrow,3310612390,yarrow,0,No specified use
 cz,64,Bob,Bean,3310201010,beans,0,No specified use
 cz,65,Cizrna beraní,chickpea,3310201040,chickpeas,0,No specified use
-cz,66,Čičorka pestrá,crownvetch,3310202050,vetches,0,No specified use
+cz,66,Čičorka pestrá,crownvetch (Securigera varia),3310202050,vetches,0,No specified use
 cz,67,Čočka jedlá,Lentils,3310201070,lentils,0,No specified use
 cz,68,Fazol polní,Field beans,3310201010,beans,0,No specified use
 cz,69,Hrách polní,Field peas,3310201080,peas,0,No specified use
@@ -1490,13 +1490,13 @@ cz,8,Bér vlašský (italský),Millet,3310109000,millet,0,No specified use
 cz,80,Lupina úzkolistá,Narrow-leaved lupine,3310201090,lupins,0,No specified use
 cz,81,Lupina proměnlivá (andská),Lupine variable (Andean),3310201090,lupins,0,No specified use
 cz,82,Ptačí noha setá (seradela),serradela,3310202020,serradella,0,No specified use
-cz,83,Štírovník,Trefoil,3310202990,other_legumes_harvested_green,0,No specified use
-cz,84,Štírovník růžkatý,common bird's-foot trefoil,3310202990,other_legumes_harvested_green,0,No specified use
-cz,85,Tolice dětelová,hop clover,3310202030,clover,0,No specified use
-cz,86,Úročník bolhoj,kidney vetch,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
+cz,83,Štírovník,Trefoil (Lotus),3310202080,birdsfoot_treifoil,0,No specified use
+cz,84,Štírovník růžkatý,common bird's-foot trefoil,3310202080,birdsfoot_treifoil,0,No specified use
+cz,85,Tolice dětelová,black medick (Medicago lupulina),3310202010,alfalfa_lucerne,0,No specified use
+cz,86,Úročník bolhoj,kidney vetch Anthyllis vulneraria,3310299000,other_legumes,0,No specified use
 cz,87,Vičenec ligrus,common sainfoin,3310202060,onobrychis_sainfoins,0,No specified use
-cz,88,Vikev setá,common vetch,3310202050,vetches,0,No specified use
-cz,89,Vikev huňatá,hairy vetch,3310202050,vetches,0,No specified use
+cz,88,Vikev setá,common vetch (Vicia sativa),3310202050,vetches,0,No specified use
+cz,89,Vikev huňatá,hairy vetch (Vicia villosa),3310202050,vetches,0,No specified use
 cz,9,Čirok cukrový,Sugar sorghum,3310116000,sorghum,0,No specified use
 cz,90,Vikev panonská,Hungarian vetch,3310202050,vetches,0,No specified use
 cz,91,Vojtěška setá,Alfafa,3310202010,alfalfa_lucerne,0,No specified use
